@@ -1,0 +1,11 @@
+site_name: Hálcova World Wiki
+nav:
+  - Home: index.md
+  - World Summary: Halcova/world_summary.md
+  - Metaphysics: Halcova/metaphysics.md
+  - Magic Systems: Halcova/magic_systems.md
+  - Fate System: Halcova/fate_system.md
+  - Society: Halcova/society.md
+  - Governance: Halcova/governance.md
+  - Planetary: Halcova/planetary.md
+  - Conlang: Halcova/conlang.md
