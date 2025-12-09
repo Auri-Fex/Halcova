@@ -80,8 +80,8 @@ nav {
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Open+Sans:wght@400;700&display=swap');
 
 /* Placeholder for background image */
-body.custom-bg {
-  background: url('../img/YOUR_IMAGE_NAME.jpg') center center/cover no-repeat fixed, #181A20;
+body {
+  background: url('../img/halcova/halcova.jpg') center center/cover no-repeat fixed, #181A20;
 }
 
 /* Optional: animated aurora overlay */
