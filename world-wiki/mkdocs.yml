@@ -9,3 +9,6 @@ nav:
   - Governance: Halcova/governance.md
   - Planetary: Halcova/planetary.md
   - Conlang: Halcova/conlang.md
+
+extra_css:
+  - css/halcova-theme.css

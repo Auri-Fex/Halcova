@@ -1,0 +1,99 @@
+/*
+  Custom Hálcova Theme CSS for MKDocs
+  - Deep midnight blue background
+  - Frosted glass nav
+  - Gold/violet/cyan accents
+  - Fantasy typography
+  - Card and section styling
+  - Section dividers with moon/rune icons
+  - Ready for background image
+*/
+
+body {
+  background: #181A20;
+  color: #e0e6ed;
+  font-family: 'Open Sans', 'Lato', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', 'Merriweather', serif;
+  color: #FFD700;
+  letter-spacing: 1px;
+}
+
+nav {
+  background: rgba(24, 26, 32, 0.85);
+  backdrop-filter: blur(8px);
+  border-bottom: 2px solid #8F5AFF;
+}
+
+.md-header, .md-footer {
+  background: rgba(24, 26, 32, 0.85);
+  backdrop-filter: blur(8px);
+}
+
+.md-sidebar {
+  background: rgba(24, 26, 32, 0.95);
+  border-right: 2px solid #3DDAD7;
+}
+
+.md-content {
+  background: rgba(24, 26, 32, 0.92);
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+  padding: 2rem;
+  margin: 2rem 0;
+}
+
+.card, .md-typeset .admonition {
+  background: rgba(34, 36, 44, 0.98);
+  border: 1px solid #FFD700;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(143,90,255,0.15);
+  margin-bottom: 2rem;
+}
+
+.md-typeset a {
+  color: #3DDAD7;
+  transition: color 0.2s;
+}
+.md-typeset a:hover {
+  color: #FFD700;
+}
+
+.section-divider {
+  display: flex;
+  align-items: center;
+  margin: 2rem 0;
+}
+.section-divider:before, .section-divider:after {
+  content: '';
+  flex: 1;
+  border-bottom: 2px solid #8F5AFF;
+}
+.section-divider img {
+  margin: 0 1rem;
+  height: 32px;
+}
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Open+Sans:wght@400;700&display=swap');
+
+/* Placeholder for background image */
+body.custom-bg {
+  background: url('../img/YOUR_IMAGE_NAME.jpg') center center/cover no-repeat fixed, #181A20;
+}
+
+/* Optional: animated aurora overlay */
+.aurora {
+  position: fixed;
+  top: 0; left: 0; width: 100vw; height: 100vh;
+  pointer-events: none;
+  background: linear-gradient(120deg, rgba(143,90,255,0.15) 0%, rgba(61,218,215,0.12) 100%);
+  animation: auroraMove 12s linear infinite alternate;
+  z-index: 0;
+}
+@keyframes auroraMove {
+  0% { filter: blur(24px); opacity: 0.7; }
+  100% { filter: blur(32px); opacity: 0.9; }
+}

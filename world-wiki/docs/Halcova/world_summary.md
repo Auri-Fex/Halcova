@@ -1,5 +1,8 @@
 
-## Updated Overview
+# Hálcova World Summary
+
+## Overview
+
 
 **Hálcova** (HAHL-ko-vah) — "The Death-Between" — is a dark fantasy ice world orbiting an orange dwarf star. Every person carries a **Sórscad**, a five-part fate pattern that determines who they are and what they'll become. Something answers when this pattern is read. That something may be divine, may be Elsewhere, may be both. Nobody knows for certain.
 
@@ -161,9 +164,11 @@ Political philosophy and legal frameworks are detailed in [Governance](governanc
 ### Political Philosophy Problems
 
 In a fate-real world:
+
 - What does **justice** mean when actions were predicted?
 - What does **consent** mean when choice may be illusory?
 - What **legitimizes authority** when the Loom could identify "leadership patterns"?
+
 
 ### Regional Approaches
 
@@ -239,12 +244,8 @@ I:\My Drive\Worldbuilding\Hálcova\
 
 **Core Systems**: Magic, fate, Loom, Wardens, religion, economics, class
 
-**Planetary**: Star, seasons, moons, geography, climate, ecology, atmosphere, history
-**Metaphysics**: Economic/psychological principles as physics, Elsewhere as competing system
 
-**Governance**: Political philosophy, legal frameworks, regional governance structures
 
-**[Conlang](conlang.md)**: Language set, rules, core vocabulary
 
 ### To Be Developed
 
@@ -252,9 +253,8 @@ I:\My Drive\Worldbuilding\Hálcova\
 - Major cities and locations
 - Named characters and factions
 - Historical timeline of key events
-- Technology details
-- Story hooks and conflicts
-- Sórscad card archetypes (detailed)
+
+
 
 ---
 
