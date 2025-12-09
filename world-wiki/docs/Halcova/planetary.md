@@ -20,7 +20,7 @@ Looking at the coastlines, the relationship is obvious:
 
 ## The Heartlands
 
-Spine of the continent, river valleys, southern coast, northern edge. Orthodox faith, Loom integration, [trade networks](society.md). Specific nations to be developed.
+Spine of the continent, river valleys, southern coast, northern edge. Orthodox faith, Loom integration, [trade networks](society.md). Notable nations include the river kingdom of Veyra, the coastal republic of Surn, and the northern alliance of Halcovan tribes.
 
 ## The Shattered Reaches
 

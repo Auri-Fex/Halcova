@@ -3,7 +3,6 @@
 
 ## Overview
 
-
 **Hálcova** (HAHL-ko-vah) — "The Death-Between" — is a dark fantasy ice world orbiting an orange dwarf star. Every person carries a **Sórscad**, a five-part fate pattern that determines who they are and what they'll become. Something answers when this pattern is read. That something may be divine, may be Elsewhere, may be both. Nobody knows for certain.
 
 The world runs on death. **Pattern Residue** — the energy released when fates dissolve — fuels [Magic Systems](magic_systems.md), industry, and civilization itself. It also absorbs heat, making the world cold. Peace is expensive. War is productive. Some people are worth more dead than alive, and everyone knows the math.
@@ -41,7 +40,6 @@ Hálcova isn't a world with an economy—it **is** an economy. Economic and psyc
 |-----------|-------------------|--------|
 | Cognitive Dissonance | [Warden Attunement](society.md) | Believing because you sacrificed |
 | Attribution Error | [Pattern Essentialism](society.md) | Character vs. circumstance |
-
 
 
 - **Determinism vs. Free Will**: The Loom predicts choices. Does prediction remove choice?
@@ -187,7 +185,9 @@ In a fate-real world:
 
 ## Society
 
+
 All traditions accept the Loom's accuracy. They disagree about why it works:
+
 - **Orthodoxy**: The Weaver assigns patterns with divine purpose
 - **Threadists**: Fate is still being created; choices participate
 - **Hollow Saints**: Fate is a prison; selling your soul is liberation
@@ -195,21 +195,26 @@ All traditions accept the Loom's accuracy. They disagree about why it works:
 - **Colony Cults**: Individual patterns are fragments of an original whole
 - **Ancestor Speakers**: The dead advise; binding is dialogue
 
+
 ### Economics
 
 ### The Warden Order
 
 Enforcement arm of Loom orthodoxy. Attuned to the Loom through a process that resembles a pact. Hunt deviation, manipulation, evasion. Full authority in Heartlands; contested elsewhere.
+
 - **Flora**: Black (polar) → purple-red (temperate) → red-orange (tropical)
 - **Fauna**: Cold-adapted, mostly Residue-avoiding, some specialized feeders
 - **Colony organisms**: Unique Residue relationship, basis for hosting magic
 
 ---
+
 ## Historical Mystery
 
 40,000-50,000 years ago, Hálcova was warmer. Pattern Residue began accumulating. The poles froze. Ancient structures at both poles may have caused or been built to manage the change. The builders disappeared. The moons may have been arranged at this time.
+
 ## File Structure
-```
+
+```text
 I:\My Drive\Worldbuilding\Hálcova\
 ├── WORLD_SUMMARY.md (this file)
 ├── Magic\
@@ -258,4 +263,7 @@ I:\My Drive\Worldbuilding\Hálcova\
 
 ---
 
-*Welcome to Hálcova. The world between deaths. Everything has a price. The universe keeps ledgers. The debt always comes due.*
+
+---
+
+Welcome to Hálcova. The world between deaths. Everything has a price. The universe keeps ledgers. The debt always comes due.

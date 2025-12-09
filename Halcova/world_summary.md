@@ -1,6 +1,6 @@
 # Hálcova World Summary
 
-## Updated Overview
+## Overview
 
 **Hálcova** (HAHL-ko-vah) — "The Death-Between" — is a dark fantasy ice world orbiting an orange dwarf star. Every person carries a **Sórscad**, a five-part fate pattern that determines who they are and what they'll become. Something answers when this pattern is read. That something may be divine, may be Elsewhere, may be both. Nobody knows for certain.
 
@@ -152,10 +152,12 @@ Distributed network that reads, records, and predicts fate. Something called "Th
 ### Political Philosophy Problems
 
 In a fate-real world:
+
 - What does **equality** mean when patterns predict different worth?
 - What does **justice** mean when actions were predicted?
 - What does **consent** mean when choice may be illusory?
 - What **legitimizes authority** when the Loom could identify "leadership patterns"?
+
 
 ### Regional Approaches
 
@@ -219,7 +221,7 @@ Enforcement arm of Loom orthodoxy. Attuned to the Loom through a process that re
 
 ## File Structure
 
-```
+```text
 I:\My Drive\Worldbuilding\Hálcova\
 ├── WORLD_SUMMARY.md (this file)
 ├── Magic\

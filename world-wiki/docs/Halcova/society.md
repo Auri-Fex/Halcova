@@ -1,8 +1,9 @@
-## Pattern Arbitrage
+
+# Pattern Arbitrage
 
 See also [World Summary](world_summary.md), [Metaphysics](metaphysics.md), [Magic Systems](magic_systems.md), [Fate System](fate_system.md), [Governance](governance.md), [Planetary](planetary.md), and [Conlang](conlang.md).
 
-**Fate Futures**
+## Fate Futures
 
 Financial instruments that pay out based on whether predictions come true:
 
@@ -10,15 +11,16 @@ Financial instruments that pay out based on whether predictions come true:
 - "If subject dies by predicted cause within predicted window, contract pays Y"
 - "If subject deviates significantly from pattern, contract is void"
 
-**Who Trades These**
+## Who Trades These
 
 - Insurance companies (hedging their risk assessments)
 - Investment houses (speculating on populations)
 - Criminal organizations (betting on specific outcomes they can influence)
 - Governments (managing demographic predictions)
-# Economics and Class in Hálcova
 
-## Overview
+## Economics and Class in Hálcova
+
+### Overview
 
 Economics in Hálcova cannot be separated from fate. The [Sórscad pattern](fate_system.md) determines access to credit, employment, insurance, and opportunity. Pattern Residue—the energy of dissolving fates—fuels magic and industry. Death is literally productive.
 
@@ -26,15 +28,16 @@ This creates an economy where some people are worth more dead than alive, where 
 
 ---
 
-## The Fate Market
+### The Fate Market
 
-### Pattern as Asset
+#### Pattern as Asset
 
 Your Sórscad is not just identity—it's capital.
 
-**Pattern-Weight**
+#### Pattern-Weight
 
 Some patterns are "heavier" than others:
+
 - More fate-significance
 - More likely to impact events
 - More valuable as Pattern Residue when released
@@ -56,12 +59,15 @@ Heavy patterns belong to:
 - Those whose choices ripple outward
 - Those predicted for significant outcomes (positive or negative)
 
-Light patterns belong to:
+
+#### Light patterns belong to
+
 - Those born into marginal circumstances
 - Those whose choices affect few others
 - Those predicted for unremarkable outcomes
 
-**The Market Implications**
+
+### The Market Implications
 
 - Heavy patterns command higher prices in substitution deals (Pact Summoning)
 - Heavy patterns produce more valuable Residue upon death
@@ -72,7 +78,8 @@ This creates a hierarchy: some lives have more market value than others, calcula
 
 ### Pattern Speculation
 
-**Fate Futures**
+
+### Fate Futures
 
 Financial instruments that pay out based on whether predictions come true:
 
@@ -80,13 +87,15 @@ Financial instruments that pay out based on whether predictions come true:
 - "If subject dies by predicted cause within predicted window, contract pays Y"
 - "If subject deviates significantly from pattern, contract is void"
 
-**Who Trades These**
+
+### Who Trades These
 
 - Insurance companies (hedging their risk assessments)
 - Investment houses (speculating on populations)
 - Criminal organizations (betting on specific outcomes they can influence)
 - Governments (managing demographic predictions)
-# Arbitrage
+
+## Arbitrage
 
 Patterns are mispriced; arbitrageurs invest in undervalued people and profit when they outperform predictions. Legal but morally ambiguous.
 

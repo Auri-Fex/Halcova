@@ -1,14 +1,34 @@
+
 site_name: Hálcova World Wiki
 nav:
-  - Home: index.md
-  - World Summary: Halcova/world_summary.md
-  - Metaphysics: Halcova/metaphysics.md
-  - Magic Systems: Halcova/magic_systems.md
-  - Fate System: Halcova/fate_system.md
-  - Society: Halcova/society.md
-  - Governance: Halcova/governance.md
-  - Planetary: Halcova/planetary.md
-  - Conlang: Halcova/conlang.md
+  - Society:
+      - The Warden Order: Halcova/Society/THE_WARDEN_ORDER.md
+      - Religion: Halcova/Society/RELIGION.md
+      - Economics and Class: Halcova/Society/ECONOMICS_AND_CLASS.md
+  - Governance:
+      - Political Philosophy: Halcova/Governance/POLITICAL_PHILOSOPHY.md
+      - Legal Frameworks: Halcova/Governance/LEGAL_FRAMEWORKS.md
+      - Governance Structures: Halcova/Governance/GOVERNANCE_STRUCTURES.md
+      - Politics, Law, and Systems: Halcova/Governance/POLITICS_LAW_AND_SYSTEMS.md
+  - Planetary:
+      - Planetary Parameters: Halcova/Planetary/PLANETARY_PARAMETERS.md
+      - Geography: Halcova/Planetary/GEOGRAPHY.md
+      - Flora and Fauna: Halcova/Planetary/FLORA_AND_FAUNA.md
+      - Atmosphere and Sky: Halcova/Planetary/ATMOSPHERE_AND_SKY.md
+      - Lunar System: Halcova/Planetary/LUNAR_SYSTEM.md
+      - Climate History: Halcova/Planetary/CLIMATE_HISTORY.md
+  - Conlang:
+      - Language Set: Halcova/Conlang/LANGUAGE_SET.md
+  - Magic Systems:
+      - The Five Arts: Halcova/Magic/THE_FIVE_ARTS.md
+  - Fate System:
+      - The Sorscad: Halcova/Fate System/THE_SORSCAD.md
+      - The Loom: Halcova/Fate System/THE_LOOM.md
+  - Metaphysics:
+      - Metaphysical Spine: Halcova/Metaphysics/metaphysical_spine.md
+      - Additional Systems: Halcova/Metaphysics/additional_systems.md
 
+
+use_directory_urls: true
 extra_css:
-  - css/halcova-theme.css
+    - css/halcova-theme.css

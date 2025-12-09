@@ -1,3 +1,6 @@
+
+# Metaphysics of Hálcova
+
 Hálcova isn't a world with an economy. Hálcova **is** an economy. The metaphysical substrate of reality operates on the same principles that govern markets, decisions, and resource allocation. This isn't metaphor—it's the literal structure of how existence functions here. See also [World Summary](world_summary.md), [Magic Systems](magic_systems.md), [Fate System](fate_system.md), [Society](society.md), [Governance](governance.md), [Planetary](planetary.md), and [Conlang](conlang.md).
 
 Physics has transaction costs. Identity is a balance sheet. Time is currency with variable exchange rates. Death is a market event. The Elsewhere is a competing market.
@@ -13,6 +16,7 @@ Physics has transaction costs. Identity is a balance sheet. Time is currency wit
 When a Fate Threader pulls a version of themselves from an unmade choice, they're not accessing a parallel universe. They're **harvesting the opportunity cost itself**. The future they didn't choose had value—stored potential—and they're cashing it out.
 
 But opportunity costs aren't free-floating. They're attached to *you*. When you harvest one:
+
 - Gain the capability/knowledge/resource from that path
 - Permanently close that path (it's been spent)
 - Reduce your total remaining "decision space"
@@ -30,6 +34,7 @@ But opportunity costs aren't free-floating. They're attached to *you*. When you 
 Core Binding creates echoes—remnants of the dead bound to anchors. The binder invests Pattern Residue, time, and pieces of their own identity to maintain the binding. See [Magic Systems](magic_systems.md).
 
 The fallacy manifests when:
+
 - The echo becomes corrupted or hostile
 - The echo's information becomes outdated
 - The echo's presence damages the binder's relationships
@@ -57,6 +62,7 @@ Rationally, the binder should release the echo. But they've invested so much. Th
 - Moral Hazard (Pact Summoning): When someone is insulated from the consequences of their actions, they take greater risks.
 
 **The Principle**: Pact Summoning allows you to substitute others' souls for your own in paying entity costs. This creates classic moral hazard:
+
 - You get the power without the personal cost
 - Others pay the price, often without their consent
 - Incentives for caution or restraint are externalized
@@ -116,4 +122,7 @@ These aren't metaphors or themes. They're the actual mechanisms by which reality
 
 ---
 
-*Further documentation needed on: Additional systems (Behavioral Alchemy, Pattern Interference, Prediction Markets), institutional expressions of these principles, regional variation in metaphysical interpretation*
+
+---
+
+Further documentation needed on: Additional systems (Behavioral Alchemy, Pattern Interference, Prediction Markets), institutional expressions of these principles, regional variation in metaphysical interpretation.
