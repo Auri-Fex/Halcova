@@ -81,7 +81,7 @@ nav {
 
 /* Placeholder for background image */
 body {
-  background: url('../img/halcova/halcova.jpg') center center/cover no-repeat fixed, #181A20;
+  background: url('/img/halcova/Halcova.jpg') center center/cover no-repeat fixed, #181A20;
 }
 
 /* Optional: animated aurora overlay */
