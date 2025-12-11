@@ -1,0 +1,12 @@
+{
+  "shyak": {"concept": "Arcane Oil", "root": "id shid tos"},
+  "finyak": {"concept": "Aetherite", "root": "efir"},
+  "shivak": {"concept": "Arcane Spring", "root": "id shid havar"},
+  "tropush": {"concept": "Entropy Winter", "root": "entropi övöl"},
+  "stanyak": {"concept": "Crystal Caverns", "root": "talst agui"},
+  "shisolak": {"concept": "Arcane Desert", "root": "id shid tsöl"},
+  "tayak": {"concept": "Aurora Fields", "root": "tuyaa talbai"},
+  "shibak": {"concept": "Arcane Font", "root": "id shid bulag"},
+  "suvaanyak": {"concept": "Resonance Cascade", "root": "rezonans tsuvaa"},
+  "shenesh": {"concept": "Magical Entropy", "root": "id shid entropi"}
+}
