@@ -220,8 +220,8 @@ But the *bulk* heating comes from animals.
 **Residue Balance**: Net importer (high consumption, moderate production)
 
 **Key Cities**:
-- **Fonvárs**: Capital, ~250,000, seat of Crown and Great Node
-- **Vaskapu**: Industrial center, ~180,000, Iron River
+- **Fonváros**: Capital, ~250,000, seat of Crown and Great Node
+- **Vaskapu**: Industrial center, ~180,000, Iron River confluence
 - **Szentfal**: Religious center, ~120,000, High Weavery
 
 ### The Shattered Reaches

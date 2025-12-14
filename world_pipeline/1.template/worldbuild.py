@@ -1,976 +1,388 @@
-def is_vowel(ch: str) -> bool:
-    return ch.lower() in VOWELS
-    for i, ch in enumerate(s.lower()):
-
-        "tone": "grounded-dark",
-# ----------------------------
-# Imports (must be at the very top)
-# ----------------------------
 from __future__ import annotations
-import random
-import argparse
-import json
-import hashlib
-from pathlib import Path
-from typing import Dict, List, Optional, Tuple
-from dataclasses import asdict
-from slugify import slugify
-
-VOWELS = set("aeiouy")
-
-
-    return ch.lower() in VOWELS
-
-Generates a ghostwriter-ready world compendium with:
-    cluster = 0
-    last_vowel_idx = -999
-    for i, ch in enumerate(s.lower()):
-        if ch.isalpha() and not is_vowel(ch):
-            cluster += 1
-            if cluster > max_cluster:
-                return False
-        else:
-            cluster = 0
-            last_vowel_idx = i
-        if i - last_vowel_idx >= min_vowel_spacing:
-            return False
-    lower = s.lower()
-    for bad in forbid:
-        if bad in lower:
-            return False
-    return True
-
-- planet + calendar
-    # Clamp a value between min_value and max_value
-    return max(min_value, min(value, max_value))
-
-- regions, settlements, routes (connected graph)
-    return {
-        "seed": seed if seed is not None else random.randint(1, 1_000_000),
-        "tone": "grounded-dark",
-        "realism_target": "high",
-        "scale": "continent",
-        "story_type": "political-intrigue",
-        "tech_level": "late-medieval",
-        "magic_presence": "rare",
-        "magic_hardness": "hard",
-        "themes": ["scarcity", "institutional-rot", "moral-tradeoffs", "duty-vs-love"],
-        "no_go": ["prophecy-solves-everything", "free-energy-magic", "omniscient-gods"],
-        "inspirations": ["ports-and-chokepoints", "winter-pressure", "guild-law", "border-marches"],
-        "naming": {
-            "profile": "slavic_soft",
-            "max_cluster": 2,
-            "min_vowel_spacing": 4,
-            "entity_syllables": {
-                "planet": [3, 4],
-                "region": [2, 3],
-                "settlement": [2, 3],
-                "polity": [2, 4],
-                "faction": [2, 4]
-            },
-            "semantic_names": True,
-            "dialects": True
-        },
-    }
-
-
-print("[DEBUG] Script started", flush=True)
-
-# ----------------------------
-# Imports
-# ----------------------------
-
-import random
-import argparse
-import json
-import hashlib
-from pathlib import Path
-from typing import Dict, List, Optional, Tuple
-from dataclasses import asdict
-
-from slugify import slugify
-
-
-
-# ----------------------------
-# Output directory logic
-# ----------------------------
-def get_output_dir(planet_name: str) -> Path:
-    """Create and return the output directory for the generated world."""
-    base_dir = Path(__file__).parent.parent / "world_pipeline"
-    folder_name = slugify(planet_name)
-    output_dir = base_dir / folder_name
-    output_dir.mkdir(parents=True, exist_ok=True)
-    return output_dir
-
-
-
-##############################
-# Minimal NAMING_PROFILES dict
-##############################
-NAMING_PROFILES = {
-    "slavic_soft": {
-        "templates": ["CVCV", "CVCCV", "CVVCV"],
-        "digraphs": ["ch", "sh", "zh", "ts", "dz", "kh", "ph", "th"],
-        "consonants": list("bcdfghjklmnpqrstvwxyz"),
-        "vowels": list("aeiouy"),
-    },
-    # Add more profiles as needed
-}
-
-
-
-SEMANTIC_MORPHEMES = {
-    "river": ["riv", "ran", "dun", "mor"],
-    "ford": ["vad", "vad", "vad", "ford"],
-    "hill": ["col", "mon", "bryn"],
-    "marsh": ["fen", "mor", "sog"],
-    "forest": ["sil", "bosc", "lis"],
-    "coast": ["mar", "cost", "port"],
-    "port": ["port", "har", "mar"],
-    "fort": ["gar", "kast", "tor"],
-    "market": ["merk", "baz", "sal"],
-    "stone": ["kar", "ston", "skal"],
-    "salt": ["sal", "hal", "mor"],
-    "iron": ["fer", "irn", "stal"],
-    "horses": ["hip", "ros", "cab"],
-    "temple": ["templ", "san", "kir"],
-    # ... (add more as needed)
-}
-
-# ----------------------------
-# NameForge class definition
-# ----------------------------
-class NameForge:
-    def __init__(self, world_seed: int, cfg: Dict, registry: Dict[str, str]):
-        self.world_seed = world_seed
-        self.cfg = cfg.get("naming", {})
-        self.profile_name = self.cfg.get("profile", "slavic_soft")
-        if self.profile_name not in NAMING_PROFILES:
-            self.profile_name = "slavic_soft"
-        self.profile = NAMING_PROFILES[self.profile_name]
-        self.max_cluster = int(self.cfg.get("max_cluster", 2))
-        self.min_vowel_spacing = int(self.cfg.get("min_vowel_spacing", 4))
-        self.semantic_names = bool(self.cfg.get("semantic_names", True))
-        self.use_dialects = bool(self.cfg.get("dialects", True))
-        self.entity_syllables = self.cfg.get("entity_syllables", {
-            "planet": [3, 4],
-            "region": [2, 3],
-            "settlement": [2, 3],
-            "polity": [2, 4],
-            "faction": [2, 4],
-        })
-        self.registry = registry
-
-    def _apply_dialect(self, text: str, region_id: Optional[str], polity_id: Optional[str]) -> str:
-        if not self.use_dialects:
-            return text
-        key = region_id or polity_id
-        if not key:
-            return text
-        h = hashlib.sha256(f"dialect|{key}".encode("utf-8")).hexdigest()
-        code = int(h[:2], 16) % 3
-        s = text
-
-        if code == 0:
-            s = s.replace("ar", "air")
-            s = s.replace("or", "oar")
-        elif code == 1:
-            out = []
-            for i, ch in enumerate(s):
-                if ch.lower() in "td" and i > 0 and is_vowel(s[i - 1]):
-                    out.append(ch + "h")
-                else:
-                    out.append(ch)
-            s = "".join(out)
-        elif code == 2:
-            s = s.replace("th", "t").replace("dh", "d").replace("hh", "h")
-
-        return s
-
-    def _base_syllable(self, rng: random.Random) -> str:
-        p = self.profile
-        tmpl = rng.choice(p["templates"])
-        s = ""
-        i = 0
-        while i < len(tmpl):
-            t = tmpl[i]
-            if t == "C":
-                if rng.random() < 0.25 and p["digraphs"]:
-                    s += rng.choice(p["digraphs"])
-                else:
-                    s += rng.choice(p["consonants"])
-            elif t == "V":
-                s += rng.choice(p["vowels"])
-            else:
-                s += t
-            i += 1
-        return s
-
-    def _pick_morphemes(self, rng: random.Random, meaning: Optional[List[str]], syllable_range: Tuple[int, int]) -> List[str]:
-        if not self.semantic_names or not meaning:
-            n = rng.randint(syllable_range[0], syllable_range[1])
-            return [self._base_syllable(rng) for _ in range(n)]
-
-        chunks: List[str] = []
-        for tag in meaning:
-            forms = SEMANTIC_MORPHEMES.get(tag)
-            if forms:
-                chunks.append(rng.choice(forms))
-        if not chunks:
-            n = rng.randint(syllable_range[0], syllable_range[1])
-            return [self._base_syllable(rng) for _ in range(n)]
-
-        if rng.random() < 0.55:
-            chunks.insert(0, self._base_syllable(rng))
-        return chunks
-
-    def _shape_name(self, raw: str, rng: random.Random) -> str:
-        if len(raw) > 10:
-            raw = raw[:10]
-        if rng.random() < 0.7 and self.profile.get("nice_endings"):
-            end = rng.choice(self.profile["nice_endings"])
-            if not raw.endswith(end):
-                raw = raw + end
-        for rep in ["aa", "ee", "ii", "oo", "uu"]:
-            while rep in raw:
-                raw = raw.replace(rep, rep[0])
-        return raw.capitalize()
-
-    def _rng_for(self, entity: str, key: str, meaning: Optional[List[str]]) -> random.Random:
-        payload = f"{self.world_seed}|{self.profile_name}|{entity}|{key}|{','.join(sorted(meaning or []))}"
-        h = hashlib.sha256(payload.encode("utf-8")).hexdigest()
-        seed = int(h[:16], 16)
-        return random.Random(seed)
-
-    def name(self, entity: str, key: str, meaning: Optional[List[str]] = None,
-             region_id: Optional[str] = None, polity_id: Optional[str] = None) -> str:
-        reg_key = f"{entity}:{key}"
-        if reg_key in self.registry:
-            return self.registry[reg_key]
-
-        rng = self._rng_for(entity, key, meaning)
-        syllable_range = self.entity_syllables.get(entity, [2, 3])
-        lo, hi = int(syllable_range[0]), int(syllable_range[1])
-
-        max_cluster = self.max_cluster
-        min_vowel_spacing = self.min_vowel_spacing
-        forbid = self.profile.get("forbid", [])
-
-        for _ in range(32):
-            chunks = self._pick_morphemes(rng, meaning, (lo, hi))
-            raw = "".join(chunks)
-            raw = self._apply_dialect(raw, region_id, polity_id)
-            cand = self._shape_name(raw, rng)
-            key_stripped = "".join(ch.lower() for ch in cand if ch.isalpha())
-            if not pronounceable(key_stripped, max_cluster, min_vowel_spacing, forbid):
-                continue
-            if cand in self.registry.values():
-                continue
-            self.registry[reg_key] = cand
-            return cand
-
-        cand = self._shape_name("".join(self._pick_morphemes(rng, None, (lo, hi))), rng)
-        self.registry[reg_key] = cand
-        return cand
-
-
-
-# ----------------------------
-# Generator function definitions (moved up)
-# ----------------------------
-def gen_planet(rng: random.Random, cfg: Dict, namer: NameForge) -> Planet:
-    realism = cfg.get("realism_target", "high")
-    if realism == "high":
-        g = clamp(rng.gauss(1.02, 0.08), 0.85, 1.25)
-        day = clamp(rng.gauss(24.0, 2.0), 18.0, 34.0)
-        year = int(clamp(rng.gauss(360, 30), 280, 380))
-        tilt = clamp(rng.gauss(22, 6), 5, 35)
-    else:
-        g = clamp(rng.gauss(1.1, 0.2), 0.6, 1.6)
-        day = clamp(rng.gauss(26, 6), 12, 60)
-        year = int(clamp(rng.gauss(420, 80), 180, 900))
-        tilt = clamp(rng.gauss(28, 10), 0, 60)
-
-    name = namer.name("planet", "world", ["reach"])
-    notes = [
-        f"Day length is {day:.1f} hours; watch schedules and night travel rules matter.",
-        f"Year length is {year} days; seasonal taxes and supply cycles are explicit.",
-        f"Gravity ~{g:.2f}g; load limits and fatigue show up in logistics.",
-    ]
-    return Planet(
-        name=name,
-        gravity_g=float(f"{g:.2f}"),
-        day_hours=float(f"{day:.1f}"),
-        year_days=year,
-        axial_tilt_deg=float(f"{tilt:.1f}"),
-        notes=notes
-    )
-
-def gen_regions(rng: random.Random, cfg: Dict, namer: NameForge) -> Dict[str, Region]:
-    biomes = ["temperate-coast", "steppe-marches", "wet-highlands", "river-delta", "cold-north", "dry-basin", "forest-belt"]
-    hazards_pool = ["banditry", "storm-surge", "flooding", "late-frost", "blight", "salt-winds", "rockslide", "sea-raiders", "fever-marsh"]
-
-    base = rng.randint(5, 7) if cfg.get("scale") in ("continent", "large-region") else rng.randint(3, 5)
-    regions: Dict[str, Region] = {}
-
-    for i in range(base):
-        rid = f"R{i+1}"
-        biome = rng.choice(biomes)
-        meaning: List[str] = []
-        if "coast" in biome:
-            meaning = ["coast", "reach"]
-        elif "river" in biome:
-            meaning = ["river", "reach"]
-        elif "steppe" in biome or "basin" in biome:
-            meaning = ["reach"]
-        elif "forest" in biome:
-            meaning = ["forest", "reach"]
-        elif "cold" in biome:
-            meaning = ["hill", "reach"]
-        name = namer.name("region", rid, meaning)
-        hazards = rng.sample(hazards_pool, k=rng.randint(2, 3))
-        regions[rid] = Region(id=rid, name=f"{name} Reach", biome=biome, hazards=hazards, resources=[], notes=[])
-
-    return regions
-
-def gen_settlements(rng: random.Random, cfg: Dict, regions: Dict[str, Region], namer: NameForge) -> Dict[str, Settlement]:
-    n = rng.randint(14, 22) if cfg.get("scale") == "continent" else rng.randint(8, 14)
-    kinds = [("hamlet", 0.18), ("village", 0.27), ("town", 0.28), ("city", 0.16), ("fort", 0.06), ("port", 0.05)]
-
-    settlements: Dict[str, Settlement] = {}
-    region_ids = list(regions.keys())
-
-    for i in range(n):
-        sid = f"S{i+1}"
-        kind = weighted_choice(rng, kinds)
-        if kind == "hamlet":
-            pop = int(clamp(rng.gauss(120, 60), 40, 350))
-        elif kind == "village":
-            pop = int(clamp(rng.gauss(550, 250), 180, 1400))
-        elif kind == "town":
-            pop = int(clamp(rng.gauss(4500, 1800), 1600, 9000))
-        elif kind == "city":
-            pop = int(clamp(rng.gauss(24000, 9000), 12000, 60000))
-        elif kind == "fort":
-            pop = int(clamp(rng.gauss(900, 450), 250, 2800))
-        else:  # port
-            pop = int(clamp(rng.gauss(14000, 6000), 6000, 42000))
-
-        region_id = rng.choice(region_ids)
-        x, y = rng.random() * 100.0, rng.random() * 100.0
-
-        meaning: List[str] = []
-        if kind == "port":
-            meaning = ["port", "coast"]
-        elif kind == "fort":
-            meaning = ["fort"]
-        elif kind in ("town", "city"):
-            meaning = ["market"]
-        name = namer.name("settlement", sid, meaning, region_id=region_id)
-
-        tags: List[str] = []
-        if kind == "port":
-            tags.append("coastal")
-        if rng.random() < 0.18:
-            tags.append("holy-site")
-        if rng.random() < 0.16:
-            tags.append("guild-stronghold")
-
-        settlements[sid] = Settlement(
-            id=sid, name=name, kind=kind, population=pop,
-            region_id=region_id, x=x, y=y, tags=tags
-        )
-
-    return settlements
-
-def gen_routes(rng: random.Random, settlements: Dict[str, Settlement], regions: Dict[str, Region]) -> List[Route]:
-    nodes = {sid: (s.x, s.y) for sid, s in settlements.items()}
-    edges = nearest_neighbor_graph(nodes, rng)
-    routes: List[Route] = []
-    risk_levels = [("low", 0.45), ("medium", 0.40), ("high", 0.15)]
-
-    for a, b in edges:
-        sa, sb = settlements[a], settlements[b]
-        km = dist((sa.x, sa.y), (sb.x, sb.y)) * 12.0
-
-        if "coastal" in sa.tags and "coastal" in sb.tags and km > 220:
-            mode = "sea"
-        else:
-            mode = "road"
-
-        if (regions[sa.region_id].biome in ("river-delta", "wet-highlands")
-            and regions[sb.region_id].biome in ("river-delta", "wet-highlands")
-            and rng.random() < 0.25):
-            mode = "river"
-
-        risk = weighted_choice(rng, risk_levels)
-        routes.append(Route(a=a, b=b, km=float(f"{km:.1f}"), mode=mode, risk=risk))
-
-    return routes
-
-def gen_resources(rng: random.Random, regions: Dict[str, Region]) -> List[str]:
-    pool = [
-        "grain", "salt", "iron", "timber", "wool", "stone", "fish", "horses", "amber",
-        "spices", "copper", "glass-sand", "dye-moss", "flax", "coal", "silver", "wine"
-    ]
-    must = ["grain", "salt", "timber", "iron"]
-    rest = [p for p in pool if p not in must]
-    rng.shuffle(rest)
-    picked = must + rest[:rng.randint(5, 7)]
-
-    for r in regions.values():
-        r.resources = []
-
-    for res in picked:
-        targets = rng.sample(list(regions.keys()), k=1 if rng.random() < 0.7 else 2)
-        for rid in targets:
-            if res not in regions[rid].resources:
-                regions[rid].resources.append(res)
-
-    fallback_res = "subsistence-grain"
-    for r in regions.values():
-        if not r.resources:
-            r.resources.append(fallback_res)
-            if fallback_res not in picked:
-                picked.append(fallback_res)
-
-    return picked
-
-def gen_polities(rng: random.Random, cfg: Dict, settlements: Dict[str, Settlement], regions: Dict[str, Region], resources: List[str], namer: NameForge) -> Dict[str, Polity]:
-    k = rng.randint(3, 5) if cfg.get("scale") == "continent" else rng.randint(2, 3)
-
-    capitals: List[str] = []
-    used: set[str] = set()
-    while len(capitals) < k:
-        c = pick_capital(rng, settlements)
-        if c not in used:
-            capitals.append(c)
-            used.add(c)
-
-    membership = assign_polity_membership(settlements, capitals)
-
-    govs = ["crowned-council", "merchant-republic", "temple-compact", "military-duchy", "charter-league"]
-    ide_pool = ["order", "honor", "profit", "piety", "unity", "purity", "tradition", "reform", "autonomy", "mercy"]
-
-    polities: Dict[str, Polity] = {}
-    for i, cap in enumerate(capitals):
-        pid = f"P{i+1}"
-        gov = rng.choice(govs)
-        ideology = rng.sample(ide_pool, k=2)
-        name = namer.name("polity", pid, ideology)
-        members = [sid for sid, cid in membership.items() if cid == cap]
-        polities[pid] = Polity(id=pid, name=name, government=gov, ideology=ideology, capital=cap, members=members, resources=[], notes=[])
-
-    return polities
-
-def gen_factions(rng: random.Random, polities: Dict[str, Polity], resources: List[str], namer: NameForge) -> Dict[str, Faction]:
-    n = max(3, len(polities))
-    factions: Dict[str, Faction] = {}
-    for i in range(n):
-        fid = f"F{i+1}"
-        focus = rng.choice(resources)
-        name = namer.name("faction", fid, [focus])
-        pol = rng.choice(list(polities.keys()))
-        factions[fid] = Faction(id=fid, name=name, focus=focus, polity=pol, notes=[])
-    return factions
-
-def gen_magic(rng: random.Random, cfg: Dict) -> MagicSystem:
-    schools = ["pattern", "residue", "binding", "divination", "warding", "alchemy"]
-    presence = cfg.get("magic_presence", "rare")
-    hardness = cfg.get("magic_hardness", "hard")
-    notes = [f"Magic is {presence}, system is {hardness}."]
-    return MagicSystem(schools=schools, presence=presence, hardness=hardness, notes=notes)
-
-def gen_timeline(rng: random.Random, cfg: Dict, polities: Dict[str, Polity], resources: List[str]) -> List[Event]:
-    n = rng.randint(7, 13)
-    events: List[Event] = []
-    for i in range(n):
-        year = 1000 + i * rng.randint(7, 19)
-        pol = rng.choice(list(polities.keys()))
-        res = rng.choice(resources)
-        desc = f"{pol} discovered {res} reserves."
-        events.append(Event(year=year, description=desc))
-    return events
-
-# ----------------------------
-# Main execution block (single, at end of file)
-# ----------------------------
+# ============================================================
+# Main execution block
+# ============================================================
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Worldbuilder: Generate a world compendium.")
-    parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducibility.")
-    args = parser.parse_args()
+    import sys
+    seed = random.randint(1, 1_000_000)
+    if len(sys.argv) > 1:
+        try:
+            seed = int(sys.argv[1])
+        except Exception:
+            pass
+    profiles = build_profiles()
+    name_registry = {}
+    namer = NameForge(seed, name_registry, profiles)
+    # Generate a planet name
+    planet_name = namer.get("planet:core")
+    # Create output directory
+    out_dir = ensure_unique_dir(PIPELINE_DIR / safe_filename(planet_name))
+    # Write a simple world_bible.md as proof of generation
+    with open(out_dir / "world_bible.md", "w", encoding="utf-8") as f:
+        f.write(f"# {planet_name} World Bible\n\n")
+        f.write(f"Seed: {seed}\n")
+        f.write(f"Generated at: {dt.datetime.now().isoformat()}\n")
+    print(f"World generated: {planet_name}\nOutput folder: {out_dir}")
+"""
+Worldbuilder v2.0 — Ghostwriter-ready world compendium + stable NameForge
+
+Outputs (in a folder named after the world):
+- world_bible.md              (polished compendium)
+- canon.json                  (full structured data + name registry)
+- map_graph.dot               (route graph for visualization)
+- naming.py                   (CLI + helper to generate consistent new names later)
+- build_meta.json             (seed, timestamps, coherence scores)
+
+Hard requirements implemented:
+- Output folder is created under:
+    I:\\My Drive\\Worldbuilding\\world_pipeline\\<WorldName>
+- Folder name is the generated world name (safe-cleaned). If exists -> suffix __2, __3...
+- Naming is deterministic per world + key, and registry is persisted for expansions.
+- Pronounceability gate + language-ish profiles (phoneme sets inspired by real languages).
 
 
-        # Clamp a value between min_value and max_value
-        return max(min_value, min(value, max_value))
 
-    output_dir = get_output_dir(planet.name)
-        return {
-            "seed": seed if seed is not None else random.randint(1, 1_000_000),
-            "tone": "grounded-dark",
-            "realism_target": "high",
-            "scale": "continent",
-            "story_type": "political-intrigue",
-            "tech_level": "late-medieval",
-            "magic_presence": "rare",
-            "magic_hardness": "hard",
-            "themes": ["scarcity", "institutional-rot", "moral-tradeoffs", "duty-vs-love"],
-            "no_go": ["prophecy-solves-everything", "free-energy-magic", "omniscient-gods"],
-            "inspirations": ["ports-and-chokepoints", "winter-pressure", "guild-law", "border-marches"],
-            "naming": {
-                "profile": "slavic_soft",
-                "max_cluster": 2,
-                "min_vowel_spacing": 4,
-                "entity_syllables": {
-                    "planet": [3, 4],
-                    "region": [2, 3],
-                    "settlement": [2, 3],
-                    "polity": [2, 4],
-                    "faction": [2, 4]
-                },
-                "semantic_names": True,
-                "dialects": True
-            },
-        }
-    print(f"[DEBUG] Output directory absolute path: {output_dir.resolve()}", flush=True)
+import argparse
+import dataclasses
+import datetime as dt
+import hashlib
+import json
+import math
+import os
+import random
+import re
+from dataclasses import dataclass, field, asdict
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
 
-    # Write outputs
-    with open(output_dir / "world_bible.md", "w", encoding="utf-8") as f:
-        f.write(f"# {planet.name} World Bible\n\n")
-        f.write(f"## Planetary Data\n{planet}\n\n")
-        # (Add more sections as needed)
+# ============================================================
+# CONFIG — change this if you ever move the pipeline directory
+# ============================================================
 
-    with open(output_dir / "canon.json", "w", encoding="utf-8") as f:
-        json.dump(asdict(world), f, indent=2, ensure_ascii=False)
+PIPELINE_DIR = Path(r"I:\My Drive\Worldbuilding\world_pipeline")
 
-    print(f"World generated: {planet.name}\nOutput folder: {output_dir}")
-SEMANTIC_MORPHEMES = {
-    "river": ["riv", "ran", "dun", "mor"],
-    "ford": ["vad", "vad", "vad", "ford"],
-    "hill": ["col", "mon", "bryn"],
-    "marsh": ["fen", "mor", "sog"],
-    "forest": ["sil", "bosc", "lis"],
-    "coast": ["mar", "cost", "port"],
-    "port": ["port", "har", "mar"],
-    "fort": ["gar", "kast", "tor"],
-    "market": ["merk", "baz", "sal"],
-    "stone": ["kar", "ston", "skal"],
-    "salt": ["sal", "hal", "mor"],
-    "iron": ["fer", "irn", "stal"],
-    "horses": ["hip", "ros", "cab"],
-    "temple": ["templ", "san", "kir"],
-    "league": ["lig", "kon", "kom"],
-    "reach": ["riv", "march", "step"],
-}
+# ============================================================
+# Helpers
+# ============================================================
 
-PIPELINE_OUTCOMES = {
-    "bribery": "quiet bribe routes",
-    "blackmail": "blackmail dossiers",
-    "public charity": "patronage lists",
-    "targeted violence": "hired knives",
-    "bureaucratic sabotage": "buried permits",
-    "propaganda": "pamphlet presses",
-    "trade embargo": "choked trade ledgers",
-    "strike action": "coordinated walkouts",
-}
+VOWELS = set("aeiouy")
+SEASONS = ["Thaw", "Bloom", "Highsun", "Harvest", "Sootfall", "Deepfrost"]
 
-def is_vowel(ch: str) -> bool:
-    return ch.lower() in VOWELS
+def clamp(v: float, lo: float, hi: float) -> float:
+    return max(lo, min(hi, v))
 
-def pronounceable(s: str, max_cluster: int, min_vowel_spacing: int, forbid: List[str]) -> bool:
-    cluster = 0
-    last_vowel_idx = -999
-    for i, ch in enumerate(s.lower()):
-        if ch.isalpha() and not is_vowel(ch):
-            cluster += 1
-            if cluster > max_cluster:
-                return False
+def slugify_keep_readable(name: str) -> str:
+    """
+    Keep it human-readable for folder names, not aggressive URL slugging.
+    - trims
+    - removes forbidden Windows path characters
+    - collapses whitespace
+    """
+    name = name.strip()
+    name = re.sub(r'[<>:"/\\|?*]', "", name)  # Windows illegal chars
+    name = re.sub(r"\s+", " ", name).strip()
+    return name[:80] if len(name) > 80 else name
+
+def safe_filename(name: str) -> str:
+    name = slugify_keep_readable(name)
+    return re.sub(r"[^\w\s\-\.,']", "", name).strip() or "World"
+
+def ensure_unique_dir(base: Path) -> Path:
+    if not base.exists():
+        base.mkdir(parents=True, exist_ok=True)
+        return base
+    # If folder exists, create suffix __2, __3, ...
+    i = 2
+    while True:
+        candidate = Path(str(base) + f"__{i}")
+        if not candidate.exists():
+            candidate.mkdir(parents=True, exist_ok=True)
+            return candidate
+        i += 1
+
+def stable_hash_int(s: str, mod: int) -> int:
+    h = hashlib.sha256(s.encode("utf-8")).hexdigest()
+    return int(h[:16], 16) % mod
+
+def dist(a: Tuple[float, float], b: Tuple[float, float]) -> float:
+    return math.hypot(a[0] - b[0], a[1] - b[1])
+
+def pick(rng: random.Random, items: List[str]) -> str:
+    return items[rng.randrange(len(items))]
+
+def weighted_choice(rng: random.Random, items: List[Tuple[str, float]]) -> str:
+    total = sum(w for _, w in items)
+    x = rng.random() * total
+    acc = 0.0
+    for item, w in items:
+        acc += w
+        if x <= acc:
+            return item
+    return items[-1][0]
+
+def dedupe_preserve(xs: List[str]) -> List[str]:
+    seen = set()
+    out = []
+    for x in xs:
+        if x not in seen:
+            out.append(x)
+            seen.add(x)
+    return out
+
+# ============================================================
+# Data model
+# ============================================================
+
+@dataclass
+class Planet:
+    name: str
+    gravity_g: float
+    day_hours: float
+    year_days: int
+    axial_tilt_deg: float
+    notes: List[str] = field(default_factory=list)
+
+@dataclass
+class Region:
+    id: str
+    name: str
+    biome: str
+    hazards: List[str]
+    resources: List[str]
+    notes: List[str] = field(default_factory=list)
+
+@dataclass
+class Settlement:
+    id: str
+    name: str
+    kind: str  # hamlet, village, town, city, fort, port
+    population: int
+    region_id: str
+    x: float
+    y: float
+    tags: List[str] = field(default_factory=list)
+
+@dataclass
+class Route:
+    a: str
+    b: str
+    km: float
+    mode: str  # road, river, sea
+    risk: str  # low, medium, high
+
+@dataclass
+class Polity:
+    id: str
+    name: str
+    capital_id: str
+    government: str
+    ideology: List[str]
+    population: int
+    army_pct: float
+    treasury_index: float
+    exports: List[str]
+    imports: List[str]
+    laws: List[str]
+    institutions: List[str]
+    notes: List[str] = field(default_factory=list)
+
+@dataclass
+class Faction:
+    id: str
+    name: str
+    polity_id: Optional[str]  # None for cross-border
+    type: str
+    goals: List[str]
+    methods: List[str]
+    resources: List[str]
+    enemies: List[str]
+    allies: List[str]
+    hooks: List[str]
+
+@dataclass
+class MagicSystem:
+    presence: str  # none, rare, common
+    hardness: str  # soft, medium, hard
+    inputs: List[str]
+    outputs: List[str]
+    costs: List[str]
+    failure_modes: List[str]
+    countermeasures: List[str]
+    second_order_effects: List[str]
+    notes: List[str] = field(default_factory=list)
+
+@dataclass
+class Event:
+    id: str
+    year: int
+    season: str
+    title: str
+    cause_ids: List[str]
+    agents: List[str]
+    consequences: List[str]
+
+@dataclass
+class Conflict:
+    id: str
+    title: str
+    parties: List[str]
+    stakes: List[str]
+    escalation: List[str]
+    receipts: List[str]
+
+@dataclass
+class StoryKit:
+    themes: List[str]
+    tone: str
+    story_type: str
+    default_scene_locations: List[str]
+    hooks: List[str]
+    dont_break: List[str] = field(default_factory=list)
+
+@dataclass
+class World:
+    seed: int
+    config: Dict
+    planet: Planet
+    regions: Dict[str, Region]
+    settlements: Dict[str, Settlement]
+    routes: List[Route]
+    polities: Dict[str, Polity]
+    factions: Dict[str, Faction]
+    magic: MagicSystem
+    timeline: List[Event]
+    conflicts: List[Conflict]
+    story: StoryKit
+    receipts: List[str] = field(default_factory=list)
+    name_registry: Dict[str, str] = field(default_factory=dict)
+    coherence_score: float = 0.0
+    warnings: List[str] = field(default_factory=list)
+    hard_errors: List[str] = field(default_factory=list)
+
+# ============================================================
+# NameForge — pronounceable + deterministic + language-ish
+# ============================================================
+
+@dataclass
+class NameProfile:
+    name: str
+    # phoneme-ish chunks
+    onsets: List[str]
+    nuclei: List[str]
+    codas: List[str]
+    # constraints
+    max_consonant_run: int = 2
+    min_vowel_rate: float = 0.30   # vowels / total chars
+    max_len: int = 12
+    min_len: int = 4
+    banned_starts: Tuple[str, ...] = ("ng", "pt", "bn", "rtz")
+    banned_ends: Tuple[str, ...] = ("hh", "jj", "vv", "qq")
+
+def build_profiles() -> List[NameProfile]:
+    """
+    These aren't literal language models; they're *phonotactic moods* inspired by
+    real inventories (Celtic-ish / Slavic-ish / Romance-ish) without copying a language.
+    """
+    celtic = NameProfile(
+        name="celtic-ish",
+        onsets=["b","br","c","ch","cr","d","dr","f","g","gr","h","k","l","m","n","p","pr","r","s","sh","t","tr","v"],
+        nuclei=["a","e","i","o","u","ae","ai","ea","eo","ia","io","oa","ui"],
+        codas=["n","r","l","s","th","nd","rn","rd","ll","ss","ch","g","m","t","d"],
+        max_consonant_run=2,
+        min_vowel_rate=0.33,
+        max_len=11,
+        min_len=4,
+    )
+    slavic = NameProfile(
+        name="slavic-ish",
+        onsets=["b","br","v","vr","d","dr","z","zh","k","kr","m","n","p","pr","r","s","sk","st","t","tr","ch"],
+        nuclei=["a","e","i","o","u","y","ia","io","ei","oy"],
+        codas=["n","v","k","t","d","r","s","sk","st","ch","v","m","z"],
+        max_consonant_run=2,
+        min_vowel_rate=0.30,
+        max_len=12,
+        min_len=4,
+        banned_starts=("ng","pt","bn"),
+    )
+    romance = NameProfile(
+        name="romance-ish",
+        onsets=["b","c","ch","d","f","g","gr","l","m","n","p","pr","r","s","t","v"],
+        nuclei=["a","e","i","o","u","ia","io","ea","eo","ou","au"],
+        codas=["n","r","l","s","t","d","m","v"],
+        max_consonant_run=2,
+        min_vowel_rate=0.35,
+        max_len=12,
+        min_len=4,
+    )
+    return [celtic, slavic, romance]
+
+def vowel_rate(s: str) -> float:
+    if not s:
+        return 0.0
+    v = sum(1 for ch in s.lower() if ch in VOWELS)
+    return v / len(s)
+
+def max_consonant_run(s: str) -> int:
+    best = 0
+    cur = 0
+    for ch in s.lower():
+        if ch.isalpha() and ch not in VOWELS:
+            cur += 1
+            best = max(best, cur)
         else:
-            cluster = 0
-            last_vowel_idx = i
-        if i - last_vowel_idx >= min_vowel_spacing:
-            return False
-    lower = s.lower()
-    for bad in forbid:
-        if bad in lower:
-            return False
+            cur = 0
+    return best
+
+def pronounceable(s: str, profile: NameProfile) -> bool:
+    s2 = s.lower()
+    if len(s2) < profile.min_len or len(s2) > profile.max_len:
+        return False
+    if any(s2.startswith(b) for b in profile.banned_starts):
+        return False
+    if any(s2.endswith(b) for b in profile.banned_ends):
+        return False
+    if max_consonant_run(s2) > profile.max_consonant_run:
+        return False
+    if vowel_rate(s2) < profile.min_vowel_rate:
+        return False
+    # avoid triple same letter
+    if re.search(r"(.)\1\1", s2):
+        return False
     return True
 
 class NameForge:
-    def __init__(self, world_seed: int, cfg: Dict, registry: Dict[str, str]):
+    def __init__(self, world_seed: int, registry: Dict[str, str], profiles: List[NameProfile]):
         self.world_seed = world_seed
-        self.cfg = cfg.get("naming", {})
-        self.profile_name = self.cfg.get("profile", "slavic_soft")
-        if self.profile_name not in NAMING_PROFILES:
-            self.profile_name = "slavic_soft"
-        self.profile = NAMING_PROFILES[self.profile_name]
-        self.max_cluster = int(self.cfg.get("max_cluster", 2))
-        self.min_vowel_spacing = int(self.cfg.get("min_vowel_spacing", 4))
-        self.semantic_names = bool(self.cfg.get("semantic_names", True))
-        self.use_dialects = bool(self.cfg.get("dialects", True))
-        self.entity_syllables = self.cfg.get("entity_syllables", {
-            "planet": [3, 4],
-            "region": [2, 3],
-            "settlement": [2, 3],
-            "polity": [2, 4],
-            "faction": [2, 4],
-        })
         self.registry = registry
+        self.profiles = profiles
 
-    def _rng_for(self, entity: str, key: str, meaning: Optional[List[str]]) -> random.Random:
-        payload = f"{self.world_seed}|{self.profile_name}|{entity}|{key}|{','.join(sorted(meaning or []))}"
-        h = hashlib.sha256(payload.encode("utf-8")).hexdigest()
-        seed = int(h[:16], 16)
-        return random.Random(seed)
+    def _rng_for(self, key: str) -> random.Random:
+        # deterministic RNG per key
+        h = hashlib.sha256(f"{self.world_seed}::{key}".encode("utf-8")).hexdigest()
+        seed_int = int(h[:16], 16)
+        return random.Random(seed_int)
 
-    def _base_syllable(self, rng: random.Random) -> str:
-        p = self.profile
-        tmpl = rng.choice(p["templates"])
-        s = ""
-        i = 0
-        while i < len(tmpl):
-            t = tmpl[i]
-            if t == "C":
-                if rng.random() < 0.25 and p["digraphs"]:
-                    s += rng.choice(p["digraphs"])
-                else:
-                    s += rng.choice(p["consonants"])
-            elif t == "V":
-                s += rng.choice(p["vowels"])
-            else:
-                s += t
-            i += 1
-        return s
+    def get(self, key: str, style: str = "auto", cap: bool = True) -> str:
+        """
+        key: stable ID like "planet:core", "region:R1", "settlement:S4", "faction:F2", etc.
+        """
+        if key in self.registry:
+            return self.registry[key]
 
-    def _apply_dialect(self, text: str, region_id: Optional[str], polity_id: Optional[str]) -> str:
-        if not self.use_dialects:
-            return text
-        key = region_id or polity_id
-        if not key:
-            return text
-        h = hashlib.sha256(f"dialect|{key}".encode("utf-8")).hexdigest()
-        code = int(h[:2], 16) % 3
-        s = text
+        rng = self._rng_for(key)
 
-        if code == 0:
-            s = s.replace("ar", "air")
-            s = s.replace("or", "oar")
-        elif code == 1:
-            out = []
-            for i, ch in enumerate(s):
-                if ch.lower() in "td" and i > 0 and is_vowel(s[i - 1]):
-                    out.append(ch + "h")
-                else:
-                    out.append(ch)
-            s = "".join(out)
-        elif code == 2:
-            s = s.replace("th", "t").replace("dh", "d").replace("hh", "h")
-
-        return s
-
-    def _pick_morphemes(self, rng: random.Random, meaning: Optional[List[str]], syllable_range: Tuple[int, int]) -> List[str]:
-        if not self.semantic_names or not meaning:
-            n = rng.randint(syllable_range[0], syllable_range[1])
-            return [self._base_syllable(rng) for _ in range(n)]
-
-        chunks: List[str] = []
-        for tag in meaning:
-            forms = SEMANTIC_MORPHEMES.get(tag)
-            if forms:
-                chunks.append(rng.choice(forms))
-        if not chunks:
-            n = rng.randint(syllable_range[0], syllable_range[1])
-            return [self._base_syllable(rng) for _ in range(n)]
-
-        if rng.random() < 0.55:
-            chunks.insert(0, self._base_syllable(rng))
-        return chunks
-
-    def _shape_name(self, raw: str, rng: random.Random) -> str:
-        if len(raw) > 10:
-            raw = raw[:10]
-        if rng.random() < 0.7 and self.profile["nice_endings"]:
-            end = rng.choice(self.profile["nice_endings"])
-            if not raw.endswith(end):
-                raw = raw + end
-        for rep in ["aa", "ee", "ii", "oo", "uu"]:
-            while rep in raw:
-                raw = raw.replace(rep, rep[0])
-        return raw.capitalize()
-
-    def name(self, entity: str, key: str, meaning: Optional[List[str]] = None,
-             region_id: Optional[str] = None, polity_id: Optional[str] = None) -> str:
-        reg_key = f"{entity}:{key}"
-        if reg_key in self.registry:
-            return self.registry[reg_key]
-
-        rng = self._rng_for(entity, key, meaning)
-        syllable_range = self.entity_syllables.get(entity, [2, 3])
-        lo, hi = int(syllable_range[0]), int(syllable_range[1])
-
-        max_cluster = self.max_cluster
-        min_vowel_spacing = self.min_vowel_spacing
-        forbid = self.profile["forbid"]
-
-        for _ in range(32):
-            chunks = self._pick_morphemes(rng, meaning, (lo, hi))
-            raw = "".join(chunks)
-            raw = self._apply_dialect(raw, region_id, polity_id)
-            cand = self._shape_name(raw, rng)
-
-            key_stripped = "".join(ch.lower() for ch in cand if ch.isalpha())
-            if not pronounceable(key_stripped, max_cluster, min_vowel_spacing, forbid):
-                continue
-
-            if cand in self.registry.values():
-                continue
-
-            self.registry[reg_key] = cand
-            return cand
-
-        cand = self._shape_name("".join(self._pick_morphemes(rng, None, (lo, hi))), rng)
-        self.registry[reg_key] = cand
-        return cand
-
-def default_config(seed: Optional[int] = None) -> Dict:
-    return {
-        "seed": seed if seed is not None else random.randint(1, 1_000_000),
-        "tone": "grounded-dark",
-        "realism_target": "high",
-        "scale": "continent",
-        "story_type": "political-intrigue",
-        "tech_level": "late-medieval",
-        "magic_presence": "rare",
-        "magic_hardness": "hard",
-        "themes": ["scarcity", "institutional-rot", "moral-tradeoffs", "duty-vs-love"],
-        "no_go": ["prophecy-solves-everything", "free-energy-magic", "omniscient-gods"],
-        "inspirations": ["ports-and-chokepoints", "winter-pressure", "guild-law", "border-marches"],
-        "naming": {
-            "profile": "slavic_soft",
-            "max_cluster": 2,
-            "min_vowel_spacing": 4,
-            "entity_syllables": {
-                "planet": [3, 4],
-                "region": [2, 3],
-                "settlement": [2, 3],
-                "polity": [2, 4],
-                "faction": [2, 4]
-            },
-            "semantic_names": True,
-            "dialects": True
-        },
-    }
-
-# ----------------------------
-# Generation
-# ----------------------------
-
-def gen_planet(rng: random.Random, cfg: Dict, namer: NameForge) -> Planet:
-    realism = cfg.get("realism_target", "high")
-    if realism == "high":
-        g = clamp(rng.gauss(1.02, 0.08), 0.85, 1.25)
-        day = clamp(rng.gauss(24.0, 2.0), 18.0, 34.0)
-        year = int(clamp(rng.gauss(360, 30), 280, 380))
-        tilt = clamp(rng.gauss(22, 6), 5, 35)
-    else:
-        g = clamp(rng.gauss(1.1, 0.2), 0.6, 1.6)
-        day = clamp(rng.gauss(26, 6), 12, 60)
-        year = int(clamp(rng.gauss(420, 80), 180, 900))
-        tilt = clamp(rng.gauss(28, 10), 0, 60)
-
-    name = namer.name("planet", "world", ["reach"])
-    notes = [
-        f"Day length is {day:.1f} hours; watch schedules and night travel rules matter.",
-        f"Year length is {year} days; seasonal taxes and supply cycles are explicit.",
-        f"Gravity ~{g:.2f}g; load limits and fatigue show up in logistics.",
-    ]
-    return Planet(
-        name=name,
-        gravity_g=float(f"{g:.2f}"),
-        day_hours=float(f"{day:.1f}"),
-        year_days=year,
-        axial_tilt_deg=float(f"{tilt:.1f}"),
-        notes=notes
-    )
-
-def gen_regions(rng: random.Random, cfg: Dict, namer: NameForge) -> Dict[str, Region]:
-    biomes = ["temperate-coast", "steppe-marches", "wet-highlands", "river-delta", "cold-north", "dry-basin", "forest-belt"]
-    hazards_pool = ["banditry", "storm-surge", "flooding", "late-frost", "blight", "salt-winds", "rockslide", "sea-raiders", "fever-marsh"]
-
-    base = rng.randint(5, 7) if cfg.get("scale") in ("continent", "large-region") else rng.randint(3, 5)
-    regions: Dict[str, Region] = {}
-
-    for i in range(base):
-        rid = f"R{i+1}"
-        biome = rng.choice(biomes)
-        meaning: List[str] = []
-        if "coast" in biome:
-            meaning = ["coast", "reach"]
-        elif "river" in biome:
-            meaning = ["river", "reach"]
-        elif "steppe" in biome or "basin" in biome:
-            meaning = ["reach"]
-        elif "forest" in biome:
-            meaning = ["forest", "reach"]
-        elif "cold" in biome:
-            meaning = ["hill", "reach"]
-        name = namer.name("region", rid, meaning)
-        hazards = rng.sample(hazards_pool, k=rng.randint(2, 3))
-        regions[rid] = Region(id=rid, name=f"{name} Reach", biome=biome, hazards=hazards, resources=[], notes=[])
-
-    return regions
-
-def gen_settlements(rng: random.Random, cfg: Dict, regions: Dict[str, Region], namer: NameForge) -> Dict[str, Settlement]:
-    n = rng.randint(14, 22) if cfg.get("scale") == "continent" else rng.randint(8, 14)
-    kinds = [("hamlet", 0.18), ("village", 0.27), ("town", 0.28), ("city", 0.16), ("fort", 0.06), ("port", 0.05)]
-
-    settlements: Dict[str, Settlement] = {}
-    region_ids = list(regions.keys())
-
-    for i in range(n):
-        sid = f"S{i+1}"
-        kind = weighted_choice(rng, kinds)
-        if kind == "hamlet":
-            pop = int(clamp(rng.gauss(120, 60), 40, 350))
-        elif kind == "village":
-            pop = int(clamp(rng.gauss(550, 250), 180, 1400))
-        elif kind == "town":
-            pop = int(clamp(rng.gauss(4500, 1800), 1600, 9000))
-        elif kind == "city":
-            pop = int(clamp(rng.gauss(24000, 9000), 12000, 60000))
-        elif kind == "fort":
-            pop = int(clamp(rng.gauss(900, 450), 250, 2800))
-        else:  # port
-            pop = int(clamp(rng.gauss(14000, 6000), 6000, 42000))
-
-        region_id = rng.choice(region_ids)
-        x, y = rng.random() * 100.0, rng.random() * 100.0
-
-        meaning: List[str] = []
-        if kind == "port":
-            meaning = ["port", "coast"]
-        elif kind == "fort":
-            meaning = ["fort"]
-        elif kind in ("town", "city"):
-            meaning = ["market"]
-        name = namer.name("settlement", sid, meaning, region_id=region_id)
-
-        tags: List[str] = []
-        if kind == "port":
-            tags.append("coastal")
-        if rng.random() < 0.18:
-            tags.append("holy-site")
-        if rng.random() < 0.16:
-            tags.append("guild-stronghold")
-
-        settlements[sid] = Settlement(
-            id=sid, name=name, kind=kind, population=pop,
-            region_id=region_id, x=x, y=y, tags=tags
-        )
-
-    return settlements
-
-def gen_routes(rng: random.Random, settlements: Dict[str, Settlement], regions: Dict[str, Region]) -> List[Route]:
-    nodes = {sid: (s.x, s.y) for sid, s in settlements.items()}
-    edges = nearest_neighbor_graph(nodes, rng)
-    routes: List[Route] = []
-    risk_levels = [("low", 0.45), ("medium", 0.40), ("high", 0.15)]
-
-    for a, b in edges:
-        sa, sb = settlements[a], settlements[b]
-        km = dist((sa.x, sa.y), (sb.x, sb.y)) * 12.0
-
-        if "coastal" in sa.tags and "coastal" in sb.tags and km > 220:
-            mode = "sea"
+        if style == "auto":
+            profile = rng.choice(self.profiles)
         else:
-            mode = "road"
+            profile = next((p for p in self.profiles if p.name == style), rng.choice(self.profiles))
 
-        if (regions[sa.region_id].biome in ("river-delta", "wet-highlands")
-            and regions[sb.region_id].biome in ("river-delta", "wet-highlands")
-            and rng.random() < 0.25):
-            mode = "river"
-
-        risk = weighted_choice(rng, risk_levels)
-        routes.append(Route(a=a, b=b, km=float(f"{km:.1f}"), mode=mode, risk=risk))
-
-    return routes
-
-def gen_resources(rng: random.Random, regions: Dict[str, Region]) -> List[str]:
-    pool = [
-        "grain", "salt", "iron", "timber", "wool", "stone", "fish", "horses", "amber",
-        "spices", "copper", "glass-sand", "dye-moss", "flax", "coal", "silver", "wine"
-    ]
-    must = ["grain", "salt", "timber", "iron"]
-    rest = [p for p in pool if p not in must]
-    rng.shuffle(rest)
-    picked = must + rest[:rng.randint(5, 7)]
-
-    for r in regions.values():
-        r.resources = []
-
-    for res in picked:
-        targets = rng.sample(list(regions.keys()), k=1 if rng.random() < 0.7 else 2)
-        for rid in targets:
-            if res not in regions[rid].resources:
-                regions[rid].resources.append(res)
-
-    fallback_res = "subsistence-grain"
-    for r in regions.values():
-        if not r.resources:
-            r.resources.append(fallback_res)
-            if fallback_res not in picked:
-                picked.append(fallback_res)
-
-    return picked
-
-def pick_capital(rng: random.Random, settlements: Dict[str, Settlement]) -> str:
-    cands: List[Tuple[str, float]] = []
-    for s in settlements.values():
-        w = 1.0
-        if s.kind in ("city", "port"):
-            w = 4.0
-        elif s.kind == "town":
-            w = 2.0
-        elif s.kind == "fort":
-            w = 1.5
-        cands.append((s.id, w))
-    return weighted_choice(rng, cands)
-
-def assign_polity_membership(settlements: Dict[str, Settlement], capitals: List[str]) -> Dict[str, str]:
-    cap_xy = {cid: (settlements[cid].x, settlements[cid].y) for cid in capitals}
-    membership: Dict[str, str] = {}
-    for sid, s in settlements.items():
-        best = None
-        best_d = 1e18
-        for cid, xy in cap_xy.items():
-            d = dist((s.x, s.y), xy)
-            if d < best_d:
-                best_d = d
-                best = cid
-        membership[sid] = best  # type: ignore[assignment]
-    return membership
-
-def gen_polities(
-    rng: random.Random,
-    cfg: Dict,
-    settlements: Dict[str, Settlement],
-    regions: Dict[str, Region],
-    resources: List[str],
-    namer: NameForge
-) -> Dict[str, Polity]:
-    k = rng.randint(3, 5) if cfg.get("scale") == "continent" else rng.randint(2, 3)
-
-    capitals: List[str] = []
-    used: set[str] = set()
-    while len(capitals) < k:
-        c = pick_capital(rng, settlements)
-        if c not in used:
-            capitals.append(c)
-            used.add(c)
-
-    membership = assign_polity_membership(settlements, capitals)
-
-    govs = ["crowned-council", "merchant-republic", "temple-compact", "military-duchy", "charter-league"]
-    ide_pool = ["order", "honor", "profit", "piety", "unity", "purity", "tradition", "reform", "autonomy", "mercy"]
+        # generate syllables
+        for _ in range(400):
+            syl = rng.randint(2, 4)
+            parts = []
+            for _i in range(syl):
+                onset = rng.choice(profile.onsets)
+                nuc = rng.choice(profile.nuclei)
+                coda = rng.choice(profile.codas) if rng.random() < 0.7 else ""
+                parts.append(onset + nuc + coda)
