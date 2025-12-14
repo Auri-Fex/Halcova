@@ -1,15 +1,13 @@
-# This script will deploy the contents of the MkDocs site directory to the gh-pages branch for GitHub Pages hosting.
-# Usage: Run this script from the root of your Worldbuilding workspace after building the site.
+
+
+# Safer deploy script: uses a dedicated temp clone for gh-pages deployment
+# Never touches workspace or .venv; all destructive actions are in the temp dir only
 
 $ErrorActionPreference = 'Stop'
 
 # Set variables
 $siteDir = "halcova/world_wiki/site"
-
-$siteDir = "halcova/world_wiki/site"
 $branch = "gh-pages"
-
-# Save current directory
 $startDir = $PWD
 
 # Check for git
@@ -18,39 +16,39 @@ if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
     exit 1
 }
 
-
-# Save current branch name
-$currentBranch = git rev-parse --abbrev-ref HEAD
-
 # Ensure site is built
 if (-not (Test-Path $siteDir/index.html)) {
     Write-Error "Site not built. Please run mkdocs build first."
     exit 1
 }
 
+# Save current branch name
+$currentBranch = git rev-parse --abbrev-ref HEAD
 
-# Switch to gh-pages branch (create if doesn't exist)
-if (-not (git show-ref --verify --quiet refs/heads/$branch)) {
-    git checkout --orphan $branch
-    git rm -rf .
-} else {
-    git checkout $branch
-}
+# Create a temp directory for deployment
+$deployDir = Join-Path ([System.IO.Path]::GetTempPath()) ("deploy-gh-pages-" + [System.Guid]::NewGuid().ToString())
+New-Item -ItemType Directory -Path $deployDir | Out-Null
 
-# Remove all files in the branch (except .git)
+# Clone just the gh-pages branch into the temp dir
+git clone --branch $branch --single-branch . $deployDir
+
+# Remove all files in the temp dir except .git
+Set-Location $deployDir
 Get-ChildItem -Path . -Exclude ".git" | Remove-Item -Recurse -Force
 
-# Copy site output to branch root
+# Copy site output to temp dir
 Copy-Item -Path "$startDir/$siteDir/*" -Destination . -Recurse -Force
 
-git push origin $branch
-# Add and commit changes
+# Add, commit, and push changes from temp dir
 git add .
-git commit -m "Deploy updated MkDocs site [automated]" --allow-empty
+git commit -m "Deploy updated MkDocs site [safe automated]" --allow-empty
 git push origin $branch
 
-# Switch back to original branch and directory
-git checkout $currentBranch
+# Return to original branch and directory
 Set-Location $startDir
+git checkout $currentBranch
 
-Write-Host "Deployment to gh-pages complete."
+# Clean up temp deploy dir
+Remove-Item -Recurse -Force $deployDir
+
+Write-Host "Deployment to gh-pages complete (dedicated temp dir, workspace untouched)."
