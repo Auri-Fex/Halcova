@@ -1,0 +1,54 @@
+{
+  "htryk": {
+    "concept": "Primordial",
+    "root": "ehter"
+  },
+  "tlshty": {
+    "concept": "Crystal",
+    "root": "talst"
+  },
+  "tndryk": {
+    "concept": "Tundra",
+    "root": "tundra"
+  },
+  "dshhdy": {
+    "concept": "Arcane",
+    "root": "idshid"
+  },
+  "tyyk": {
+    "concept": "Aurora",
+    "root": "tuyaa"
+  },
+  "rdncyk": {
+    "concept": "Aurora",
+    "root": "radiance"
+  },
+  "prmfrs": {
+    "concept": "Tundra",
+    "root": "permafrost"
+  },
+  "glltyk": {
+    "concept": "Aurora",
+    "root": "gerelt"
+  },
+  "tnglty": {
+    "concept": "Tundra",
+    "root": "tsaraitai"
+  },
+  "gedlt tz": {
+    "concept": "Aurora",
+    "root": "gerelt tsagaan"
+  },
+  "huten gz": {
+    "concept": "Tundra",
+    "root": "huiten gazar"
+  },
+  "tzedenkhad": {
+    "concept": "Aurora",
+    "root": "tserenkhar"
+  },
+  "tzazatalya": {
+    "concept": "Tundra",
+    "root": "tsasan tal"
+  }
+}

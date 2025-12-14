@@ -1,0 +1,38 @@
+
+site_name: Hálcova World Wiki
+nav:
+  - Society:
+    - The Warden Order: halcova/society/the_warden_order.md
+    - Religion: halcova/society/religion.md
+    - Economics and Class: halcova/society/economics_and_class.md
+    - Entertainment System: halcova/society/entertainment_system.md
+    - Criminal Underworld: halcova/society/criminal_underworld.md
+  - Governance:
+    - Political Philosophy: halcova/governance/political_philosophy.md
+    - Legal Frameworks: halcova/governance/legal_frameworks.md
+    - Governance Structures: halcova/governance/governance_structures.md
+    - Politics, Law, and Systems: halcova/governance/politics_law_and_systems.md
+  - Planetary:
+    - Planetary Parameters: halcova/planetary/planetary_parameters.md
+    - Geography: halcova/planetary/geography.md
+    - Flora and Fauna: halcova/planetary/flora_and_fauna.md
+    - Atmosphere and Sky: halcova/planetary/atmosphere_and_sky.md
+    - Lunar System: halcova/planetary/lunar_system.md
+    - Climate History: halcova/planetary/climate_history.md
+  - Conlang:
+    - Language Set: halcova/conlang/language_set.md
+    - Living Language Slang: halcova/conlang/living_language_slang.md
+
+  - Magic Systems:
+    - The Five Arts: halcova/magic/the_five_arts.md
+  - Fate System:
+    - The Sorscad: halcova/fate_system/the_sorscad.md
+    - The Loom: halcova/fate_system/the_loom.md
+  - Metaphysics:
+    - Metaphysical Spine: halcova/metaphysics/metaphysical_spine.md
+    - Additional Systems: halcova/metaphysics/additional_systems.md
+
+
+use_directory_urls: true
+extra_css:
+    - css/halcova-theme.css
