@@ -1,6 +1,38 @@
-<FULL SCRIPT FROM USER'S LATEST MESSAGE>
-        },
-    }
+from __future__ import annotations
+
+"""
+Worldbuilder v1.3 — NameForge + World-Named Folders
+
+Generates a ghostwriter-ready world compendium with:
+- planet + calendar
+- regions, settlements, routes (connected graph)
+- polities + trade baskets + institutions/laws
+- factions
+- magic system (optional) with costs + countermeasures + second-order effects
+- causal-ish timeline
+- active conflicts + story hooks
+- validators + basic repair loop
+- exports: world_bible.md, world_bible.pdf (optional), canon.json, map_graph.dot
+
+Key behavior:
+- Output folder is named after the generated planet/world (slugified),
+  and created directly under the world_pipeline folder (one level up from this script's folder by default).
+"""
+
+# ----------------------------
+# Imports
+# ----------------------------
+
+import random
+import argparse
+import json
+import hashlib
+from typing import Dict, List, Optional, Tuple
+from dataclasses import asdict
+
+from slugify import slugify
+
+from world_components import *
 
 # ----------------------------
 # Output directory logic
@@ -130,218 +162,6 @@ def gen_timeline(rng: random.Random, cfg: Dict, polities: Dict[str, Polity], res
 
 # ----------------------------
 # Main execution block (single, at end of file)
-# ----------------------------
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Worldbuilder: Generate a world compendium.")
-    parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducibility.")
-    args = parser.parse_args()
-
-    # Config and seed
-    cfg = default_config(args.seed)
-    seed = cfg["seed"]
-    rng = random.Random(seed)
-    name_registry = {}
-    namer = NameForge(seed, cfg, name_registry)
-
-    # Generate world
-    planet = gen_planet(rng, cfg, namer)
-    regions = gen_regions(rng, cfg, namer)
-    settlements = gen_settlements(rng, cfg, regions, namer)
-    routes = gen_routes(rng, settlements, regions)
-    resources = gen_resources(rng, regions)
-    polities = gen_polities(rng, cfg, settlements, regions, resources, namer)
-    factions = gen_factions(rng, polities, resources, namer)
-    magic = gen_magic(rng, cfg)
-    timeline = gen_timeline(rng, cfg, polities, resources)
-    # (conflicts, story, etc. can be added as needed)
-
-    # Compose world object
-    world = World(
-        seed=seed,
-        config=cfg,
-        planet=planet,
-        regions=regions,
-        settlements=settlements,
-        routes=routes,
-        polities=polities,
-        factions=factions,
-        magic=magic,
-        timeline=timeline,
-        conflicts=[],
-        story=StoryKit(
-            themes=cfg.get("themes", []),
-            tone=cfg.get("tone", ""),
-            story_type=cfg.get("story_type", ""),
-            default_scene_locations=[],
-            hooks=[],
-        ),
-        receipts=[],
-        name_registry=name_registry,
-    )
-
-    # Create output directory
-    output_dir = get_output_dir(planet.name)
-
-    # Write outputs
-    with open(output_dir / "world_bible.md", "w", encoding="utf-8") as f:
-        f.write(f"# {planet.name} World Bible\n\n")
-        f.write(f"## Planetary Data\n{planet}\n\n")
-        # (Add more sections as needed)
-
-    with open(output_dir / "canon.json", "w", encoding="utf-8") as f:
-        json.dump(asdict(world), f, indent=2, ensure_ascii=False)
-
-    print(f"World generated: {planet.name}\nOutput folder: {output_dir}")
-
-"""
-Worldbuilder v1.3 — NameForge + World-Named Folders
-
-Generates a ghostwriter-ready world compendium with:
-- planet + calendar
-- regions, settlements, routes (connected graph)
-- polities + trade baskets + institutions/laws
-- factions
-- magic system (optional) with costs + countermeasures + second-order effects
-- causal-ish timeline
-- active conflicts + story hooks
-- validators + basic repair loop
-- exports: world_bible.md, world_bible.pdf (optional), canon.json, map_graph.dot
-
-Key behavior:
-- Output folder is named after the generated planet/world (slugified),
-  and created directly under the world_pipeline folder (one level up from this script's folder by default).
-"""
-
-import argparse
-import json
-import math
-import random
-import hashlib
-
-from dataclasses import dataclass, asdict, field
-from datetime import date
-from pathlib import Path
-from typing import Dict, List, Optional, Tuple
-
-# ----------------------------
-# Output directory logic
-# ----------------------------
-def get_output_dir(planet_name: str) -> Path:
-    """Create and return the output directory for the generated world."""
-    base_dir = Path(__file__).parent.parent / "world_pipeline"
-    folder_name = slugify(planet_name)
-    output_dir = base_dir / folder_name
-    output_dir.mkdir(parents=True, exist_ok=True)
-    return output_dir
-
-
-# ----------------------------
-# Output directory logic
-# ----------------------------
-def get_output_dir(planet_name: str) -> Path:
-    """Create and return the output directory for the generated world."""
-    base_dir = Path(__file__).parent.parent / "world_pipeline"
-    folder_name = slugify(planet_name)
-    output_dir = base_dir / folder_name
-    output_dir.mkdir(parents=True, exist_ok=True)
-    return output_dir
-
-# ----------------------------
-# Main execution block
-# ----------------------------
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Worldbuilder: Generate a world compendium.")
-    parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducibility.")
-    args = parser.parse_args()
-
-    # Config and seed
-    cfg = default_config(args.seed)
-    seed = cfg["seed"]
-    rng = random.Random(seed)
-    name_registry = {}
-    namer = NameForge(seed, cfg, name_registry)
-
-    # Generate world
-    planet = gen_planet(rng, cfg, namer)
-    regions = gen_regions(rng, cfg, namer)
-    settlements = gen_settlements(rng, cfg, regions, namer)
-    routes = gen_routes(rng, settlements, regions)
-    resources = gen_resources(rng, regions)
-    polities = gen_polities(rng, cfg, settlements, regions, resources, namer)
-    factions = gen_factions(rng, polities, resources, namer)
-    magic = gen_magic(rng, cfg)
-    timeline = gen_timeline(rng, cfg, polities, resources)
-    # (conflicts, story, etc. can be added as needed)
-
-    # Compose world object
-    world = World(
-        seed=seed,
-        config=cfg,
-        planet=planet,
-        regions=regions,
-        settlements=settlements,
-        routes=routes,
-        polities=polities,
-        factions=factions,
-        magic=magic,
-        timeline=timeline,
-        conflicts=[],
-        story=StoryKit(
-            themes=cfg.get("themes", []),
-            tone=cfg.get("tone", ""),
-            story_type=cfg.get("story_type", ""),
-            default_scene_locations=[],
-            hooks=[],
-        ),
-        receipts=[],
-        name_registry=name_registry,
-    )
-
-    # Create output directory
-    output_dir = get_output_dir(planet.name)
-
-    # Write outputs
-    with open(output_dir / "world_bible.md", "w", encoding="utf-8") as f:
-        f.write(f"# {planet.name} World Bible\n\n")
-        f.write(f"## Planetary Data\n{planet}\n\n")
-        # (Add more sections as needed)
-
-    with open(output_dir / "canon.json", "w", encoding="utf-8") as f:
-        json.dump(asdict(world), f, indent=2, ensure_ascii=False)
-
-    print(f"World generated: {planet.name}\nOutput folder: {output_dir}")
-
-
-
-# ----------------------------
-# Utilities
-# ----------------------------
-
-SEASONS = ["Thaw", "Bloom", "Highsun", "Harvest", "Sootfall", "Deepfrost"]
-
-VOWELS = set("aeiouy")
-
-def clamp(v: float, lo: float, hi: float) -> float:
-    return max(lo, min(hi, v))
-
-def dist(a: Tuple[float, float], b: Tuple[float, float]) -> float:
-    return math.hypot(a[0] - b[0], a[1] - b[1])
-
-def weighted_choice(rng: random.Random, items: List[Tuple[str, float]]) -> str:
-    pass  # ...existing code...
-# ----------------------------
-# Output directory logic
-# ----------------------------
-def get_output_dir(planet_name: str) -> Path:
-    """Create and return the output directory for the generated world."""
-    base_dir = Path(__file__).parent.parent / "world_pipeline"
-    folder_name = slugify(planet_name)
-    output_dir = base_dir / folder_name
-    output_dir.mkdir(parents=True, exist_ok=True)
-    return output_dir
-
-# ----------------------------
-# Main execution block
 # ----------------------------
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Worldbuilder: Generate a world compendium.")
@@ -901,215 +721,3 @@ def gen_polities(
 
     govs = ["crowned-council", "merchant-republic", "temple-compact", "military-duchy", "charter-league"]
     ide_pool = ["order", "honor", "profit", "piety", "unity", "purity", "tradition", "reform", "autonomy", "mercy"]
-
-    law_pool = [
-        "Proof beats reputation in court; receipts and witnesses decide.",
-        "Port tariffs fund winter grain reserves — audited by a rival office.",
-        "Guild charters grant monopoly only with public quotas.",
-        "Conscription limited to one season in three — exemptions must be stamped.",
-        "Debt labor is legal only with a written sunset date and a witness mark.",
-        "Relics may not be sold — only leased via temple bond."
-    ]
-
-    inst_pool = [
-        "harbor office", "grain bureau", "guild tribunal",
-        "border watch", "sanctuary clinics", "roadwardens", "mint commission"
-    ]
-
-    polities: Dict[str, Polity] = {}
-    for i, cap_id in enumerate(capitals):
-        pid = f"P{i+1}"
-        government = rng.choice(govs)
-        ideology = rng.sample(ide_pool, k=3)
-
-        member_ids = [sid for sid, cap in membership.items() if cap == cap_id]
-        pop = sum(settlements[sid].population for sid in member_ids)
-
-        base_army = rng.uniform(0.02, 0.09) if government != "military-duchy" else rng.uniform(0.06, 0.14)
-        army_pct = float(f"{base_army:.3f}")
-        treasury = float(f"{rng.uniform(0.6, 1.4):.2f}")
-
-        regs = {settlements[sid].region_id for sid in member_ids}
-        available = set()
-        for rid in regs:
-            available |= set(regions[rid].resources)
-
-        exports = sorted(
-            rng.sample(list(available), k=min(len(available), rng.randint(2, 4)))
-        ) if available else ["labor"]
-        needs = [r for r in resources if r not in available]
-        imports = sorted(
-            rng.sample(needs, k=min(len(needs), rng.randint(2, 4)))
-        ) if needs else ["luxury-goods"]
-
-        name_meaning: List[str] = []
-        if government in ("merchant-republic", "charter-league"):
-            name_meaning = ["league"]
-        elif "temple" in government:
-            name_meaning = ["temple"]
-        name = namer.name("polity", pid, name_meaning)
-
-        laws = rng.sample(law_pool, k=3)
-        inst = rng.sample(inst_pool, k=3)
-
-        notes = [
-            f"Capital is {settlements[cap_id].name}; legitimacy flows through {government.replace('-', ' ')} procedure.",
-            f"Exports emphasize {', '.join(exports)}; imports rely on {', '.join(imports)}."
-        ]
-
-        polities[pid] = Polity(
-            id=pid,
-            name=f"{name} Dominion",
-            capital_id=cap_id,
-            government=government,
-            ideology=ideology,
-            population=pop,
-            army_pct=army_pct,
-            treasury_index=treasury,
-            exports=exports,
-            imports=imports,
-            laws=laws,
-            institutions=inst,
-            notes=notes
-        )
-
-    return polities
-
-def gen_factions(rng: random.Random, polities: Dict[str, Polity], resources: List[str], namer: NameForge) -> Dict[str, Faction]:
-    ftypes = ["guild", "church-order", "intelligence-office", "rebel-cell", "noble-house", "mercenary-banner", "smugglers"]
-    goal_pool = [
-        "control tariffs", "break a monopoly", "protect pilgrims", "overthrow a regent", "legalize a banned rite",
-        "secure grain reserves", "end conscription abuse", "corner the salt trade", "rewrite succession law"
-    ]
-    method_pool = ["bribery", "blackmail", "public charity", "targeted violence",
-                   "bureaucratic sabotage", "propaganda", "trade embargo", "strike action"]
-
-    def hook_for(name: str, method: str, res: str) -> List[str]:
-        pipe = PIPELINE_OUTCOMES.get(method, "shadow operations")
-        return [
-            f"A stamped receipt proves {name} funds a 'charity' that is actually a pipeline for {pipe}.",
-            f"A missing crate of {res} vanished on a route that {name} 'audits'."
-        ]
-
-    factions: Dict[str, Faction] = {}
-    idx = 1
-
-    polity_ids = list(polities.keys())
-    for pid in polity_ids:
-        for _ in range(random.randint(2, 3)):
-            fid = f"F{idx}"
-            idx += 1
-            base = namer.name("faction", fid, ["market"])
-            suffix = rng.choice(["Accord", "Cabal", "Ledger", "Host", "Covenant", "Office", "Banner"])
-            name = f"{base} {suffix}"
-            ftype = rng.choice(ftypes)
-            goals = rng.sample(goal_pool, k=2)
-            methods = rng.sample(method_pool, k=3)
-            res = rng.sample(resources, k=2) + [ftype]
-            hooks = hook_for(name, methods[0], rng.choice(resources))
-            factions[fid] = Faction(
-                id=fid, name=name, polity_id=pid, type=ftype,
-                goals=goals, methods=methods, resources=res,
-                enemies=[], allies=[], hooks=hooks
-            )
-
-    fid = f"F{idx}"
-    base = namer.name("faction", fid, ["market"])
-    suffix = random.choice(["Circuit", "Concord", "Undertide", "Else-Rail"])
-    name = f"{base} {suffix}"
-    factions[fid] = Faction(
-        id=fid, name=name, polity_id=None, type=random.choice(ftypes),
-        goals=["profit from conflict", "control a chokepoint archive"],
-        methods=["forged stamps", "bribed roadwardens", "selective arson"],
-        resources=[random.choice(resources), "maps", "false seals"],
-        enemies=[], allies=[], hooks=[
-            "Their courier carries two identical stamps — one real, one boneglass counterfeit.",
-            "They can prove your ancestry — and they can also erase it."
-        ]
-    )
-
-    fids = list(factions.keys())
-    for f in factions.values():
-        others = [x for x in fids if x != f.id]
-        random.shuffle(others)
-        f.allies = others[:random.randint(0, 2)]
-        start = random.randint(2, 3)
-        end = random.randint(4, 6)
-        f.enemies = others[start:end]
-
-    return factions
-
-def gen_magic(rng: random.Random, cfg: Dict) -> MagicSystem:
-    presence = cfg.get("magic_presence", "rare")
-    hardness = cfg.get("magic_hardness", "hard")
-
-    if presence == "none":
-        return MagicSystem(
-            presence="none", hardness=hardness,
-            inputs=[], outputs=[], costs=[], failure_modes=[],
-            countermeasures=[], second_order_effects=[],
-            notes=["No verified magic; belief still shapes politics."]
-        )
-
-    inputs = ["rare reagents", "oaths spoken to witnesses", "glyphwork on boneglass", "blood-warm catalysts"] if hardness != "soft" else ["belief", "ritual", "sacrifice"]
-    outputs = ["short-range warding", "truth-pressure in testimony", "localized distortion of sound/light", "binding a minor spirit into a tool"]
-    costs = ["migraine debt", "scar tissue in the caster's hands", "collateral binding (someone else inherits a cost)", "legal liability (licensed only)"]
-    failure = ["ward inversion", "false-positive truth reads", "runaway binding", "ritual backlash onto witnesses"]
-    counters = ["seal-paste nulling", "iron-gall inks that resist glyphwork", "oath-auditors and receipts", "salt-thread boundaries"]
-    effects = [
-        "Courts demand receipts: a truth-rite is admissible only with witness marks and counter-seals.",
-        "Insurance markets exist for licensed casters; premiums spike in flood season.",
-        "Smuggling uses counterfeit seals and forced witnesses — creating a black market in testimony."
-    ]
-    notes = ["Magic is procedural and expensive; its biggest impact is institutional, not flashy combat."]
-
-    return MagicSystem(
-        presence=presence, hardness=hardness,
-        inputs=inputs, outputs=outputs,
-        costs=costs, failure_modes=failure,
-        countermeasures=counters, second_order_effects=effects,
-        notes=notes
-    )
-
-def gen_timeline(rng: random.Random, cfg: Dict, polities: Dict[str, Polity], resources: List[str]) -> List[Event]:
-    start_year = -rng.randint(160, 260)
-    end_year = 0
-    n = rng.randint(55, 85) if cfg.get("scale") == "continent" else rng.randint(35, 55)
-
-    templates = [
-        ("Grain Shortage", ["blight", "late-frost", "war requisitions"], ["rationing stamps", "food riots", "new tariffs"]),
-        ("Succession Crisis", ["sudden death", "forged lineage", "temple refusal"], ["border raids", "new regent law", "purges"]),
-        ("Trade War", ["tariff hike", "seized caravan", "harbor blockade"], ["price spike", "smuggling boom", "treaty court"]),
-        ("Flood Year", ["river overrun", "storm surge", "dam failure"], ["relocation", "new levee office", "disease wave"]),
-        ("Border Campaign", ["raider season", "ideological split", "mercenary contract"], ["fort expansion", "debt taxes", "missing veterans"]),
-        ("Relic Scandal", ["temple audit", "fake seals", "stolen relic"], ["public trial", "new seal standards", "assassination attempt"]),
-    ]
-
-    polity_names = [p.name for p in polities.values()]
-    events: List[Event] = []
-
-    roots = rng.randint(4, 7)
-    for i in range(roots):
-        title, _, cons = rng.choice(templates)
-        eid = f"E{i+1}"
-        year = start_year + int((i / max(1, roots - 1)) * (abs(start_year)))
-        season = rng.choice(SEASONS)
-        agents = rng.sample(polity_names, k=min(len(polity_names), rng.randint(1, 2)))
-        c1 = rng.choice(cons)
-        c2 = rng.choice(cons)
-        if c2 == c1:
-            c2 = rng.choice([x for x in cons if x != c1] or [c1])
-        consequences = [c1, c2, f"{rng.choice(resources)} prices move for a decade"]
-        events.append(Event(id=eid, year=year, season=season, title=title, cause_ids=[], agents=agents, consequences=consequences))
-
-    for i in range(roots, n):
-        title, _, cons = rng.choice(templates)
-        eid = f"E{i+1}"
-        cause = rng.choice(events)
-        year = int(clamp(rng.gauss(cause.year + rng.randint(2, 18), 12), start_year, end_year))
-        season = rng.choice(SEASONS)
-        agents = rng.sample(polity_names, k=min(len(polity_names), rng.randint(1, 3)))
-        c1 = rng.choice(cons)
-        c2 = rng.choice(cons)
-        if c2 == c1:
-            c2 = rng.choice([x for x in cons if x != c1] or [c1])

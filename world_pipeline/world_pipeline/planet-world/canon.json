@@ -1,0 +1,96 @@
+{
+  "seed": 641141,
+  "config": {
+    "seed": 641141,
+    "tone": "grounded-dark",
+    "realism_target": "high",
+    "scale": "continent",
+    "story_type": "political-intrigue",
+    "tech_level": "late-medieval",
+    "magic_presence": "rare",
+    "magic_hardness": "hard",
+    "themes": [
+      "scarcity",
+      "institutional-rot",
+      "moral-tradeoffs",
+      "duty-vs-love"
+    ],
+    "no_go": [
+      "prophecy-solves-everything",
+      "free-energy-magic",
+      "omniscient-gods"
+    ],
+    "inspirations": [
+      "ports-and-chokepoints",
+      "winter-pressure",
+      "guild-law",
+      "border-marches"
+    ],
+    "naming": {
+      "profile": "slavic_soft",
+      "max_cluster": 2,
+      "min_vowel_spacing": 4,
+      "entity_syllables": {
+        "planet": [
+          3,
+          4
+        ],
+        "region": [
+          2,
+          3
+        ],
+        "settlement": [
+          2,
+          3
+        ],
+        "polity": [
+          2,
+          4
+        ],
+        "faction": [
+          2,
+          4
+        ]
+      },
+      "semantic_names": true,
+      "dialects": true
+    }
+  },
+  "planet": {
+    "name": "planet_world",
+    "gravity_g": 0.87,
+    "day_hours": 22.4,
+    "year_days": 364,
+    "axial_tilt_deg": 19.7,
+    "notes": [
+      "Day length is 22.4 hours; watch schedules and night travel rules matter.",
+      "Year length is 364 days; seasonal taxes and supply cycles are explicit.",
+      "Gravity ~0.87g; load limits and fatigue show up in logistics."
+    ]
+  },
+  "regions": null,
+  "settlements": null,
+  "routes": null,
+  "polities": null,
+  "factions": null,
+  "magic": null,
+  "timeline": null,
+  "conflicts": [],
+  "story": {
+    "themes": [
+      "scarcity",
+      "institutional-rot",
+      "moral-tradeoffs",
+      "duty-vs-love"
+    ],
+    "tone": "grounded-dark",
+    "story_type": "political-intrigue",
+    "default_scene_locations": [],
+    "hooks": [],
+    "dont_break": []
+  },
+  "receipts": [],
+  "name_registry": {
+    "planet:world": "planet_world"
+  }
+}
