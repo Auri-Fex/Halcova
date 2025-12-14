@@ -61,12 +61,14 @@ nav {
   /* Hide sidebar only on the home page */
 }
 
-body[data-md-page="index"] .md-sidebar {
+body.homepage .bs-sidebar {
   display: none !important;
 }
 
-body[data-md-page="index"] .md-content {
+body.homepage .col-md-9 {
   margin-left: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
 }
 .md-typeset a:hover {
   color: #FFD700;
