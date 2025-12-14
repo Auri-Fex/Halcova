@@ -57,6 +57,17 @@ nav {
   color: #3DDAD7;
   transition: color 0.2s;
 }
+.md-sidebar {
+  /* Hide sidebar only on the home page */
+}
+
+body[data-md-page="index"] .md-sidebar {
+  display: none !important;
+}
+
+body[data-md-page="index"] .md-content {
+  margin-left: 0 !important;
+}
 .md-typeset a:hover {
   color: #FFD700;
 }
