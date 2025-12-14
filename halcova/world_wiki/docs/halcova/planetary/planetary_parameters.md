@@ -1,4 +1,4 @@
-# Hálcova: Planetary Parameters
+<div style="font-size:2em; font-weight:bold; margin-top:0.5em; margin-bottom:0.5em;">Hálcova: Planetary Parameters</div>
 
 ## The Star: Sárgvas (The Amber Eye)
 

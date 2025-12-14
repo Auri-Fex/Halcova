@@ -1,30 +1,30 @@
-# The Five Arts of Hálcova
 
-## A Comprehensive Guide to the Magic Systems
+<div style="font-size:2.2em; font-weight:bold; margin-top:0.5em; margin-bottom:0.2em;">The Five Arts of Hálcova</div>
+<div style="font-size:1.2em; font-weight:bold; margin-bottom:1em;">A Comprehensive Guide to the Magic Systems</div>
 
 ---
 
-# Overview
+## Overview
 
 In Hálcova, power is never free. Every magical tradition operates on the same fundamental truth: you must spend something real to gain something real. There are no shortcuts, no loopholes, no clever tricks that let you escape the cost. The universe keeps ledgers, and it always collects.
 
 The five magical traditions—collectively called the Five Arts—each represent a different answer to the question: *What are you willing to pay?*
 
-| Art | What You Spend | What You Get | What It Costs You |
-|-----|---------------|--------------|-------------------|
-| **Core Binding** | The dead | Echoes of the deceased | Your sense of self (bleed corruption) |
-| **Flesh Shaping** | Blood and meat | Constructed servants | Your body and humanity |
-| **Pact Summoning** | Your soul | Elsewhere entities | Your autonomy and existence |
-| **Fate Threading** | Your future | Versions of yourself | Your potential and becoming |
-| **Colony Summoning** | Corpses and biomass | Fungal constructs | Your identity and bodily sovereignty |
+| Art                        | What You Spend      | What You Get           | What It Costs You                     |
+| -------------------------- | ------------------- | ---------------------- | ------------------------------------- |
+| **Core Binding**     | The dead            | Echoes of the deceased | Your sense of self (bleed corruption) |
+| **Flesh Shaping**    | Blood and meat      | Constructed servants   | Your body and humanity                |
+| **Pact Summoning**   | Your soul           | Elsewhere entities     | Your autonomy and existence           |
+| **Fate Threading**   | Your future         | Versions of yourself   | Your potential and becoming           |
+| **Colony Summoning** | Corpses and biomass | Fungal constructs      | Your identity and bodily sovereignty  |
 
 Each Art is a transaction. Each transaction has fine print. Nobody reads the fine print until it's too late.
 
 ---
 
-# Category One: Core Binding
+## Core Binding
 
-## The Art of Holding the Dead
+<div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Holding the Dead</div>
 
 ### Fundamental Principle
 
@@ -49,12 +49,14 @@ Cores must be harvested at or shortly after death. The process varies by traditi
 Skilled harvesters can sense cores. They know when one is strong (a person who died with purpose, with unfinished business, with intensity) and when one is weak (peaceful deaths, accepted endings, lives that felt complete).
 
 The strongest cores come from:
+
 - Violent deaths
 - Deaths with unfinished purpose
 - Deaths accompanied by intense emotion
 - Deaths that the dying refused to accept
 
 The weakest cores come from:
+
 - Peaceful passings
 - Deaths accepted and prepared for
 - Lives that felt complete
@@ -67,6 +69,7 @@ The weakest cores come from:
 A core needs a home. The anchor is a physical object that houses the bound echo—a prison dressed as a portrait.
 
 Anchors can take many forms:
+
 - Carved figurines or statuettes
 - Painted tiles or tablets
 - Etched metal plates
@@ -78,7 +81,6 @@ Anchors can take many forms:
 The anchor must **depict** the bound echo. This can happen two ways:
 
 1. **Natural manifestation**: The anchor *changes* when a core is bound to it, the image of the echo appearing on or in the material as if etched by invisible hands.
-
 2. **Artistic creation**: The binder creates the depiction deliberately, crafting an image of the creature to be bound before or during the binding process.
 
 Looking at a binder's collection tells you who they carry. The echoes watch out from their prisons, rendered in whatever medium houses them.
@@ -98,7 +100,6 @@ To summon an echo, a binder activates its anchor. The echo manifests physically,
 Multiple simultaneous activations create problems:
 
 1. **Resonance interference**: Too many active echoes at once causes bleeding between them. Their memories mix. Their identities blur. Two echoes might start sharing the same thought, speaking in unison, losing track of which one is which.
-
 2. **Physical drain**: Every active echo taxes the binder. The more echoes active, the greater the exhaustion. Running too many is like holding your breath—eventually something gives.
 
 The limit is personal. Some binders can run four echoes comfortably. Others struggle with two. Veterans know their limit exactly. Amateurs find out the hard way, usually when their echoes start merging into something that used to be two people and is now neither.
@@ -112,6 +113,7 @@ Echoes don't maintain themselves. They need fuel—a consumable resource that ke
 **What It Does**
 
 The resource feeds the anchor, which feeds the echo. Without regular doses:
+
 - The echo becomes confused
 - Memories fragment and scramble
 - Identity degrades
@@ -120,6 +122,7 @@ The resource feeds the anchor, which feeds the echo. Without regular doses:
 **Resource Economy**
 
 The resource creates an entire economy:
+
 - **Harvesters** who collect it from sources
 - **Refiners** who process it into usable form
 - **Merchants** who trade it
@@ -138,6 +141,7 @@ An echo that realizes it's dead burns through resources faster. The awareness cr
 **Quality Matters**
 
 The resource can be:
+
 - Adulterated (stretched with fillers—causes instability)
 - Counterfeited (fake—causes degradation)
 - Aged (loses potency over time)
@@ -158,9 +162,7 @@ Holding echoes costs you. Not in resource or effort—in *self*. The echoes blee
 **Manifestations**
 
 1. **Phantom sensations**: You feel echoes of how they died. Carry someone who burned, and your skin prickles with heat. Carry someone who drowned, and you're short of breath in open air.
-
 2. **Behavioral drift**: You pick up habits that aren't yours. Preferences shift. You hate a food you used to love. You flinch at dogs, and you've never had a bad experience with dogs—but one of your echoes did.
-
 3. **Memory intrusion**: Flashes of their life. A spouse's face you've never seen. A childhood home that isn't yours. The more you carry, the more other lives crowd into your head.
 
 **Awareness Accelerates Decay**
@@ -201,11 +203,8 @@ Releasing is admitting it's over. Most people aren't good at that.
 The living.
 
 1. **Family members**: Someone recognizes a bound echo. Their mother. Their brother. Their child. The echo doesn't understand why this stranger is crying and begging the binder to "let them go." The family member understands too well.
-
 2. **Religious/philosophical groups**: Traditions that believe the dead deserve passage, that binding is desecration, that what binders do is cosmic crime. Some are peaceful advocates. Some are violent abolitionists.
-
 3. **Former binders**: People who released their echoes and now crusade against the practice. Converts are the most zealous preachers. "I know what it's like to hold someone against their will. I know what I told myself to justify it. I'm not letting anyone else live that lie."
-
 4. **Governments**: Not opposed to binding—opposed to *uncontrolled* binding. They want to regulate who gets to keep their dead. Registration. Taxation. Restrictions on certain echoes (public figures, criminals, military personnel). The opposition isn't moral; it's bureaucratic.
 
 ### Economy
@@ -252,9 +251,9 @@ Anomalies are rare, disturbing, and valuable to certain collectors. They're also
 
 ---
 
-# Category Two: Flesh Shaping (Homunculus Crafting)
+## Flesh Shaping
 
-## The Art of Building Servants
+<div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Building Servants</div>
 
 ### Fundamental Principle
 
@@ -340,6 +339,7 @@ A crafter is **always bleeding**. Six constructs means six drops a day, minimum.
 It needs the crafter's blood to be *made*. But once it exists, it can be sustained on anyone's.
 
 The temptation is always there:
+
 - You're tapped out, anemic, exhausted
 - There's a prisoner in the basement
 - There's a beggar who won't be missed
@@ -358,12 +358,14 @@ Where does the blood come from?
 **The Homunculus Knows**
 
 It can smell blood. It can tell the difference between:
+
 - Willing and unwilling
 - Healthy and sick
 - Its maker and a stranger
 - Fear-blood and calm-blood
 
 Some crafters swear their constructs behave differently depending on what they've been fed:
+
 - More vicious on fear-blood
 - Sluggish on the blood of the drugged
 - *Eager* when they've tasted someone they'll meet again
@@ -416,6 +418,7 @@ The dangerous ones.
 Built to pass as human. Built to fool people who know what homunculi look like. Built, sometimes, to impersonate a specific person.
 
 Requirements:
+
 - Exceptional skill
 - Massive vitality investment
 - Often a core fragment from someone who knew how to *be* a person (burned in the creation, not bound—but the traces remain)
@@ -462,11 +465,8 @@ The homunculi themselves don't seem to have opinions on the matter. Or if they d
 **What Does Flesh Shaping Exploit?**
 
 1. **The crafter**: Every homunculus costs a piece of you. Noble self-sacrifice or slow suicide dressed as craft?
-
 2. **The materials**: Where do you get the flesh? The bone? Flesh Shapers haunt graveyards, battlefields, slaughterhouses. They make deals with executioners. They show up after disasters with empty carts.
-
 3. **The blood supply**: When your blood runs low, whose do you use? The ethics get murky fast.
-
 4. **The homunculi**: Do they deserve consideration? They experience something. They can suffer, or at least they act like they can. Does their artificial origin excuse how we treat them?
 
 The crafter who says "it's just a construct" sounds a lot like the binder who says "it's just an echo." The rationalization is different. The function is the same.
@@ -511,9 +511,9 @@ The homunculus itself isn't a citizen, was never a citizen, can't become a citiz
 
 ---
 
-# Category Three: Pact Summoning (The Elsewhere)
+## Pact Summoning
 
-## The Art of Dealing with the Outside
+<div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Dealing with the Outside</div>
 
 ### Fundamental Principle
 
@@ -580,6 +580,7 @@ The entity wants your **core**. The same thing a Core Binder would harvest from 
 Every summoning. Every use of the pact's power. Every favor called in. Each one costs a piece of you.
 
 You feel it:
+
 - A coldness that doesn't warm
 - Fatigue that sleep doesn't fix
 - The sense that you're *less* than you were yesterday, in a way you can't name
@@ -597,11 +598,8 @@ And people say yes anyway.
 **Why Would Anyone Agree?**
 
 - **Power now, death later.** For someone with nothing, that's a trade worth making. You get decades of capability in exchange for a shorter life. If your life was going to be short and powerless anyway, this is an upgrade.
-
 - **The timeline is negotiable.** Small pacts, small bites. Use the power sparingly, and you might get decades before the debt comes due. Use it constantly, and you might have months.
-
 - **Some people don't plan to live long anyway.** Soldiers. Assassins. The terminally ill. The suicidal. The entity offers a way to *matter* before the end.
-
 - **Arrogance.** The belief that you'll find a way out. That you're smarter than everyone who came before. That you'll be the one to beat the system.
 
 You won't be. But you'll believe it until you don't.
@@ -617,9 +615,7 @@ The entity doesn't care whose core it gets. A core is a core. But you have to *d
 **Classic Arrangements**
 
 - **First-born clauses**: The child isn't born yet. You're mortgaging a future you can't see. By the time the debt comes due, you've had years to love what you promised away.
-
 - **Seventh son of a seventh son**: Rare cores are worth more. One exceptional soul might buy you years off your own debt.
-
 - **Designated sacrifices**: Prisoners. Slaves. The defeated. If you can deliver someone's core to the entity, it counts. How you get it is your problem.
 
 **Secondary Markets**
@@ -647,9 +643,7 @@ The terms are the terms. You agreed. The entity will collect what it's owed, one
   This is rare. Elsewhere entities are hard to find when they don't want to be found. Harder to hurt when they're found. They know they have enemies, and they're careful.
 
   But it happens. Some summoners spend their entire lives searching for a way to kill what they owe.
-
 - **Other entities might help.** Faction politics in the Elsewhere mean your creditor's enemies might be willing to deal. You could trade one pact for another. One master for another. Out of the pot, into the fire.
-
 - **Early collection.** If the entity decides you're more trouble than you're worth, it can call the debt due. All of it. At once. You don't survive that. But at least you're not in debt anymore.
 
 **Evil Genie Escapes**
@@ -705,11 +699,8 @@ You're not just paying with your core. The connection itself marks you.
 **Manifestations**
 
 1. **Perception shifts**: The boundary thins for you. You see cracks in reality where others see solid walls. Glimpses of Elsewhere bleeding through at odd moments. Dreams that aren't dreams.
-
 2. **Resonance**: Other entities notice you. You're marked as someone who deals. Some are curious. Some are hungry. Some are your patron's enemies, looking for leverage.
-
 3. **Faction drift**: Your patron's nature echoes in you. Not memories like Core Binding's bleed—*tendencies*. You start wanting what they want. Valuing what they value. The longer the pact, the more you serve their interests without being asked.
-
 4. **The door**: If you've given access as part of your terms, you're not always sure when it's open. Gaps in your memory. Actions you don't remember taking. The question of who's driving.
 
 ### The Consumed
@@ -727,6 +718,7 @@ What remains varies:
 - Or the body just stops. Heart keeps beating for a while, then doesn't. No violence, no unusual decay. Just vacancy, then nothing.
 
 Different factions leave different remains:
+
 - The Hungry leave bodies that look *starved*—not thin, just emptied
 - The Mirrors leave bodies that don't move right anymore, like something's trying to remember how limbs work
 - The Absent leave bodies that are simply... gone. There one moment, not there the next. No one sees them leave.
@@ -832,6 +824,7 @@ The only honest answer is "we don't know." That might be the most dangerous answ
 Unknown. Load-bearing mystery.
 
 Hints:
+
 - **The Accountants** file them. Somewhere. For something.
 - **The Hungry** consume them. Gone. Used up. Fuel.
 - **The Architects** place them. Pieces on a board. Maybe still aware.
@@ -850,7 +843,7 @@ Hints:
 
 ---
 
-# Category Four: Fate Threading
+## Fate Threading
 
 ## The Art of Spending Tomorrow
 
@@ -904,9 +897,7 @@ Any version of yourself that could exist based on choices you haven't made yet.
 **Examples**
 
 - **Tomorrow you face a duel.** You can pull the you who wins—skilled, confident, bloody-handed. (You cannot pull the you who dies. Dead futures contain nothing to extract.)
-
 - **Next year you might take a job with a merchant house.** You can pull the you who spent a decade there, learned the trade, made the connections. But then you'll never be able to take that job naturally—the future's already been harvested.
-
 - **You're considering marriage.** You can pull the you who said yes, lived that life, raised those children. But if you pull the married-you, you've spent that future. You might still marry her, but it won't be the same. That fate-line is corrupted.
 
 ### What You Cannot Pull
@@ -1043,7 +1034,7 @@ Some wait.
 
 ---
 
-# Category Five: Colony Summoning
+## Colony Summoning
 
 ## The Art of Growing What You've Eaten
 
@@ -1066,9 +1057,7 @@ It's not intelligent. Not exactly. But it *remembers*. Chemically, structurally.
 Three paths:
 
 1. **Inheritance**: Some bloodlines have carried colonies for generations. The fungus passes from parent to child—in the womb, through nursing, through deliberate ritual feeding. These colonies are old, rich with patterns, heavy with the dead of your ancestors.
-
 2. **Implantation**: Deliberate infection. Consume a prepared culture. Inhale spores from an established host. Let someone cut you and pack the wound with living mycelium. The colony takes root over weeks—painful weeks, as it learns your body and you learn its hunger.
-
 3. **Wild infection**: Rare and dangerous. Wild strains aren't adapted to human hosts. They might consume you instead of partnering. But they also haven't been domesticated, limited, bred for obedience. Wild hosts are unstable and powerful.
 
 **The Relationship**
@@ -1228,7 +1217,7 @@ Decades of hosting:
 
 ---
 
-# System Interactions
+## System Interactions
 
 ## Cross-Practice Dynamics
 
@@ -1236,13 +1225,13 @@ The Five Arts don't exist in isolation. Practitioners encounter each other, comp
 
 ### How Practitioners View Each Other
 
-| | Core Binding | Flesh Shaping | Pact Summoning | Fate Threading | Colony Summoning |
-|---|---|---|---|---|---|
-| **Core Binders think...** | — | "Butchers playing with meat" | "Fools selling themselves" | "Clever but limited" | "Disgusting parasites" |
-| **Flesh Shapers think...** | "Sentimental prisoners" | — | "Cheaters who buy power" | "Interesting but impractical" | "Similar work, cruder method" |
-| **Pact Summoners think...** | "Small ambitions" | "Too much work" | — | "Eating themselves" | "At least they chose it" |
-| **Fate Threaders think...** | "Dependent on others' deaths" | "Limited by skill" | "Mortgaged to outsiders" | — | "Gave up their body" |
-| **Colony Hosts think...** | "We both use the dead" | "Professional kinship" | "Dangerous deals" | "Lonely method" | — |
+|                                   | Core Binding                  | Flesh Shaping                | Pact Summoning             | Fate Threading                | Colony Summoning              |
+| --------------------------------- | ----------------------------- | ---------------------------- | -------------------------- | ----------------------------- | ----------------------------- |
+| **Core Binders think...**   | —                            | "Butchers playing with meat" | "Fools selling themselves" | "Clever but limited"          | "Disgusting parasites"        |
+| **Flesh Shapers think...**  | "Sentimental prisoners"       | —                           | "Cheaters who buy power"   | "Interesting but impractical" | "Similar work, cruder method" |
+| **Pact Summoners think...** | "Small ambitions"             | "Too much work"              | —                         | "Eating themselves"           | "At least they chose it"      |
+| **Fate Threaders think...** | "Dependent on others' deaths" | "Limited by skill"           | "Mortgaged to outsiders"   | —                            | "Gave up their body"          |
+| **Colony Hosts think...**   | "We both use the dead"        | "Professional kinship"       | "Dangerous deals"          | "Lonely method"               | —                            |
 
 ### Can Systems Combine?
 
@@ -1282,13 +1271,14 @@ The interactions haven't been thoroughly explored. They're dangerous to test.
 
 ---
 
-# The Universal Truth
+## The Universal Truth
 
 Every Art in Hálcova operates on the same principle:
 
 **You must spend something real to gain something real.**
 
 The currency varies:
+
 - The dead and your sense of self (Core Binding)
 - Blood and your humanity (Flesh Shaping)
 - Your soul in installments (Pact Summoning)

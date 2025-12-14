@@ -1,4 +1,4 @@
-# Hálcova: Historical Climate and the Cooling Event
+<div style="font-size:2em; font-weight:bold; margin-top:0.5em; margin-bottom:0.5em;">Hálcova: Historical Climate and the Cooling Event</div>
 
 ## Overview
 

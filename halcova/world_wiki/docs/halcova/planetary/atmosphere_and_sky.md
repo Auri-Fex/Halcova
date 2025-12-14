@@ -1,4 +1,4 @@
-# Hálcova: Atmosphere and Sky Phenomena
+<div style="font-size:2em; font-weight:bold; margin-top:0.5em; margin-bottom:0.5em;">Hálcova: Atmosphere and Sky Phenomena</div>
 
 ## Overview
 

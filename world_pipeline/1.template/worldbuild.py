@@ -1,6 +1,108 @@
-
-
+# from __future__ import annotations must be first
 from __future__ import annotations
+# ----------------------------
+# Minimal dataclasses for StoryKit, World, and Planet
+# ----------------------------
+from dataclasses import dataclass, field
+from typing import List, Dict, Any
+
+@dataclass
+class StoryKit:
+    themes: List[str]
+    tone: str
+    story_type: str
+    default_scene_locations: List[str]
+    hooks: List[str]
+    dont_break: List[str] = field(default_factory=list)
+
+@dataclass
+class Planet:
+    name: str
+    gravity_g: float
+    day_hours: float
+    year_days: int
+    axial_tilt_deg: float
+    notes: List[str] = field(default_factory=list)
+
+@dataclass
+class World:
+    seed: int
+    config: Dict[str, Any]
+    planet: Planet
+    regions: Dict[str, Any]
+    settlements: Dict[str, Any]
+    routes: List[Any]
+    polities: Dict[str, Any]
+    factions: Dict[str, Any]
+    magic: Any
+    timeline: List[Any]
+    conflicts: List[Any]
+    story: Any
+    receipts: List[Any] = field(default_factory=list)
+    name_registry: Dict[str, str] = field(default_factory=dict)
+# ----------------------------
+
+
+# ----------------------------
+# Imports
+# ----------------------------
+import re
+import argparse
+import json
+import math
+import random
+import hashlib
+from dataclasses import dataclass, field
+from typing import List, Dict, Any, Optional, Tuple
+# ----------------------------
+# Minimal slugify function
+# ----------------------------
+import re
+def slugify(value: str) -> str:
+    value = value.lower()
+    value = re.sub(r'[^a-z0-9]+', '-', value)
+    return value.strip('-')
+# ----------------------------
+# Minimal StoryKit dataclass
+# ----------------------------
+from dataclasses import dataclass, field
+from typing import List, Dict, Any
+
+# ----------------------------
+# Minimal World dataclass
+# ----------------------------
+from typing import Dict, List, Any
+from dataclasses import dataclass, field
+
+@dataclass
+class World:
+    seed: int
+    config: Dict[str, Any]
+    planet: Planet
+    regions: Dict[str, Any]
+    settlements: Dict[str, Any]
+    routes: List[Any]
+    polities: Dict[str, Any]
+    factions: Dict[str, Any]
+    magic: Any
+    timeline: List[Any]
+    conflicts: List[Any]
+    story: Any
+    receipts: List[Any] = field(default_factory=list)
+    name_registry: Dict[str, str] = field(default_factory=dict)
+# ----------------------------
+# Minimal Planet dataclass
+# ----------------------------
+
+@dataclass
+class Planet:
+    name: str
+    gravity_g: float
+    day_hours: float
+    year_days: int
+    axial_tilt_deg: float
+    notes: List[str] = field(default_factory=list)
+
 import argparse
 import json
 import math
@@ -13,6 +115,21 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 # ----------------------------
+# Utilities (moved up)
+# ----------------------------
+SEASONS = ["Thaw", "Bloom", "Highsun", "Harvest", "Sootfall", "Deepfrost"]
+VOWELS = set("aeiouy")
+
+def clamp(v: float, lo: float, hi: float) -> float:
+    return max(lo, min(hi, v))
+
+def dist(a: Tuple[float, float], b: Tuple[float, float]) -> float:
+    return math.hypot(a[0] - b[0], a[1] - b[1])
+
+def weighted_choice(rng: random.Random, items: List[Tuple[str, float]]) -> str:
+    # ...existing code...
+    pass
+
 # Survey defaults → config
 # ----------------------------
 def default_config(seed: Optional[int] = None) -> Dict:
@@ -55,6 +172,120 @@ def get_output_dir(planet_name: str) -> Path:
     output_dir.mkdir(parents=True, exist_ok=True)
     return output_dir
 
+
+
+##############################
+# Minimal NAMING_PROFILES dict
+##############################
+NAMING_PROFILES = {
+    "slavic_soft": {
+        "templates": ["CVCV", "CVCCV", "CVVCV"],
+        "digraphs": ["ch", "sh", "zh", "ts", "dz", "kh", "ph", "th"],
+        "consonants": list("bcdfghjklmnpqrstvwxyz"),
+        "vowels": list("aeiouy"),
+    },
+    # Add more profiles as needed
+}
+
+
+# ----------------------------
+# NameForge class definition (moved up)
+# ----------------------------
+class NameForge:
+    def __init__(self, world_seed: int, cfg: Dict, registry: Dict[str, str]):
+        self.world_seed = world_seed
+        self.cfg = cfg.get("naming", {})
+        self.profile_name = self.cfg.get("profile", "slavic_soft")
+        if self.profile_name not in NAMING_PROFILES:
+            self.profile_name = "slavic_soft"
+        self.profile = NAMING_PROFILES[self.profile_name]
+        self.max_cluster = int(self.cfg.get("max_cluster", 2))
+        self.min_vowel_spacing = int(self.cfg.get("min_vowel_spacing", 4))
+        self.semantic_names = bool(self.cfg.get("semantic_names", True))
+        self.use_dialects = bool(self.cfg.get("dialects", True))
+        self.entity_syllables = self.cfg.get("entity_syllables", {
+            "planet": [3, 4],
+            "region": [2, 3],
+            "settlement": [2, 3],
+            "polity": [2, 4],
+            "faction": [2, 4],
+        })
+        self.registry = registry
+
+    def name(self, entity: str, key: str, meaning: Optional[List[str]] = None,
+             region_id: Optional[str] = None, polity_id: Optional[str] = None) -> str:
+        reg_key = f"{entity}:{key}"
+        if reg_key in self.registry:
+            return self.registry[reg_key]
+
+        rng = random.Random(self.world_seed)
+        # For simplicity, just return a dummy name for now
+        name = f"{entity}_{key}"
+        self.registry[reg_key] = name
+        return name
+
+# ----------------------------
+# Generator function definitions (moved up)
+# ----------------------------
+def gen_planet(rng: random.Random, cfg: Dict, namer: NameForge) -> Planet:
+    realism = cfg.get("realism_target", "high")
+    if realism == "high":
+        g = clamp(rng.gauss(1.02, 0.08), 0.85, 1.25)
+        day = clamp(rng.gauss(24.0, 2.0), 18.0, 34.0)
+        year = int(clamp(rng.gauss(360, 30), 280, 380))
+        tilt = clamp(rng.gauss(22, 6), 5, 35)
+    else:
+        g = clamp(rng.gauss(1.1, 0.2), 0.6, 1.6)
+        day = clamp(rng.gauss(26, 6), 12, 60)
+        year = int(clamp(rng.gauss(420, 80), 180, 900))
+        tilt = clamp(rng.gauss(28, 10), 0, 60)
+
+    name = namer.name("planet", "world", ["reach"])
+    notes = [
+        f"Day length is {day:.1f} hours; watch schedules and night travel rules matter.",
+        f"Year length is {year} days; seasonal taxes and supply cycles are explicit.",
+        f"Gravity ~{g:.2f}g; load limits and fatigue show up in logistics.",
+    ]
+    return Planet(
+        name=name,
+        gravity_g=float(f"{g:.2f}"),
+        day_hours=float(f"{day:.1f}"),
+        year_days=year,
+        axial_tilt_deg=float(f"{tilt:.1f}"),
+        notes=notes
+    )
+
+def gen_regions(rng: random.Random, cfg: Dict, namer: NameForge) -> Dict[str, Region]:
+    # ...existing code...
+    pass
+
+def gen_settlements(rng: random.Random, cfg: Dict, regions: Dict[str, Region], namer: NameForge) -> Dict[str, Settlement]:
+    # ...existing code...
+    pass
+
+def gen_routes(rng: random.Random, settlements: Dict[str, Settlement], regions: Dict[str, Region]) -> List[Route]:
+    # ...existing code...
+    pass
+
+def gen_resources(rng: random.Random, regions: Dict[str, Region]) -> List[str]:
+    # ...existing code...
+    pass
+
+def gen_polities(rng: random.Random, cfg: Dict, settlements: Dict[str, Settlement], regions: Dict[str, Region], resources: List[str], namer: NameForge) -> Dict[str, Polity]:
+    # ...existing code...
+    pass
+
+def gen_factions(rng: random.Random, polities: Dict[str, Polity], resources: List[str], namer: NameForge) -> Dict[str, Faction]:
+    # ...existing code...
+    pass
+
+def gen_magic(rng: random.Random, cfg: Dict) -> MagicSystem:
+    # ...existing code...
+    pass
+
+def gen_timeline(rng: random.Random, cfg: Dict, polities: Dict[str, Polity], resources: List[str]) -> List[Event]:
+    # ...existing code...
+    pass
 
 # ----------------------------
 # Main execution block (single, at end of file)
