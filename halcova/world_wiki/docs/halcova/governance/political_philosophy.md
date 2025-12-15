@@ -1,4 +1,5 @@
-# Hálcova: Political Philosophy in a Fate-Real World
+
+<div class="halcova-header">Hálcova: Political Philosophy in a Fate-Real World</div>
 
 > **Document Scope**: This document explores *philosophical questions* about governance in a world where fate is real and readable. For regional governance structures, see `governance_structures.md`. For legal systems and pattern-crimes, see `legal_frameworks.md`. For a comprehensive overview combining all aspects, see `politics_law_and_systems.md`.
 
