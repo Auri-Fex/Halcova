@@ -16,10 +16,22 @@ if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
     exit 1
 }
 
+
 # Ensure site is built
 if (-not (Test-Path $siteDir/index.html)) {
     Write-Error "Site not built. Please run mkdocs build first."
     exit 1
+}
+
+# Commit and push any uncommitted changes to main before deploying
+Write-Host "Checking for uncommitted changes in the workspace..."
+if ((git status --porcelain) -ne "") {
+    Write-Host "Uncommitted changes detected. Adding, committing, and pushing to main branch."
+    git add .
+    git commit -m "Auto-commit before deploy [automated]"
+    git push origin main
+} else {
+    Write-Host "No uncommitted changes found."
 }
 
 # Save current branch name
