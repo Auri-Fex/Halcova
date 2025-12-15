@@ -1,4 +1,4 @@
-# Hálcova: Governance Structures by Region
+<div class="halcova-header">Hálcova: Governance Structures by Region</div>
 
 > **Document Scope**: This document focuses on *regional governance structures*—how each region actually organizes political power. For philosophical questions about pattern-governance, see `political_philosophy.md`. For legal systems and pattern-crimes, see `legal_frameworks.md`. For a comprehensive overview combining all aspects, see `politics_law_and_systems.md`.
 

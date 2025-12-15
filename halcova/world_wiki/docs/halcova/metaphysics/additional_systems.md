@@ -1,4 +1,4 @@
-# Hálcova: Additional Magical and Technical Systems
+<div class="halcova-header">Hálcova: Additional Magical and Technical Systems</div>
 
 ## Overview
 

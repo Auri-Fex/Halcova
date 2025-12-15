@@ -1,4 +1,4 @@
-# Hálcova: Demographics and Population Economics
+<div class="halcova-header">Hálcova: Demographics and Population Economics</div>
 
 ## The Core Problem
 

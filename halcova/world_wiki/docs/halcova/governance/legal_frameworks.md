@@ -1,4 +1,4 @@
-# Hálcova: Legal Frameworks and Pattern Law
+<div class="halcova-header">Hálcova: Legal Frameworks and Pattern Law</div>
 
 > **Document Scope**: This document details *legal systems and pattern-crimes*—the taxonomy of offenses, court structures, and enforcement mechanisms. For regional governance structures, see `governance_structures.md`. For philosophical questions about pattern-governance, see `political_philosophy.md`. For a comprehensive overview combining all aspects, see `politics_law_and_systems.md`.
 

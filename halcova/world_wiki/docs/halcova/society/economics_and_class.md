@@ -1,4 +1,4 @@
-# Economics and Class in Hálcova
+<div class="halcova-header">Economics and Class in Hálcova</div>
 
 ## Overview
 

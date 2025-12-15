@@ -1,4 +1,4 @@
-# Hálcova: Politics, Law, and the Systems
+<div class="halcova-header">Hálcova: Politics, Law, and the Systems</div>
 
 > **Document Scope**: This is the *comprehensive reference* combining governance structures, legal frameworks, and political philosophy into a single document organized by region. For focused treatments, see: `governance_structures.md` (regional power structures), `political_philosophy.md` (philosophical questions), and `legal_frameworks.md` (legal systems and crimes).
 

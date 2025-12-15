@@ -1,5 +1,5 @@
 
-<div style="font-size:2.2em; font-weight:bold; margin-top:0.5em; margin-bottom:0.2em;">The Five Arts of Hálcova</div>
+<div class="halcova-header">The Five Arts of Hálcova</div>
 <div style="font-size:1.2em; font-weight:bold; margin-bottom:1em;">A Comprehensive Guide to the Magic Systems</div>
 
 ---

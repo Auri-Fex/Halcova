@@ -1,4 +1,4 @@
-# Religion in Hálcova: Faith and Fate
+<div class="halcova-header">Religion in Hálcova: Faith and Fate</div>
 
 ## Overview
 
