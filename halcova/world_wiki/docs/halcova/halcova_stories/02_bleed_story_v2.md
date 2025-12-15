@@ -1,4 +1,4 @@
-# Bleed (v2)
+# Bleed
 
 ## Part One
 
@@ -925,7 +925,3 @@ That was the cost.
 That was the choice.
 
 That was, finally, enough.
-
----
-
-*End of "Bleed" (v2)*

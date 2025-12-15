@@ -939,7 +939,3 @@ She could feel it coming. Could feel it in the fog behind her eyes, in the weigh
 The pattern was still being woven. The ledger was still being written.
 
 And she was finally holding her own thread.
-
----
-
-*End of "The Warden"*

@@ -558,10 +558,6 @@ And for the first time in a thousand years, the people doing the weaving were fi
 
 ---
 
-*End of "The Woven"*
-
----
-
 ## Collection Closing Note
 
 Five stories. Five perspectives on a system's transformation.

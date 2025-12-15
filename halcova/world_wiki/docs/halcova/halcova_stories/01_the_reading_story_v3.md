@@ -1109,7 +1109,3 @@ Something new. Something chosen. Something written in her own hand, in ink that 
 *The ledger of my life*, she thought, *is still being written.*
 
 *And I'm holding the pen.*
-
----
-
-*End of "The Reading"*

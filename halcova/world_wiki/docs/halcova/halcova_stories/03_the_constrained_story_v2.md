@@ -1,4 +1,4 @@
-# The Constrained (v2)
+# The Constrained
 
 ## Part One
 
@@ -871,23 +871,3 @@ Her pattern said Thorn. Her pattern said Maze. Her pattern said she would hurt a
 But patterns didn't determine. They just described.
 
 And Àrnnav was writing her own description now, in a ledger of her own making, with ink that no one else could read.
-
----
-
-*End of "The Constrained" (v2)*
-
----
-
-## Triptych Closing Note
-
-Three stories. Three perspectives on the same system. Three people discovering that the patterns they were assigned—purchased or true—don't determine who they become.
-
-Fèinnav learned that her privileged future was built on lies, and chose to live her true Thorn pattern in her own way.
-
-Vèirnav learned that the dead carry secrets worth dying for, and chose to give those secrets to someone who could use them.
-
-Àrnnav learned that the constrained can still make choices, and chose to build connections that might outlast the system that tried to crush her.
-
-The ledger remains open. The patterns continue to be drawn. But the pen—the pen is starting to change hands.
-
-*End of the Fonváros Triptych*
