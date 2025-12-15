@@ -9,7 +9,7 @@ nav:
     - Lunar System: halcova/planetary/lunar_system.md
     - Climate History: halcova/planetary/climate_history.md
   - Metaphysics:
-    - Metaphysical Spine: halcova/metaphysics/metaphysical_spine.md
+    - Overview: halcova/metaphysics/metaphysical_spine.md
     - Additional Systems: halcova/metaphysics/additional_systems.md
   - Magic Systems:
     - The Five Arts: halcova/magic/the_five_arts.md
@@ -33,11 +33,11 @@ nav:
     - Living Language Slang: halcova/conlang/living_language_slang.md
 
   - Halcova Stories:
-    - The Reading: halcova/halcova_stories/01_the_reading_story_v3.md
-    - Bleed: halcova/halcova_stories/02_bleed_story_v2.md
-    - The Constrained: halcova/halcova_stories/03_the_constrained_story_v2.md
-    - The Warden: halcova/halcova_stories/04_the_warden_story_v2.md
-    - The Woven: halcova/halcova_stories/05_the_woven_story_v2.md
+    - Part One: halcova/halcova_stories/01_the_reading_story_v3.md
+    - Part One: halcova/halcova_stories/02_bleed_story_v2.md
+    - Part One: halcova/halcova_stories/03_the_constrained_story_v2.md
+    - Part One: halcova/halcova_stories/04_the_warden_story_v2.md
+    - Part One: halcova/halcova_stories/05_the_woven_story_v2.md
 
 
 use_directory_urls: true
