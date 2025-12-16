@@ -4,11 +4,11 @@
 ## Overview
 
 
-Every person born in [Hálcova](../../index.md) carries a **Sórscad** (SORE-skahd)—a five-part metaphysical pattern that describes who they are, how they move through life, and what they're likely to become.
+Every person born in Hálcova carries a **Sórscad** (SORE-skahd)—a five-part metaphysical pattern that describes who they are, how they move through life, and what they're likely to become.
 
 
 The Sórscad is:
-- **A metaphysical reality**: Something that exists in the fabric of [Hálcova](../../index.md) itself
+- **A metaphysical reality**: Something that exists in the fabric of Hálcova itself
 - **A predictive framework**: Used by [The Loom](the_loom.md) to calculate probabilities
 - **A religious symbol**: Evidence of Fate's hand in mortal existence
 - **A social marker**: Used in law, commerce, class determination, and identity

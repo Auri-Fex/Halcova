@@ -1,5 +1,5 @@
 
-<div class="halcova-header">[The Five Arts of Hálcova](the_five_arts.md)</div>
+<div class="halcova-header">The Five Arts of Hálcova</div>
 <div style="font-size:1.2em; font-weight:bold; margin-bottom:1em;">A Comprehensive Guide to the Magic Systems</div>
 
 ---
@@ -26,7 +26,7 @@ Each [Art](the_five_arts.md) is a transaction. Each transaction has fine print. 
 ---
 
 
-## [Core Binding](the_five_arts.md#core-binding)
+## Core Binding
 
 <div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Holding the Dead</div>
 
@@ -34,7 +34,7 @@ Each [Art](the_five_arts.md) is a transaction. Each transaction has fine print. 
 
 When a living thing dies, something remains. Not a ghost, not a spirit—something more fundamental. The **core** is the imprint of what a creature was: its patterns, its memories, its essence compressed into something that can be harvested, stored, and summoned.
 
-Core Binding is the practice of trapping these cores in physical [anchors](the_five_arts.md#anchors) and calling them forth as **[echoes](the_five_arts.md#echoes)**—manifestations of the dead that walk, speak, and act as they did in life.
+Core Binding is the practice of trapping these cores in physical anchors and calling them forth as **echoes**—manifestations of the dead that walk, speak, and act as they did in life.
 
 
 The horror: the echoes don't know they're dead. They think they're still alive, still themselves. They might ask about family members who've moved on, wonder why the world has changed, try to go home to houses that no longer exist.
@@ -68,7 +68,7 @@ The weakest cores come from:
 - Deaths in old age after long decline
 
 
-### [Anchors](the_five_arts.md#anchors)
+### Anchors
 
 **Physical Form**
 
@@ -259,14 +259,14 @@ Anomalies are rare, disturbing, and valuable to certain collectors. They're also
 ---
 
 
-## [Flesh Shaping](the_five_arts.md#flesh-shaping)
+## Flesh Shaping
 
 <div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Building Servants</div>
 
 ### Fundamental Principle
 
 
-Flesh Shaping creates **homunculi**—constructed servants built from raw materials and animated with blood. Unlike [echoes](the_five_arts.md#echoes), homunculi never lived. They have no history, no memories, no existence prior to their creation. They are *made*, not captured.
+Flesh Shaping creates **homunculi**—constructed servants built from raw materials and animated with blood. Unlike echoes, homunculi never lived. They have no history, no memories, no existence prior to their creation. They are *made*, not captured.
 
 This sounds cleaner than Core Binding. It isn't. The horror is different, not lesser.
 
@@ -521,7 +521,7 @@ The homunculus itself isn't a citizen, was never a citizen, can't become a citiz
 ---
 
 
-## [Pact Summoning](the_five_arts.md#pact-summoning)
+## Pact Summoning
 
 <div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Dealing with the Outside</div>
 
@@ -855,7 +855,7 @@ Hints:
 ---
 
 
-## [Fate Threading](the_five_arts.md#fate-threading)
+## Fate Threading
 
 ## The Art of Spending Tomorrow
 
@@ -1047,7 +1047,7 @@ Some wait.
 ---
 
 
-## [Colony Summoning](the_five_arts.md#colony-summoning)
+## Colony Summoning
 
 ## The Art of Growing What You've Eaten
 
