@@ -1,28 +1,32 @@
 
-<div class="halcova-header">The Five Arts of Hálcova</div>
+<div class="halcova-header">[The Five Arts of Hálcova](the_five_arts.md)</div>
 <div style="font-size:1.2em; font-weight:bold; margin-bottom:1em;">A Comprehensive Guide to the Magic Systems</div>
 
 ---
 
 ## Overview
 
-In Hálcova, power is never free. Every magical tradition operates on the same fundamental truth: you must spend something real to gain something real. There are no shortcuts, no loopholes, no clever tricks that let you escape the cost. The universe keeps ledgers, and it always collects.
 
-The five magical traditions—collectively called the Five Arts—each represent a different answer to the question: *What are you willing to pay?*
+In [Hálcova](../../index.md), power is never free. Every magical tradition operates on the same fundamental truth: you must spend something real to gain something real. There are no shortcuts, no loopholes, no clever tricks that let you escape the cost. The universe keeps ledgers, and it always collects.
+
+
+The five magical traditions—collectively called the [Five Arts](the_five_arts.md)—each represent a different answer to the question: *What are you willing to pay?*
 
 | Art                        | What You Spend      | What You Get           | What It Costs You                     |
 | -------------------------- | ------------------- | ---------------------- | ------------------------------------- |
-| **Core Binding**     | The dead            | Echoes of the deceased | Your sense of self (bleed corruption) |
-| **Flesh Shaping**    | Blood and meat      | Constructed servants   | Your body and humanity                |
-| **Pact Summoning**   | Your soul           | Elsewhere entities     | Your autonomy and existence           |
-| **Fate Threading**   | Your future         | Versions of yourself   | Your potential and becoming           |
-| **Colony Summoning** | Corpses and biomass | Fungal constructs      | Your identity and bodily sovereignty  |
+| **[Core Binding](the_five_arts.md#core-binding)**     | The dead            | Echoes of the deceased | Your sense of self (bleed corruption) |
+| **[Flesh Shaping](the_five_arts.md#flesh-shaping)**    | Blood and meat      | Constructed servants   | Your body and humanity                |
+| **[Pact Summoning](the_five_arts.md#pact-summoning)**   | Your soul           | [Elsewhere](../metaphysics/additional_systems.md) entities     | Your autonomy and existence           |
+| **[Fate Threading](the_five_arts.md#fate-threading)**   | Your future         | Versions of yourself   | Your potential and becoming           |
+| **[Colony Summoning](the_five_arts.md#colony-summoning)** | Corpses and biomass | Fungal constructs      | Your identity and bodily sovereignty  |
 
-Each Art is a transaction. Each transaction has fine print. Nobody reads the fine print until it's too late.
+
+Each [Art](the_five_arts.md) is a transaction. Each transaction has fine print. Nobody reads the fine print until it's too late.
 
 ---
 
-## Core Binding
+
+## [Core Binding](the_five_arts.md#core-binding)
 
 <div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Holding the Dead</div>
 
@@ -30,7 +34,8 @@ Each Art is a transaction. Each transaction has fine print. Nobody reads the fin
 
 When a living thing dies, something remains. Not a ghost, not a spirit—something more fundamental. The **core** is the imprint of what a creature was: its patterns, its memories, its essence compressed into something that can be harvested, stored, and summoned.
 
-Core Binding is the practice of trapping these cores in physical anchors and calling them forth as **echoes**—manifestations of the dead that walk, speak, and act as they did in life.
+Core Binding is the practice of trapping these cores in physical [anchors](the_five_arts.md#anchors) and calling them forth as **[echoes](the_five_arts.md#echoes)**—manifestations of the dead that walk, speak, and act as they did in life.
+
 
 The horror: the echoes don't know they're dead. They think they're still alive, still themselves. They might ask about family members who've moved on, wonder why the world has changed, try to go home to houses that no longer exist.
 
@@ -62,11 +67,13 @@ The weakest cores come from:
 - Lives that felt complete
 - Deaths in old age after long decline
 
-### Anchors
+
+### [Anchors](the_five_arts.md#anchors)
 
 **Physical Form**
 
 A core needs a home. The anchor is a physical object that houses the bound echo—a prison dressed as a portrait.
+
 
 Anchors can take many forms:
 
@@ -251,13 +258,15 @@ Anomalies are rare, disturbing, and valuable to certain collectors. They're also
 
 ---
 
-## Flesh Shaping
+
+## [Flesh Shaping](the_five_arts.md#flesh-shaping)
 
 <div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Building Servants</div>
 
 ### Fundamental Principle
 
-Flesh Shaping creates **homunculi**—constructed servants built from raw materials and animated with blood. Unlike echoes, homunculi never lived. They have no history, no memories, no existence prior to their creation. They are *made*, not captured.
+
+Flesh Shaping creates **homunculi**—constructed servants built from raw materials and animated with blood. Unlike [echoes](the_five_arts.md#echoes), homunculi never lived. They have no history, no memories, no existence prior to their creation. They are *made*, not captured.
 
 This sounds cleaner than Core Binding. It isn't. The horror is different, not lesser.
 
@@ -511,7 +520,8 @@ The homunculus itself isn't a citizen, was never a citizen, can't become a citiz
 
 ---
 
-## Pact Summoning
+
+## [Pact Summoning](the_five_arts.md#pact-summoning)
 
 <div style="font-size:1.3em; font-weight:bold; margin-top:1em;">The Art of Dealing with the Outside</div>
 
@@ -519,7 +529,8 @@ The homunculus itself isn't a citizen, was never a citizen, can't become a citiz
 
 Somewhere adjacent to reality, things exist. Not dead things—Core Binding covers the dead. Not made things—Flesh Shaping builds those. These are entities that *are*, fully and independently, in a place that isn't here.
 
-The **Elsewhere** is what practitioners call that place. The entities there have their own drives, their own intelligence, their own agendas. For reasons nobody fully understands, some of them are willing to answer when called.
+
+The **[Elsewhere](../metaphysics/additional_systems.md)** is what practitioners call that place. The entities there have their own drives, their own intelligence, their own agendas. For reasons nobody fully understands, some of them are willing to answer when called.
 
 Pact Summoning is negotiation. Unlike the other Arts, you're not in control. You're making a deal with something that has its own reasons for saying yes.
 
@@ -843,7 +854,8 @@ Hints:
 
 ---
 
-## Fate Threading
+
+## [Fate Threading](the_five_arts.md#fate-threading)
 
 ## The Art of Spending Tomorrow
 
@@ -1034,7 +1046,8 @@ Some wait.
 
 ---
 
-## Colony Summoning
+
+## [Colony Summoning](the_five_arts.md#colony-summoning)
 
 ## The Art of Growing What You've Eaten
 

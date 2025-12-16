@@ -1,4 +1,4 @@
-<div class="halcova-header">The Attendance: True Nature</div>
+<div class="halcova-header">[The Attendance: True Nature](the_attendance_truth.md)</div>
 
 ## Document Purpose
 

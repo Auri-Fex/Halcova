@@ -1,11 +1,13 @@
 
-<div class="halcova-header">The Loom: Fate's Instrument</div>
+<div class="halcova-header">[The Loom: Fate's Instrument](the_loom.md)</div>
 
 ## Overview
 
-**The Loom** is the distributed network of devices, rituals, and institutions that read, record, and predict fate in Hálcova. It is not a single machine but a system—part arcane technology, part religious practice, part bureaucratic apparatus.
 
-More importantly: The Loom may be a point of contact with Fate itself. Whether Fate is an Elsewhere entity, a collection of entities, or something stranger is a matter of fierce theological debate. What's undeniable is that The Loom *works*. Its predictions are accurate far beyond statistical chance. And something answers when the Loom-Keepers perform their divinations.
+**The Loom** is the distributed network of devices, rituals, and institutions that read, record, and predict fate in [Hálcova](../../index.md). It is not a single machine but a system—part arcane technology, part religious practice, part bureaucratic apparatus.
+
+
+More importantly: The Loom may be a point of contact with [Fate](the_loom.md). Whether Fate is an [Elsewhere](../metaphysics/additional_systems.md) entity, a collection of entities, or something stranger is a matter of fierce theological debate. What's undeniable is that The Loom *works*. Its predictions are accurate far beyond statistical chance. And something answers when the [Loom-Keepers](the_loom.md#the-institutional-structure) perform their divinations.
 
 ---
 
@@ -13,7 +15,8 @@ More importantly: The Loom may be a point of contact with Fate itself. Whether F
 
 ### The Fundamental Problem
 
-The Loom runs on Pattern Residue. Pattern Residue comes from death. But the Loom (or something like it) appears to predate the current Residue economy. The polar structures, the moon arrangement, and certain archaeological evidence suggest the system existed before the cooling event that created the death-dependent world we know.
+
+The Loom runs on [Pattern Residue](the_loom.md#pattern-residue). Pattern Residue comes from death. But the Loom (or something like it) appears to predate the current Residue economy. The polar structures, the moon arrangement, and certain archaeological evidence suggest the system existed before the cooling event that created the death-dependent world we know.
 
 How did the Loom start if it needs death to run, but death (at scale) required the conditions the Loom may have created?
 
@@ -111,6 +114,7 @@ The accumulated database of all Sórscad patterns ever drawn. Stored in:
 - Physical archives (paper, metal plates, encoded materials)
 - Pattern-engine memory (poorly understood how this works)
 - Distributed across major Nodes with varying levels of completeness
+
 
 The Registry is legally protected, politically contested, and practically impossible to fully secure. Pattern-theft, registry-manipulation, and archive-raids are all documented crimes.
 

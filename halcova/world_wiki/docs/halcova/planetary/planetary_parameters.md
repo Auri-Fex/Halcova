@@ -1,4 +1,4 @@
-<div class="halcova-header">Hálcova: Planetary Parameters</div>
+<div class="halcova-header">[Hálcova: Planetary Parameters](planetary_parameters.md)</div>
 
 ## The Star: Sárgvas (The Amber Eye)
 

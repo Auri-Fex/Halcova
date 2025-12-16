@@ -1,8 +1,9 @@
-<div class="halcova-header">Criminal Underworld of Hálcova</div>
+<div class="halcova-header">[Criminal Underworld of Hálcova](criminal_underworld.md)</div>
 
 ## Overview
 
-Crime in Hálcova exists in complex relationship with legitimate power structures. Organized criminal enterprises fill gaps left by official systems, exploit pattern-based inequalities, and sometimes serve as the only recourse for those whom legal society has abandoned. Understanding Hálcova's criminal underworld illuminates the world's social fractures, economic pressures, and the limitations of official authority.
+
+Crime in [Hálcova](../../index.md) exists in complex relationship with legitimate power structures. Organized criminal enterprises fill gaps left by official systems, exploit pattern-based inequalities, and sometimes serve as the only recourse for those whom legal society has abandoned. Understanding [Hálcova](../../index.md)'s [criminal underworld](criminal_underworld.md) illuminates the world's social fractures, economic pressures, and the limitations of official authority.
 
 The criminal economy represents approximately 5-10% of legitimate economic activity—substantial enough to influence markets and politics, contained enough to avoid threatening system stability. This equilibrium reflects tacit accommodation between criminal organizations and authorities who find complete suppression neither possible nor desirable.
 

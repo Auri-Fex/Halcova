@@ -1,4 +1,4 @@
-<div class="halcova-header">Living Language: Contemporary Slang and Idioms of Hálcova</div>
+<div class="halcova-header">[Living Language: Contemporary Slang and Idioms of Hálcova](living_language_slang.md)</div>
 
 ## Overview
 
@@ -14,15 +14,15 @@ The pattern system that structures society generates extensive vernacular vocabu
 
 ### General Pattern Terms
 
-**Threadbare**: Someone with severely constrained pattern status, used pejoratively. Implies poverty, limited rights, and low social position. "Don't trust him with the accounts—he's threadbare, desperate for any marks."
+**[Threadbare](living_language_slang.md#pattern-related-slang)**: Someone with severely constrained pattern status, used pejoratively. Implies poverty, limited rights, and low social position. "Don't trust him with the accounts—he's threadbare, desperate for any marks."
 
-**Golden thread**: A pattern-privileged individual. Can be neutral description or express envy/resentment depending on speaker's tone and context. "She's golden thread, born into the second ring. Never worked a day collecting Residue like us."
+**[Golden thread](living_language_slang.md#pattern-related-slang)**: A [pattern-privileged](living_language_slang.md#status-specific-terms) individual. Can be neutral description or express envy/resentment depending on speaker's tone and context. "She's golden thread, born into the second ring. Never worked a day collecting Residue like us."
 
 **Tangled**: Confused, lost, or in complicated circumstances. References pattern threads becoming disordered. "I'm completely tangled on this contract—can't figure out who owes what to whom."
 
 **Woven tight**: Well-connected, powerful, secure in one's position. Implies strong pattern status and social relationships. "The magistrate's woven tight with the Crown—don't expect justice in his court."
 
-**Loose end**: An unreliable person, someone likely to cause problems. Also criminal slang for lowest-ranking members. "Keep your plans away from Marcus—he's a loose end waiting to unravel."
+**[Loose end](living_language_slang.md#pattern-related-slang)**: An unreliable person, someone likely to cause problems. Also criminal slang for lowest-ranking members. "Keep your plans away from Marcus—he's a loose end waiting to unravel."
 
 **Frayed**: Damaged, broken, mentally unstable. Implies pattern degradation affecting behavior or capability. "She's been frayed since her son's Correction. Just stares at nothing."
 
@@ -36,7 +36,7 @@ The pattern system that structures society generates extensive vernacular vocabu
 
 ### Status-Specific Terms
 
-**Ring-jumper**: Someone attempting to rise above their pattern-assigned status. Pejorative from pattern-privileged perspective, sometimes admiring from below. "Another ring-jumper caught with forged certificates. They never learn."
+**[Ring-jumper](living_language_slang.md#status-specific-terms)**: Someone attempting to rise above their pattern-assigned status. Pejorative from pattern-privileged perspective, sometimes admiring from below. "Another ring-jumper caught with forged certificates. They never learn."
 
 **Circle-bound**: Stuck in one's assigned social position with no possibility of advancement. Resignation or complaint depending on context. "We're all circle-bound—born to this ring, die in this ring."
 

@@ -1,4 +1,4 @@
-<div class="halcova-header">Entertainment System of Hálcova</div>
+<div class="halcova-header">[Entertainment System of Hálcova](entertainment_system.md)</div>
 
 ## Overview
 

@@ -1,8 +1,10 @@
-<div class="halcova-header">Economics and Class in Hálcova</div>
+<div class="halcova-header">[Economics and Class in Hálcova](economics_and_class.md)</div>
 
 ## Overview
 
-Economics in Hálcova cannot be separated from fate. The Sórscad pattern determines access to credit, employment, insurance, and opportunity. Pattern Residue—the energy of dissolving fates—fuels magic and industry. Death is literally productive.
+
+Economics in [Hálcova](../../index.md) cannot be separated from [fate](../fate_system/the_loom.md). The [Sórscad](../fate_system/the_sorscad.md) pattern determines access to credit, employment, insurance, and opportunity. Pattern Residue—the energy of dissolving fates—fuels [magic](../magic/the_five_arts.md) and industry. Death is literally productive.
+
 
 This creates an economy where some people are worth more dead than alive, where peace is expensive, and where the institutions that predict your future have financial stakes in that prediction coming true.
 

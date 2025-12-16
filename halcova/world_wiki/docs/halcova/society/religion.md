@@ -1,8 +1,9 @@
-<div class="halcova-header">Religion in Hálcova: Faith and Fate</div>
+<div class="halcova-header">[Religion in Hálcova: Faith and Fate](religion.md)</div>
 
 ## Overview
 
-Religion in Hálcova is inseparable from fate. The Sórscad pattern is not just a predictive framework—it's the primary evidence of divine existence. Something assigns patterns. Something makes predictions accurate. Something answers when The Loom queries.
+
+Religion in [Hálcova](../../index.md) is inseparable from [fate](../fate_system/the_loom.md). The [Sórscad](../fate_system/the_sorscad.md) pattern is not just a predictive framework—it's the primary evidence of divine existence. Something assigns patterns. Something makes predictions accurate. Something answers when [The Loom](../fate_system/the_loom.md) queries.
 
 That something is worshipped, feared, manipulated, and denied in various ways. But it is never ignored.
 

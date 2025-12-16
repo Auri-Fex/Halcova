@@ -1,6 +1,6 @@
-<div class="halcova-header">Hálcova: Politics, Law, and the Systems</div>
+<div class="halcova-header">[Hálcova: Politics, Law, and the Systems](politics_law_and_systems.md)</div>
 
-> **Document Scope**: This is the *comprehensive reference* combining governance structures, legal frameworks, and political philosophy into a single document organized by region. For focused treatments, see: `governance_structures.md` (regional power structures), `political_philosophy.md` (philosophical questions), and `legal_frameworks.md` (legal systems and crimes).
+> **Document Scope**: This is the *comprehensive reference* combining governance structures, legal frameworks, and political philosophy into a single document organized by region. For focused treatments, see: [governance_structures.md](governance_structures.md) (regional power structures), [political_philosophy.md](political_philosophy.md) (philosophical questions), and [legal_frameworks.md](legal_frameworks.md) (legal systems and crimes).
 
 ## Overview
 
@@ -30,13 +30,13 @@ In practice, nothing is cleanly divided. Pattern affects everything. A trade dis
 
 The Heartlands doesn't ban magic. It **monopolizes** it.
 
-**Core Binding**: Licensed and regulated. The Orthodox Church maintains binding facilities where approved practitioners create echoes under supervision. Private binding is illegal but common. The Church controls Residue distribution—want to bind? Buy your Residue from approved sources, register your binding, submit to periodic inspections.
+**[Core Binding](../magic/the_five_arts.md#core-binding)**: Licensed and regulated. The Orthodox Church maintains binding facilities where approved practitioners create echoes under supervision. Private binding is illegal but common. The Church controls Residue distribution—want to bind? Buy your Residue from approved sources, register your binding, submit to periodic inspections.
 
-**Flesh Shaping**: Heavily restricted. The Orthodox position is that bodies are Weaver-given; reshaping them is soft heresy. Medical applications permitted under Church supervision. Cosmetic or enhancement shaping illegal. Combat modifications are treason. Reality: thriving black market serves those with money to bribe.
+**[Flesh Shaping](../magic/the_five_arts.md#flesh-shaping)**: Heavily restricted. The Orthodox position is that bodies are Weaver-given; reshaping them is soft heresy. Medical applications permitted under Church supervision. Cosmetic or enhancement shaping illegal. Combat modifications are treason. Reality: thriving black market serves those with money to bribe.
 
-**Pact Summoning**: Officially forbidden. The Elsewhere is the enemy of divine order. Pact Summoners face execution without exception. Reality: The Warden Order's Attunement looks suspiciously like a pact. Certain old families have "ancestral arrangements." The rule is: official pacts are forbidden; institutional pacts are classified.
+**[Pact Summoning](../magic/the_five_arts.md#pact-summoning)**: Officially forbidden. The Elsewhere is the enemy of divine order. Pact Summoners face execution without exception. Reality: The Warden Order's Attunement looks suspiciously like a pact. Certain old families have "ancestral arrangements." The rule is: official pacts are forbidden; institutional pacts are classified.
 
-**Fate Threading**: Capital heresy. No licenses. No exceptions. Threaders hunted with same intensity as deviants. The Warden Order has specialized units—Unravelers—trained specifically to identify and terminate Threaders.
+**[Fate Threading](../magic/the_five_arts.md#fate-threading)**: Capital heresy. No licenses. No exceptions. Threaders hunted with same intensity as deviants. The Warden Order has specialized units—Unravelers—trained specifically to identify and terminate Threaders.
 
 **Colony Summoning**: Tolerated at margins, prohibited at core. Legal in frontier areas. In the Heartlands proper, hosts face significant civil disabilities—can't hold office, can't testify in Church courts, can't access certain Loom services.
 

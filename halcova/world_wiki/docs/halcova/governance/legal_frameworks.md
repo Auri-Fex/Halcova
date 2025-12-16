@@ -1,10 +1,11 @@
-<div class="halcova-header">Hálcova: Legal Frameworks and Pattern Law</div>
+<div class="halcova-header">[Hálcova: Legal Frameworks and Pattern Law](legal_frameworks.md)</div>
 
-> **Document Scope**: This document details *legal systems and pattern-crimes*—the taxonomy of offenses, court structures, and enforcement mechanisms. For regional governance structures, see `governance_structures.md`. For philosophical questions about pattern-governance, see `political_philosophy.md`. For a comprehensive overview combining all aspects, see `politics_law_and_systems.md`.
+> **Document Scope**: This document details *legal systems and pattern-crimes*—the taxonomy of offenses, court structures, and enforcement mechanisms. For regional governance structures, see [governance_structures.md](governance_structures.md). For philosophical questions about pattern-governance, see [political_philosophy.md](political_philosophy.md). For a comprehensive overview combining all aspects, see [politics_law_and_systems.md](politics_law_and_systems.md).
 
 ## Overview
 
-Law in Hálcova cannot escape pattern. The existence of readable fate, predictable behavior, and measurable destiny forces every legal system to answer questions Earth jurisprudence never faced: Can you punish inevitability? Can you contract against destiny? Is deviation a crime or a miracle?
+
+Law in [Hálcova](../../index.md) cannot escape [pattern](../fate_system/the_sorscad.md). The existence of readable fate, predictable behavior, and measurable destiny forces every legal system to answer questions Earth jurisprudence never faced: Can you punish inevitability? Can you contract against destiny? Is [deviation](legal_frameworks.md#deviation) a crime or a miracle?
 
 Different regions answer differently. All answers cost something.
 
@@ -18,11 +19,13 @@ Different regions answer differently. All answers cost something.
 
 **The Problem**: If patterns are divine (Orthodox view) or physically real (materialist view), deviation is either sin or impossibility. Yet it happens. Some people act against prediction.
 
-**Orthodox Position**: Deviation is heresy. The pattern is The Weaver's will; defying it defies divine order. Punishment is spiritual correction as much as temporal.
+
+**Orthodox Position**: Deviation is heresy. The pattern is [The Weaver's](../society/religion.md) will; defying it defies divine order. Punishment is spiritual correction as much as temporal.
 
 **Skeptic Position**: Deviation proves patterns are probabilistic, not deterministic. "Deviants" are just statistical outliers. Criminalizing deviation criminalizes being unpredicted.
 
-**Actual Practice**: Heartlands criminalizes deviation. Shattered Reaches doesn't (officially). Other regions vary. The Warden Order prosecutes deviation everywhere it can reach, creating jurisdictional conflicts.
+
+**Actual Practice**: [Heartlands](../planetary/geography.md) criminalizes deviation. [Shattered Reaches](../planetary/geography.md) doesn't (officially). Other regions vary. The [Warden Order](../society/the_warden_order.md) prosecutes deviation everywhere it can reach, creating jurisdictional conflicts.
 
 ---
 

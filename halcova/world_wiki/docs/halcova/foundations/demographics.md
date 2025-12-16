@@ -1,4 +1,4 @@
-<div class="halcova-header">Hálcova: Demographics and Population Economics</div>
+<div class="halcova-header">[Hálcova: Demographics and Population Economics](demographics.md)</div>
 
 ## The Core Problem
 

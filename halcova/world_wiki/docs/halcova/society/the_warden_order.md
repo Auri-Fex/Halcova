@@ -1,10 +1,12 @@
-<div class="halcova-header">The Warden Order: Enforcers of Fate</div>
+<div class="halcova-header">[The Warden Order: Enforcers of Fate](the_warden_order.md)</div>
 
 ## Overview
 
-The **Warden Order** (*Őrvonalak*—"Guardian Lines") is the enforcement arm of Loom orthodoxy. They are investigators, hunters, judges, and executioners rolled into one—a zealot force dedicated to ensuring that Fate's predictions come true and that no one escapes their pattern.
 
-They are, in essence, the Loom's police. But "police" doesn't capture the theological dimension. To the Wardens, deviation from pattern isn't crime. It's heresy. It's cosmic disorder. It's a wound in reality that must be cauterized.
+The **[Warden Order](the_warden_order.md)** (*Őrvonalak*—"Guardian Lines") is the enforcement arm of [Loom](../fate_system/the_loom.md) orthodoxy. They are investigators, hunters, judges, and executioners rolled into one—a zealot force dedicated to ensuring that Fate's predictions come true and that no one escapes their [pattern](../fate_system/the_sorscad.md).
+
+
+They are, in essence, the [Loom](../fate_system/the_loom.md)'s police. But "police" doesn't capture the theological dimension. To the Wardens, deviation from pattern isn't crime. It's heresy. It's cosmic disorder. It's a wound in reality that must be cauterized.
 
 ---
 
@@ -12,12 +14,13 @@ They are, in essence, the Loom's police. But "police" doesn't capture the theolo
 
 ### The Problem They Solve
 
-The Loom's predictions are accurate—but not perfectly accurate. Deviations occur:
+
+The [Loom](../fate_system/the_loom.md)'s predictions are accurate—but not perfectly accurate. Deviations occur:
 
 - Someone predicted for a Road-Path career pivots unexpectedly
 - A Blade-Hálmaht pattern survives past their statistical death-window
 - A Knot-Born pattern achieves what their family should have prevented
-- A Core Binder escapes their bleed-trajectory through unknown means
+- A [Core Binder](../magic/the_five_arts.md#core-binding) escapes their bleed-trajectory through unknown means
 - A Pact Summoner pays their debt early through suspicious circumstances
 
 Most deviations are noise. Some are environmental factors The Loom missed. But some—the ones that matter—represent deliberate manipulation.
@@ -27,11 +30,13 @@ Most deviations are noise. Some are environmental factors The Loom missed. But s
 **Pattern-Manipulation**: Attempting to change your pattern through magic or ritual.
 **Pattern-Interference**: Helping others evade or manipulate their patterns.
 
-The Warden Order exists to detect, investigate, and punish these crimes against Fate.
+
+The [Warden Order](the_warden_order.md) exists to detect, investigate, and punish these crimes against [Fate](../fate_system/the_loom.md).
 
 ### The Theological Mandate
 
-To the Orthodox faithful, your Sórscad is your divinely-assigned role in existence. Deviation is not just illegal—it's an assault on cosmic order.
+
+To the Orthodox faithful, your [Sórscad](../fate_system/the_sorscad.md) is your divinely-assigned role in existence. Deviation is not just illegal—it's an assault on cosmic order.
 
 The Wardens believe:
 - The Weaver assigned each pattern with purpose
