@@ -14,7 +14,7 @@ The five magical traditions—collectively called the [Five Arts](the_five_arts.
 
 | Art                        | What You Spend      | What You Get           | What It Costs You                     |
 | -------------------------- | ------------------- | ---------------------- | ------------------------------------- |
-| **[Core Binding](the_five_arts.md#core-binding)**     | The dead            | Echoes of the deceased | Your sense of self (bleed corruption) |
+| **[Core Binding](the_five_arts.md#core-binding)**     | The dead            | Echoes of the deceased | Your sense of self ([Bleed](../fate_system/the_sorscad.md)) |
 | **[Flesh Shaping](the_five_arts.md#flesh-shaping)**    | Blood and meat      | Constructed servants   | Your body and humanity                |
 | **[Pact Summoning](the_five_arts.md#pact-summoning)**   | Your soul           | [Elsewhere](../metaphysics/additional_systems.md) entities     | Your autonomy and existence           |
 | **[Fate Threading](the_five_arts.md#fate-threading)**   | Your future         | Versions of yourself   | Your potential and becoming           |

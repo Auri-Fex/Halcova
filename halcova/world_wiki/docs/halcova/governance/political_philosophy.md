@@ -1,5 +1,4 @@
-
-<div class="halcova-header">[Hálcova: Political Philosophy in a Fate-Real World](political_philosophy.md)</div>
+<div class="halcova-header">Hálcova: Political Philosophy in a Fate-Real World</div>
 
 > **Document Scope**: This document explores *philosophical questions* about governance in a world where fate is real and readable. For regional governance structures, see [governance_structures.md](governance_structures.md). For legal systems and pattern-crimes, see [legal_frameworks.md](legal_frameworks.md). For a comprehensive overview combining all aspects, see [politics_law_and_systems.md](politics_law_and_systems.md).
 
@@ -246,6 +245,7 @@ On Hálcova, intent is partially knowable. The Loom can tell you if someone's pa
 If you can predict crime, why wait for it? Arrest people whose patterns indicate future harm. Punish them before they act.
 
 *Problems*:
+
 - Punishing non-actions is unjust by most frameworks.
 - Prediction isn't certainty; false positives will be punished for nothing.
 - Creates the outcome it predicts (treating someone as a criminal produces criminals).
@@ -255,6 +255,7 @@ If you can predict crime, why wait for it? Arrest people whose patterns indicate
 Ignore pattern information in legal proceedings. Judge only actions, not predictions. Treat everyone as if choice is real.
 
 *Problems*:
+
 - You're ignoring real information.
 - Recidivism prediction is useful; refusing to use it costs lives.
 - Disadvantages those who do use pattern information (private parties, other jurisdictions).
@@ -264,6 +265,7 @@ Ignore pattern information in legal proceedings. Judge only actions, not predict
 Let pattern information affect sentencing, not guilt. Convict based on actions; sentence based on predicted future behavior. High-recidivism patterns get longer sentences (incapacitation) or different interventions (treatment if treatable).
 
 *Problems*:
+
 - Still punishing the pattern, not just the action.
 - Unequal sentences for identical crimes based on unchosen characteristics.
 - Pattern-constrained populations systematically receive harsher treatment.
@@ -273,6 +275,7 @@ Let pattern information affect sentencing, not guilt. Convict based on actions; 
 If someone's pattern predicted their crime, they had less choice. Less choice means less responsibility. Less responsibility means lighter punishment.
 
 *Problems*:
+
 - Everyone can claim their pattern made them do it.
 - Rewards having "bad" patterns (reduces consequences).
 - Collapses the concept of responsibility entirely.
@@ -382,11 +385,13 @@ The Far Shelf struggles (short growing season, hunting-dependent).
 **Labor Flows**:
 
 Pattern-constrained populations migrate toward where they can survive:
+
 - Middle Waters (warmth, less Loom oversight)
 - Vent Lands (expertise matters more than pattern)
 - Far Shelf (freedom from pattern-tracking)
 
 Pattern-privileged populations concentrate where their patterns are valued:
+
 - Heartlands (pattern-merit advancement)
 - Shattered Reaches (commercial opportunities)
 
@@ -427,6 +432,7 @@ The Warden Order serves pattern-integrity across all regions. Deviation is a uni
 ### The Political Function
 
 The Order is a Heartlands institution claiming universal jurisdiction. Other regions accept it to varying degrees because:
+
 - Heartlands trade depends on Order-guaranteed contracts
 - Some deviation threats are real and cross-border
 - Opposing the Order means opposing the Heartlands
@@ -440,12 +446,12 @@ The Far Shelf explicitly rejects Order authority. The Vent Lands limit Order ope
 
 ## Summary: Political Philosophy Positions
 
-| Question | Orthodox (Heartlands) | Contractarian (Reaches) | Colonial (Middle Waters) | Technocratic (Vents) | Autonomist (Far Shelf) |
-|----------|----------------------|------------------------|-------------------------|---------------------|----------------------|
-| Equality | Pattern determines worth | Formal equality despite pattern | Depends who's asking | Expertise determines worth | Pattern oppresses; resist |
-| Justice | Pattern-deviation is crime | Actions matter, not patterns | Power determines | Guild judgment | Community decides |
-| Consent | Pattern includes consent | Real but fragile | Manufactured | Irrelevant to competence | Essential to legitimacy |
-| Authority | Divine pattern-mandate | Agreement of governed | Whoever wins | Those who can | Those who defend |
+| Question  | Orthodox (Heartlands)      | Contractarian (Reaches)         | Colonial (Middle Waters) | Technocratic (Vents)       | Autonomist (Far Shelf)    |
+| --------- | -------------------------- | ------------------------------- | ------------------------ | -------------------------- | ------------------------- |
+| Equality  | Pattern determines worth   | Formal equality despite pattern | Depends who's asking     | Expertise determines worth | Pattern oppresses; resist |
+| Justice   | Pattern-deviation is crime | Actions matter, not patterns    | Power determines         | Guild judgment             | Community decides         |
+| Consent   | Pattern includes consent   | Real but fragile                | Manufactured             | Irrelevant to competence   | Essential to legitimacy   |
+| Authority | Divine pattern-mandate     | Agreement of governed           | Whoever wins             | Those who can              | Those who defend          |
 
 ---
 

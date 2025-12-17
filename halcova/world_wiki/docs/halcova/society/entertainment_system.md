@@ -1,4 +1,4 @@
-<div class="halcova-header">[Entertainment System of Hálcova](entertainment_system.md)</div>
+<div class="halcova-header">Entertainment System of Hálcova</div>
 
 ## Overview
 
@@ -67,6 +67,7 @@ The intellectual counterpart to physical combat sports, Fonálháló ("Thread-Ne
 Fonálháló's core mechanics derive from ancient territory-control games (mechanically similar to Earth's Go), but Hálcovan development has added layers of thematic complexity.
 
 *Basic Rules*:
+
 - Two players alternate placing stones on grid intersections
 - Stones of the same color connected orthogonally form "pattern groups"
 - Groups must maintain at least one empty adjacent intersection ("breath") to survive

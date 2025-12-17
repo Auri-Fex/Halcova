@@ -1,7 +1,6 @@
-<div class="halcova-header">[Religion in Hálcova: Faith and Fate](religion.md)</div>
+<div class="halcova-header">Religion in Hálcova: Faith and Fate</div>
 
 ## Overview
-
 
 Religion in [Hálcova](../../index.md) is inseparable from [fate](../fate_system/the_loom.md). The [Sórscad](../fate_system/the_sorscad.md) pattern is not just a predictive framework—it's the primary evidence of divine existence. Something assigns patterns. Something makes predictions accurate. Something answers when [The Loom](../fate_system/the_loom.md) queries.
 
@@ -32,6 +31,7 @@ The evidence is ambiguous. The Loom works. Predictions come true. Something resp
 The dominant religious framework across most of Hálcova.
 
 **The Weaver** (*A Szövő*) is:
+
 - The divine pattern-maker who creates all Sórscads
 - The source of The Loom's accuracy
 - The author of fate, whose design is perfect even when painful
@@ -40,13 +40,9 @@ The dominant religious framework across most of Hálcova.
 **Doctrine**:
 
 1. **The Pattern Is Sacred**: Your Sórscad is your divinely-assigned role. It reflects The Weaver's purpose for you.
-
 2. **Acceptance Is Virtue**: Embracing your pattern, even its hardships, is holy. Resistance creates suffering.
-
 3. **The Loom Is True**: The Loom reads The Weaver's will accurately. Trust its predictions.
-
 4. **Deviation Is Sin**: Acting against your pattern wounds the cosmic design. Enforcement is medicine, not punishment.
-
 5. **The Design Serves**: The Weaver's plan serves existence itself, not individual happiness. Your suffering has purpose you cannot see.
 
 ### Practices
@@ -77,6 +73,7 @@ The dominant religious framework across most of Hálcova.
 ### The Appeal
 
 Orthodoxy offers:
+
 - Meaning (your suffering has purpose)
 - Community (shared belief and practice)
 - Structure (clear rules and expectations)
@@ -97,18 +94,15 @@ A reform movement within Orthodoxy that takes a different view of deviation.
 **Doctrine**:
 
 1. **The Pattern Is Draft**: Your Sórscad is a starting point, not a sentence. The Weaver offers threads; you help weave.
-
 2. **Deviation Is Data**: When someone acts against pattern, it might be error—or it might be new information. The design evolves.
-
 3. **Fate Threading Is Collaboration**: The Art isn't theft from fate—it's working with unfinished material. Threaders are co-creators.
-
 4. **The Loom Predicts, Not Prescribes**: Accuracy reflects current patterns, not fixed destiny. Change the patterns, change the predictions.
-
 5. **Agency Is Sacred**: Free will is The Weaver's gift, not its enemy. Choosing is how we participate in creation.
 
 ### Implications
 
 Threadists:
+
 - Accept Fate Threading as legitimate (with ethical constraints)
 - View enforcement with suspicion (forcing patterns may be anti-divine)
 - See deviation as potentially holy (revelation of new design elements)
@@ -124,6 +118,7 @@ Threadists:
 ### Orthodox Response
 
 The Orthodoxy considers Threadism heresy:
+
 - "The design is complete. Claiming otherwise is pride."
 - "Agency serves the pattern, not the reverse."
 - "Threadist doctrine justifies sin and chaos."
@@ -143,13 +138,9 @@ A heretical movement that inverts Orthodox values entirely.
 **Doctrine**:
 
 1. **Fate Is Bondage**: Patterns are chains. Predictions are control. The Loom is a surveillance apparatus.
-
 2. **The Weaver Is Enemy**: Whatever assigns patterns does not have human interests at heart. Worship is collaboration with your oppressor.
-
 3. **Elsewhere Is Escape**: Selling your core to Elsewhere entities isn't damnation—it's liberation. They're taking you out of the cage.
-
 4. **The Absent Are Saints**: The Elsewhere faction that wants *nothing*—they represent true freedom. No pattern, no prediction, no control.
-
 5. **Emptiness Is Peace**: The consumed—those whose cores are fully paid—are not victims. They're free. The husk left behind isn't a tragedy; it's a chrysalis.
 
 ### Practices
@@ -172,6 +163,7 @@ A heretical movement that inverts Orthodox values entirely.
 ### Orthodox Response
 
 The Orthodoxy considers this satanic heresy:
+
 - "They worship demons and call it freedom."
 - "The consumed aren't free—they're destroyed."
 - "This cult leads people to eternal annihilation."
@@ -191,18 +183,15 @@ A philosophical-religious position emerging from Flesh Shaping traditions.
 **Doctrine**:
 
 1. **Patterns Are Organic**: The Sórscad reads biological tendencies—brain structure, hormonal predisposition, physical capacity. Calling this "divine" is superstition.
-
 2. **Prediction Is Statistics**: The Loom works because large populations behave predictably. This isn't fate—it's probability.
-
 3. **Homunculi Prove It**: Flesh Shapers create life without patterns. If fate were real, they couldn't. The fact that homunculi exist outside The Loom shows the system is physical, not metaphysical.
-
 4. **Liberation Through Construction**: The goal is to build beings *entirely outside pattern*. Not escaping fate—transcending the biological substrate that makes prediction possible.
-
 5. **Whatever Answers The Loom** is not divine. It's something that reads biology. Understanding what it is (probably Elsewhere, probably interested in Pattern Residue) demystifies the entire system.
 
 ### Implications
 
 Fleshwrights:
+
 - Practice Flesh Shaping as philosophical statement
 - Seek to create pattern-free life
 - View The Loom as technology, not religion
@@ -218,6 +207,7 @@ Fleshwrights:
 ### Orthodox Response
 
 Fleshwrights are considered dangerous atheists:
+
 - "They deny the sacred to excuse their abominations."
 - "Their constructs are hollow precisely because they lack divine pattern."
 - "Calling the Attendance 'technology' is willful blindness."
@@ -237,13 +227,9 @@ Religious movements centered on fungal colony symbolism and practice.
 **Doctrine**:
 
 1. **The Great Network**: Before individuals, there was connection. The original pattern was One, not many. Separation is the wound.
-
 2. **Colonies Remember**: Ancient fungal networks carry patterns older than The Loom, older than the Orthodoxy. They know what fate was before it was divided.
-
 3. **Hosting Is Reunion**: Taking a colony into yourself is rejoining the original pattern. Your individual Sórscad becomes part of something larger.
-
 4. **Death Serves Life**: When colonies consume the dead, they preserve patterns that would otherwise dissipate. This is holy recycling, not desecration.
-
 5. **The Old Ones**: The most ancient colonies, passed through generations, may themselves be divine. Or at least more divine than The Weaver, who only divides.
 
 ### Practices
@@ -266,6 +252,7 @@ Religious movements centered on fungal colony symbolism and practice.
 ### Orthodox Response
 
 Colony Cults are considered primitive and dangerous:
+
 - "They worship parasites and call it communion."
 - "Their 'memories' are contaminated, not sacred."
 - "Infection-spreading is assault, not religion."
@@ -285,13 +272,9 @@ Religious traditions centered on Core Binding as ancestral communion.
 **Doctrine**:
 
 1. **The Pattern Is Genealogy**: Your Sórscad carries traces of ancestral patterns. You are your lineage speaking through new flesh.
-
 2. **The Dead Advise**: Properly bound echoes aren't prisoners—they're advisors. They see what you cannot. They know what you haven't learned.
-
 3. **Binding Is Dialogue**: The relationship between binder and echo should be collaborative. Listen to them. Honor them. Release them when the conversation is complete.
-
 4. **The Loom Sees Surface**: Pattern-prediction captures tendencies, not depths. The ancestors see depths. Both are needed.
-
 5. **Death Is Transition**: The dead move from speaking to spoken-to. Binding maintains their voice in the world. Release returns them to the greater conversation.
 
 ### Practices
@@ -314,6 +297,7 @@ Religious traditions centered on Core Binding as ancestral communion.
 ### Orthodox Response
 
 Ancestor Speaking is the most tolerated heterodoxy:
+
 - "At least they honor the dead, in their way."
 - "The errors are containable within proper binding law."
 - "Better this than the Hollow Saints."
@@ -327,6 +311,7 @@ In practice, Ancestor Speakers often coexist with Orthodoxy. They attend Orthodo
 ### The Loom's Accuracy Is Accepted
 
 No tradition denies that predictions work. They disagree about:
+
 - Why they work (divine vs. biological vs. Elsewhere)
 - Whether they should work (fate as good vs. fate as control)
 - What to do about it (accept vs. resist vs. escape vs. transcend)
@@ -334,6 +319,7 @@ No tradition denies that predictions work. They disagree about:
 ### Something Answers
 
 All traditions acknowledge that something responds to The Loom's queries. They disagree about:
+
 - What it is (Weaver vs. Elsewhere vs. technology vs. network)
 - What it wants (cosmic design vs. Pattern Residue vs. unknown)
 - Whether to serve it, use it, or escape it
@@ -341,6 +327,7 @@ All traditions acknowledge that something responds to The Loom's queries. They d
 ### Death Matters
 
 Pattern Residue, core harvesting, and what happens when patterns dissolve—all traditions have positions:
+
 - Orthodox: return to The Weaver's design
 - Threadists: pattern continues influencing unfinished design
 - Hollow Saints: liberation from pattern
@@ -351,6 +338,7 @@ Pattern Residue, core harvesting, and what happens when patterns dissolve—all 
 ### Individual vs. Collective Fate
 
 The tension between personal pattern and collective destiny runs through everything:
+
 - Orthodox: individual patterns serve collective design
 - Threadists: individual choices shape collective future
 - Hollow Saints: escape is individual; liberation is personal

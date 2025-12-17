@@ -1,0 +1,3 @@
+# The Pattern Caste System
+
+...existing content from world/society/pattern_caste_system.md...

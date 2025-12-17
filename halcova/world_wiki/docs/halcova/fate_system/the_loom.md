@@ -1,11 +1,8 @@
-
-<div class="halcova-header">[The Loom: Fate's Instrument](the_loom.md)</div>
+<div class="halcova-header">The Loom: Fate's Instrument</div>
 
 ## Overview
 
-
 **The Loom** is the distributed network of devices, rituals, and institutions that read, record, and predict fate in Hálcova. It is not a single machine but a system—part arcane technology, part religious practice, part bureaucratic apparatus.
-
 
 More importantly: The Loom may be a point of contact with Fate. Whether Fate is an [Elsewhere](../metaphysics/additional_systems.md) entity, a collection of entities, or something stranger is a matter of fierce theological debate. What's undeniable is that The Loom *works*. Its predictions are accurate far beyond statistical chance. And something answers when the Loom-Keepers perform their divinations.
 
@@ -14,7 +11,6 @@ More importantly: The Loom may be a point of contact with Fate. Whether Fate is 
 ## Historical Origins: The Bootstrap Question
 
 ### The Fundamental Problem
-
 
 The Loom runs on Pattern Residue. Pattern Residue comes from death. But the Loom (or something like it) appears to predate the current Residue economy. The polar structures, the moon arrangement, and certain archaeological evidence suggest the system existed before the cooling event that created the death-dependent world we know.
 
@@ -27,6 +23,7 @@ Scholars who study this question propose a developmental sequence:
 **Phase 1: The Proto-Loom (Pre-Cooling)**
 
 The ancient builders created the system's foundation using unknown power sources:
+
 - The polar structures were built
 - The moons were arranged into resonance
 - The Attendance (or something that became it) was contacted/created/summoned
@@ -36,6 +33,7 @@ The ancient builders created the system's foundation using unknown power sources
 **Phase 2: The Cooling Event (Transition)**
 
 Something happened that changed everything:
+
 - Massive Residue release (mass death? Elsewhere incursion? deliberate engineering?)
 - The net-negative thermodynamic cycle began
 - Hálcova started cooling rapidly
@@ -45,6 +43,7 @@ Something happened that changed everything:
 **Phase 3: The Current Era**
 
 The Loom we know is an adaptation, not the original design:
+
 - Pattern-engines run on Residue because that's what's available
 - The distributed Node network was built over millennia by successor civilizations
 - The core function (the Attendance connection) may not actually require Residue
@@ -76,11 +75,8 @@ The ancient builders understood something we don't. They created (or contacted) 
 Distributed across Hálcova, Loom-Nodes are the physical anchors of the system:
 
 - **Major Nodes**: Large installations in capital cities and religious centers. Cathedral-sized complexes housing pattern-engines, archives, and ritual spaces. Staffed by hundreds of Loom-Keepers.
-
 - **Minor Nodes**: Town-level facilities. Smaller pattern-engines, local registries, drawing chambers. Staffed by licensed practitioners and temple appointees.
-
 - **Mobile Nodes**: Portable equipment for frontier regions, military operations, and emergency readings. Less accurate but functional.
-
 - **Private Nodes**: Illegal or gray-market installations operated by wealthy individuals, corporations, and criminal organizations. Quality varies wildly.
 
 **The Pattern-Engines**
@@ -114,7 +110,6 @@ The accumulated database of all Sórscad patterns ever drawn. Stored in:
 - Physical archives (paper, metal plates, encoded materials)
 - Pattern-engine memory (poorly understood how this works)
 - Distributed across major Nodes with varying levels of completeness
-
 
 The Registry is legally protected, politically contested, and practically impossible to fully secure. Pattern-theft, registry-manipulation, and archive-raids are all documented crimes.
 
@@ -167,6 +162,7 @@ The Loom tracks when actual outcomes diverge from predictions:
 - **Anomalous deviations**: Statistically improbable, triggering investigation
 
 Deviation can indicate:
+
 - Measurement error (rare)
 - Environmental factors not in the model (common, usually ignored)
 - Deliberate pattern-manipulation (criminal)
@@ -195,11 +191,8 @@ The Loom's impossible predictive power suggests contact with something beyond no
 Possible relationships:
 
 1. **Fate IS an Elsewhere entity** (or entities). The Weaver is real, but it's not a god—it's an Elsewhere faction with interest in our world's pattern-structure.
-
 2. **The Loom is a pact**. The original Loom-builders made a deal, knowingly or not. The pattern-engines are anchors. The accuracy is the entity's end of the bargain. What do they receive in return?
-
 3. **Pattern Residue is payment**. The fuel that runs the engines might also be tribute to the entity/entities that make prediction possible.
-
 4. **The Accountants**. The Elsewhere faction obsessed with ledgers, debts, and balance fits suspiciously well with a system that tracks life-patterns and predicts outcomes. Did they design this? Do they operate it?
 
 ### What The Loom-Keepers Know
@@ -212,6 +205,7 @@ Senior Loom-Keepers are aware that something answers their rituals. They call th
 - The Attendance
 
 They know:
+
 - It responds more strongly to certain rituals than others
 - It seems interested in specific patterns (deviation cases especially)
 - It occasionally provides information not requested
@@ -219,6 +213,7 @@ They know:
 - Improper operation has consequences
 
 They don't know:
+
 - What it actually is
 - What it wants (beyond continued operation)
 - Whether it's one entity or many
@@ -234,6 +229,7 @@ This uncertainty is not shared with the public. The Orthodoxy maintains that The
 ### Why Does It Work?
 
 The Loom's predictions are accurate far beyond what statistical modeling should allow. Even accounting for:
+
 - Feedback loops (predictions creating outcomes)
 - Self-fulfilling prophecy (people acting on expectations)
 - Survivorship bias (failures not tracked)
@@ -243,21 +239,25 @@ The accuracy remains anomalous. People with Road-Path patterns really do tend to
 Possible explanations:
 
 **1. Fate is real and The Loom reads it correctly**
+
 - The pattern exists independent of The Loom
 - The Loom is just a measurement tool
 - Accuracy reflects underlying reality
 
 **2. The Loom creates what it predicts**
+
 - The measurement itself shapes the outcome
 - Social structures enforce pattern-expectations
 - Fate is constructed, not discovered
 
 **3. Something makes the predictions come true**
+
 - The Elsewhere entity/entities actively arrange outcomes
 - The Loom's accuracy is maintained by intervention
 - We're not being predicted; we're being *managed*
 
 **4. Some combination**
+
 - Patterns reflect real tendencies
 - The Loom's measurement amplifies those tendencies
 - External forces ensure accuracy where natural variance would cause deviation
@@ -269,14 +269,16 @@ The truth is probably all four. The horror is that it might not matter—the sys
 The Loom is accurate. But accurate about what?
 
 The training data—centuries of Registry records—reflects:
+
 - Historical power structures
-- Past discrimination patterns  
+- Past discrimination patterns
 - Environmental factors misattributed to innate patterns
 - Feedback loops already embedded
 
 The Loom predicts that Knot-Born patterns are high-risk. This is accurate—they do commit more crimes, default more often, die violently more frequently.
 
 But why? Because:
+
 - They're born into poverty
 - They're denied opportunity
 - They're policed more heavily
@@ -295,6 +297,7 @@ This is not a bug. The Loom reflects the world accurately. The world is structur
 **Pattern Residue** (working term—conlang name TBD) is the energy released when patterns dissolve.
 
 When something with a Sórscad dies:
+
 - The pattern loses its anchor
 - The five circles begin to dissipate
 - Energy is released during dissolution
@@ -303,12 +306,14 @@ When something with a Sórscad dies:
 ### Where It Comes From
 
 **Natural Sources**:
+
 - Any death of a pattern-bearing creature
 - More from traumatic deaths (violent release)
 - More from heavy patterns (rich fate-weight)
 - Concentrated at mass-death sites (battlefields, plagues, disasters)
 
 **Manufactured Sources**:
+
 - Executions (legal, controlled harvest)
 - Blood-sport (entertainment plus production)
 - War (the most efficient source)
@@ -318,18 +323,21 @@ When something with a Sórscad dies:
 ### What It Does
 
 **For The Loom**:
+
 - Powers pattern-engines
 - Fuels divination rituals
 - Enables Node-to-Node communication
 - Maintains the connection to... whatever answers
 
 **For Core Binding**:
+
 - Maintains echo coherence in anchors
 - Prevents degradation and fragmentation
 - Consumed over time (ongoing cost)
 - Higher-quality Residue produces more stable echoes
 
 **For Other Uses**:
+
 - Alchemical applications (numerous)
 - Probability-nudging devices (expensive, unreliable)
 - Magitech fuel (emerging industry)
@@ -338,12 +346,14 @@ When something with a Sórscad dies:
 ### The Economy of Death
 
 Pattern Residue creates incentives:
+
 - Peace is expensive (low Residue production)
 - War is profitable (high production, controllable harvest)
 - Disaster is opportunity (mass death = market surplus)
 - Certain populations are more valuable dead than alive (high-pattern individuals)
 
 The institutions that depend on Residue have interests in:
+
 - Maintaining death rates
 - Controlling Residue sources
 - Preventing peace from becoming too stable
@@ -354,11 +364,13 @@ This is not conspiracy theory. This is economics. The people who run these syste
 ### The Net-Negative Reality
 
 Pattern Residue doesn't just absorb heat—it permanently removes it. Every death:
+
 - Absorbs thermal energy during Residue formation
 - Even when burned, releases only 60-70% of that energy
 - The remainder is lost forever (exotic matter decay, Elsewhere transfer)
 
 This means:
+
 - The Loom's fuel supply comes at planetary cost
 - Running the system requires accepting ongoing heat loss
 - The more queries, the more death needed, the colder the world becomes
@@ -415,6 +427,7 @@ In these regions, controlling The Loom is controlling the population. Registrati
 Across Hálcova, virtually no one disputes that The Loom's predictions are accurate. The evidence is too overwhelming. Even those who hate the system acknowledge that it works.
 
 Disagreement is about:
+
 - Why it works
 - Whether accuracy justifies the system
 - Who should control it
@@ -438,18 +451,18 @@ None of these positions deny accuracy. They interpret it differently.
 
 ## Terminology Reference
 
-| Term | Meaning |
-|------|---------|
-| The Loom | The complete system of fate-prediction and pattern-tracking |
-| Loom-Node | Physical installation housing pattern-engines and archives |
-| Pattern-Engine | Device that records, calculates, and interfaces with the source |
-| Loom-Keeper | Licensed operator of Loom systems |
-| High Weaver | Senior Loom-Keeper rank |
-| The Registry | Database of all recorded Sórscad patterns |
-| The Weaver | Orthodox name for the divine source of patterns |
-| Pattern Residue | Energy released by pattern-dissolution; fuel for the system |
-| Deviation | When outcomes diverge from predictions |
-| The Attendance | Loom-Keeper term for whatever answers their rituals |
+| Term            | Meaning                                                         |
+| --------------- | --------------------------------------------------------------- |
+| The Loom        | The complete system of fate-prediction and pattern-tracking     |
+| Loom-Node       | Physical installation housing pattern-engines and archives      |
+| Pattern-Engine  | Device that records, calculates, and interfaces with the source |
+| Loom-Keeper     | Licensed operator of Loom systems                               |
+| High Weaver     | Senior Loom-Keeper rank                                         |
+| The Registry    | Database of all recorded Sórscad patterns                      |
+| The Weaver      | Orthodox name for the divine source of patterns                 |
+| Pattern Residue | Energy released by pattern-dissolution; fuel for the system     |
+| Deviation       | When outcomes diverge from predictions                          |
+| The Attendance  | Loom-Keeper term for whatever answers their rituals             |
 
 ---
 

@@ -1,0 +1,3 @@
+# Patterns and Bindings
+
+...existing content from world/fate_system/patterns_and_bindings.md...

@@ -1,4 +1,4 @@
-<div class="halcova-header">[Hálcova: Politics, Law, and the Systems](politics_law_and_systems.md)</div>
+<div class="halcova-header">Hálcova: Politics, Law, and the Systems</div>
 
 > **Document Scope**: This is the *comprehensive reference* combining governance structures, legal frameworks, and political philosophy into a single document organized by region. For focused treatments, see: [governance_structures.md](governance_structures.md) (regional power structures), [political_philosophy.md](political_philosophy.md) (philosophical questions), and [legal_frameworks.md](legal_frameworks.md) (legal systems and crimes).
 
@@ -278,23 +278,23 @@ The system persists because everyone fears what would replace it.
 
 ### Magic Regulation by Region
 
-| Art | Heartlands | Shattered Reaches | Middle Waters | Vent Lands | Far Shelf |
-|-----|------------|-------------------|---------------|------------|-----------|
-| Core Binding | Licensed, Church-supervised | Legal, lightly regulated | Varies by zone | Legal, guild-supervised | Accepted, unregulated |
-| Flesh Shaping | Restricted, medical only | Legal, guild-regulated | Varies by zone | Specialty, guild-led | Varies by community |
-| Pact Summoning | Capital crime | Varies; substitution often banned | Varies by zone | Legal, guild-advised | Often traditional |
-| Fate Threading | Capital heresy | Mostly unregulated | Varies by zone | Unregulated | Sometimes celebrated |
-| Colony Summoning | Tolerated with disabilities | Legal, safety-regulated | Varies; native Cults | Specialty, normalized | Accepted |
+| Art              | Heartlands                  | Shattered Reaches                 | Middle Waters        | Vent Lands              | Far Shelf             |
+| ---------------- | --------------------------- | --------------------------------- | -------------------- | ----------------------- | --------------------- |
+| Core Binding     | Licensed, Church-supervised | Legal, lightly regulated          | Varies by zone       | Legal, guild-supervised | Accepted, unregulated |
+| Flesh Shaping    | Restricted, medical only    | Legal, guild-regulated            | Varies by zone       | Specialty, guild-led    | Varies by community   |
+| Pact Summoning   | Capital crime               | Varies; substitution often banned | Varies by zone       | Legal, guild-advised    | Often traditional     |
+| Fate Threading   | Capital heresy              | Mostly unregulated                | Varies by zone       | Unregulated             | Sometimes celebrated  |
+| Colony Summoning | Tolerated with disabilities | Legal, safety-regulated           | Varies; native Cults | Specialty, normalized   | Accepted              |
 
 ### Fate System by Region
 
-| Element | Heartlands | Shattered Reaches | Middle Waters | Vent Lands | Far Shelf |
-|---------|------------|-------------------|---------------|------------|-----------|
-| Pattern Certification | Required | Optional | Varies by zone | Available | Rare/refused |
-| Pattern Evidence | Admissible | Inadmissible (public) | Varies by zone | Not used | Rejected |
-| Deviation Status | Crime | Not crime | Varies by zone | Irrelevant | Sometimes virtue |
-| Pre-Crime | Authorized | Prohibited | Colonial zones only | Not practiced | Prohibited |
-| Warden Status | Full authority | Treaty-limited | Colonial presence | Guild-constrained | Illegal |
+| Element               | Heartlands     | Shattered Reaches     | Middle Waters       | Vent Lands        | Far Shelf        |
+| --------------------- | -------------- | --------------------- | ------------------- | ----------------- | ---------------- |
+| Pattern Certification | Required       | Optional              | Varies by zone      | Available         | Rare/refused     |
+| Pattern Evidence      | Admissible     | Inadmissible (public) | Varies by zone      | Not used          | Rejected         |
+| Deviation Status      | Crime          | Not crime             | Varies by zone      | Irrelevant        | Sometimes virtue |
+| Pre-Crime             | Authorized     | Prohibited            | Colonial zones only | Not practiced     | Prohibited       |
+| Warden Status         | Full authority | Treaty-limited        | Colonial presence   | Guild-constrained | Illegal          |
 
 ---
 

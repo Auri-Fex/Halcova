@@ -1,9 +1,8 @@
-<div class="halcova-header">[Hálcova: Legal Frameworks and Pattern Law](legal_frameworks.md)</div>
+<div class="halcova-header">Hálcova: Legal Frameworks and Pattern Law</div>
 
 > **Document Scope**: This document details *legal systems and pattern-crimes*—the taxonomy of offenses, court structures, and enforcement mechanisms. For regional governance structures, see [governance_structures.md](governance_structures.md). For philosophical questions about pattern-governance, see [political_philosophy.md](political_philosophy.md). For a comprehensive overview combining all aspects, see [politics_law_and_systems.md](politics_law_and_systems.md).
 
 ## Overview
-
 
 Law in [Hálcova](../../index.md) cannot escape [pattern](../fate_system/the_sorscad.md). The existence of readable fate, predictable behavior, and measurable destiny forces every legal system to answer questions Earth jurisprudence never faced: Can you punish inevitability? Can you contract against destiny? Is [deviation](legal_frameworks.md#deviation) a crime or a miracle?
 
@@ -19,11 +18,9 @@ Different regions answer differently. All answers cost something.
 
 **The Problem**: If patterns are divine (Orthodox view) or physically real (materialist view), deviation is either sin or impossibility. Yet it happens. Some people act against prediction.
 
-
-**Orthodox Position**: Deviation is heresy. The pattern is [The Weaver's](../society/religion.md) will; defying it defies divine order. Punishment is spiritual correction as much as temporal.
+**Orthodox Position**: Deviation is heresy. The pattern is [The Weaver&#39;s](../society/religion.md) will; defying it defies divine order. Punishment is spiritual correction as much as temporal.
 
 **Skeptic Position**: Deviation proves patterns are probabilistic, not deterministic. "Deviants" are just statistical outliers. Criminalizing deviation criminalizes being unpredicted.
-
 
 **Actual Practice**: [Heartlands](../planetary/geography.md) criminalizes deviation. [Shattered Reaches](../planetary/geography.md) doesn't (officially). Other regions vary. The [Warden Order](../society/the_warden_order.md) prosecutes deviation everywhere it can reach, creating jurisdictional conflicts.
 
@@ -59,7 +56,7 @@ Different regions answer differently. All answers cost something.
 
 **Autonomist Position**: You own your pattern. Refusing to share it is your right. Mandatory reading is slavery.
 
-**Actual Practice**: 
+**Actual Practice**:
 
 The Heartlands requires pattern documentation for most activities. No reading, no employment, no housing, no trade. Evasion isn't explicitly illegal—you just can't participate in society.
 
@@ -75,7 +72,7 @@ Other regions fall between.
 
 **Theoretical Nature**: May not be possible. May be mythical. The uncertainty is part of the legal problem.
 
-**Legal Treatment**: 
+**Legal Treatment**:
 
 Illegal everywhere—in theory. But if it's impossible, the laws are purely symbolic. If it's possible and secret, the laws are unenforceable.
 
@@ -116,7 +113,7 @@ A contract is a meeting of minds, creating mutual obligation. But on Hálcova:
 
 **When Is a Contract Void?**
 
-*Pattern Exploitation*: If one party knew the other's pattern predicted failure, and structured the deal to profit from that failure, is the contract predatory? 
+*Pattern Exploitation*: If one party knew the other's pattern predicted failure, and structured the deal to profit from that failure, is the contract predatory?
 
 **Orthodox Position**: Patterns are public information. Using it is prudent, not exploitative. Caveat emptor.
 
@@ -316,6 +313,7 @@ Who owns the Loom?
 ### Jurisdictional Claims
 
 The Warden Order claims authority to:
+
 - Investigate pattern-crimes anywhere patterns exist
 - Arrest deviants, fraudsters, evaders, interferers
 - Conduct trials (ecclesiastical courts in Heartlands, treaty-authorized elsewhere)
@@ -350,6 +348,7 @@ The Warden Order claims authority to:
 **Structure**: Ecclesiastical law (pattern-crimes, deviation, heresy) parallel to secular law (ordinary crimes).
 
 **Key Features**:
+
 - Deviation is a crime, prosecuted by Wardens
 - Pattern-fraud is both ecclesiastical and secular crime
 - Pattern evidence admissible in all courts
@@ -358,6 +357,7 @@ The Warden Order claims authority to:
 - Residue rights are property, regulated but tradeable
 
 **Distinctive Elements**:
+
 - "Pattern Certification" required for many activities
 - "Harmony Testing" for marriage, business partnership
 - "Fate Compliance Audits" for major institutions
@@ -370,6 +370,7 @@ The Warden Order claims authority to:
 **Structure**: Common law tradition, precedent-based, decentralized by polity.
 
 **Key Features**:
+
 - Pattern-crimes not generally recognized (fraud excepted)
 - Pattern evidence officially excluded from criminal trials
 - Pattern-contingent contracts enforceable as private agreements
@@ -377,6 +378,7 @@ The Warden Order claims authority to:
 - Residue rights are property, largely unregulated
 
 **Distinctive Elements**:
+
 - "Jurisdictional Shopping" is common and accepted
 - Merchant league arbitration often preferred to state courts
 - "Pattern Privacy" recognized as right (can refuse disclosure)
@@ -389,6 +391,7 @@ The Warden Order claims authority to:
 **Structure**: Guild-based law. Guilds govern members; inter-guild conflicts resolved by council.
 
 **Key Features**:
+
 - Expertise/capability matters more than pattern
 - Pattern evidence secondary to demonstrated competence
 - Contracts based on deliverables, not predictions
@@ -396,6 +399,7 @@ The Warden Order claims authority to:
 - Non-guild members have limited legal standing
 
 **Distinctive Elements**:
+
 - "Competence Certification" replaces pattern certification
 - Guild courts handle member disputes
 - Inter-guild trade governed by protocols, not state law
@@ -408,6 +412,7 @@ The Warden Order claims authority to:
 **Structure**: Decentralized. Local charters establish local rules. Weak central coordination.
 
 **Key Features**:
+
 - Pattern-tracking rejected where possible
 - Deviation not criminalized (may be celebrated)
 - Pattern evidence excluded from legal proceedings
@@ -415,6 +420,7 @@ The Warden Order claims authority to:
 - Residue rights controversial (some communities refuse commodification)
 
 **Distinctive Elements**:
+
 - "Loom Refusal" protected as right
 - Warden presence illegal without invitation
 - Community assemblies resolve disputes
@@ -424,14 +430,14 @@ The Warden Order claims authority to:
 
 ## Summary: Legal Frameworks Compared
 
-| Issue | Heartlands | Shattered Reaches | Vent Lands | Far Shelf |
-|-------|------------|-------------------|------------|-----------|
-| Deviation | Crime | Not crime | Not crime | Celebrated |
-| Pattern Evidence | Admissible | Officially excluded | Secondary | Excluded |
-| Pre-Crime | Limited authorization | Rejected | Rejected | Prohibited |
-| Pattern Contracts | Fully enforceable | Enforceable (private) | Deliverable-based | Void if pattern-contingent |
-| Residue Rights | Regulated property | Property | Safety-regulated | Contested |
-| Warden Authority | Full | Treaty-limited | Guild-limited | None |
+| Issue             | Heartlands            | Shattered Reaches     | Vent Lands        | Far Shelf                  |
+| ----------------- | --------------------- | --------------------- | ----------------- | -------------------------- |
+| Deviation         | Crime                 | Not crime             | Not crime         | Celebrated                 |
+| Pattern Evidence  | Admissible            | Officially excluded   | Secondary         | Excluded                   |
+| Pre-Crime         | Limited authorization | Rejected              | Rejected          | Prohibited                 |
+| Pattern Contracts | Fully enforceable     | Enforceable (private) | Deliverable-based | Void if pattern-contingent |
+| Residue Rights    | Regulated property    | Property              | Safety-regulated  | Contested                  |
+| Warden Authority  | Full                  | Treaty-limited        | Guild-limited     | None                       |
 
 ---
 

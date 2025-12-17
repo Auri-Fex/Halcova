@@ -1,10 +1,8 @@
-<div class="halcova-header">[The Warden Order: Enforcers of Fate](the_warden_order.md)</div>
+<div class="halcova-header">The Warden Order: Enforcers of Fate</div>
 
 ## Overview
 
-
 The **[Warden Order](the_warden_order.md)** (*Őrvonalak*—"Guardian Lines") is the enforcement arm of [Loom](../fate_system/the_loom.md) orthodoxy. They are investigators, hunters, judges, and executioners rolled into one—a zealot force dedicated to ensuring that Fate's predictions come true and that no one escapes their [pattern](../fate_system/the_sorscad.md).
-
 
 They are, in essence, the [Loom](../fate_system/the_loom.md)'s police. But "police" doesn't capture the theological dimension. To the Wardens, deviation from pattern isn't crime. It's heresy. It's cosmic disorder. It's a wound in reality that must be cauterized.
 
@@ -13,7 +11,6 @@ They are, in essence, the [Loom](../fate_system/the_loom.md)'s police. But "poli
 ## Purpose and Mandate
 
 ### The Problem They Solve
-
 
 The [Loom](../fate_system/the_loom.md)'s predictions are accurate—but not perfectly accurate. Deviations occur:
 
@@ -30,15 +27,14 @@ Most deviations are noise. Some are environmental factors The Loom missed. But s
 **Pattern-Manipulation**: Attempting to change your pattern through magic or ritual.
 **Pattern-Interference**: Helping others evade or manipulate their patterns.
 
-
 The [Warden Order](the_warden_order.md) exists to detect, investigate, and punish these crimes against [Fate](../fate_system/the_loom.md).
 
 ### The Theological Mandate
 
-
 To the Orthodox faithful, your [Sórscad](../fate_system/the_sorscad.md) is your divinely-assigned role in existence. Deviation is not just illegal—it's an assault on cosmic order.
 
 The Wardens believe:
+
 - The Weaver assigned each pattern with purpose
 - That purpose serves a design too vast for mortals to comprehend
 - Deviation creates ripples that damage the design
@@ -55,22 +51,23 @@ This belief is sincere. Wardens are not cynical enforcers playing a role. They a
 
 The Warden Order maintains approximately **2,500-3,500 Attuned Wardens** across all of Hálcova at any given time. This number fluctuates based on recruitment cycles, attrition (Attunement shortens lives), and regional needs.
 
-| Category | Approximate Numbers |
-|----------|--------------------|
-| Attuned Wardens (total) | 2,500-3,500 |
-| Heartlands deployment | 1,500-2,000 |
-| Shattered Reaches (treaty-limited) | 200-400 |
-| Vent Lands (guild-negotiated) | 150-300 |
-| Middle Waters (colonial presence) | 200-350 |
-| Far Shelf (contested/illegal) | 50-150 |
-| Initiates in training | 500-800 |
-| Support staff (non-Attuned) | 5,000-7,000 |
+| Category                           | Approximate Numbers |
+| ---------------------------------- | ------------------- |
+| Attuned Wardens (total)            | 2,500-3,500         |
+| Heartlands deployment              | 1,500-2,000         |
+| Shattered Reaches (treaty-limited) | 200-400             |
+| Vent Lands (guild-negotiated)      | 150-300             |
+| Middle Waters (colonial presence)  | 200-350             |
+| Far Shelf (contested/illegal)      | 50-150              |
+| Initiates in training              | 500-800             |
+| Support staff (non-Attuned)        | 5,000-7,000         |
 
 Support staff include: archivists, scribes, prison guards, administrators, cooks, cleaners, stable hands, message runners, and other personnel who maintain Order operations without undergoing Attunement. Many are family members of Wardens or pattern-constrained individuals assigned to Order service.
 
 ### The Ranks
 
 **Initiates** (*Kezdők*)
+
 - Trainees undergoing Loom-attunement
 - Not yet granted enforcement authority
 - Assist full Wardens in investigations
@@ -78,6 +75,7 @@ Support staff include: archivists, scribes, prison guards, administrators, cooks
 - Currently 500-800 in training at any time
 
 **Wardens** (*Őrök*)
+
 - Full enforcement authority
 - Licensed to investigate, arrest, and judge minor deviations
 - Operate individually or in pairs
@@ -85,24 +83,28 @@ Support staff include: archivists, scribes, prison guards, administrators, cooks
 - Approximately 2,000-2,800 active
 
 **Priors** (*Előjárók*)
+
 - Supervisory rank overseeing multiple Wardens
 - Authority over major deviation cases
 - Can convene judgment tribunals
 - Often stationed at major Loom-Nodes
 
 **Calculators** (*Számítók*)
+
 - Specialized analysts who interpret Loom data
 - Identify patterns of deviation across populations
 - Predict where manipulation is likely occurring
 - Rarely operate in the field; their work is in the archives
 
 **High Wardens** (*Főőrök*)
+
 - Regional commanders
 - Direct authority over all enforcement in their territory
 - Answer only to the Synod
 - Political as well as religious figures
 
 **The Synod** (*Zsinat*)
+
 - Governing council of the Order
 - Seven High Wardens plus the Loom-Keeper General
 - Sets enforcement policy and theological interpretation
@@ -113,6 +115,7 @@ Support staff include: archivists, scribes, prison guards, administrators, cooks
 Wardens are not simply trained. They are **attuned**—connected to The Loom in a way that grants them abilities beyond normal Loom-Keepers.
 
 **The Process**:
+
 - Conducted at a major Loom-Node
 - Involves extended contact with a pattern-engine
 - The initiate opens themselves to the Attendance
@@ -122,21 +125,15 @@ Wardens are not simply trained. They are **attuned**—connected to The Loom in 
 **What Attunement Grants**:
 
 1. **Pattern-Sight**: Wardens can see Sórscad patterns without mechanical assistance. Not complete readings—impressions, dominant circles, deviations from expected behavior.
-
 2. **Deviation-Sense**: A feeling—almost physical—when someone nearby is acting against their pattern. Like hearing a wrong note in a familiar song.
-
 3. **Loom-Voice**: The ability to query The Loom mentally, receiving basic information about a subject's pattern and prediction-status. Limited range, requires concentration.
-
 4. **Thread-Touch**: In physical contact, a Warden can feel someone's fate-weight. How heavy their pattern is, how much remains, how much has been spent or sold.
 
 **What Attunement Costs**:
 
 1. **Pattern-Lock**: An attuned Warden's own Sórscad becomes fixed. They cannot deviate from their own pattern without experiencing severe dissonance. They are bound to their fate more tightly than any civilian.
-
 2. **Resonance**: Wardens feel deviations as personal discomfort. A city full of pattern-fraud gives them migraines. Proximity to heavy manipulation can be physically painful.
-
 3. **Connection**: The Attendance is always there, in the back of their minds. Not controlling—observing. Some Wardens describe it as a patient presence. Others as a weight they can never put down.
-
 4. **Life-Debt**: Attunement shortens life. The connection draws on vital energy. Most Wardens don't reach old age. They burn out, consumed by the link that gives them power.
 
 ---
@@ -148,11 +145,13 @@ Wardens are not simply trained. They are **attuned**—connected to The Loom in 
 Wardens know that something answers when they use their abilities. They don't call it The Weaver—that's for civilians. Among themselves, they use the same term as senior Loom-Keepers: **The Attendance**.
 
 Most Wardens believe The Attendance is:
+
 - An aspect of the divine Weaver
 - A messenger or servant of Fate
 - The voice of the pattern itself, given presence
 
 Some Wardens suspect:
+
 - The Attendance is an Elsewhere entity
 - Their attunement is a pact they didn't fully understand
 - They're serving something with its own agenda
@@ -162,6 +161,7 @@ This suspicion is not heresy—it's occupational hazard. Wardens spend their liv
 ### The Relationship
 
 The Attendance:
+
 - Provides information when Wardens query
 - Guides attention toward significant deviations
 - Offers... suggestions. Urges. Directions that feel like their own ideas.
@@ -178,6 +178,7 @@ The most dangerous Wardens are the ones who've stopped questioning whether their
 ### Investigation
 
 **Detection**:
+
 - Loom-data analysis (Calculators identify statistical anomalies)
 - Pattern-Sight (Wardens scanning crowds for deviation-impressions)
 - Informants (the Order has networks in every district)
@@ -185,6 +186,7 @@ The most dangerous Wardens are the ones who've stopped questioning whether their
 - The Attendance (sometimes it simply... directs attention)
 
 **Verification**:
+
 - Registry check (confirming recorded Sórscad)
 - Prediction-review (what should this person be doing?)
 - Outcome analysis (what are they actually doing?)
@@ -194,12 +196,14 @@ The most dangerous Wardens are the ones who've stopped questioning whether their
 ### Arrest and Detention
 
 Wardens have broad authority:
+
 - Can detain anyone for pattern-verification
 - Can enter premises where deviation is suspected
 - Can compel testimony from civilians
 - Can hold suspects indefinitely pending investigation
 
 **Limitations**:
+
 - Cannot execute without judgment (except immediate threat)
 - Cannot detain the pattern-privileged without Prior authorization
 - Cannot operate outside their territorial jurisdiction
@@ -210,18 +214,21 @@ In practice, limitations are flexible. Wardens have significant discretion. Abus
 ### Judgment
 
 **Minor Deviations**:
+
 - Judged by the arresting Warden
 - Sentences: fines, pattern-counseling, restricted movement, labor assignment
 - No appeal to higher authority
 - Recorded in subject's Registry file
 
 **Major Deviations**:
+
 - Judged by Prior tribunal
 - Sentences: imprisonment, pattern-modification attempt, indentured service, execution
 - Limited appeal to High Warden
 - Permanent Registry marking
 
 **Extraordinary Deviations**:
+
 - Judged by High Warden or Synod directly
 - Reserved for: practitioners, nobility, institutional actors, mass manipulation
 - Sentences: public execution, family-pattern marking, institutional dissolution
@@ -278,12 +285,14 @@ Specialize in Colony Hosting violations. Track feral colonies, illegal infection
 If Fate determines everything, how can anyone deviate? If deviation is impossible, why do Wardens exist?
 
 **The Orthodox Answer**:
+
 - Deviation is part of Fate too
 - The Weaver allows deviation so that correction can occur
 - Wardens are fated to catch deviants
 - The system is self-consistent if you don't think too hard
 
 **The Uncomfortable Truth**:
+
 - If Wardens are fated to catch deviants, are deviants fated to deviate?
 - If so, is punishment just? They couldn't help it.
 - If not, then Fate doesn't determine everything. And the whole system is in question.
@@ -295,12 +304,14 @@ Most Wardens don't think about this. The ones who do either leave the Order or b
 The Order recruits based on pattern.
 
 Wardens tend to have patterns that include:
+
 - Duty-Drive (obligation)
 - Hunt-Path (pursuit)
 - Chain-Bond (service)
 - Threshold-Death (violence-adjacent mortality)
 
 These patterns create good enforcers. They also create people predisposed to:
+
 - Following orders without question
 - Pursuing targets with obsessive focus
 - Accepting hierarchical authority
@@ -356,12 +367,14 @@ The Warden attunement looks, to outside observers, remarkably like a pact.
 - Difficulty leaving the relationship
 
 The Order insists this is different:
+
 - The Attendance is divine, not demonic
 - Attunement serves Fate, not a faction's agenda
 - Wardens maintain free will (they just choose correctly)
 - The cost is sacrifice, not transaction
 
 Critics note:
+
 - "Divine" and "Elsewhere" aren't mutually exclusive
 - Agenda opacity doesn't mean agenda absence
 - "Choosing correctly" and "compulsion" look the same from outside
@@ -377,6 +390,7 @@ Some scholars note that The Attendance behaves remarkably like The Accountants�
 - Wardens are collection agents
 
 If true, this means:
+
 - The entire Orthodox system serves an Elsewhere agenda
 - Wardens are pact-bound and don't know it
 - The Order is the largest Elsewhere cult in existence
@@ -389,12 +403,14 @@ This theory is heresy. It's also unfalsifiable. And it keeps certain people awak
 The truth about the Attunement may be unknowable from within the system:
 
 **Evidence suggesting it's NOT a pact**:
+
 - Attuned Wardens die naturally and leave cores behind (pact-bound don't)
 - Attunement can be revoked by the Order hierarchy (pacts require entity consent to break)
 - Pattern-Sight grants observation abilities, not entity manifestation powers
 - Wardens register normally in the Loom (heavily pact-bound become pattern-light)
 
 **Evidence suggesting it IS a pact**:
+
 - The exchange structure is identical (cost for power)
 - The Attendance answers queries like an entity would
 - The compulsion against leaving mirrors pact-binding
@@ -410,20 +426,20 @@ This ambiguity is load-bearing. If the Attunement IS a pact, the entire Orthodox
 
 ## Terminology Reference
 
-| Term | Pronunciation | Meaning |
-|------|---------------|---------|
-| Őrvonalak | OOR-voh-nah-lahk | The Warden Order ("Guardian Lines") |
-| Őrök | OO-ruhk | Warden (standard rank) |
-| Előjárók | EH-loy-yah-rohk | Prior (supervisory rank) |
-| Számítók | SAH-mee-tohk | Calculator (analyst specialization) |
-| Főőrök | FOO-uh-ruhk | High Warden (regional command) |
-| Zsinat | ZHEE-naht | The Synod (governing council) |
-| Attunement | — | The process of connecting a Warden to The Loom |
-| Pattern-Lock | — | Warden's inability to deviate from their own pattern |
-| Deviation-Sense | — | Ability to feel when others act against pattern |
-| Thread-Touch | — | Ability to feel fate-weight through contact |
-| Pattern-Severance | — | Execution method dissolving condemned's Sórscad |
-| Fate-Feeding | — | Execution method maximizing Residue harvest |
+| Term              | Pronunciation    | Meaning                                              |
+| ----------------- | ---------------- | ---------------------------------------------------- |
+| Őrvonalak        | OOR-voh-nah-lahk | The Warden Order ("Guardian Lines")                  |
+| Őrök            | OO-ruhk          | Warden (standard rank)                               |
+| Előjárók       | EH-loy-yah-rohk  | Prior (supervisory rank)                             |
+| Számítók       | SAH-mee-tohk     | Calculator (analyst specialization)                  |
+| Főőrök         | FOO-uh-ruhk      | High Warden (regional command)                       |
+| Zsinat            | ZHEE-naht        | The Synod (governing council)                        |
+| Attunement        | —               | The process of connecting a Warden to The Loom       |
+| Pattern-Lock      | —               | Warden's inability to deviate from their own pattern |
+| Deviation-Sense   | —               | Ability to feel when others act against pattern      |
+| Thread-Touch      | —               | Ability to feel fate-weight through contact          |
+| Pattern-Severance | —               | Execution method dissolving condemned's Sórscad     |
+| Fate-Feeding      | —               | Execution method maximizing Residue harvest          |
 
 ---
 

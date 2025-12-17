@@ -1,4 +1,4 @@
-<div class="halcova-header">[Hálcova: Governance Structures by Region](governance_structures.md)</div>
+<div class="halcova-header">Hálcova: Governance Structures by Region</div>
 
 > **Document Scope**: This document focuses on *regional governance structures*—how each region actually organizes political power. For philosophical questions about pattern-governance, see [political_philosophy.md](political_philosophy.md). For legal systems and pattern-crimes, see [legal_frameworks.md](legal_frameworks.md). For a comprehensive overview combining all aspects, see [politics_law_and_systems.md](politics_law_and_systems.md).
 
@@ -94,6 +94,7 @@ Merchant Leagues provide coherence the political system lacks:
 **The Counting League**: Banking and insurance. Enforces debts across jurisdictions.
 
 These Leagues:
+
 - Negotiate with each other as quasi-states
 - Maintain private arbitration systems
 - Control key infrastructure
@@ -203,6 +204,7 @@ The result is constant maneuvering, shifting alliances, and no stable governance
 ### Non-Guild Population
 
 Not everyone is guild member. Non-members:
+
 - Can work for guilds as employees (not members)
 - Have limited legal standing in guild courts
 - Can form associations for mutual aid
@@ -214,6 +216,7 @@ This creates a two-tier system. Guild members have rights and power. Non-members
 ### The Vent Lands' Advantage
 
 The guild system works because:
+
 - Everyone depends on infrastructure
 - Expertise is genuinely necessary and scarce
 - Geographic constraints force cooperation
@@ -292,14 +295,14 @@ This resistance is the closest thing to regional ideology. Communities that disa
 
 ## Governance Comparison
 
-| Dimension | Heartlands | Shattered Reaches | Middle Waters | Vent Lands | Far Shelf |
-|-----------|------------|-------------------|---------------|------------|----------|
-| Unity | Unified (one crown, one church) | Fragmented (many polities) | Colonial patchwork | Guild federation | Radically decentralized |
-| Legitimacy Basis | Divine pattern-mandate | Consent and contract | Power projection | Expertise and necessity | Community autonomy |
-| Decision Mode | Negotiation among elites | Varies by polity; league coordination | Imposed by strongest | Guild consensus | Local consensus |
-| Pattern Role | Central (certification required) | Marginal (officially) | Varies by controller | Secondary to expertise | Rejected |
-| Warden Status | Full authority | Treaty-limited | Colonial presence | Guild-negotiated | Illegal |
-| Stability | Stable until succession | Stable within polities; regional chaos | Unstable, contested | Very stable | Chaotic but resilient |
+| Dimension        | Heartlands                       | Shattered Reaches                      | Middle Waters        | Vent Lands              | Far Shelf               |
+| ---------------- | -------------------------------- | -------------------------------------- | -------------------- | ----------------------- | ----------------------- |
+| Unity            | Unified (one crown, one church)  | Fragmented (many polities)             | Colonial patchwork   | Guild federation        | Radically decentralized |
+| Legitimacy Basis | Divine pattern-mandate           | Consent and contract                   | Power projection     | Expertise and necessity | Community autonomy      |
+| Decision Mode    | Negotiation among elites         | Varies by polity; league coordination  | Imposed by strongest | Guild consensus         | Local consensus         |
+| Pattern Role     | Central (certification required) | Marginal (officially)                  | Varies by controller | Secondary to expertise  | Rejected                |
+| Warden Status    | Full authority                   | Treaty-limited                         | Colonial presence    | Guild-negotiated        | Illegal                 |
+| Stability        | Stable until succession          | Stable within polities; regional chaos | Unstable, contested  | Very stable             | Chaotic but resilient   |
 
 ---
 
@@ -346,12 +349,14 @@ There is no global authority. The closest approximations:
 Hálcova has no unified political order. Five regions with five different systems interact through trade, conflict, and limited treaty. The Loom connects them metaphysically; nothing connects them politically.
 
 This fragmentation is stable because:
+
 - No power can dominate all others
 - Geography and climate limit force projection
 - The Residue economy creates interdependence without requiring integration
 - Everyone fears what a true hegemon might do with the Loom
 
 The instability lies in:
+
 - Succession crises in the Heartlands
 - Colonial competition in the Middle Waters
 - Coordination failures in the Far Shelf

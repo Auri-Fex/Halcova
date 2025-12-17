@@ -1,6 +1,4 @@
-
-<div class="halcova-header">Hálcova: The Reading</div>
-
+# The Reading
 
 ## Part One
 
@@ -34,7 +32,7 @@ She didn't ask. She'd learned long ago which questions had answers and which had
 
 ---
 
-The breakfast room smelled of coffee and secrets.
+The breakfast room was all polished wood and morning light, coffee steam rising like prayers nobody believed in.
 
 Her father sat at the head of the table, merchant's coat pressed sharp as a blade, the family seal gleaming at his collar like a small bronze promise. Còcal Còcalnòc was reading correspondence—or pretending to. His eyes moved too quickly, scanning without seeing, the way they did when his mind was elsewhere.
 
@@ -62,7 +60,7 @@ The glance between her parents was a door closing.
 
 "Eat." Her mother released her hand, and the coldness lingered. "You'll need your strength."
 
-Fèinnav ate. The bread was ash. The coffee was questions. Her mother's smile was a locked door, and her father's casual tone was the key hidden beneath the mat where anyone could find it.
+Fèinnav ate. The bread was ash in her mouth. The coffee tasted like unanswered questions. Her mother's smile was a locked door, and her father's casual tone was the key hidden beneath the mat where anyone could find it.
 
 *Thirty years of understanding*, she thought. *Three generations of interpretations.*
 
@@ -154,7 +152,7 @@ The temple was a labyrinth built by believers—corridors public and private, sa
 
 She followed the sound of her father's footsteps.
 
-The secondary nave. An alcove off the main corridor, used for private consultations, shadowed even in the morning light. Fèinnav pressed herself against a pillar that smelled of old stone and older prayers, and watched.
+The secondary nave. An alcove off the main corridor, used for private consultations, shadowed even in the morning light. Fèinnav pressed herself against a pillar worn smooth by centuries of similar concealment, and watched.
 
 Szòvòtar Hàlmahtfhì. Sixty years old, at least, with a face made for comfort—soft eyes, gentle mouth, the practiced warmth of someone who'd spent a lifetime delivering verdicts disguised as blessings. His robes were heavy with embroidered patterns marking him senior, trusted, beyond question.
 
@@ -422,7 +420,7 @@ The Attendance had been real. She'd felt divinity—or something so vast it migh
 
 And none of that mattered, because what got written down was whatever the powerful could afford.
 
-The lamb was ash. The vegetables were questions. The wine was the only honest thing on the table—at least it didn't pretend to be anything but what it was.
+The lamb might as well have been paper. The vegetables, sawdust. The wine was the only honest thing on the table—at least it didn't pretend to be anything but what it was.
 
 ---
 
@@ -452,7 +450,7 @@ Her mother's hand tightened on her knee.
 
 ---
 
-The study smelled of leather and old secrets.
+The study was leather and oak and old tobacco, the accumulated weight of decisions made behind closed doors.
 
 The Szòvòtar closed the door. The click of the latch was very loud.
 
@@ -928,19 +926,19 @@ The Hand Quarter girl had no reason to be at the festival—the celebrations wer
 
 "Free food." Àrnnav's voice was flat, but her eyes were sharp. "The merchants throw scraps on Pattern Day. Charity for the constrained. It almost makes up for the rest of the year."
 
-"I found it. The ledger."
+"I found something. In my father's study." Fèinnav moved closer, lowering her voice. "Records going back generations—bribes paid, patterns purchased, families who bought their futures."
 
-Àrnnav went still.
+Àrnnav went still. "You saw it? The ledger?"
 
-"My father's study. Records going back three generations—bribes paid, patterns purchased, families who bought their futures." Fèinnav moved closer, lowering her voice. "And a list. Two columns: what was purchased, what the Attendance actually saw."
+"I saw enough. My family's entries. Others. Two columns—what was purchased, what the Attendance actually saw." She hesitated. "I couldn't take the documents. Not yet. But I know where they are."
+
+Something flickered across Àrnnav's face. Not quite trust—she had too little left for that—but calculation. Interest.
 
 "Your family?"
 
-"All of them. Purchased Ùtcai Szèrrav, actual..." She hesitated. "Actual Tòvismaht and Cèresztàhd. Four generations of Còcalnòc children with the same difficult pattern, all of them bought a different future."
+"All of them. Purchased Ùtcai Szèrrav, actual..." She took a breath. "Actual Tòvismaht and Cèresztàhd. Four generations of Còcalnòc children with the same difficult pattern, all of them bought a different future."
 
-Something flickered across Àrnnav's face. Not quite sympathy—she had too little left for that—but recognition.
-
-"Tòvismaht," she said. "Like me."
+"Tòvismaht," Àrnnav said slowly. "Like me."
 
 "Like me."
 
@@ -948,33 +946,43 @@ They stood in silence while the festival swirled around them. Two girls with com
 
 "What are you going to do?" Àrnnav asked.
 
-"I don't know." And she didn't. The ledger was still in her father's study, evidence that could destroy a dozen families or save no one. The Òràhdar were still investigating, hunting for awakening echoes who remembered too much. Her parents were still performing their purchased patterns, still living lies they'd inherited before they could choose.
+"I don't know yet. The Òràhdar are investigating—they're hunting awakening echoes, people who remember things. If I take the ledger now, my father might notice before I can use it. But if I wait too long—"
 
-And Fèinnav was standing at a crossroads—which was, apparently, exactly where she was supposed to be.
+"Someone else might destroy it." Àrnnav's eyes narrowed. "You need someone who can get into places you can't. Someone who knows how to take things without being caught."
 
-"My mother's name," Àrnnav said. "If it's in there—if there's any mention of what happened to her—"
+"Are you offering?"
 
-"I'll look."
+"I'm considering." Àrnnav's jaw tightened. "My mother's name—if it's in those records—"
 
-"Why?"
+"I'll look. I promise."
 
-"Because we're both Tòvismaht." Fèinnav met her eyes. "Because everything is painful connections and we might as well make the pain mean something."
+"Don't promise. Just do it." She glanced around the square—habit, the constant vigilance of someone who'd learned early that safety was an illusion. "There's more to this than just your family. The Còcalnòc name was in my mother's notes. She knew something about the fraud before she died."
 
-Àrnnav almost smiled.
+"What notes?"
 
-Then the crowd shifted, and Òràhd Vàscalìn was there.
+"Hidden. Old. I'll show you—but not here." Àrnnav turned back toward her. "We need to meet somewhere private. Somewhere we can actually talk without half the city watching."
+
+"When?"
+
+"After the festival. When everyone's drunk and distracted." She almost smiled. "I'll find you. Just keep your eyes open and your mouth shut until then."
+
+She disappeared into the crowd.
+
+And Fèinnav stood alone in the middle of Pattern Day, wearing her purchased future like a costume, carrying her real pattern like a blade she didn't know how to use.
 
 ---
 
-"Young Còcalnòc. Young Vonalnòc."
+The crowd shifted, and Òràhd Vàscalìn was there.
 
-The Warden's face was stone. Her Òràhd seal gleamed at her collar like an accusation, and her eyes moved between them with the patient attention of someone cataloging evidence.
+"Young Còcalnòc."
 
-"A strange pairing on Pattern Day. The merchant's daughter and the Hand Quarter orphan."
+The Warden's face was stone. Her Òràhd seal gleamed at her collar, and her eyes moved over Fèinnav with the patient attention of someone cataloging evidence.
 
-"We met at the Binding ceremony." Fèinnav kept her voice steady. "We're the same age."
+"A strange place to be standing alone on Pattern Day. The merchant's daughter, separated from her family."
 
-"You're nothing alike." The Warden moved closer, and there was something in her posture that suggested she wasn't here by accident. "I've been investigating certain irregularities, young Còcalnòc. Echoes that remember things they shouldn't. Patterns that don't quite match their histories. Families whose good fortune seems... statistically unlikely."
+"I needed air."
+
+"So I see." The Warden moved closer, and there was something in her posture that suggested she wasn't here by accident. "I've been investigating certain irregularities, young Còcalnòc. Echoes that remember things they shouldn't. Patterns that don't quite match their histories. Families whose good fortune seems... statistically unlikely."
 
 Fèinnav's heart hammered.
 
@@ -986,93 +994,21 @@ How did she know? How could she possibly know?
 
 "My echo is old," Fèinnav said carefully. "Degradation is common in echoes of her age."
 
-"Degradation usually means *losing* memories, not recovering them." The Warden turned her attention to Àrnnav. "And you—your mother worked in the Pattern House before her death. She would have had access to records. Registry entries. The kind of documentation that proves what patterns were assigned and what... offerings... were received."
-
-Àrnnav's face was blank. Whatever she was feeling, she'd learned long ago not to show it.
-
-"My mother died of fever."
-
-"Your mother died suddenly, conveniently, before she could share what she knew with anyone outside the system." Òràhd Vàscalìn's voice dropped. "I'm not your enemy, young Vonalnòc. I'm not either of your enemies. I'm looking for the truth—and in my experience, the truth has a way of serving the people the lies were designed to hurt."
+"Degradation usually means *losing* memories, not recovering them." The Warden paused. "I'm not your enemy, young Còcalnòc. I'm looking for the truth—and in my experience, the truth has a way of serving the people the lies were designed to hurt."
 
 The offer hung in the air.
 
-*Tell me what you know. Help me expose the corruption. Let me be the weapon that destroys the system you both hate.*
+*Tell me what you know. Help me expose the corruption.*
 
-Fèinnav looked at Àrnnav. Àrnnav looked at Fèinnav.
+But Fèinnav thought of Àrnnav, waiting somewhere in the crowd. Of her father's ledger, still in his study. Of the fragile alliance she was building with the Hand Quarter girl who had as much reason to hate her as to help her.
 
-And in that look, something passed between them—not trust, exactly. They'd known each other less than a week. But recognition. Understanding. The shared awareness of two people who saw the world clearly and knew that clear sight was rarely rewarded.
-
-"I don't know anything about corruption," Fèinnav said. "I'm just a newly Bound merchant's daughter celebrating Pattern Day with an acquaintance."
-
-"And I'm just a Hand Quarter orphan eating festival scraps," Àrnnav added. "We don't know anything about ledgers or adjustments or purchased patterns."
+"I don't know anything about corruption," Fèinnav said. "I'm just a newly Bound merchant's daughter celebrating Pattern Day."
 
 Òràhd Vàscalìn's expression didn't change.
 
-"Of course you don't." She stepped back, adjusting her cloak. "Enjoy the festival, young women. And remember—if you ever decide you do know something, the Òràhdar are always interested in truth."
+"Of course you are." She stepped back, adjusting her cloak. "Enjoy the festival, young Còcalnòc. And remember—if you ever decide you do know something, the Òràhdar are always interested in truth."
 
 She disappeared into the crowd.
-
----
-
-"That was stupid."
-
-Àrnnav's voice was shaking. The blankness had cracked, and beneath it Fèinnav could see the fear—genuine, throat-closing terror of someone who'd learned what happened to people who attracted Warden attention.
-
-"Maybe."
-
-"She knows. She knows about your ledger, about my mother, about all of it. She's going to keep investigating until she finds proof, and then—"
-
-"And then what? She exposes the fraud, the wealthy families panic, and people like you get crushed in the chaos?" Fèinnav shook her head. "That's what my father said. That's what the Szòvòtar said. Everyone agrees that exposing the truth would be catastrophic—so catastrophic that we should all just keep living the lies."
-
-"They're not wrong."
-
-"They're not right either." Fèinnav looked out at the festival—the banners and music and celebrating crowds, all of it built on purchased patterns and corrupted readings and the elaborate fiction that the system served the divine instead of the wealthy. "If the choice is between comfortable lies and chaotic truth, maybe both options are wrong. Maybe there's a third way."
-
-"What third way?"
-
-"I don't know yet." Fèinnav took a breath. "But I know this: I'm going to live my real pattern. Tòvismaht and Cèresztàhd. Painful connections and constant choices. The Registry says I'm Ùtcai Szèrrav, and I'll let everyone believe that—I'll walk through the world wearing my purchased future like armor. But underneath, I'll know. I'll choose. I'll make every crossroads matter."
-
-Àrnnav stared at her.
-
-"That's the stupidest thing I've ever heard."
-
-"Probably."
-
-"It changes nothing."
-
-"It changes me."
-
-Silence.
-
-Then Àrnnav laughed—a real laugh, surprised out of her, carrying something that might have been the first genuine amusement she'd felt in years.
-
-"Tòvismaht and Cèresztàhd," she said. "Living a lie while knowing the truth. Making painful connections and impossible choices." She shook her head. "Fine. If you're going to be stupid about this, I might as well be stupid too. What do you need?"
-
-"Help. Information. Someone who knows the Hand Quarter, who can move in places I can't." Fèinnav met her eyes. "Someone who understands what it means to carry a pattern the world doesn't see."
-
-"And what do I get?"
-
-"Access. When I find anything about your mother in those records—if there's proof of what happened to her—you'll see it first." Fèinnav extended her hand. "Tòvismaht together. Painful connections. Whatever we find, we find together."
-
-Àrnnav looked at the offered hand.
-
-"You know this is dangerous. Whatever we dig up, whoever we threaten—they'll come for us. The wealthy families, the corrupt Readers, maybe the Òràhdar too. People have died for knowing less than we already know."
-
-"I know."
-
-"And you're still offering?"
-
-"I'm standing at a crossroads. That's what I do now." Fèinnav kept her hand extended. "Choose."
-
-Àrnnav hesitated.
-
-Then she took Fèinnav's hand.
-
-Her grip was callused, work-roughened, the hand of someone who'd spent her life laboring while others lounged. But the strength in it was real, and the look in her eyes was something Fèinnav recognized: the determination of someone who'd finally found a fight worth fighting.
-
-"Tòvismaht together," Àrnnav said. "But if you get me killed, I'm going to haunt you."
-
-"I'm going to haunt everyone anyway. That's what Tòvismaht do."
 
 ---
 
@@ -1111,3 +1047,7 @@ Something new. Something chosen. Something written in her own hand, in ink that 
 *The ledger of my life*, she thought, *is still being written.*
 
 *And I'm holding the pen.*
+
+---
+
+*End of "The Reading"*

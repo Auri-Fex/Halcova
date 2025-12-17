@@ -1,7 +1,7 @@
-<div class="halcova-header">[Criminal Underworld of Hálcova](criminal_underworld.md)</div>
+
+<div class="halcova-header">Criminal Underworld of Hálcova</div>
 
 ## Overview
-
 
 Crime in [Hálcova](../../index.md) exists in complex relationship with legitimate power structures. Organized criminal enterprises fill gaps left by official systems, exploit pattern-based inequalities, and sometimes serve as the only recourse for those whom legal society has abandoned. Understanding [Hálcova](../../index.md)'s [criminal underworld](criminal_underworld.md) illuminates the world's social fractures, economic pressures, and the limitations of official authority.
 
@@ -227,13 +227,13 @@ Specialized intermediaries connect supply and demand:
 
 Substitution prices reflect procurement difficulty, not pattern-weight alone:
 
-| Category | Typical Price | Notes |
-|----------|--------------|-------|
-| Light pattern, voluntary | 50-500 marks | Abundant supply, limited demand |
-| Medium pattern, voluntary | 500-2,000 marks | Some demand for routine pacts |
-| Medium pattern, coerced | 2,000-5,000 marks | Procurement costs included |
-| Heavy pattern, coerced | 5,000-20,000 marks | Significant risk premium |
-| Exceptional pattern | 20,000-100,000 marks | Rare, dangerous acquisition |
+| Category                  | Typical Price        | Notes                           |
+| ------------------------- | -------------------- | ------------------------------- |
+| Light pattern, voluntary  | 50-500 marks         | Abundant supply, limited demand |
+| Medium pattern, voluntary | 500-2,000 marks      | Some demand for routine pacts   |
+| Medium pattern, coerced   | 2,000-5,000 marks    | Procurement costs included      |
+| Heavy pattern, coerced    | 5,000-20,000 marks   | Significant risk premium        |
+| Exceptional pattern       | 20,000-100,000 marks | Rare, dangerous acquisition     |
 
 **Law Enforcement**
 

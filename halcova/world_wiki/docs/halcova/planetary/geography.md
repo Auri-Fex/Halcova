@@ -1,4 +1,4 @@
-<div style="font-size:2em; font-weight:bold; margin-top:0.5em; margin-bottom:0.5em;">[Hálcova: Geography and Continental Structure](geography.md)</div>
+<div style="font-size:2em; font-weight:bold; margin-top:0.5em; margin-bottom:0.5em;">Hálcova: Geography and Continental Structure</div>
 
 ## Overview
 
@@ -11,6 +11,7 @@ Hálcova's landmasses are arranged around the habitable equatorial band, with tw
 ### The Evidence
 
 Looking at the coastlines, the relationship is obvious:
+
 - The ragged eastern coast of the Greater Continent matches the western edge of the Shattered Reaches
 - Rock formations, mineral deposits, and fossil-equivalents continue across the gap
 - The Narrow Sea is a flooded rift valley, not a true ocean basin
@@ -19,6 +20,7 @@ Looking at the coastlines, the relationship is obvious:
 ### What Happened
 
 Unknown. Theories include:
+
 - Geological catastrophe (natural rift)
 - The same event that caused the cooling
 - Deliberate separation (by whom? why?)
@@ -42,12 +44,14 @@ A crescent-shaped landmass curving from northwest to southeast, with the concave
 **The Spine Mountains** (*Gerincláncz*)
 
 A mountain range running along the curve of the continent, roughly following the crescent's arc. This range:
+
 - Blocks polar winds from the interior
 - Creates a rain shadow effect (northern interior is dry and cold; southern coast receives moisture)
 - Contains the highest peaks on Hálcova
 - Rich in mineral deposits, including concentrated Pattern Residue veins
 
 *Notable Peaks*:
+
 - **The Watcher** (*Az Őrszem*): Highest peak, visible from the sea on clear days. Site of an ancient observatory, now a Loom relay station.
 - **The Broken Tooth** (*Törött Fog*): A collapsed peak, evidence of ancient volcanic activity or something else. Hollow Saints claim it marks where "fate cracked."
 - **The Twins** (*Az Ikrek*): Two peaks of nearly identical height, separated by a pass. The main land route between northern and southern Heartlands.
@@ -57,6 +61,7 @@ A mountain range running along the curve of the continent, roughly following the
 Behind the Spine, a vast elevated plateau stretches toward the northern ice.
 
 Characteristics:
+
 - Elevation: 1,500-2,000m above sea level
 - Climate: Cold, dry, windy
 - Vegetation: Hardy tundra grasses, black lichen, scattered dwarf trees
@@ -68,6 +73,7 @@ Characteristics:
 Major rivers cut through the Spine from the interior, creating the primary population centers.
 
 *The Five Rivers*:
+
 1. **The Gold** (*Aranyi*): Largest river, drains to the southeast coast. The capital region.
 2. **The Iron** (*Vasalj*): Northern river, flows to the Narrow Sea. Industrial heartland.
 3. **The Silent** (*Csendi*): Flows north, disappears under the ice cap. Sacred to Ancestor Speakers.
@@ -79,6 +85,7 @@ Major rivers cut through the Spine from the interior, creating the primary popul
 The concave inner coast facing the Middle Waters.
 
 Characteristics:
+
 - Climate: Mildest on the continent (warm current arrival)
 - Terrain: Rolling hills, river deltas, natural harbors
 - Population: Dense—major cities, agricultural land, trade ports
@@ -89,6 +96,7 @@ Characteristics:
 Where the continent meets the ice cap.
 
 Characteristics:
+
 - Climate: Extreme—permanent ice within 100km
 - Terrain: Glacial, unstable, constantly shifting
 - Population: Minimal—extraction outposts, Warden stations, exiles
@@ -97,6 +105,7 @@ Characteristics:
 ### Political Geography
 
 The Heartlands contain multiple political entities, but shared characteristics:
+
 - Orthodox faith dominant
 - Loom integration in governance
 - Recognition of the Great Node's authority (in religious matters at minimum)
@@ -126,6 +135,7 @@ The western edge of the main island—steep cliffs, deep fjords, a mirror of the
 The main island's interior is mountainous—a continuation of the Spine, now separated.
 
 Characteristics:
+
 - Peaks lower than the Spine (erosion, or the separation lowered them)
 - Heavy precipitation (maritime climate)
 - Dense, dark forests in the valleys (black-barked conifers)
@@ -136,6 +146,7 @@ Characteristics:
 The eastern portion of the main island and the inner island chains show evidence of additional breaking—smaller rifts, sea-filled valleys, unstable geology.
 
 Theories:
+
 - Secondary breaks after the main separation
 - Ongoing geological instability
 - The pattern continues to crack
@@ -154,6 +165,7 @@ Hundreds of islands extending eastward:
 ### Maritime Character
 
 The Shattered Reaches are defined by the sea:
+
 - Every settlement is coastal or river-accessible
 - Naval power determines political influence
 - Fishing and sea-hunting are primary food sources
@@ -163,6 +175,7 @@ The Shattered Reaches are defined by the sea:
 ### Political Geography
 
 Fragmented by design:
+
 - No continental-scale political unity
 - City-states control mainland harbors
 - Island kingdoms vary in size from single-island to chain-spanning
@@ -188,6 +201,7 @@ An archipelago of volcanic islands straddling the equatorial band. The warmest r
 The Great Island is the rim and interior of a dormant supervolcano. The caldera itself is partially flooded, creating a protected inner harbor of extraordinary value.
 
 Characteristics:
+
 - Caldera diameter: ~50 km
 - Rim elevation: 500-1,500m above sea level
 - Inner harbor: Deep, protected, warm
@@ -196,6 +210,7 @@ Characteristics:
 
 *The Protection Mystery*:
 Why is the caldera protected during Köd? Theories:
+
 - Geothermal energy disrupts the bleed
 - Ancient warding built into the volcanic structure
 - High life density anchors reality
@@ -209,6 +224,7 @@ The truth may involve ancient engineering—the caldera shows signs of modificat
 Cold-adapted reef analogues (not coral—something else) surround many islands.
 
 Characteristics:
+
 - Built by colonial organisms adapted to cold water
 - Create protected lagoons and channels
 - Rich fishing grounds
@@ -218,6 +234,7 @@ Characteristics:
 **The Thermal Vents**
 
 Underwater volcanic vents heat surrounding waters. Where these occur:
+
 - Water temperature is significantly higher
 - Unique ecosystems develop
 - Fog banks form (warm water meeting cold air)
@@ -236,6 +253,7 @@ Why the Middle Waters stay warm:
 ### Political Geography
 
 The most contested territory on Hálcova:
+
 - Every major power wants presence here
 - Colonial holdings, trading posts, military bases from multiple regions
 - Native island cultures caught between imperial interests
@@ -260,6 +278,7 @@ A continental fragment in the southern hemisphere, defined by extreme volcanic a
 An active volcanic mountain chain running the length of the landmass.
 
 Characteristics:
+
 - 20+ active volcanoes
 - Continuous geothermal activity (hot springs, geysers, fumaroles)
 - Lava flows reshape geography on human timescales
@@ -271,6 +290,7 @@ Characteristics:
 Protected valleys between volcanic ridges where geothermal heat creates habitable conditions.
 
 Characteristics:
+
 - Warm year-round (geothermal, not solar)
 - Lush vegetation (by Hálcova standards)
 - Dense population concentration
@@ -282,6 +302,7 @@ Characteristics:
 Where glaciers meet geothermal zones.
 
 Characteristics:
+
 - Constant steam and fog
 - Unstable footing (ice over warm ground)
 - Flash floods when ice dams break
@@ -293,6 +314,7 @@ Characteristics:
 Lowland areas where volcanic gases concentrate.
 
 Characteristics:
+
 - Yellow-crusted ground (sulfur deposits)
 - Toxic air at ground level
 - Uninhabitable without protection
@@ -302,6 +324,7 @@ Characteristics:
 ### Economic Advantage
 
 The Vent Lands don't need Pattern Residue for heat:
+
 - Geothermal energy provides heating, cooking, industrial power
 - Independence from the Residue trade network
 - Wealth from unique resources (volcanic minerals, geothermal-forged metals)
@@ -311,6 +334,7 @@ The Vent Lands don't need Pattern Residue for heat:
 ### Political Geography
 
 Unified by geography rather than conquest:
+
 - Thermal valleys function as semi-independent city-states
 - Volcanic activity forces cooperation (warning systems, refugee support)
 - Trade federation rather than empire
@@ -335,6 +359,7 @@ The most distant inhabited continent, in the southern hemisphere. Large, relativ
 The continent is a vast, low-elevation landmass—a continental shelf that barely rises above sea level in many areas.
 
 Characteristics:
+
 - Elevation: 0-500m over most of the landmass
 - Terrain: Flat to gently rolling
 - Drainage: Poor—marshes, bogs, seasonal lakes
@@ -345,6 +370,7 @@ Characteristics:
 The continent's southern coast merges into the southern ice cap.
 
 Characteristics:
+
 - No clear boundary between land and ice
 - Glaciers extend from the cap across coastal regions
 - Ice cliffs along some stretches
@@ -355,6 +381,7 @@ Characteristics:
 Low mountain ranges in the continental interior.
 
 Characteristics:
+
 - Rich ore deposits (iron, copper, rare metals)
 - Difficult extraction (permafrost, short work season)
 - Mining settlements operate seasonally or with heavy Residue-burning for heat
@@ -365,6 +392,7 @@ Characteristics:
 Most of the continental interior.
 
 Characteristics:
+
 - Black and purple vegetation mat (tundra grasses, lichens)
 - Migrating herd animals
 - Nomadic populations following herds
@@ -374,6 +402,7 @@ Characteristics:
 ### Frontier Character
 
 The Far Shelf is the edge of the known world:
+
 - Last region to be contacted/colonized
 - Still incompletely mapped in the interior
 - Indigenous populations with pre-Loom traditions
@@ -388,6 +417,7 @@ The Far Shelf is the poorest, coldest inhabited region—yet it maintains indepe
 **Resource Leverage**
 
 Beneath the permafrost lie significant deposits:
+
 - Iron and copper in the Mineral Ranges
 - Rare metals essential for pattern-engine construction
 - Concentrated Pattern Residue from ancient death sites (frozen, preserved, unharvested for millennia)
@@ -398,6 +428,7 @@ The Far Shelf can't efficiently extract these resources, but neither can anyone 
 **Decentralization as Defense**
 
 There's nothing to conquer:
+
 - No capital city to capture
 - No central government to overthrow
 - No concentrated population to subjugate
@@ -408,6 +439,7 @@ Military conquest would require permanent occupation of territory larger than th
 **Population Hardiness**
 
 Generations of survival have created people genuinely harder to control:
+
 - Cold tolerance that outlasts occupying forces
 - Subsistence skills that don't depend on trade
 - Social structures that function without centralized hierarchy
@@ -416,6 +448,7 @@ Generations of survival have created people genuinely harder to control:
 **Cost-Benefit Calculation**
 
 The Heartlands have done the math:
+
 - Conquest cost: Astronomical (logistics, casualties, ongoing occupation)
 - Conquest benefit: Marginal (resources still hard to extract, resistance ongoing)
 - Trade cost: Accepting Far Shelf independence and heterodoxy
@@ -426,6 +459,7 @@ Trade wins. The Far Shelf remains independent not through military strength but 
 **Hollow Saint Theology**
 
 The region's dominant religious framework reframes poverty as virtue:
+
 - Suffering proves you're escaping fate's prison
 - Material deprivation is spiritual liberation
 - The cold that kills is also the cold that frees
@@ -436,6 +470,7 @@ This ideology makes the population resistant to the carrots that work elsewhere.
 ### Political Geography
 
 Fragmented and contested:
+
 - Coastal trading posts controlled by distant powers
 - Interior effectively independent (hard to project power into tundra)
 - Indigenous confederacies resist external control
@@ -452,6 +487,7 @@ Fragmented and contested:
 **Character**: A flooded rift valley—the wound where the continents separated
 
 **Characteristics**:
+
 - Width: 200-400 km at various points
 - Depth: Deep central channel (the original rift), shallow coastal shelves
 - Currents: Complex—warm water entering from south, cold from north
@@ -459,12 +495,14 @@ Fragmented and contested:
 - Traffic: The busiest sea route on Hálcova
 
 **Navigation Hazards**:
+
 - Ice floes during Csend/Olvadás
 - Fog banks where water temperatures differ
 - Tidal races in narrow passages
 - Submerged rocks (the rift left debris)
 
 **Strategic Value**:
+
 - Controls trade between two major regions
 - Historical site of naval conflicts
 - Chokepoints fortified on both sides
@@ -476,6 +514,7 @@ Fragmented and contested:
 **Character**: The largest open ocean, surrounding the Middle Waters
 
 **Characteristics**:
+
 - Width: Variable—2,000+ km in places
 - Depth: Deep ocean basins
 - Currents: The Great Thermal Loop circulates here (warm from Middle Waters, cold returns from poles)
@@ -483,6 +522,7 @@ Fragmented and contested:
 - Traffic: Moderate—dangerous crossing but necessary for inter-regional trade
 
 **Navigation Hazards**:
+
 - Distance (no landfalls for long stretches)
 - Storms (thermal gradient creates weather)
 - Cold (outside the Middle Waters warmth)
@@ -494,6 +534,7 @@ Fragmented and contested:
 **Character**: A warm-water channel kept ice-free by geothermal activity
 
 **Characteristics**:
+
 - Width: 300-500 km
 - Depth: Moderate (volcanic seafloor)
 - Currents: Warm outflow from Vent Lands geothermal sources
@@ -501,6 +542,7 @@ Fragmented and contested:
 - Traffic: Heavy year-round
 
 **Navigation Hazards**:
+
 - Underwater volcanic activity (occasionally)
 - Dense fog (warm water, cold air)
 - Crowded shipping lanes
@@ -512,6 +554,7 @@ Fragmented and contested:
 **Character**: The widest, coldest, most dangerous crossing
 
 **Characteristics**:
+
 - Width: 3,000+ km at minimum
 - Depth: Variable—some shallow banks, some deep trenches
 - Currents: Cold, flowing from the southern ice
@@ -519,6 +562,7 @@ Fragmented and contested:
 - Traffic: Light—only when necessary
 
 **Navigation Hazards**:
+
 - Distance (the longest unsupported crossing)
 - Cold (requires heavy Residue-burning for heat)
 - Storms (nothing breaks them across this distance)
@@ -531,12 +575,14 @@ Fragmented and contested:
 **Character**: Impassable except when frozen
 
 **Characteristics**:
+
 - Route: Curves north through near-polar waters
 - Summer: Impossible—ice pack, bergs, no continuous route
 - Csend: Freezes solid—becomes an ice road
 - Duration: 60+ days to cross on foot/sled
 
 **The Ice Road**:
+
 - Historical primary connection before long-distance sailing
 - Still used for heavy cargo that can't risk sea voyage
 - Operates only during Csend (narrow window)
@@ -552,12 +598,14 @@ Fragmented and contested:
 **Extent**: Everything north of approximately 70° latitude equivalent
 
 **Characteristics**:
+
 - Permanent ice sheet (3-4 km thick in center)
 - No permanent human habitation in deep polar zone
 - Transition zone (ice edge to permanent ice) is seasonally accessible
 - Full Köd bleed during the fifth season
 
 **What's There**:
+
 - Ice
 - Concentrated Pattern Residue (ancient, unharvested)
 - Ruins under the ice (confirmed by expeditions)
@@ -569,6 +617,7 @@ Fragmented and contested:
 **Extent**: Everything south of approximately 65° latitude equivalent (extends further north due to continental anchoring by the Far Shelf)
 
 **Characteristics**:
+
 - Permanent ice sheet (thinner than northern, 1-2 km)
 - Merges with the Far Shelf's southern coast
 - Slightly more accessible (land connection)
@@ -576,6 +625,7 @@ Fragmented and contested:
 - **Different character from the northern cap** (see: Polar Mystery)
 
 **What's There**:
+
 - Ice
 - The Shelf's southern glaciers
 - Mineral deposits (inaccessible)
@@ -586,12 +636,14 @@ Fragmented and contested:
 **The Core Truth**: The two poles are not the same.
 
 **The Northern Cap: The Wound**
+
 - This is where the Elsewhere connects to Hálcova
 - The Köd bleed isn't entities "breaking through"—it's leakage from a permanent connection
 - The ice and cold may be natural, or may be attempting to seal/slow the leakage
 - Ancient ruins here may be from a civilization that understood the connection (and failed to close it)
 
 **The Southern Cap: The Prison**
+
 - Something is contained here
 - The Pattern Residue concentration is higher than it should be (deliberate accumulation)
 - The cold is more engineered than natural
@@ -599,6 +651,7 @@ Fragmented and contested:
 - Whatever is contained was put there by someone who understood both the Elsewhere and the Loom
 
 **The Implications**:
+
 - Expeditions to the north find evidence of contact with the Elsewhere
 - Expeditions to the south find evidence of imprisonment
 - Very few people know both truths
@@ -615,6 +668,7 @@ Water circulation in Hálcova's oceans follows a pattern shaped by temperature g
 ### Surface Currents (Warm)
 
 **The Middle Flow**:
+
 - Warm water pools in the Middle Waters (equatorial heating + volcanic)
 - Surface flow moves north and south toward poles
 - Carries heat, moderating coastal temperatures
@@ -634,6 +688,7 @@ Water circulation in Hálcova's oceans follows a pattern shaped by temperature g
 ### Deep Currents (Cold)
 
 **The Return Flow**:
+
 - Surface water cools as it moves poleward
 - Cold water sinks at high latitudes
 - Deep current returns toward equator
@@ -650,18 +705,21 @@ Water circulation in Hálcova's oceans follows a pattern shaped by temperature g
 ### Seasonal Variations
 
 **Láng (Summer)**:
+
 - Surface currents strongest (maximum heating)
 - Ice retreat reveals more ocean surface
 - Trade routes fully open
 - Fish populations migrate with warm water
 
 **Csend (Winter)**:
+
 - Surface currents weakest
 - Ice formation begins at high latitudes
 - Currents may shift as ice blocks normal flows
 - Some routes become impassable
 
 **Olvadás (Thaw)**:
+
 - Meltwater influx disrupts currents
 - Unpredictable flows
 - Dangerous for shipping (currents don't follow normal patterns)

@@ -1,14 +1,12 @@
-
-<div class="halcova-header">Hálcova: The Woven</div>
-
+# The Woven (v3)
 
 ## Part One
 
-The threads tasted like lightning and smelled like rain that hadn't fallen yet.
+The threads hummed at frequencies just below hearing, and Szàlnavìn felt them in her teeth.
 
-Szàlnavìn kept her hands steady on the interface, letting the morning's predictions unspool through her consciousness—not as words or numbers, but as colors and textures and the particular weight of things that hadn't happened yet pressing against things that had. Eight years of Loom work, and she still couldn't describe what probability felt like. Only what it wasn't: it wasn't seeing, wasn't hearing, wasn't any sense the human body was built for.
+She kept her hands steady on the interface, letting the morning's predictions unspool through her consciousness—not as words or numbers, but as colors and textures and the particular weight of things that hadn't happened yet pressing against things that had. Eight years of Loom work, and she still couldn't describe what probability felt like. Only what it wasn't: it wasn't seeing, wasn't hearing, wasn't any sense the human body was built for.
 
-It was knowing. Knowing in her fingers, in her teeth, in the space behind her eyes where dreams lived.
+It was knowing. Knowing in her fingers, in the base of her skull, in the space behind her eyes where dreams lived.
 
 *Seventy-three percent chance of good harvest in the eastern provinces.* Gold threading through green, sun-warmth and soil-patience, the slow mathematics of growing things. She logged it.
 
@@ -22,7 +20,7 @@ The Nexus chamber stretched around her, vast and dim, older than memory. The thr
 
 This was the Loom. Not the divine machinery of the Weaver—that was what people called it when they wanted to feel less small. This was infrastructure. Ancient, incomprehensible, maintained by operators who'd spent their lives learning to read its language without ever understanding what it actually *was*.
 
-Szàlnavìn pulled her hands from the interface, flexed her fingers against the numbness that came from extended contact. The threads hummed in the silence—a sound that wasn't quite sound, vibrating at frequencies just below hearing. She'd grown up in this chamber, raised by older operators after her parents died when she was six. The Nexus was the only home she'd ever known.
+Szàlnavìn pulled her hands from the interface, flexed her fingers against the numbness that came from extended contact. The threads hummed in the silence—a vibration she felt in her chest more than her ears. She'd grown up in this chamber, raised by older operators after her parents died when she was six. The Nexus was the only home she'd ever known.
 
 "Shift change."
 
@@ -74,7 +72,7 @@ And then she found it.
 
 Not red—that wasn't right. The color didn't have a name, didn't have a position on any spectrum human eyes could see. It was the color of what came after endings.
 
-It burned behind her eyes. It tasted like iron and smelled like storm. And when she touched it—
+It burned behind her eyes. It tasted like iron. And when she touched it—
 
 The prediction came through like a wave breaking:
 
@@ -150,7 +148,7 @@ She needed to understand what was causing it.
 
 ---
 
-The archives were in the Nexus's lower levels—stone chambers carved from living rock, older than any record they contained. The air was different here. Colder. It smelled like paper and dust and very old ink.
+The archives were in the Nexus's lower levels—stone chambers carved from living rock, older than any record they contained. The air was different here. Colder. It carried the weight of centuries.
 
 She wasn't looking for sealed archives—those required authorization from Vàrcalnòc. Instead, she searched ordinary records. Theoretical texts. Historical analyses.
 
@@ -560,6 +558,10 @@ And for the first time in a thousand years, the people doing the weaving were fi
 
 ---
 
+*End of "The Woven" (v3)*
+
+---
+
 ## Collection Closing Note
 
 Five stories. Five perspectives on a system's transformation.
@@ -578,4 +580,4 @@ The pattern is still being woven. The ledger is still being written.
 
 And the pen belongs to everyone now.
 
-*End of the Fonváros Quintet*
+*End of the Fonváros Quintet (v3)*

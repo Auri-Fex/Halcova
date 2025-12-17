@@ -1,4 +1,4 @@
-<div class="halcova-header">[Living Language: Contemporary Slang and Idioms of Hálcova](living_language_slang.md)</div>
+<div class="halcova-header">Living Language: Contemporary Slang and Idioms of Hálcova</div>
 
 ## Overview
 

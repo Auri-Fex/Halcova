@@ -1,6 +1,4 @@
-
-<div class="halcova-header">Hálcova: The Warden</div>
-
+# The Warden (v3)
 
 ## Part One
 
@@ -24,13 +22,13 @@ Behind her, the junior Warden's stylus scratched against paper. Standard closure
 
 The street outside was fog and commerce, Merchant City waking to another day of transactions and arrangements. Vàscalìn walked through it without seeing it, her Attunement marks still cold, the echo's dissolution still vibrating in her bones.
 
-Not this echo's dissolution. The other one. The one from a month ago.
+Not this echo's dissolution. The other one. The one from a few weeks ago.
 
-Cèresnav. That had been the name. A merchant dead twenty years, bound to a Hand Quarter corpse-collector, awakening with memories that should have stayed buried. She'd stood in that cramped room on Rag-Picker's Lane and watched him come apart—not through Warden authority, but through his own choice. The pattern letting go instead of being torn.
+Cèresnav. That had been the name. A merchant dead thirty-seven years, bound to a Hand Quarter corpse-collector, awakening with memories that should have stayed buried. She'd stood in that cramped room on Rag-Picker's Lane and watched him come apart—not through Warden authority, but through his own choice. The pattern letting go instead of being torn.
 
 Different from forced dissolution. Gentler. More like a sigh than a scream.
 
-And the binder's eyes afterward—Vèirnav, pattern-constrained, twenty years carrying the dead—that fog in his gaze. The permanent haze that meant the bleed had settled in, pattern boundaries dissolving, the dead man's memories seeping into living consciousness.
+And the binder's eyes afterward—Vèirnav, pattern-constrained, twenty years carrying that particular dead man—that fog in his gaze. The permanent haze that meant the bleed had settled in, pattern boundaries dissolving, the dead man's memories seeping into living consciousness.
 
 She knew that fog. She saw it every morning in her own mirror, though she'd never admitted what it meant. Told herself it was just the Attunement, just the price of seeing patterns everywhere. Just the cost of being good at her job.
 
@@ -40,15 +38,15 @@ She pushed the thought away. Kept walking. Passed a window and caught her reflec
 
 Tower-Watch. Road-Path. The perfect Warden's pattern.
 
-Her reflection looked back at her, and she couldn't remember what color her eyes had been before the Attunement. Couldn't remember if the fog had always been there, or if it had grown year by year, dissolution by dissolution, secret by secret.
+Her reflection looked back at her, and she couldn't remember what color her eyes had been before the Attunement. Couldn't remember if the fog had always been there, or if it had grown year by year, dissolution by dissolution, truth by buried truth.
 
 ---
 
-Her office was in the Òràhdar compound on Temple Hill, a stone building that looked like stability and smelled like old paper and Residue. She climbed the stairs to the third floor, nodded to colleagues who nodded back, sat down at her desk and unlocked the drawer that only her seal could open.
+Her office was in the Òràhdar compound on Temple Hill, a stone building that radiated stability, its corridors thick with the scent of old paper and Residue. She climbed the stairs to the third floor, nodded to colleagues who nodded back, sat down at her desk and unlocked the drawer that only her seal could open.
 
 The file was inside. The one she shouldn't have made.
 
-A Warden's job was to resolve pattern violations, not document them. But something had shifted during those three days last month—the merchant's daughter at her Binding, the binder with his dying echo, the Hand Quarter girl playing everyone against each other. Three separate cases that had braided together into something she couldn't stop seeing.
+A Warden's job was to resolve pattern violations, not document them. But something had shifted during those days around Pattern Day—the merchant's daughter at her Binding, the binder with his dying echo, the Hand Quarter girl playing everyone against each other. Three separate cases that had braided together into something she couldn't stop seeing.
 
 She spread the papers across her desk. Names. Dates. Families whose registered patterns didn't match the fragments she'd collected.
 
@@ -92,7 +90,7 @@ She needed to talk to Èitar.
 
 *Nineteen years earlier.*
 
-The Pattern House smelled like incense and old paper, and Vàscalìn was trying not to shake.
+The Pattern House was heavy with incense and expectation, and Vàscalìn was trying not to shake.
 
 Fifteen years old. Ceremonial robes too heavy on her shoulders, the fabric scratching against her neck. Her parents flanked her—her father in his best merchant coat, her mother with her hair pinned up in the style of respectable women, both of them radiating a nervous energy she didn't understand.
 
@@ -144,7 +142,7 @@ Until now.
 
 *Present day. Evening.*
 
-The tea house in Shadow City smelled like smoke and secrets, the kind of place where conversations happened in corners and nothing was written down. Vàscalìn found Èitar in the back, settled into shadows like she'd grown there, a cup of something that wasn't tea cooling in front of her.
+The tea house in Shadow City was dim and layered with pipe-smoke, the kind of place where conversations happened in corners and nothing was written down. Vàscalìn found Èitar in the back, settled into shadows like she'd grown there, a cup of something that wasn't tea cooling in front of her.
 
 "Òràhd Vàscalìn." The information broker's voice was silk over stone. "Twice in one month. People will talk."
 
@@ -186,7 +184,7 @@ The words hung in the air between them. Èitar studied her—the way a merchant 
 
 "Unlimited. Unspecified. When I call, you answer. No questions. No Warden discretion. No deciding the favor's too big or too dangerous." She set down the cup. "That's the price. Pay it or walk away."
 
-The terms were terrible. Open-ended debt to an information broker who traded in leverage and secrets. The kind of debt that could consume everything she'd built.
+The terms were terrible. Open-ended debt to an information broker who traded in leverage. The kind of debt that could consume everything she'd built.
 
 But the file was in her drawer. The name was on the page. And she couldn't keep pretending she didn't see what she saw.
 
@@ -202,7 +200,7 @@ But the file was in her drawer. The name was on the page. And she couldn't keep 
 
 ## Part Two
 
-*One month earlier. The morning of Fèinnav Còcalnòc's Binding.*
+*A few weeks earlier. The morning of Fèinnav Còcalnòc's Binding.*
 
 The Great Pattern House on Temple Hill was chaos organized into ceremony—wealthy families in their finest clothes, adolescents scrubbed and nervous, offerings being counted and recorded by Szòvòtarar assistants who moved with the efficiency of long practice.
 
@@ -310,13 +308,13 @@ She didn't sleep that night. She sat in her apartment, watching the fog thicken 
 
 *Two weeks earlier. The confrontation with Vèirnav.*
 
-The Hand Quarter room smelled like poverty and Residue—that sharp metallic scent of echo-maintenance, the price of carrying the dead. Vàscalìn stood in the doorway with two Wardens behind her, her seal of authority visible on her belt, her voice carrying the particular flatness she used when she needed people to be afraid.
+The Hand Quarter room was cramped and thick with the metallic scent of Residue—the price of carrying the dead. Vàscalìn stood in the doorway with two Wardens behind her, her seal of authority visible on her belt, her voice carrying the particular flatness she used when she needed people to be afraid.
 
 "You've been harboring an awakened echo," she said. "Failure to report is a serious violation."
 
-Vèirnav—forty-three, pattern-constrained, face lined with twenty years of carrying the dead—looked up from the bed where Cèresnav's body lay. The echo was already fading, its pattern dissolving, the stolen flesh going grey and slack.
+Vèirnav—forty-one, pattern-constrained, face lined with twenty years of carrying that particular dead man—looked up from where the bone disc lay cooling on the table. The echo had already dissolved on its own. The anchor going cold and still.
 
-"He was dissolving on his own." Vèirnav's voice was steady, but his hands were trembling. "Whatever he knew died with him."
+"He dissolved on his own." Vèirnav's voice was steady, but his hands were trembling. "Whatever he knew died with him."
 
 "That's not your determination to make."
 
@@ -356,7 +354,7 @@ She didn't have an answer. Didn't know why she was letting him keep evidence, wh
 
 "Because you'll need something," she said finally. "When this is over. You'll need something that proves what you carried."
 
-She walked away. Left him with the dissolving echo, the hidden anchor, more questions than answers.
+She walked away. Left him with the dissolved echo, the hidden anchor, more questions than answers.
 
 And she told herself it was strategy. Better to leave him functional. Better to have a contact in the Hand Quarter who owed her something.
 
@@ -538,7 +536,7 @@ She understood what he was offering. The same choice Hàlmahtfhì had shown her�
 
 ## Part Four
 
-*Ten days earlier. The tea house conversation with Àrnnav.*
+*A couple weeks earlier. The tea house conversation with Àrnnav.*
 
 The Hand Quarter girl sat across from Vàscalìn with the particular stillness of someone who'd learned that movement attracted attention. Seventeen years old. Pattern-constrained. Carrying documents that could destroy half the wealthy families in Fonváros.
 
@@ -628,7 +626,7 @@ On the fifth day, Cèrvascalìn summoned her to his office.
 
 She didn't touch the folder. "What do you want me to do about it?"
 
-"Remind them that discretion has rewards and indiscretion has consequences. The binder has echoes he cares about. The widow has a granddaughter. The Hand Quarter girl has a brother." His eyes were steady. "You know these people. You've dealt with them before. You understand what they value, what they fear, what will make them stop."
+"Remind them that discretion has rewards and indiscretion has consequences. The binder has echoes he cares about. The widow has a daughter. The Hand Quarter girl has a brother." His eyes were steady. "You know these people. You've dealt with them before. You understand what they value, what they fear, what will make them stop."
 
 "You want me to threaten their families."
 
@@ -696,7 +694,7 @@ The archives were old. Older than the temple above them, older than the city, ol
 
 And somewhere in these shelves, if she was right, Hàlmahtfhì's shadow ledger. The record of every adjustment he'd made. Every truth he'd erased. Every lie he'd written.
 
-She searched for three hours. Moved methodically through the sections, reading labels, opening containers, looking for the hiding place an old man would have chosen for his most dangerous secrets.
+She searched for three hours. Moved methodically through the sections, reading labels, opening containers, looking for the hiding place an old man would have chosen for his most dangerous evidence.
 
 She found it in a case labeled *Ceremonial Supplies - Obsolete*. A false bottom beneath stacks of worn Binding cards, and under that—
 
@@ -762,9 +760,7 @@ Vàscalìn set the ledger on the table between them. "Decades of adjustments. Hu
 
 She went to Vìzrav Còcalnòc first.
 
-The merchant's widow lived in a comfortable house on the edge of Merchant City—not as grand as the Còcalnòc estates, but respectable enough for a woman who'd married well and outlived well. Vàscalìn arrived at dusk, when the streets were busy enough that a Warden's presence wouldn't be remarkable.
-
-Vìzrav answered the door herself—sixty-three, grey-haired, with the sharp eyes of a woman who'd spent forty years watching her husband's business from positions of official powerlessness.
+The merchant's widow answered the door herself—sixty-two, grey-haired, with the sharp eyes of a woman who'd spent decades watching her husband's business from positions of official powerlessness.
 
 "Òràhd Vàscalìn." No surprise in her voice. She'd been expecting this visit. "Come to threaten me?"
 
@@ -784,7 +780,7 @@ Vìzrav looked at the paper. At Vàscalìn. Back at the paper.
 
 "Does it matter?"
 
-"It might. It might matter a great deal." She folded the paper, tucked it into her sleeve. "I'll do what you're asking. But I want you to know—my husband knew. About the adjustments. He was part of it. I've been living with that knowledge for twenty years."
+"It might. It might matter a great deal." She folded the paper, tucked it into her sleeve. "I'll do what you're asking. But I want you to know—my husband knew. About the adjustments. He was part of it. I've been living with that knowledge for years now."
 
 "How?"
 
@@ -798,7 +794,7 @@ Vèirnav next.
 
 The Hand Quarter was dark by the time she arrived—no street lamps here, no watch patrols, just the huddled masses of the pattern-constrained making their way through another night. Vàscalìn moved through the narrow streets with her coat collar turned up, her seal hidden, looking nothing like a Warden.
 
-She found him in his room on Rag-Picker's Lane. The same room where Cèresnav had dissolved. The same smell of Residue and poverty.
+She found him in his room on Rag-Picker's Lane. The same room where Cèresnav had dissolved. The same lingering scent of Residue.
 
 "Warden." His voice was wary. "Come to take more of my echoes?"
 
@@ -812,7 +808,7 @@ She found him in his room on Rag-Picker's Lane. The same room where Cèresnav ha
 
 "Then find someone. Build something. Because the truth you're carrying—it matters. And when the system falls, someone's going to need to know what it was built on."
 
-He was silent for a long moment. Studying her the way he'd studied her a month ago, when she'd taken his echoes and let him keep the bone disc.
+He was silent for a long moment. Studying her the way he'd studied her weeks ago, when she'd taken his echoes and let him keep the bone disc.
 
 "You're not just warning me," he said. "You're asking me to do something."
 
@@ -941,3 +937,7 @@ She could feel it coming. Could feel it in the fog behind her eyes, in the weigh
 The pattern was still being woven. The ledger was still being written.
 
 And she was finally holding her own thread.
+
+---
+
+*End of "The Warden" (v3)*

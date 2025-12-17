@@ -1,6 +1,4 @@
-
-<div class="halcova-header">Hálcova: Bleed</div>
-
+# Bleed (v3)
 
 ## Part One
 
@@ -18,11 +16,11 @@ He started with the tooth—the child-echo, barely six months bound, still learn
 
 The bone disc last. Always last.
 
-He caught his reflection in the window glass as he reached for it — forty-one, grey at the temples, eyes narrowed against the dawn glare. He didn’t remember choosing that habit. It had arrived like a cough that never fully left.
+He caught his reflection in the window glass as he reached for it—forty-one, grey at the temples, eyes narrowed against the dawn glare. He didn't remember choosing that habit. It had arrived like a cough that never fully left.
 
-“Cèresnav,” he said, and the air thickened.
+"Cèresnav," he said, and the air thickened.
 
-The echo came slowly — they always did in the morning, before the day’s first summoning fully woke them. A shimmer, then color; weight; the suggestion of skin.
+The echo came slowly—they always did in the morning, before the day's first summoning fully woke them. A shimmer, then color; weight; the suggestion of skin.
 
 Cèresnav had been forty-five when he died, a merchant of middling success. His echo retained the look: soft at the waist, thinning hair coaxed into place, eyes pinched tight as if every number needed arguing with.
 
@@ -40,7 +38,7 @@ Vèirnav's hands went still on the bone disc.
 
 "The day." Cèresnav's manifestation flickered, steadied. His eyes—not quite focused, never quite focused—seemed to be looking at something Vèirnav couldn't see. "I need to know the day. My daughter's Name Day is coming. I should purchase a gift."
 
-The cold in Vèirnav's fingers spread up his arms, into his chest, settled there like fog.
+The cold in Vèirnav's fingers spread up his arms, into his chest, settled there like winter fog.
 
 In twenty years, Cèresnav had never mentioned a daughter.
 
@@ -110,7 +108,7 @@ The bleed was getting worse.
 
 Èitar found him at the Threshold Market.
 
-The information broker materialized from the crowd like smoke taking form—a woman his own age, dark-haired, dark-eyed, with a pattern-constrained's careful blankness and a survivor's sharp attention. She'd been selling secrets in Fonváros for fifteen years, and Vèirnav had been buying them for almost as long.
+The information broker materialized from the crowd like smoke taking form—a woman his own age, dark-haired, dark-eyed, with a pattern-constrained's careful blankness and a survivor's sharp attention. She'd been selling information in Fonváros for fifteen years, and Vèirnav had been buying it for almost as long.
 
 "You look terrible," she said, falling into step beside him. "The dead keeping you up?"
 
@@ -264,7 +262,7 @@ And Vèirnav sat alone with a piece of the dead, understanding for the first tim
 
 The Warden found him in the street.
 
-He was walking back from the Residue dealer—emergency purchase, twice the normal price, his savings draining into the attempt to stabilize an echo that couldn't be stabilized—when she stepped out of an alley like a shadow taking form.
+He was walking back from the Residue dealer—emergency purchase, twice the normal price, his savings draining into the attempt to stabilize an echo that couldn't be stabilized—when she stepped out of an alley.
 
 Òràhd Vàscalìn. Thirty-four, according to Èitar's intelligence. Attuned to pattern-violations, dedicated to orthodoxy, and looking at Vèirnav like he was a stain she needed to scrub.
 
@@ -272,7 +270,7 @@ He was walking back from the Residue dealer—emergency purchase, twice the norm
 
 "Òràhd." He kept his face neutral, his body language submissive. Hand Quarter survival instincts. "How can I assist the Wardens?"
 
-"You can answer questions." She moved closer, and he caught the scent of her—ink and incense and the faint metallic tang of pattern-sight. "We've received reports of awakened echoes in this quarter. Bound dead that are remembering their lives."
+"You can answer questions." She moved closer, and he caught her scent—ink and incense and the faint metallic tang of pattern-sight. "We've received reports of awakened echoes in this quarter. Bound dead that are remembering their lives."
 
 "I've heard the rumors."
 
@@ -358,7 +356,7 @@ His hands. He looked at his hands. They were his—callused, scarred, the hands 
 
 The bleed was supposed to be manageable. After twenty years, he and Cèresnav should have reached equilibrium—the echo's patterns absorbed into his, the boundaries stable, the contamination controlled. Instead, it felt like the merchant was *growing*, his memories spreading through Vèirnav's consciousness like fog through empty streets.
 
-*That house*, Cèresnav whispered. *I raised my daughter in that house. I wrote the ledger in that house. I died with the weight of that house's secrets crushing my heart.*
+*That house*, Cèresnav whispered. *I raised my daughter in that house. I died with the weight of that house's secrets crushing my heart.*
 
 "Stop," Vèirnav said aloud. "Stop. You're dead. This isn't your body, these aren't your thoughts—"
 
@@ -386,9 +384,9 @@ Vèirnav pushed off the wall and walked home through streets that kept trying to
 
 Two days later, Cèresnav remembered everything—and Vèirnav watched him die for it.
 
-It came in pieces at first, each piece costing more than the last. The daughter's name: Ròzsanav, which meant rose-self, which meant hope. Cèresnav lost his legs manifesting that memory, his form ending at the waist, floating torso speaking words that came out wet with grief. The wife's death: three days after giving birth, blood loss that no healer could stop. For that memory, his face went transparent, skull showing through, voice echoing like it came from the bottom of a well.
+It came in pieces at first, each piece costing more than the last. The daughter's name: Ròzsanav, which meant rose-self, which meant hope. Cèresnav lost his legs manifesting that memory, his form ending at the waist, floating torso speaking words that came out wet with grief. The wife's death: three days after giving birth, blood loss that no healer could stop. For that memory, his face went translucent, skull-shapes visible beneath the merchant's features.
 
-The gradual slide into corruption: favors for the Szòvòtar becoming complicity, complicity becoming guilt, guilt becoming a ledger filled with evidence he was too afraid to use. By the time he finished telling it, only his eyes remained—two points of light floating in formless shimmer, full of a terror that had nothing to do with the past and everything to do with the present.
+The gradual slide into corruption: favors for the Szòvòtar becoming complicity, complicity becoming guilt, guilt becoming notes filled with evidence he was too afraid to use. By the time he finished telling it, only his eyes remained—two points of light floating in formless shimmer, full of a terror that had nothing to do with the past and everything to do with the present.
 
 "I'm dying," he said, and the voice came from everywhere and nowhere. "Again. Finally."
 
@@ -396,113 +394,29 @@ Vèirnav sat at his scarred table, watching the last fragments of his oldest ech
 
 "Tell me what you need to tell me," he said. "Before—"
 
-"Before I'm gone." The eyes flickered. "The ledger. They bound me to keep me silent, but patterns degrade. I was always going to remember. They were always going to have to destroy me eventually." A sound that might have been a laugh. "I've been a dead man walking for thirty-seven years. Now I'm finally dying for real."
+"Before I'm gone." The eyes flickered. "There are two sets of records. Do you understand? Two."
 
-"Where's the ledger? The real one?"
+"Two?"
 
-"I hid it. Before the meeting. Somewhere—" The eyes dimmed, brightened, dimmed again. "The memory is damaged. Every time I try to reach it, I lose more of myself. But I know I wanted my daughter to find it. I know I wrote her a letter. I know—"
+"What I hid—it's a letter. An explanation. Proof that the system exists, that I witnessed it for thirty years." The eyes dimmed, brightened, dimmed again. "But the families themselves—they keep their own documentation. Ongoing records. My notes prove the fraud happened. Their household ledgers prove it's still happening."
 
-The eyes went out.
+"Where did you hide yours?"
 
-The room was dark except for the grey light through the window, and Vèirnav sat alone with a bone disc that pulsed weakly in his pocket, barely warm, the heartbeat of something that was almost finished dying.
+"Her mother's grave. I wanted my daughter to find it someday." The voice was barely a whisper now. "But Vèirnav—the fraud didn't stop when I died. It continued. The Còcalnòc family, the Vas-Eròcal—they have current records. New entries. Fresh evidence."
 
-*I'm still here*, whispered something in his mind. Faint. Fading. *I'm still—*
+"Your daughter married into Còcalnòc."
 
-A knock at the door.
+"Yes." Something like relief flickered through the fading presence. "If she has my letter—the historical proof—and access to their household records—the ongoing fraud—"
 
----
+"A complete chain of evidence. Past and present."
 
-Vàscalìn hadn't waited three days.
+"Tell her. Find my letter at her mother's grave. Tell her to look in her own house for the rest." The eyes flickered violently. "Tell her I loved her. Tell her I'm sorry. And tell her—"
 
-She stood in the hallway with two other Wardens behind her, their seals drawn, their faces set in the grim satisfaction of hunters who'd cornered their prey.
+The presence collapsed.
 
-"Vèirnav Còtòcai," she said. "You've been reported for harboring an awakened echo. You will surrender all six anchors for immediate inspection."
+The bone disc went cold.
 
-"I have another day. You said three days."
-
-"I lied." She smiled that thin, sharp smile. "Did you think we'd give a pattern-constrained binder time to hide evidence? The only reason you got any warning at all was because we wanted to see what you'd do." She stepped closer. "You went to Merchant City. To the old Cèresnav house. You stood at the gate like a man possessed."
-
-Because he had been. The bleed-fugue, the walk he didn't remember choosing—they'd been watching. Of course they'd been watching.
-
-"The echo is dissolving," Vèirnav said. "On its own. Whatever you think he knows—"
-
-"He worked for the Pattern Houses for thirty years. He kept records. Records that a lot of powerful people have paid a lot of money to keep buried." Vàscalìn's voice was almost gentle. "I don't care about the corruption, Vèirnav. That's above my authority. What I care about is pattern contamination. What I care about is making sure that whatever's in that echo's memories doesn't spread any further than it already has."
-
-"It's already spread." He shouldn't have said it. But the bleed was making him careless, filling his head with fog, and the words came out in Cèresnav's voice—educated, formal, the voice of a man who'd kept secrets for too long. "I've been carrying him for twenty years. Whatever he knew, I know now. If you dissolve him, you don't erase the information. You just make sure no one else can verify it."
-
-Vàscalìn's expression flickered. "What information?"
-
-"Names. Dates. Families who bought their children's futures from corrupt Szòvòtarar." Vèirnav's hand went to his chest, pressed against the dying heat of the bone disc. "Còcal. Purchased Ùtcai Szèrrav, actual Tòvismaht Cèresztàhd. His daughter Fèinnav, same adjustment, the ink not even dry. You want more? I have three decades' worth."
-
-The silence in the hallway was absolute.
-
-"You're bluffing," Vàscalìn said. But her voice had changed.
-
-"Am I? The bleed goes both ways. Every memory that's killing him is pouring into me." He tapped his temple. "It's all in here now. Dissolve him, arrest me, do whatever you want. The information exists. Someone will find a way to verify it eventually."
-
-Vàscalìn studied him for a long moment. Then she made a gesture, and the two Wardens behind her moved.
-
-Not toward Vèirnav.
-
-Toward the table where his anchors sat.
-
-"What are you—"
-
-"You want to negotiate? Fine. Let's negotiate." She watched as her Wardens gathered the five stable anchors—the tooth, the ring, the cord, the bead, the coin—and sealed them in a containment case. "These five are now evidence in an ongoing investigation. You'll get them back when we're satisfied that the contamination has been contained."
-
-"Those are my livelihood. Without them—"
-
-"Without them, you're a pattern-constrained binder with one dying echo and a head full of secrets that could get you killed." She moved toward the door, then paused. "You have twenty-four hours. When I come back, you'll surrender the bone disc for dissolution, and you'll submit to memory examination. If you cooperate, you keep your registry. If you don't—"
-
-"I lose everything."
-
-"You lose everything." That smile again, sharp as a blade. "Twenty-four hours, Vèirnav. Use them wisely."
-
-She left with his five echoes, and Vèirnav stood in his empty room with one dying ghost and no way forward that didn't end in ruin.
-
----
-
-The bleed-fugue took him that night, and this time he didn't fight it.
-
-*Show me*, he told the pattern in his chest. *Show me everything. If I'm going to lose myself anyway, at least let me know what I'm losing myself to.*
-
-The memories came like a river breaking through a dam.
-
-Cèresnav at twenty-two, accepting his first position at the Pattern House, proud and naive and utterly unaware of what he was entering. The smell of the building—old paper, older secrets, the dust of generations of documented lives. The first bribe he witnessed—a merchant paying the Szòvòtar to record his son's pattern as Road/Pact instead of Thorn/Maze. The weight of the coins in the Szòvòtar's palm. The scratch of pen on paper, writing a lie that would shape a child's entire life.
-
-The slow realization that this wasn't an exception but the rule, that the entire system was built on purchased futures and deliberate lies.
-
-The ledger. Started as protest, continued as compulsion. Names in two columns, the truth beside the lie, thirty years of evidence that proved what everyone suspected but no one could prove. The ink staining his fingers. The guilt staining his soul. The growing weight of knowing and doing nothing.
-
-The marriage—her face, clear as morning, a woman who laughed easily and loved completely and died three days after giving birth to their daughter. Blood pooling on white sheets. A baby screaming for a mother who would never answer. The helplessness of holding something precious and watching it slip away.
-
-The raising of Ròzsanav alone. Her first steps in the courtyard of the sandstone house. Her first words, her first questions, her growing understanding that her father carried burdens he wouldn't name. Watching her grow into a woman who looked like her mother, who laughed like her mother, who had no idea that her father was drowning in secrets.
-
-The meeting at Temple Hill. The Szòvòtar's office, all dark wood and false respect. The offer: destroy the ledger and accept a promotion, or refuse and accept the consequences. The weight of the choice, pressing down on his chest. The heart seizing. The world going dark. The last thought—*I should have told someone. I should have burned the ledger or spoken the truth, and instead I died with both options still open.*
-
-And then: binding. The agony of pattern-preservation, consciousness torn from dying flesh and anchored to bone. Vèirnav felt it like fire, like ice, like being pulled apart and pressed into a shape too small to hold him. The confusion of existing without body, without time, without self. And finally, mercifully, the forgetting—decades of service where the merchant's expertise remained but the merchant himself was gone.
-
-Until now.
-
-Until the binding failed, the pattern collapsed, and everything came flooding back.
-
-Vèirnav surfaced from the memories gasping, his face wet with tears that weren't his, his chest aching with grief for a family he'd never known. He was on his knees in the middle of his room, and he didn't know how long he'd been there. The light through the window was grey—morning or evening, he couldn't tell. His hands were cramped, curled around nothing. His mouth tasted like blood and ink and guilt.
-
-*I'm sorry*, Cèresnav whispered from somewhere faint and far away. *I'm so sorry.*
-
-"Stop apologizing." His voice was hoarse, wrung out. "Just tell me where you hid the ledger."
-
-*I don't remember. That's the one thing—the memory is damaged, corrupted. Every time I try to reach it, I lose more of myself. I know I hid it somewhere my daughter could find it. I know I wrote her a letter explaining everything. But where—*
-
-"The house on Temple Hill. Your study."
-
-*No. I moved it before the meeting. Somewhere outside the house, somewhere they couldn't find it if they searched.*
-
-"Where would you hide something you wanted found by someone specific?"
-
-A pause. The presence in his mind flickered, stabilized, flickered again. Weaker now. Almost gone.
-
-*Her mother's grave.*
+And Vèirnav sat alone with a dead man's anchor, understanding finally what Cèresnav had been trying to say. Not one ledger. Two sources. The historical and the current. The why and the proof that it never stopped.
 
 ---
 
@@ -518,9 +432,9 @@ He found it as dawn was breaking—a simple marker, weathered nearly smooth, the
 
 *Szèrnav.* The voice was barely a whisper now. *She would have hated this place. She always wanted to be scattered in the harbor, but I couldn't afford—I couldn't—*
 
-"Focus. The ledger."
+"Focus. The letter."
 
-*Behind the stone. There's a cavity in the base, sealed with mortar. I hid it there the night before the meeting. The letter too.*
+*Behind the stone. There's a cavity in the base, sealed with mortar. I hid it there the night before the meeting.*
 
 Vèirnav knelt in the wet grass, ignoring the cold that soaked through his trousers. Ran his fingers along the base of the headstone. Found the seam where old mortar had cracked, worked his knife into the gap, pried away years of decay.
 
@@ -528,61 +442,33 @@ A cavity. A leather-wrapped bundle, preserved by the stone's protection.
 
 He pulled it out with shaking hands—Cèresnav's shaking, his own shaking, the distinction meaningless now.
 
-The leather fell away to reveal a ledger—thin, water-stained, but intact. And folded inside the cover, a letter addressed to *Ròzsanav, my heart, my hope*.
+The leather fell away to reveal pages—not a formal ledger, but a letter. Densely written, page after page in a dead man's careful script. And folded inside the first page, a note addressed to *Ròzsanav, my heart, my hope*.
 
-*That's it*, Cèresnav whispered. *That's everything I was too afraid to speak.*
+He scanned the letter quickly. An explanation of how the system worked. Names of families involved. The methodology of fraud—how bribes were made, how patterns were adjusted, how the Szòvòtar chose who received truth and who received lies. Thirty years of observation condensed into damning testimony.
 
-Vèirnav opened the ledger. Pages of cramped handwriting, names in two columns, thirty years of corruption documented in a dead man's careful script. Evidence that could destroy families. Evidence that could burn the pattern system to ash. Evidence that the Wardens had killed to suppress and would kill again to bury.
+But no specific records. No ledger of individual transactions.
 
-*What will you do?*
+*I didn't hide that here*, Cèresnav whispered faintly. *The families kept their own records. I only kept notes about the system. The proof of specific fraud—that's in their houses. In their own documentation.*
 
-"I don't know."
+"This is enough to prove the system exists. But to prove specific cases—"
 
-*You could burn it. End what I started, let the secrets die with me.*
+*You need their household records. My daughter married into Còcalnòc. If she looks in the right places—*
 
-"I could."
+"She'll find the current fraud. The fresh entries."
 
-*Or you could take it to the Wardens. Let the system choke on its own lies.*
+*Two sources. My letter proves it happened. Their ledger proves it's still happening.*
 
-"That would destroy everyone. And Vàscalìn would just bury it deeper."
+Vèirnav tucked the letter into his coat. Evidence that could damn a system—but incomplete evidence. Historical proof without current verification. An accusation without a crime scene.
 
-*Or—*
-
-"Or I could take it to your daughter. Give her the choice you never made." Vèirnav closed the ledger, held it against his chest beside the cooling bone disc. "Let her decide what to do with her father's truth."
-
-The presence in his mind pulsed one final time—not hot now, but warm. Human-warm. The warmth of a hand held in gratitude.
-
-*Thank you*, Cèresnav said. *For carrying me. For choosing.*
-
-"Don't thank me yet. I haven't decided anything."
-
-*You've already decided. You decided when you didn't let them take me. You decided when you let the bleed in instead of fighting it. You decided when you came here, to my wife's grave, to find the truth I was too afraid to speak.*
-
-"And if I'm wrong? If giving this to your daughter destroys her?"
-
-*Then you'll have done what I couldn't—spoken the truth and let someone else choose what to do with it.*
-
-The presence flickered. Faded. Began to dissolve.
-
-*My daughter is Vìzrav Còcalnòc now. She married into the family whose patterns fill this ledger. Her daughter—my granddaughter—just had her Binding.*
-
-Fèinnav. The name in the ledger, the purchased pattern, the most recent entry in thirty years of lies.
-
-*Tell her I loved her. Tell her I'm sorry. And tell her—*
-
-The presence collapsed.
-
-The bone disc went cold.
-
-And Vèirnav knelt in the cemetery grass, holding a dead man's secrets, alone for the first time in twenty years. The fog in his eyes didn't clear. It never would. He was carrying Cèresnav now—not as echo, but as scar, as memory, as the permanent bleed of a man who'd finally been allowed to die.
+Unless Vìzrav Còcalnòc could provide the other half.
 
 ---
 
 ## Part Four
 
-Èitar found him there an hour later—or maybe it was longer; time had gone strange, slippery, measured in heartbeats that weren't entirely his.
+Èitar found him at the cemetery an hour later.
 
-"You look like death," she said, settling onto a nearby headstone with the casual disregard for propriety that marked everything she did. "More than usual, I mean. Significantly more."
+"You look like death," she said, settling onto a nearby headstone with the casual disregard for propriety that marked everything she did. "More than usual. Significantly more."
 
 "He's gone."
 
@@ -594,7 +480,7 @@ And Vèirnav knelt in the cemetery grass, holding a dead man's secrets, alone fo
 
 "Thank you."
 
-"Don't thank me. I want payment." She slid off the headstone, moved closer. "Whatever's in that ledger—whatever Cèresnav died to protect—I want a copy. Not to sell. Not yet. But to hold, for the day when holding it becomes valuable."
+"Don't thank me. I want payment." She slid off the headstone, moved closer. "Whatever's in those pages—whatever Cèresnav died to protect—I want a copy. Not to sell. Not yet. But to hold, for the day when holding it becomes valuable."
 
 "And in exchange?"
 
@@ -606,19 +492,23 @@ But Vàscalìn was coming. She'd taken his five echoes, she had his registration
 
 "Why help me?" he asked. "What do you gain from this?"
 
-"Information is my trade, Vèirnav. And you're carrying the biggest secret this city has seen in thirty-seven years." Èitar's smile sharpened. "Wherever that secret goes, I want to be close enough to catch the ripples. Consider me an investment in your survival."
+"Information is my trade, Vèirnav. And you're carrying something significant." Èitar's smile sharpened. "Wherever this goes, I want to be close enough to catch the ripples. Consider me an investment in your survival."
 
-He looked at the ledger. At the letter, still folded inside, still unread. At the grave of a woman he'd never known but whose husband had loved her enough to hide his secrets beside her bones.
+He looked at the letter. At the note for Ròzsanav, still folded inside, still unread by its intended recipient. At the grave of a woman he'd never known but whose husband had loved her enough to hide his testimony beside her bones.
 
 "There's a woman I need to find. Vìzrav Còcalnòc. She lives in Merchant City."
 
 "The merchant's widow? She's easy enough to locate." Èitar's smile sharpened. "Why her?"
 
-"Because she's his daughter. And she deserves to hear what I have to say before anyone else does."
+"Because she's his daughter. And because she has access to records that complete what's in this letter."
 
-"Even me?"
+"Two sources?"
 
-"Even you."
+"His letter proves the system exists. Her household records prove it's still operating." Vèirnav tucked the pages carefully into his coat. "Together, they're enough to—"
+
+"To do what? Burn the whole thing down?" Èitar shook her head. "That's ambitious. Also suicidal."
+
+"To give her a choice. What she does with it—that's not mine to decide."
 
 Èitar studied him for a long moment. Then she nodded.
 
@@ -628,7 +518,7 @@ He looked at the ledger. At the letter, still folded inside, still unread. At th
 
 "Already arranged. Someone will report an awakened echo in the Vent Quarter—something dramatic, something that requires immediate attention. You'll have maybe two hours before Vàscalìn figures out she's been played."
 
-Two hours. To find Cèresnav's daughter, deliver a dead man's secrets, and disappear before the Wardens caught up with him.
+Two hours. To find Cèresnav's daughter, deliver a dead man's testimony, and disappear before the Wardens caught up with him.
 
 "That's not much time."
 
@@ -638,37 +528,13 @@ Two hours. To find Cèresnav's daughter, deliver a dead man's secrets, and disap
 
 "Whatever you're carrying in your head—whatever the bleed gave you—be careful who you trust with it. Information like that doesn't just destroy the people it's about. It destroys the people who carry it too."
 
-She disappeared into the morning fog, and Vèirnav followed, the ledger pressed against his chest like a wound that wouldn't stop bleeding.
-
----
-
-The tunnels under the Threshold Market smelled like sewage and secrets.
-
-Vèirnav moved through darkness, one hand on the damp wall, the other clutching the leather-wrapped bundle. The fog in his eyes made the shadows deeper, turned every flicker of distant light into something that might have been memory or might have been hallucination.
-
-Cèresnav was gone, but pieces of him remained. The way Vèirnav's hand kept reaching for a pen that wasn't there. The way his eyes kept trying to read patterns in the brick walls—columns of names, dates, payments. The weight in his chest that felt like thirty years of guilt compressed into a space where his heart used to be.
-
-*This is what it costs*, he thought. *This is what it costs to carry the dead.*
-
-The tunnel opened into a cellar beneath a merchant's warehouse, and Èitar was waiting with a change of clothes and a false confidence that didn't quite reach her eyes.
-
-"The Wardens moved faster than I expected," she said. "Vàscalìn didn't buy the distraction. She's heading to Merchant City now."
-
-"How long?"
-
-"Maybe an hour. Maybe less." She thrust the clothes at him—merchant's dress, respectable, the kind of thing that would let him pass without comment in the wealthy quarter. "Change. Move fast. And whatever you do, don't let her catch you with that ledger."
-
-"What happens if she does?"
-
-"You disappear. The ledger disappears. And whatever chance there was to use what's in there dies with both of you." Èitar's face was hard, calculating. "I've invested in your survival, Vèirnav. Don't make me regret it."
-
-He changed. He moved. And all the way through the streets of Merchant City—cleaner than the Hand Quarter, brighter, the architecture of wealth rising around him like an accusation—he felt the ledger burning against his chest, the dead man's secrets demanding to be spoken.
+She disappeared into the morning fog, and Vèirnav followed, the letter pressed against his chest like a wound that wouldn't stop bleeding.
 
 ---
 
 The Còcalnòc house rose against the evening sky like a monument to purchased futures.
 
-Vèirnav had been here before—twice now, once in bleed-fugue, once in memory. He knew the sandstone and iron, the courtyard visible through the gate, the window on the second floor that had been Cèresnav's study. He knew the weight of standing here, looking up at everything a dead man had lost.
+Vèirnav had been here before—twice now, once in bleed-fugue, once in memory. He knew the sandstone and iron, the courtyard visible through the gate, the window on the second floor that had been Cèresnav's study before it became someone else's. He knew the weight of standing here, looking up at everything a dead man had lost.
 
 But this time, he wasn't a ghost. He was a messenger.
 
@@ -708,9 +574,9 @@ Silence. The tea cooled untouched between them.
 
 "He remembered," Vìzrav said finally. "Didn't he? That's why you're here. After all these years, he remembered who he was."
 
-"Everything. His life, his work, his family." Vèirnav pulled the bundle from his coat, set it on the table between them. "His secrets."
+"Everything. His life, his work, his family." Vèirnav pulled the letter from his coat, set it on the table between them. "His testimony."
 
-Vìzrav stared at the leather-wrapped ledger like it was a snake.
+Vìzrav stared at the pages like they were a snake.
 
 "I don't want to know."
 
@@ -718,33 +584,41 @@ Vìzrav stared at the leather-wrapped ledger like it was a snake.
 
 "And now he's gone." Her voice cracked. "Truly gone."
 
-"Yes. He dissolved yesterday. But before he did, he asked me to bring you this." Vèirnav unwrapped the bundle, pulled out the letter. "He asked me to tell you he loved you. That he was sorry. And that he kept this ledger because someday he wanted to make things right."
+"Yes. He dissolved yesterday. But before he did, he asked me to bring you this." Vèirnav pushed the letter forward. "He asked me to tell you he loved you. That he was sorry. And that he kept these notes because someday he wanted to make things right."
 
-Vìzrav's hand trembled as she took the letter. She unfolded it slowly, read the first few lines, and her face did something that hurt to watch—grief and anger and love all tangled together, thirty-seven years of questions finally meeting thirty-seven-year-old answers.
+Vìzrav's hand trembled as she took the letter. She unfolded the first page slowly, read the opening lines, and her face did something that hurt to watch—grief and anger and love all tangled together, thirty-seven years of questions finally meeting thirty-seven-year-old answers.
 
-"He documented the fraud," she whispered. "The pattern adjustments. The bribes."
+"He documented how the fraud works," she whispered. "The methodology. The families involved."
 
-"Thirty years of records. Every family who purchased a different future for their children."
+"But not the specific transactions. He explained that to me before he—" Vèirnav paused. "He said the families keep their own records. That his letter proves the system exists, but to prove specific cases, you'd need current documentation."
 
 Her eyes lifted from the letter to meet his.
 
-"My husband's family is in here."
+"My household."
 
-"Yes."
+"He said you married into one of the families he documented. That if you looked in the right places—"
 
-"My daughter—my Fèinnav—"
+"The study. My husband's study." She set down the letter. Her hands had stopped shaking—something had settled in her, some decision crystallizing behind her eyes. "I found records there. Recently. After my daughter's Binding. Names, patterns, payments. I didn't understand what I was looking at."
 
-"Her pattern was adjusted at her Binding. Two weeks ago." Vèirnav kept his voice gentle. "The purchased pattern is Road/Pact. The actual pattern is Thorn/Crossroads. The same pattern her grandfather had."
+"Your daughter's Binding?"
 
-Vìzrav set down the letter. Her hands had stopped shaking—something had settled in her, some decision crystallizing behind her eyes.
+"Fèinnav. Two weeks ago." Vìzrav's voice hardened. "She discovered that her pattern was purchased. That her father paid for a favorable reading. She found the household ledger—the current one, with entries going back years."
 
-"Why bring this to me? You could have sold it. Given it to the Wardens. Used it for leverage."
+Two weeks ago. The timing couldn't be coincidence. The bleed starting. The echo awakening. The daughter discovering the fraud.
+
+"Where is that ledger now?"
+
+"My husband's study. Where Fèinnav found it." Vìzrav stood, moved to the window, looked out at the courtyard where her father had once walked. "She wants to expose everything. She's been asking questions, making connections. There's a girl from the Hand Quarter—Àrnnav—who's been helping her. They're building something. I don't know exactly what."
+
+"Your father's letter combined with your household ledger—"
+
+"Would prove everything. The historical fraud and the current practice. A complete chain of evidence." She turned to face him. "Why bring this to me? You could have sold it. Given it to the Wardens. Used it for leverage."
 
 "Because it's not mine to use. It belonged to your father, and he wanted you to have it. What you do with it—that's your choice."
 
 "And if I choose to burn it? Protect my family from the truth?"
 
-"Then the truth dies with you. The bleed gave me the contents, but—" He stopped. He could lie. Tell her the memories were fading. But he'd carried too many lies already, absorbed too much of a dead man's guilt. "The truth is, I'll remember everything. The bleed doesn't fade completely. But without the physical evidence, without proof, it's just one pattern-constrained binder's word against decades of established records."
+"Then the truth dies with you. The bleed gave me his memories, but without physical evidence, it's just one pattern-constrained binder's word against decades of established records."
 
 "So you're trusting me with the power to validate or destroy everything my father knew."
 
@@ -756,47 +630,21 @@ Because Cèresnav had loved her. Because the dead deserved to be heard. Because 
 
 "Because he died wanting to make things right," Vèirnav said. "And I think—I think you might be braver than he was. I think you might actually do something."
 
-Vìzrav picked up the ledger. Opened it. Traced her fingers across her father's handwriting—thirty years of evidence, thirty years of silent rebellion, thirty years of truth waiting to be spoken.
+Vìzrav picked up the letter again. Traced her fingers across her father's handwriting—thirty years of observation, thirty years of silent rebellion, thirty years of truth waiting to be spoken.
 
-"My father was a coward," she said. "He kept these records instead of acting on them. He documented corruption instead of stopping it. He died with the truth still locked in his desk."
+"My father was afraid," she said. "He kept these notes instead of acting on them. He documented corruption instead of stopping it. He died with the truth still locked away."
 
 "Yes."
 
-"I could be a coward too. Easier, in many ways. Protect my daughter from knowing her pattern is a lie. Protect my husband's memory from scandal." She closed the ledger. "But my father died wanting to make things right. And I've spent thirty-seven years wondering why he looked so tired, so burdened, so crushed by something he wouldn't name."
+"I could be afraid too. Easier, in many ways. Protect my daughter from knowing her pattern is a lie. Protect my husband's memory from scandal." She set down the letter. "But my father died wanting to make things right. And I've spent thirty-seven years wondering why he looked so tired, so burdened, so crushed by something he wouldn't name."
 
 "Now you know."
 
-"Now I know." She stood, the ledger cradled against her chest like something precious. "There's a girl in the Hand Quarter—a friend of my daughter's. She came to our house asking questions about patterns, about fraud. She knew something was wrong."
+"Now I know." She straightened. "My daughter has already started this. She and the Hand Quarter girl—they're gathering information, making connections. This letter, combined with what Fèinnav already found—"
 
-Àrnnav. The shadow-girl from Fèinnav's Binding. Vèirnav remembered her from Cèresnav's fragmented observations—a constrained girl with Thorn-patterns, asking dangerous questions.
+"Would be enough."
 
-"What will you tell her?"
-
-"The same thing you told me. The truth, and a choice." Vìzrav moved toward the door, then paused. "My father asked you to carry a message. You've carried it. But I have a question for you, binder."
-
-"Ask."
-
-"What do *you* want? Not for my father, not for me—for yourself. You've lost your oldest echo. You've gained secrets that could make you powerful or get you killed. What will you do with what you know?"
-
-Vèirnav thought about it. Twenty years of partnership, ended. A head full of fading memories—no, not fading, permanent, the fog in his eyes that would never clear. A life that would never be the same.
-
-"I want to honor him," he said finally. "Not by burning down the system or protecting it—by doing what he couldn't. Speaking truth to the people who need to hear it, and letting them decide what to do."
-
-"Even if it changes nothing?"
-
-"Even then. The choice matters more than the outcome. That's what he taught me, in the end."
-
-Vìzrav nodded slowly.
-
-"I think he would have liked that answer. And I think—" She opened the door. "I think he would have been proud to have you carry him."
-
-"Thank you."
-
-"Don't thank me. We're both just doing what he was too afraid to do." She gestured toward the hallway. "I'll have my servant show you out. And binder—"
-
-"Yes?"
-
-"The Wardens are at the gate."
+"Would be enough." Vìzrav moved toward the door. "I need to talk to my daughter. And you—" She paused. "The Wardens are at the gate."
 
 ---
 
@@ -810,13 +658,13 @@ There was nowhere to run. The Còcalnòc house had one entrance, and Òràhd Và
 
 "The echo dissolved," Vèirnav said. His voice came out steady, which surprised him. Something had settled in his chest—not peace, exactly, but acceptance. The fog in his eyes made the Wardens look almost soft, their edges blurred, their threat faded. "You can't dissolve what's already gone."
 
-"But we can examine what remains. The bleed you carry. The memories you've absorbed." Vàscalìn moved closer, and her eyes—pattern-marked, Attuned—narrowed. "You've been busy, binder. The ledger. You found it."
+"But we can examine what remains. The bleed you carry. The memories you've absorbed." Vàscalìn moved closer, and her eyes—pattern-marked, Attuned—narrowed. "You've been busy, binder. The letter. You found it."
 
 "I delivered it. To the dead man's daughter. Where it belonged."
 
 "Where it belongs is in the Pattern House archives, classified and secured. Not in the hands of a merchant's widow who doesn't understand what she's holding."
 
-"She understands perfectly." Vèirnav felt Vìzrav behind him, still holding the ledger, still deciding. "She understands that her father was killed to keep those records hidden. She understands that her husband's family bought their futures with fraud. She understands that her daughter's pattern is a lie."
+"She understands perfectly." Vèirnav felt Vìzrav behind him, still holding the letter, still deciding. "She understands that her father witnessed thirty years of fraud. She understands that her own household has been participating in that fraud. She understands that her daughter's pattern is a lie."
 
 "And you told her all of this?"
 
@@ -826,13 +674,13 @@ Vàscalìn's expression flickered—anger, calculation, something that might hav
 
 "You've created a mess, Vèirnav. A significant mess. The kind of mess that gets people silenced."
 
-"Like Cèresnav was silenced? Bound before his body was cold, his memories stripped, his secrets locked in a pattern that was never supposed to wake up?" Vèirnav stepped forward, and for once the Warden didn't move to meet him. "The system you're protecting killed a man for keeping records. It kept him imprisoned in death for thirty-seven years. And when he finally started to remember—when he finally started to become himself again—you came to dissolve him. To silence him all over again."
+"Like Cèresnav was silenced? Bound before his body was cold, his memories stripped, his secrets locked in a pattern that was never supposed to wake up?" Vèirnav stepped forward, and for once the Warden didn't move to meet him. "The system you're protecting killed a man for keeping notes. It kept him imprisoned in death for thirty-seven years. And when he finally started to remember—when he finally started to become himself again—you came to dissolve him. To silence him all over again."
 
 "Pattern contamination is a serious threat—"
 
 "Pattern contamination is an excuse. A way to destroy evidence that threatens powerful people." He tapped his temple. "The contamination is in here now. In me. You can arrest me, examine me, dissolve my registration—but you can't unwrite what I know. And neither can anyone else."
 
-The courtyard was silent. Behind him, Vèirnav heard Vìzrav's quiet breathing, the rustle of paper as she held the ledger tighter.
+The courtyard was silent. Behind him, Vèirnav heard Vìzrav's quiet breathing, the rustle of paper as she held her father's letter tighter.
 
 "What do you want?" Vàscalìn asked finally.
 
@@ -840,9 +688,9 @@ The courtyard was silent. Behind him, Vèirnav heard Vìzrav's quiet breathing, 
 
 "You're not in a position to make demands."
 
-"I'm in exactly that position. Because right now, you can arrest one pattern-constrained binder and seize one ledger. But the information is already spreading. The merchant's daughter knows. Her daughter will know by tomorrow. The girl from the Hand Quarter who's been asking questions—she'll know too." Vèirnav smiled, and it felt strange on his face, unfamiliar—Cèresnav's smile, maybe, the one the merchant had worn when he finally understood a game's true stakes. "You can silence one voice. But you can't silence all of them."
+"I'm in exactly that position. Because right now, you can arrest one pattern-constrained binder and seize one letter. But the information is already spreading. The merchant's daughter knows. Her daughter already found the household ledger. The girl from the Hand Quarter who's been helping them—she knows too." Vèirnav smiled, and it felt strange on his face, unfamiliar—Cèresnav's smile, maybe, the one the merchant had worn when he finally understood a game's true stakes. "You can silence one voice. But you can't silence all of them."
 
-Vàscalìn stared at him for a long moment. Her eyes flickered to Vìzrav, to the ledger, to the house that represented three generations of purchased respectability.
+Vàscalìn stared at him for a long moment. Her eyes flickered to Vìzrav, to the letter, to the house that represented three generations of purchased respectability.
 
 Then she made a decision.
 
@@ -854,9 +702,9 @@ Then she made a decision.
 
 It wasn't justice. It wasn't victory. It was compromise—the kind of deal that left everyone dissatisfied but alive.
 
-"And the ledger?" Vìzrav asked from behind him.
+"And the letter?" Vìzrav asked from behind him.
 
-Vàscalìn's jaw tightened. "Private family documents are outside my jurisdiction. What you do with your father's records is your own concern."
+Vàscalìn's jaw tightened. "Private family documents are outside my jurisdiction. What you do with your father's correspondence is your own concern."
 
 She turned and walked away, the two Wardens following. At the gate, she paused.
 
@@ -868,7 +716,7 @@ She turned and walked away, the two Wardens following. At the gate, she paused.
 
 She left.
 
-And Vèirnav stood in the courtyard of a dead man's house, the fog in his eyes making the evening light soft and strange, and felt the weight of thirty-seven years of secrets finally begin to lift from his chest.
+And Vèirnav stood in the courtyard of a dead man's house, the fog in his eyes making the evening light soft and strange, and felt the weight of thirty-seven years of silence finally begin to lift from his chest.
 
 ---
 
@@ -878,7 +726,7 @@ Vèirnav sat at his scarred table, five anchors laid out before him—returned y
 
 He fed the remaining echoes their Residue. One drop each. The economics of death, unchanged.
 
-But as he worked, he felt it—the ghost of another man's consciousness, fading but not gone. Cèresnav's mannerisms in his hands. Cèresnav's precision in his measurements. Cèresnav's squint when the light was too bright. The fog at the edges of his vision that wouldn't clear, that was the color of old paper and the weight of secrets finally spoken.
+But as he worked, he felt it—the ghost of another man's consciousness, fading but not gone. Cèresnav's mannerisms in his hands. Cèresnav's precision in his measurements. Cèresnav's squint when the light was too bright. The fog at the edges of his vision that wouldn't clear, that was the color of old paper and the weight of truth finally spoken.
 
 The dead were never fully gone. That was the truth of binding—not that you carried echoes, but that they carried you. Changed you. Left pieces of themselves in your patterns that no dissolution could remove.
 
@@ -894,11 +742,11 @@ Vèirnav set down the Residue. Crossed to the door. Opened it.
 
 No Wardens this time. Just a woman—young, constrained by her clothes and her posture, with dark eyes and darker questions.
 
-"Àrnnav," he said. The shadow-girl from Fèinnav's Binding. The one who'd been asking dangerous questions. "Vìzrav sent you."
+"Àrnnav," he said. The shadow-girl who'd been helping Fèinnav. The one asking dangerous questions. "Vìzrav sent you."
 
 "She said you might be able to help me. That you carry information about—" The girl hesitated. "About my mother. About how she died."
 
-The fog in Vèirnav's eyes shifted, and for a moment he saw something—a name in a ledger, a payment recorded, a silence purchased.
+The fog in Vèirnav's eyes shifted, and for a moment he saw something—a name mentioned in Cèresnav's memories, a Pattern House assistant who'd known too much, a silence purchased.
 
 "Come in," he said. "I think we have things to discuss."
 
@@ -916,7 +764,7 @@ He picked up the Residue and began the ritual again—five anchors now, five sou
 
 *The ledger of my life*, Cèresnav had whispered in those final moments. *Someone else holds the pen now.*
 
-Vèirnav thought of Vìzrav reading her father's letter. Of Fèinnav learning that her pattern was a lie. Of Àrnnav walking out into the Hand Quarter with the name of her mother's killer burning in her mind.
+Vèirnav thought of Vìzrav reading her father's letter. Of Fèinnav combining it with the household records she'd found. Of Àrnnav walking out into the Hand Quarter with the name of her mother's killer burning in her mind.
 
 The truth was spreading. Person by person, choice by choice. Not a revolution—the system was too strong for that. But something. Cracks in a structure that had stood for generations. Light getting into places that had been dark for too long.
 
@@ -927,3 +775,7 @@ That was the cost.
 That was the choice.
 
 That was, finally, enough.
+
+---
+
+*End of "Bleed" (v3)*

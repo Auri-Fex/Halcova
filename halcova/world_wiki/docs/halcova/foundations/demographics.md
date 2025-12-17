@@ -1,8 +1,9 @@
-<div class="halcova-header">[Hálcova: Demographics and Population Economics](demographics.md)</div>
+<div class="halcova-header">Hálcova: Demographics and Population Economics</div>
 
 ## The Core Problem
 
 The Residue economy creates a thermodynamic paradox:
+
 - Every death absorbs ~100% of pattern-weight as thermal energy
 - Burning that Residue only returns 60-70% of absorbed energy
 - Net result: every death is a 30-40% thermal loss
@@ -20,16 +21,17 @@ The key insight: **not all heat comes from Residue.**
 
 **Heat Sources in Hálcova:**
 
-| Source | Contribution | Notes |
-|--------|-------------|-------|
-| Solar radiation (Sárgvas) | ~60% | Baseline heating, diminished by K-type star |
-| Geothermal | ~15% | Critical in Vent Lands, minor elsewhere |
-| Residue burning | ~20% | Civilization's contribution |
-| Other (friction, metabolism, decay) | ~5% | Minor but real |
+| Source                              | Contribution | Notes                                       |
+| ----------------------------------- | ------------ | ------------------------------------------- |
+| Solar radiation (Sárgvas)          | ~60%         | Baseline heating, diminished by K-type star |
+| Geothermal                          | ~15%         | Critical in Vent Lands, minor elsewhere     |
+| Residue burning                     | ~20%         | Civilization's contribution                 |
+| Other (friction, metabolism, decay) | ~5%          | Minor but real                              |
 
 **The Critical Realization:**
 
 Residue burning doesn't need to *replace* all heat lost to death. It only needs to:
+
 1. Provide *localized* heating where people live
 2. Supplement solar/geothermal in making settlements viable
 3. Power magical and industrial processes that require concentrated energy
@@ -51,14 +53,14 @@ Residue burning doesn't need to *replace* all heat lost to death. It only needs 
 
 This is roughly equivalent to medieval Europe at its peak—substantial but not enormous.
 
-| Region | Population | Density | Notes |
-|--------|-----------|---------|-------|
-| The Heartlands | 18-20 million | Moderate-high | Most developed, best farmland |
-| Shattered Reaches | 8-10 million | Low-moderate | Maritime dispersal |
-| Middle Waters | 4-5 million | High (on habitable islands) | Limited land area |
-| Vent Lands | 6-7 million | Moderate | Concentrated in thermal valleys |
-| Far Shelf | 3-4 million | Very low | Vast area, sparse settlement |
-| Polar/Frontier | <500,000 | Minimal | Transient populations |
+| Region            | Population    | Density                     | Notes                           |
+| ----------------- | ------------- | --------------------------- | ------------------------------- |
+| The Heartlands    | 18-20 million | Moderate-high               | Most developed, best farmland   |
+| Shattered Reaches | 8-10 million  | Low-moderate                | Maritime dispersal              |
+| Middle Waters     | 4-5 million   | High (on habitable islands) | Limited land area               |
+| Vent Lands        | 6-7 million   | Moderate                    | Concentrated in thermal valleys |
+| Far Shelf         | 3-4 million   | Very low                    | Vast area, sparse settlement    |
+| Polar/Frontier    | <500,000      | Minimal                     | Transient populations           |
 
 ### Population Dynamics
 
@@ -69,6 +71,7 @@ This is roughly equivalent to medieval Europe at its peak—substantial but not 
 **Net Growth**: ~0.5-1% annually
 
 **Life Expectancy**:
+
 - Pattern-privileged: 55-65 years
 - Pattern-constrained: 35-45 years
 - Practitioners (varies by Art): 30-50 years (shortened by practice)
@@ -80,12 +83,14 @@ This is roughly equivalent to medieval Europe at its peak—substantial but not 
 Annual deaths in Hálcova: ~1.5-2 million
 
 This produces enough Residue to:
+
 - Heat all settlements to habitable levels
 - Power all Loom operations
 - Fuel magical practices
 - Run magitech industry
 
 **The key is concentration:**
+
 - Deaths happen everywhere
 - Residue is *harvested and transported* to where it's needed
 - Rural areas are colder; cities are warmer
@@ -98,6 +103,7 @@ This produces enough Residue to:
 ### Where Death Happens
 
 **High Death Rate Regions:**
+
 1. Frontier zones (harsh conditions, violence)
 2. Mining settlements (dangerous work)
 3. Military conflicts (war produces abundant Residue)
@@ -105,6 +111,7 @@ This produces enough Residue to:
 5. Prisons and correction facilities (executions)
 
 **Low Death Rate Regions:**
+
 1. Pattern-privileged urban cores
 2. Middle Waters (best conditions)
 3. Established agricultural zones
@@ -134,13 +141,13 @@ battlefields  operators                              practitioners
 
 **Residue Pricing** (in marks):
 
-| Grade | Price per unit | Primary use |
-|-------|---------------|-------------|
-| Raw/Crude | 1-5 | Basic heating, bulk fuel |
-| Refined | 10-25 | Quality heating, general magic |
-| Concentrated | 50-100 | Loom operations, serious magic |
-| Pattern-Specific | 100-500 | Specialized applications |
-| Pact-Grade | 500+ | Entity dealings, rare uses |
+| Grade            | Price per unit | Primary use                    |
+| ---------------- | -------------- | ------------------------------ |
+| Raw/Crude        | 1-5            | Basic heating, bulk fuel       |
+| Refined          | 10-25          | Quality heating, general magic |
+| Concentrated     | 50-100         | Loom operations, serious magic |
+| Pattern-Specific | 100-500        | Specialized applications       |
+| Pact-Grade       | 500+           | Entity dealings, rare uses     |
 
 **Annual Residue Economy**: ~5-10 million marks total value
 (Comparable to the entire agricultural sector)
@@ -155,18 +162,19 @@ Human deaths alone couldn't sustain civilization. Animal Residue fills the gap.
 
 **Animal Pattern Weight:**
 
-| Creature | Pattern Weight (vs. human) | Residue Quality |
-|----------|---------------------------|-----------------|
-| Insects | Negligible | Unusable |
-| Small game | 5-10% | Low grade |
-| Livestock (standard) | 15-25% | Usable |
-| Draft animals | 30-40% | Good quality |
-| Large predators | 40-60% | High quality |
-| Leviathans | 200-500% | Premium |
+| Creature             | Pattern Weight (vs. human) | Residue Quality |
+| -------------------- | -------------------------- | --------------- |
+| Insects              | Negligible                 | Unusable        |
+| Small game           | 5-10%                      | Low grade       |
+| Livestock (standard) | 15-25%                     | Usable          |
+| Draft animals        | 30-40%                     | Good quality    |
+| Large predators      | 40-60%                     | High quality    |
+| Leviathans           | 200-500%                   | Premium         |
 
 **The Livestock Solution:**
 
 Most heating Residue comes from animals, not humans:
+
 - Slaughterhouses are Residue production facilities
 - Herding cultures produce both food AND fuel
 - Fishing/whaling provides marine Residue
@@ -175,6 +183,7 @@ Most heating Residue comes from animals, not humans:
 **Human Residue Is Premium:**
 
 Human Residue is:
+
 - Higher quality (more pattern-weight)
 - Required for certain magical operations
 - Necessary for Loom fuel (animal Residue works poorly)
@@ -186,15 +195,15 @@ But the *bulk* heating comes from animals.
 
 **Estimated Annual Residue Production:**
 
-| Source | Deaths/Year | Residue Units | % of Total |
-|--------|-------------|---------------|------------|
-| Livestock slaughter | ~20 million | ~4 million | 45% |
-| Natural human deaths | ~1.5 million | ~1.5 million | 17% |
-| Wild animal hunting | ~5 million | ~1 million | 11% |
-| Marine harvesting | ~2 million | ~800,000 | 9% |
-| Executions/Corrections | ~50,000 | ~75,000 | 1% |
-| War casualties | Variable | Variable | 5-15% |
-| Other (disease, accident) | ~500,000 | ~500,000 | 6% |
+| Source                    | Deaths/Year  | Residue Units | % of Total |
+| ------------------------- | ------------ | ------------- | ---------- |
+| Livestock slaughter       | ~20 million  | ~4 million    | 45%        |
+| Natural human deaths      | ~1.5 million | ~1.5 million  | 17%        |
+| Wild animal hunting       | ~5 million   | ~1 million    | 11%        |
+| Marine harvesting         | ~2 million   | ~800,000      | 9%         |
+| Executions/Corrections    | ~50,000      | ~75,000       | 1%         |
+| War casualties            | Variable     | Variable      | 5-15%      |
+| Other (disease, accident) | ~500,000     | ~500,000      | 6%         |
 
 **Total**: ~8-9 million Residue units annually
 
@@ -207,12 +216,14 @@ But the *bulk* heating comes from animals.
 **Population**: 18-20 million
 
 **Structure**:
+
 - 3-4 major cities (100,000-300,000 each)
 - 20-30 significant towns (10,000-50,000 each)
 - Thousands of villages (100-2,000 each)
 - Rural agricultural population (~60% of total)
 
 **Demographics**:
+
 - Pattern-privileged: ~15%
 - Pattern-median: ~55%
 - Pattern-constrained: ~30%
@@ -220,6 +231,7 @@ But the *bulk* heating comes from animals.
 **Residue Balance**: Net importer (high consumption, moderate production)
 
 **Key Cities**:
+
 - **Fonvárs**: Capital, ~250,000, seat of Crown and Great Node
 - **Vaskapu**: Industrial center, ~180,000, Iron River
 - **Szentfal**: Religious center, ~120,000, High Weavery
@@ -229,12 +241,14 @@ But the *bulk* heating comes from animals.
 **Population**: 8-10 million
 
 **Structure**:
+
 - Distributed across hundreds of islands
 - Largest city: ~80,000
 - Most settlements: 500-5,000
 - Highly mobile maritime population
 
 **Demographics**:
+
 - More even pattern distribution (less rigid enforcement)
 - Higher percentage of pattern-illegible (practitioners)
 - Significant unregistered population
@@ -246,12 +260,14 @@ But the *bulk* heating comes from animals.
 **Population**: 4-5 million
 
 **Structure**:
+
 - Concentrated on Great Island and major volcanic islands
 - Dense urban centers
 - Limited agricultural hinterland
 - Significant transient population (traders, refugees)
 
 **Demographics**:
+
 - Most diverse (crossroads of all regions)
 - High Colony host percentage (~8-10% of population)
 - Contested colonial populations
@@ -263,12 +279,14 @@ But the *bulk* heating comes from animals.
 **Population**: 6-7 million
 
 **Structure**:
+
 - Concentrated in thermal valleys
 - Major cities in volcanic calderas
 - Inhospitable zones between settlements
 - Guild-organized society
 
 **Demographics**:
+
 - Highest Flesh Shaper percentage
 - Strong middle class (guild membership)
 - Fewer pattern-constrained (guild system provides alternatives)
@@ -280,12 +298,14 @@ But the *bulk* heating comes from animals.
 **Population**: 3-4 million
 
 **Structure**:
+
 - Vast, sparse distribution
 - Few towns over 5,000
 - Nomadic populations following herds
 - Coastal trading posts (often foreign-controlled)
 
 **Demographics**:
+
 - Lowest Loom coverage
 - Highest deviation rates (less detection)
 - Indigenous populations with pre-Loom traditions
@@ -302,6 +322,7 @@ But the *bulk* heating comes from animals.
 The Loom affects reproduction:
 
 **Marriage Authorization**:
+
 - Orthodox regions require pattern-compatibility readings
 - Incompatible patterns face social/legal barriers
 - Pattern-privileged encouraged to marry within class
@@ -310,6 +331,7 @@ The Loom affects reproduction:
 **Pattern Inheritance**:
 
 Patterns aren't strictly inherited, but:
+
 - Children of pattern-privileged tend toward privilege (~70%)
 - Children of pattern-constrained tend toward constraint (~70%)
 - District effects (where you're born affects draw)
@@ -320,12 +342,14 @@ Patterns aren't strictly inherited, but:
 Society manages death rates through:
 
 **Encouraged Death**:
+
 - Capital punishment (efficient Residue production)
 - Dangerous labor assignments for pattern-constrained
 - "Voluntary" military service
 - Pact-substitution systems
 
 **Discouraged Death**:
+
 - Pattern-privileged protected by law and resources
 - Skilled workers preserved (economic value)
 - Reproductive-age population somewhat protected
@@ -334,12 +358,14 @@ Society manages death rates through:
 ### Immigration and Migration
 
 **Internal Migration**:
+
 - Pattern-constrained pushed toward frontiers
 - Pattern-privileged concentrate in core regions
 - Practitioners migrate toward tolerant regions
 - Economic migrants follow Residue trade
 
 **The Population Pressure Valve**:
+
 - Far Shelf absorbs "surplus" population
 - Frontier expansion continues
 - War casualties prevent overpopulation
@@ -372,11 +398,13 @@ Pattern-based society reproduces itself:
 ### The Growth Question
 
 If population grows:
+
 - More death = more Residue
 - More people = more consumption
 - Equilibrium maintained... until it isn't
 
 **Future Pressures**:
+
 - What happens if population doubles?
 - What happens if a plague kills half?
 - What happens if war casualties spike?

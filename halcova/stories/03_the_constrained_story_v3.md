@@ -1,6 +1,4 @@
-
-<div class="halcova-header">Hálcova: The Constrained</div>
-
+# The Constrained (v3)
 
 ## Part One
 
@@ -20,9 +18,9 @@ The laundry house was a long room of copper basins and wooden racks, steam risin
 
 Hòldanìn's face showed nothing, but her eyes flickered with the knowledge that everyone in the Hand Quarter carried: *things* meant work that paid better, cost more, and couldn't be discussed. Half the laundry workers took *things* jobs on the side. The wages here weren't enough to live on—they were designed that way, calibrated precisely to keep the constrained desperate enough to take whatever other work presented itself.
 
-The system was elegant in its cruelty. Àrnnav had learned that at fifteen, when the Szòvòtar had looked at her pattern and written down the future the city had chosen for her: *Tòvismaht Vèszttar*. Thorn-marked. Maze-path. The pattern of difficult connections and complicated journeys, of someone destined to hurt and be hurt, to wander without finding home.
+The system was elegant in its cruelty. Àrnnav had learned that three weeks ago, when the Szòvòtar had looked at her pattern and written down the future the city had chosen for her: *Tòvismaht Vèszttar*. Thorn-marked. Maze-path. The pattern of difficult connections and complicated journeys, of someone destined to hurt and be hurt, to wander without finding home.
 
-One week since that Binding. One week since she'd stood in the Pattern House beside wealthy girls receiving Road and Pact, Tower and Crown, while she received Thorn.
+Three weeks since that Binding. Three weeks since she'd stood in the Pattern House beside wealthy girls receiving Road and Pact, Tower and Crown, while she received Thorn.
 
 The pattern didn't lie. The pattern just told you what kind of trap you were walking into.
 
@@ -68,7 +66,7 @@ She put on her coat and slipped out into the Hand Quarter night.
 
 ---
 
-Vèircai conducted his business in a basement that smelled of mold and ambition.
+Vèircai conducted his business in a basement that reeked of mold and ambition.
 
 The stairs down were slick with something Àrnnav didn't want to identify, the walls close enough to touch both at once, the darkness thick enough to taste. At the bottom, a door that looked like it had been kicked in more than once, and beyond it, a room lit by oil lamps that turned everyone's face the color of old bruises.
 
@@ -116,7 +114,7 @@ He stood, moved around the desk, and Àrnnav felt the weight of his attention li
 
 He dismissed her with a wave, already turning to the other runners, already moving on to the next piece of business.
 
-Àrnnav climbed the slick stairs back into the Hand Quarter night, her mind racing. The Còcalnòc family. She knew that name—not from the Hand Quarter, but from somewhere older, somewhere buried in the fragments of memory she had of her mother.
+Àrnnav climbed the slick stairs back into the Hand Quarter night, her mind racing. The Còcalnòc family. She knew that name—not from the Hand Quarter, but from the festival two weeks ago. The wealthy girl at Pattern Day. And from somewhere older, somewhere buried in the fragments of memory she had of her mother.
 
 Her mother, who had worked at the Pattern House before she died. Her mother, who had known things she never spoke about. Her mother, who had died of a fever that came on very suddenly, three years ago, leaving Àrnnav alone with a brother to raise and questions she'd learned not to ask.
 
@@ -154,7 +152,7 @@ Her mother's name. Her mother's death. Written like a ledger entry, like a trans
 
 Y.453. Three years ago. The year her mother died.
 
-Àrnnav's hands were shaking so badly the paper rattled. Five hundred coins—no, that wasn't here, but she could imagine it. Her mother's silence purchased for less than a rich family's pattern adjustment. Her mother's life worth less than a lie.
+Àrnnav's hands were shaking so badly the paper rattled. Her mother's silence purchased. Her mother's life worth less than a lie.
 
 The Còcalnòc family. The documents Vèircai wanted.
 
@@ -186,7 +184,7 @@ She didn't walk away.
 
 "My pattern tells me lots of things. Doesn't mean I listen."
 
-"Clever girl. That's why I like you." He gestured her deeper into the warehouse, away from the runners at the exits, into a corner where the shadows were thick enough to hide what happened in them. "The job is simple. The Còcalnòc house, tomorrow night—Pattern Day eve. The family will be distracted with preparations. You go in through the east window, second floor. Find the home office. Find the strongbox. Take the documents inside."
+"Clever girl. That's why I like you." He gestured her deeper into the warehouse, away from the runners at the exits, into a corner where the shadows were thick enough to hide what happened in them. "The job is simple. The Còcalnòc house, tomorrow night. The family will be hosting visitors—some kind of meeting with allies. You go in through the east window, second floor. Find the strongbox in the home office. Take the documents inside."
 
 "What documents?"
 
@@ -232,7 +230,7 @@ The house sat on the edge of Temple Hill like a declaration of success—sandsto
 
 Àrnnav found a spot across the street, in the shadow of a bakery's awning, and watched.
 
-Servants came and went. A carriage arrived, discharged packages, departed. Through an upper window, she caught glimpses of movement—people preparing for Pattern Day, living their comfortable lives, unaware that anything was wrong.
+Servants came and went. A carriage arrived, discharged packages, departed. Through an upper window, she caught glimpses of movement—people living their comfortable lives, unaware that anything was wrong.
 
 Then the front door opened, and a girl stepped out.
 
@@ -240,11 +238,11 @@ About Àrnnav's age. Dark hair, fine clothes, the particular softness that came 
 
 Àrnnav recognized her.
 
-The Pattern Day ceremony. One week ago. They'd stood in the same line, received their Bindings from the same Szòvòtar—but the rich girl had received Road and Pact, futures of travel and alliance, while Àrnnav had received Thorn.
+Pattern Day. Three weeks ago. They'd stood in the same line, received their Bindings from the same Szòvòtar—but the rich girl had received Road and Pact, futures of travel and alliance, while Àrnnav had received Thorn.
 
-Except, if the documents in that house said what she thought they said, the rich girl's pattern was as much a lie as everything else.
+Except—if the documents in that house said what she thought they said, the rich girl's pattern was as much a lie as everything else.
 
-The girl—Fèinnav, she thought the name was—paused at the gate. Looked out at the street. For a moment, her eyes seemed to find Àrnnav's position, seemed to focus on the shadow where she was hiding.
+The girl—Fèinnav, she'd heard the name at the festival—paused at the gate. Looked out at the street. For a moment, her eyes seemed to find Àrnnav's position, seemed to focus on the shadow where she was hiding.
 
 Then someone called from inside, and she turned away, and the moment passed.
 
@@ -314,15 +312,15 @@ Then she pulled out her mother's note and read it again, and again, and again, u
 
 ## Part Three
 
-Pattern Day eve. The night the city prepared to celebrate the system that sorted and defined them.
+The night of the break-in. Two weeks and one day after Pattern Day.
 
-Àrnnav moved through Merchant City like a ghost, dressed in clothes she'd stolen from the laundry—servant's dress, plain but clean, the kind of thing that made you invisible to people who didn't look at servants anyway. The streets were busy with last-minute preparations, deliveries and decorations, the wealthy putting on their finest masks for the holiday.
+Àrnnav moved through Merchant City like a ghost, dressed in clothes she'd stolen from the laundry—servant's dress, plain but clean, the kind of thing that made you invisible to people who didn't look at servants anyway. The streets were quieter than they'd been during the festival, but there was still traffic—late dinners, social calls, the wealthy conducting their evening business.
 
 No one looked at her twice.
 
-The Còcalnòc house was lit from within, warm and golden, the sounds of dinner drifting through closed windows. She circled to the east side, found the window she'd identified, and waited for the household to settle.
+The Còcalnòc house was lit from within, warm and golden, voices drifting through closed windows. Some kind of gathering—the meeting Vèircai had mentioned. She circled to the east side, found the window she'd identified, and waited for the household to settle.
 
-An hour. Two. The lights dimmed. The servants finished their work. The family retired.
+An hour. Two. The guests departed. The lights dimmed. The servants finished their work. The family retired.
 
 Àrnnav climbed.
 
@@ -356,7 +354,7 @@ Click. Click. *Click*.
 
 The door swung open.
 
-Inside: a desk, a cabinet, bookshelves lined with ledgers. And in the corner, a strongbox that practically announced *important things here*.
+Inside: a desk, a cabinet, bookshelves lined with business records. And in the corner, a strongbox.
 
 She crossed to it, knelt, pulled out the picks again.
 
@@ -396,7 +394,7 @@ And there, near the bottom of the stack, in a separate folder marked *RESOLVED*:
 
 Five hundred coins. That was what her mother's life had been worth. Less than a pattern adjustment. Less than a wealthy family's lie.
 
-Àrnnav's hands were shaking as she gathered the documents. Proof. This was proof—not just of fraud, but of murder. Decades of corruption, and her mother's death recorded like a line item in—
+Àrnnav's hands were shaking as she gathered the documents. Proof. This was proof—not just of fraud, but of murder. Decades of corruption, and her mother's death recorded like a line item—
 
 "Don't move."
 
@@ -412,13 +410,17 @@ The fear of someone who'd discovered something they couldn't unsee.
 
 The candle trembled in Fèinnav's hand.
 
-"You're here to steal the ledger."
+"You're here to steal the household ledger."
 
 "I'm here to find out who killed my mother." Àrnnav held up the page with her mother's name. "Szèrlaimhnav. Silenced. Five hundred coins. Does that mean anything to you?"
 
 Fèinnav's face went whiter still.
 
-"I didn't—I didn't know about that. I only found out about the patterns last week. My friend has been investigating, and I—" She stopped. Took a breath. "Who sent you?"
+"I didn't—I didn't know about that. I only found out about the patterns at the festival. You—" She stopped. "You're the girl I was going to meet. From Pattern Day. My mother said someone from the Hand Quarter was asking questions."
+
+"Your mother?"
+
+"She's been investigating since she found out. Since she received a letter from—" Fèinnav shook her head. "It doesn't matter. Who sent you here tonight?"
 
 "Does it matter?"
 
@@ -490,11 +492,11 @@ A woman. Older. Wearing a Warden's coat.
 
 ## Part Four
 
-The Warden took her to a tea house that stayed open all night for the Pattern Day crowds.
+The Warden took her to a tea house that stayed open all night.
 
 Not arrested. Not dragged. Just... taken, with a grip on her elbow that was firm enough to be a command and gentle enough to be a request. Àrnnav went because she didn't have a choice, because Vèircai's people were still out there, because the documents against her chest were burning with urgency and she didn't know what to do with them.
 
-The tea house was crowded with revelers—people celebrating the holiday, drinking and laughing and living their comfortable lives. Vàscalìn led her to a table in the corner, away from the noise, and ordered tea neither of them would touch.
+The tea house was crowded with late-night patrons—people drinking and talking and living their comfortable lives. Vàscalìn led her to a table in the corner, away from the noise, and ordered tea neither of them would touch.
 
 "Àrnnav Vonalnòc." The Warden used her Lineless designation, the technical term for someone without family name or registration. "Pattern-constrained. Recently Bound. Tòvismaht Vèszttar—Thorn-marked, Maze-path." She set her seal on the table between them. "You've stolen documents from a merchant family that implicate them in pattern fraud going back three generations. You're carrying evidence that could destroy half the wealthy houses in Fonváros."
 
@@ -570,7 +572,7 @@ When she finished, Vàscalìn nodded slowly.
 
 "So what happens next?"
 
-"Next, you go home. Sleep if you can. Tomorrow is Pattern Day—the city will be distracted, celebrating. I'll have people watching Vèircai's operation." She stood. "Keep the documents for now. But Àrnnav—"
+"Next, you go home. Sleep if you can. Tomorrow the city will go about its business, and I'll have people watching Vèircai's operation." She stood. "Keep the documents for now. But Àrnnav—"
 
 "Yes?"
 
@@ -580,7 +582,7 @@ She walked away, leaving Àrnnav alone with cold tea and colder certainty.
 
 ---
 
-She made it home as the sun was rising. Pattern Day morning. The city waking to celebration while her world crumbled.
+She made it home as the sun was rising. Another day beginning. The city waking while her world crumbled.
 
 The door to her room was open.
 
@@ -652,79 +654,71 @@ The Còcalnòc house looked different in daylight.
 
 Àrnnav entered through the front door this time—escorted by Fèinnav, dressed in borrowed servant's clothes, trying not to stare at the wealth that surrounded her. Crystal chandeliers. Silk curtains. Furniture that cost more than her mother had earned in a lifetime.
 
-The home she'd broken into twelve hours ago. The family whose secrets she carried against her chest.
+The home she'd broken into hours ago. The family whose secrets she carried against her chest.
 
-Vìzrav Còcalnòc was waiting in the drawing room. Sixty-two years old, grey-haired, with the kind of face that showed every worry she'd ever carried. Her husband stood behind her—Còcal, the patriarch, the man whose purchased pattern had started three generations of lies.
+Vìzrav Còcalnòc was waiting in the drawing room. Sixty-two years old, grey-haired, with the kind of face that showed every worry she'd ever carried.
 
-"You're the one who broke into my house," Còcal said. His voice was cold.
+"You're the one who broke into my house," Vìzrav said.
 
 "I'm the one who found proof that your family has been buying futures for decades. And I'm the one who found proof that someone murdered my mother to keep that secret." Àrnnav didn't flinch. "So yes. I broke into your house. And I'd do it again."
 
 Silence. The kind of silence that could become violence, or could become something else.
 
-"She's right," Vìzrav said quietly. "About all of it. I've seen the documents she found—Fèinnav showed me. The fraud, the murders, the entire corrupted system." She turned to her husband. "We knew the patterns were purchased. We accepted it as the price of our position. But I didn't know people had died to protect those lies."
+"She's right," Vìzrav said quietly. "About all of it. I've seen the documents she found—Fèinnav showed me. The fraud, the murders, the entire corrupted system." She turned to look at Àrnnav directly. "I received a letter recently. From my father—he was bound as an echo after his death, and the binder who carried him brought me his testimony. He witnessed the fraud for thirty years. He died wanting to expose it."
 
-"People die for all sorts of reasons."
+"Your father?"
 
-"Not like this." Vìzrav's voice hardened. "Not murdered and recorded like a business expense. Not silenced because they dared to keep records of the truth."
+"Cèresnav. He worked at the Pattern House before his death. He kept notes about the system—how it worked, who was involved. The binder who carried him brought me those notes a few days ago."
 
-Còcal's face was unreadable. "What do you want?" he asked Àrnnav.
+Àrnnav's mind raced. The secondary ledger her mother's note had mentioned. If this Cèresnav had documented the fraud from the inside—
 
-"I want my brother back. Vèircai has him—he's using Fèincal as leverage to get the documents." She pulled the papers from her dress, held them up. "I don't care about exposing your family. I don't care about justice or reform or any of the things the people behind Vèircai claim to want. I care about an eleven-year-old boy who has nothing to do with any of this."
+"His letter proves the system exists," Vìzrav continued. "But what you found in our household records—the specific entries, the recent payments—that proves it's still operating. Together, they're a complete chain of evidence."
 
-"And you think we can help you get him back?"
+"So what do you want from me?"
 
-"I think you have contacts Vèircai doesn't know about. I think you have resources I don't have access to. And I think—" She took a breath. "I think you owe me. For what your family's lies cost mine."
+"I want to help you get your brother back. And I want copies of the documents you took." Vìzrav's voice steadied. "My father died wanting to make things right. I'm not going to let his testimony die with me."
 
-Another silence. Longer this time.
+---
 
-"My father was bound as an echo," Vìzrav said. "Thirty-seven years ago. A binder carried his pattern until last week, when the echo finally dissolved. Before it did, my father's memories returned—he remembered everything about the fraud he'd witnessed, including the people who'd been silenced to protect it."
+The plan came together quickly.
 
-Àrnnav went still. "Your father worked at the Pattern House?"
+Vìzrav's allies provided resources: safe locations, message runners, people who could watch the exchange without being seen. Fèinnav provided access: knowledge of her own household, the names of servants who might be sympathetic, the patterns of the night guard.
 
-"He kept the secondary ledger. The one that documented the adjustments, the bribes, the silencing." Vìzrav's voice cracked. "Your mother was one of the names in that ledger. I didn't know until the binder brought me my father's letter."
+And Àrnnav provided the documents. The physical evidence. The proof that could burn everything down or build something new.
 
-"Then you understand."
+They made copies. Selected carefully: enough to prove the fraud existed, not enough to expose every family involved. Leverage without total destruction. The kind of compromise that kept people alive long enough to fight another day.
 
-"I understand that we're both carrying secrets that could destroy us. I understand that my family's corruption killed your mother and now threatens your brother." Vìzrav stood, moved toward Àrnnav, stopped an arm's length away. "I can help you. But I need to know—what are you willing to do with those documents?"
+"The exchange is at midnight," Àrnnav said. "Vèircai wants all the documents. I give him what we've selected—the copies, not the originals. He releases my brother."
 
-Àrnnav thought about it. Thought about revenge, about justice, about the impossible choice between her brother's life and her mother's memory.
+"And if he doesn't?" Fèinnav asked.
 
-"I'm willing to give Vèircai something," she said finally. "Enough to satisfy whoever's paying him. But not the murder records. Not the proof of what they did to my mother." She met Vìzrav's eyes. "I'll let your family keep its secrets, if you help me keep mine."
+"Then the Warden I spoke to last night gets a detailed accounting of his operation." Àrnnav's smile was thin, dangerous. "Vàscalìn wants to control the chaos. That means she needs people like Vèircai to stay contained. If I give her enough information to destroy him, she will."
 
-"And afterward? The documents that remain?"
+"You're playing both sides against the middle."
 
-"Afterward, I don't know. Maybe I burn them. Maybe I hide them. Maybe I find someone who can use them without getting people killed." She paused. "But right now, all I care about is midnight. All I care about is Fèincal."
-
-Vìzrav nodded slowly.
-
-"Then let's make a plan."
+"I'm doing what my pattern told me I would. Making difficult connections. Walking painful paths." Àrnnav tucked the selected documents into her dress. "Either I get my brother back, or a lot of powerful people have a very bad night."
 
 ---
 
 The Threshold Market at midnight was chaos.
 
-Pattern Day celebrations had spilled out of the temples and taverns, filling the streets with revelers, musicians, merchants hawking festival goods. The perfect cover for an exchange that no one was supposed to see.
+Àrnnav moved through crowds of late-night vendors and desperate customers, the documents pressed against her chest. The eastern warehouse loomed ahead, dark and silent, waiting for what would happen next.
 
-Àrnnav moved through the crowds alone—or what looked like alone. Vìzrav's contacts were positioned throughout the market: merchants who owed favors, guards who'd been paid to look the other way, a network of quiet power that Àrnnav had never known existed.
+Vèircai's men were positioned at the entrances. She counted four—more than he usually used, which meant he was nervous. Good. Nervous men made mistakes.
 
-And somewhere in the shadows, Vàscalìn's Wardens were watching too.
+She walked toward the main door.
 
-The eastern warehouse was dark, abandoned, the kind of place where bad things happened and no one asked questions. Àrnnav approached the entrance, the altered documents pressed against her chest, her heart hammering with a fear she couldn't afford to show.
-
-The door opened before she could knock.
-
-"You came." Vèircai's voice echoed from inside. "I wasn't sure you would."
+"You came." Vèircai's voice echoed from inside the warehouse. "I knew you would."
 
 "You have my brother."
 
-"I have insurance. There's a difference." He stepped into the doorway, his face half-lit by distant festival lights. "The documents?"
+"I have insurance. There's a difference." He stepped into the doorway, his smile sharp in the moonlight. "The documents?"
 
 "Show me Fèincal first."
 
-A pause. Then Vèircai gestured, and one of his men emerged from the darkness, dragging Fèincal by the arm.
+A pause. Then Vèircai gestured, and one of his men dragged her brother out of the shadows.
 
-Her brother looked terrified. Small. Eleven years old and caught in something he didn't understand. His eyes found Àrnnav's, and she saw hope there—desperate, fragile hope that she would make this right.
+Fèincal looked terrified. Small. Eleven years old and caught in something he didn't understand. His eyes found Àrnnav's, and she saw hope there—desperate, fragile hope that she would make this right.
 
 "The documents," Vèircai said again.
 
@@ -758,7 +752,7 @@ She handed them over. He rifled through them, checking, assessing. His expressio
 
 A new voice. A woman's voice.
 
-Vàscalìn stepped out of the crowd, her Warden's seal gleaming in the festival lights. Behind her, a dozen more Wardens materialized from the chaos, sealing the warehouse exits.
+Vàscalìn stepped out of the crowd, her Warden's seal gleaming in the lamplight. Behind her, a dozen more Wardens materialized from the chaos, sealing the warehouse exits.
 
 "You're under arrest for conspiracy to commit pattern fraud, extortion, and the kidnapping of a minor." Her voice was flat, official. "The documents in your possession are evidence in an ongoing investigation."
 
@@ -796,7 +790,7 @@ A long pause. Then Vàscalìn smiled—thin, sharp, knowing.
 
 "I know."
 
-"As long as you know." She walked away into the festival crowds, leaving Àrnnav and Fèincal alone in the wreckage of a conspiracy she'd never meant to join.
+"As long as you know." She walked away into the market crowds, leaving Àrnnav and Fèincal alone in the wreckage of a conspiracy she'd never meant to join.
 
 ---
 
@@ -873,3 +867,7 @@ Her pattern said Thorn. Her pattern said Maze. Her pattern said she would hurt a
 But patterns didn't determine. They just described.
 
 And Àrnnav was writing her own description now, in a ledger of her own making, with ink that no one else could read.
+
+---
+
+*End of "The Constrained" (v3)*

@@ -5,9 +5,8 @@
 
 Hálcova isn't a world with an economy. Hálcova **is** an economy. The metaphysical substrate of reality operates on the same principles that govern markets, decisions, and resource allocation. This isn't metaphor—it's the literal structure of how existence functions here.
 
-Physics has transaction costs. Identity is a balance sheet. Time is currency with variable exchange rates. Death is a market event. The Elsewhere is a competing market.
+Physics has transaction costs. Identity is a balance sheet. Time is currency with variable exchange rates. Death is a market event. The [Elsewhere](../additional_systems.md) is a competing market.
 
----
 
 ## Economic Principles Made Literal
 
@@ -17,7 +16,7 @@ Physics has transaction costs. Identity is a balance sheet. Time is currency wit
 
 **How It Manifests**:
 
-When a Fate Threader pulls a version of themselves from an unmade choice, they're not accessing a parallel universe. They're **harvesting the opportunity cost itself**. The future they didn't choose had value—stored potential—and they're cashing it out.
+When a [Fate Threader](../../magic/the_five_arts.md#fate-threading) pulls a version of themselves from an unmade choice, they're not accessing a parallel universe. They're **harvesting the opportunity cost itself**. The future they didn't choose had value—stored potential—and they're cashing it out.
 
 But opportunity costs aren't free-floating. They're attached to *you*. When you harvest one:
 - Gain the capability/knowledge/resource from that path
@@ -30,13 +29,13 @@ But opportunity costs aren't free-floating. They're attached to *you*. When you 
 
 ---
 
-### 2. Sunk Cost Fallacy (Core Binding)
+### 2. Sunk Cost Fallacy ([Core Binding](../../magic/the_five_arts.md#core-binding))
 
 **The Principle**: People irrationally weigh costs already paid when making current decisions, even though those costs can't be recovered.
 
 **How It Manifests**:
 
-Core Binding creates echoes—remnants of the dead bound to anchors. The binder invests Pattern Residue, time, and pieces of their own identity to maintain the binding.
+Core Binding creates echoes—remnants of the dead bound to anchors. The binder invests [Pattern Residue](../../magic/the_five_arts.md), time, and pieces of their own identity to maintain the binding.
 
 The fallacy manifests when:
 - The echo becomes corrupted or hostile

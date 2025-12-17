@@ -1,0 +1,3 @@
+# Echoes and Binding
+
+...existing content from world/fate_system/echoes_and_binding.md...

@@ -14,19 +14,25 @@ nav:
   - Magic Systems:
     - The Five Arts: halcova/magic/the_five_arts.md
   - Fate System:
-    - The Sorscad: halcova/fate_system/the_sorscad.md
-    - The Loom: halcova/fate_system/the_loom.md
+     - Patterns and Bindings: halcova/fate_system/patterns_and_bindings.md
+     - Echoes and Binding: halcova/fate_system/echoes_and_binding.md
+     - Attunement and Marks: halcova/fate_system/attunement_and_marks.md
+     - The Sorscad: halcova/fate_system/the_sorscad.md
+     - The Loom: halcova/fate_system/the_loom.md
   - Governance:
     - Political Philosophy: halcova/governance/political_philosophy.md
     - Legal Frameworks: halcova/governance/legal_frameworks.md
     - Governance Structures: halcova/governance/governance_structures.md
     - Politics, Law, and Systems: halcova/governance/politics_law_and_systems.md
   - Society:
-    - The Warden Order: halcova/society/the_warden_order.md
-    - Religion: halcova/society/religion.md
-    - Economics and Class: halcova/society/economics_and_class.md
-    - Entertainment System: halcova/society/entertainment_system.md
-    - Criminal Underworld: halcova/society/criminal_underworld.md
+     - The Pattern Caste System: halcova/society/pattern_caste_system.md
+     - Institutions and Roles: halcova/society/institutions_and_roles.md
+     - Major Families: halcova/society/major_families.md
+     - The Warden Order: halcova/society/the_warden_order.md
+     - Religion: halcova/society/religion.md
+     - Economics and Class: halcova/society/economics_and_class.md
+     - Entertainment System: halcova/society/entertainment_system.md
+     - Criminal Underworld: halcova/society/criminal_underworld.md
   - Conlang:
     - Language Set: halcova/conlang/language_set.md
     - Living Language Slang: halcova/conlang/living_language_slang.md
