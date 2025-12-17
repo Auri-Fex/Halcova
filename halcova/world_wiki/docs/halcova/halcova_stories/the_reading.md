@@ -1,4 +1,14 @@
-# The Reading
+<h1 style="color:gold; font-size:2em;">The Reading</h1>
+<!-- Wiki References -->
+<hr>
+<div><b>See also:</b>
+<ul>
+	<li><a href="../fate_system/patterns_and_bindings.md">Patterns and Bindings</a></li>
+	<li><a href="../society/major_families.md">Major Families</a></li>
+	<li><a href="../society/pattern_caste_system.md">Pattern Caste System</a></li>
+	<li><a href="../fate_system/echoes_and_binding.md">Echoes and Binding</a></li>
+</ul>
+</div>
 
 ## Part One
 

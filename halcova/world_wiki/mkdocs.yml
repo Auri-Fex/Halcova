@@ -1,6 +1,19 @@
 
 site_name: Hálcova World Compendium
 nav:
+  - Geography:
+    - Far Shelf Survival: halcova/geography/far_shelf_survival.md
+    - Cities Fonvaros: halcova/geography/cities_fonvaros.md
+    - Cities Szigetköz: halcova/geography/cities_szigetköz.md
+    - Cities Ontövaros: halcova/geography/cities_ontövaros.md
+    - Urban Districts: halcova/geography/urban_districts.md
+  - Elsewhere:
+    - Faction Agendas: halcova/elsewhere/faction_agendas.md
+  - Technology:
+    - Material Culture: halcova/technology/material_culture.md
+  - Foundations:
+    - Demographics: halcova/foundations/demographics.md
+    - The Attendance Truth: halcova/foundations/the_attendance_truth.md
   - Planetary:
     - Planetary Parameters: halcova/planetary/planetary_parameters.md
     - Geography: halcova/planetary/geography.md
@@ -37,11 +50,11 @@ nav:
     - Language Set: halcova/conlang/language_set.md
     - Living Language Slang: halcova/conlang/living_language_slang.md
   - Halcova Stories:
-    - The Reading: halcova/halcova_stories/01_the_reading_story_v3.md
-    - Bleed: halcova/halcova_stories/02_bleed_story_v2.md
-    - The Constrained: halcova/halcova_stories/03_the_constrained_story_v2.md
-    - The Warden: halcova/halcova_stories/04_the_warden_story_v2.md
-    - The Woven: halcova/halcova_stories/05_the_woven_story_v2.md
+    - The Reading: halcova/halcova_stories/the_reading.md
+    - Bleed: halcova/halcova_stories/bleed.md
+    - The Constrained: halcova/halcova_stories/the_constrained.md
+    - The Warden: halcova/halcova_stories/the_warden.md
+    - The Woven: halcova/halcova_stories/the_woven.md
 
 
 use_directory_urls: true
