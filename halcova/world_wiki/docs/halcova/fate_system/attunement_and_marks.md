@@ -39,4 +39,4 @@ See also: [the_loom.md], [law_justice.md], [echoes_and_binding.md].
 * [The Warden (Story)](/Halcova/halcova/halcova_stories/the_warden/)
 </div>
 
-...existing content from world/fate_system/attunement_and_marks.md...
+

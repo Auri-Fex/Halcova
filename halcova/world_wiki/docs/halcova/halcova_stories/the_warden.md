@@ -22,7 +22,6 @@ The junior Warden beside her—young, still flinching at dissolutions—fumbled 
 
 Behind her, the junior Warden's stylus scratched against paper. Standard closure. The words they used when they buried things.
 
----
 
 
 <div id="see-also"><b>See also:</b>
@@ -50,7 +49,6 @@ The junior Warden beside her—young, still flinching at dissolutions—fumbled 
 
 Behind her, the junior Warden's stylus scratched against paper. Standard closure. The words they used when they buried things.
 
----
 
 The street outside was fog and commerce, Merchant City waking to another day of transactions and arrangements. Vàscalìn walked through it without seeing it, her Attunement marks still cold, the echo's dissolution still vibrating in her bones.
 
@@ -67,7 +65,6 @@ She knew that fog. She saw it every morning in her own mirror, though she'd neve
 *Just lies*, something whispered. *Just lies you've been telling yourself for fifteen years.*
 
 She pushed the thought away. Kept walking. Passed a window and caught her reflection—the Warden's coat, the seal at her belt, the marks around her eyes that proved she was what the pattern said she was.
-
 Tower-Watch. Road-Path. The perfect Warden's pattern.
 
 Her reflection looked back at her, and she couldn't remember what color her eyes had been before the Attunement. Couldn't remember if the fog had always been there, or if it had grown year by year, dissolution by dissolution, truth by buried truth.

@@ -68,4 +68,4 @@ See also: [the_loom.md], [sorscad_cards.md], [law_justice.md].
 * [Bleed (Story)](/Halcova/halcova/halcova_stories/bleed/)
 </div>
 
-...existing content from world/fate_system/echoes_and_binding.md...
+
