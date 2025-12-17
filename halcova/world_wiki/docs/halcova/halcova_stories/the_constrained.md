@@ -8,9 +8,9 @@
 ---
 <div id="see-also"><b>See also:</b>
 
-* [Pattern Caste System](../society/pattern_caste_system.md)
-* [Major Families](../society/major_families.md)
-* [Patterns and Bindings](../fate_system/patterns_and_bindings.md)
+* [Pattern Caste System](/Halcova/halcova/society/pattern_caste_system/)
+* [Major Families](/Halcova/halcova/society/major_families/)
+* [Patterns and Bindings](/Halcova/halcova/fate_system/patterns_and_bindings/)
 </div>
 
 ## Part One
