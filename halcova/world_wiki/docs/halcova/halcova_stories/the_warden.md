@@ -3,9 +3,28 @@
 <hr>
 
 <!-- [See Also](#see-also) -->
-...existing code...
+
+## Part One
+
+The echo dissolved screaming.
+
+Vàscalìn held still, the way she'd learned to hold still—spine straight, hands clasped behind her back, Attunement marks burning cold around her eyes. The dissolution chamber's light pulsed with each unraveling thread of pattern, casting shadows that jumped and shattered against the stone walls. The screaming wasn't really sound. It was something worse: the vibration of a consciousness coming apart, felt in the teeth and the base of the skull and the space behind the sternum where breath lived.
+
+Sixty years, this echo had been bound. Sixty years of carrying a merchant's memories in borrowed flesh, serving the family that owned its anchor, forgetting piece by piece who it had once been. Now it remembered. Now it was awakening. And now—
+
+The scream cut off. The anchor—a bone disc, yellowed with age—went cold on the dissolution plinth. Another pattern unraveled. Another violation resolved.
+
+"Note for the record," Vàscalìn said. Her voice came out flat, professional. The voice of a Warden. "Echo designation Merchant-VII-Còcalnòc. Dissolution complete. No pattern contamination detected in the binding family."
+
+The junior Warden beside her—young, still flinching at dissolutions—fumbled with his stylus. "Òràhd, the family mentioned the echo had been speaking. About documents. A secondary ledger. Should we—"
+
+"The echo is dissolved. Whatever it remembered died with it." She turned away from the chamber, climbed the stairs toward street level, toward grey morning light and air that didn't taste like burnt pattern. "File the report. Standard closure."
+
+Behind her, the junior Warden's stylus scratched against paper. Standard closure. The words they used when they buried things.
 
 ---
+
+
 <div id="see-also"><b>See also:</b>
 
 * [Attunement and Marks](/Halcova/halcova/fate_system/attunement_and_marks/)

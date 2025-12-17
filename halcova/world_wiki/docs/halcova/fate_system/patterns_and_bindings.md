@@ -5,7 +5,6 @@
 <hr>
 
 <!-- [See Also](#see-also) -->
-...existing code...
 
 ---
 <div id="see-also"><b>See also:</b>
