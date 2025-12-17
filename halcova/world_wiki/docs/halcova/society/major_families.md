@@ -6,15 +6,6 @@
 <!-- [See Also](#see-also) -->
 
 ---
-<div id="see-also"><b>See also:</b>
-
-* [Pattern Caste System](/Halcova/halcova/society/pattern_caste_system/)
-* [Institutions and Roles](/Halcova/halcova/society/institutions_and_roles/)
-* [Patterns and Bindings](/Halcova/halcova/fate_system/patterns_and_bindings/)
-* [The Reading (Story)](/Halcova/halcova/halcova_stories/the_reading/)
-</div>
-
-# Major Families
 
 ---
 **Story Reference:**

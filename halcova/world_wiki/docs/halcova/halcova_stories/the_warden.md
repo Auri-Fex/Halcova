@@ -219,25 +219,6 @@ But the file was in her drawer. The name was on the page. And she couldn't keep 
 
 "Done," she said.
 
-Èitar's smile returned—sharper now, satisfied. "I'll have your records within the week. Come back then. And Vàscalìn?"
-
-"Yes?"
-
-"Whatever you find—be careful who you tell. The truth about patterns isn't like other truths. It doesn't just change what you know." Her eyes held Vàscalìn's. "It changes what you are."
-
----
-
-## Part Two
-
-*A few weeks earlier. The morning of Fèinnav Còcalnòc's Binding.*
-
-The Great Pattern House on Temple Hill was chaos organized into ceremony—wealthy families in their finest clothes, adolescents scrubbed and nervous, offerings being counted and recorded by Szòvòtarar assistants who moved with the efficiency of long practice.
-
-Vàscalìn moved through the crowd in her Warden's coat, watching faces, reading the subtle signs of pattern and privilege. She wasn't here for the Bindings. She was here for an echo.
-
-An awakened echo in a noble household. Memories surfacing that shouldn't exist. Standard investigation—identify the echo, assess the threat, recommend dissolution if necessary.
-
-But as she watched the ceremonies unfold, she noticed something else.
 
 Szòvòtar Hàlmahtfhì—old now, seventy-one, conducting readings for the wealthiest families—moved through the Bindings with practiced ease. Card after card, pattern after pattern, futures announced with warm smiles and measured words.
 

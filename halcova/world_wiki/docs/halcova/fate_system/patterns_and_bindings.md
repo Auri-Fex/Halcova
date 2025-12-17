@@ -1,5 +1,4 @@
 
-
 <h1 style="color:gold; font-size:2em;">Patterns and Bindings</h1>
 <!-- Wiki References -->
 <hr>
@@ -7,18 +6,6 @@
 <!-- [See Also](#see-also) -->
 
 ---
-<div id="see-also"><b>See also:</b>
-
-* [Pattern Caste System](/Halcova/halcova/society/pattern_caste_system/)
-* [Institutions and Roles](/Halcova/halcova/society/institutions_and_roles/)
-* [Echoes and Binding](/Halcova/halcova/fate_system/echoes_and_binding/)
-* [Attunement and Marks](/Halcova/halcova/fate_system/attunement_and_marks/)
-* [The Attendance Truth](/Halcova/halcova/foundations/the_attendance_truth/)
-* [The Five Arts](/Halcova/halcova/magic/the_five_arts/)
-* [The Reading (Story)](/Halcova/halcova/halcova_stories/the_reading/)
-</div>
-
-# Patterns and Bindings
 
 ---
 **Story Reference:**
