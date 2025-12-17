@@ -3,11 +3,11 @@
 <hr>
 <div><b>See also:</b>
 <ul>
-	<li><a href="patterns_and_bindings.md">Patterns and Bindings</a></li>
-	<li><a href="../fate_system/attunement_and_marks.md">Attunement and Marks</a></li>
-	<li><a href="../society/institutions_and_roles.md">Institutions and Roles</a></li>
-	<li><a href="../society/major_families.md">Major Families</a></li>
-	<li><a href="../halcova_stories/bleed.md">Bleed (Story)</a></li>
+	<li><a href="/halcova/fate_system/patterns_and_bindings/">Patterns and Bindings</a></li>
+	<li><a href="/halcova/fate_system/attunement_and_marks/">Attunement and Marks</a></li>
+	<li><a href="/halcova/society/institutions_and_roles/">Institutions and Roles</a></li>
+	<li><a href="/halcova/society/major_families/">Major Families</a></li>
+	<li><a href="/halcova/halcova_stories/bleed/">Bleed (Story)</a></li>
 </ul>
 </div>
 
