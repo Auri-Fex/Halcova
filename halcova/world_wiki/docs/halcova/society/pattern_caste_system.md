@@ -2,13 +2,17 @@
 <h1 style="color:gold; font-size:2em;">The Pattern Caste System</h1>
 <!-- Wiki References -->
 <hr>
-<div><b>See also:</b>
-<ul>
-	<li><a href="/halcova/fate_system/patterns_and_bindings/">Patterns and Bindings</a></li>
-	<li><a href="/halcova/society/institutions_and_roles/">Institutions and Roles</a></li>
-	<li><a href="/halcova/society/major_families/">Major Families</a></li>
-	<li><a href="/halcova/halcova_stories/the_constrained/">The Constrained (Story)</a></li>
-</ul>
+
+<!-- [See Also](#see-also) -->
+...existing code...
+
+---
+<div id="see-also"><b>See also:</b>
+
+* [Patterns and Bindings](../fate_system/patterns_and_bindings.md)
+* [Institutions and Roles](institutions_and_roles.md)
+* [Major Families](major_families.md)
+* [The Constrained (Story)](../halcova_stories/the_constrained.md)
 </div>
 
 # The Pattern Caste System

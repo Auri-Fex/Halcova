@@ -1,12 +1,16 @@
 <h1 style="color:gold; font-size:2em;">The Warden</h1>
 <!-- Wiki References -->
 <hr>
-<div><b>See also:</b>
-<ul>
-	<li><a href="/halcova/fate_system/attunement_and_marks/">Attunement and Marks</a></li>
-	<li><a href="/halcova/fate_system/echoes_and_binding/">Echoes and Binding</a></li>
-	<li><a href="/halcova/society/institutions_and_roles/">Institutions and Roles</a></li>
-</ul>
+
+<!-- [See Also](#see-also) -->
+...existing code...
+
+---
+<div id="see-also"><b>See also:</b>
+
+* [Attunement and Marks](../fate_system/attunement_and_marks.md)
+* [Echoes and Binding](../fate_system/echoes_and_binding.md)
+* [Institutions and Roles](../society/institutions_and_roles.md)
 </div>
 
 ## Part One

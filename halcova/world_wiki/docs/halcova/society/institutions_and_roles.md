@@ -2,14 +2,18 @@
 <h1 style="color:gold; font-size:2em;">Institutions and Roles</h1>
 <!-- Wiki References -->
 <hr>
-<div><b>See also:</b>
-<ul>
-	<li><a href="/halcova/society/pattern_caste_system/">Pattern Caste System</a></li>
-	<li><a href="/halcova/society/major_families/">Major Families</a></li>
-	<li><a href="/halcova/fate_system/patterns_and_bindings/">Patterns and Bindings</a></li>
-	<li><a href="/halcova/fate_system/attunement_and_marks/">Attunement and Marks</a></li>
-	<li><a href="/halcova/halcova_stories/the_warden/">The Warden (Story)</a></li>
-</ul>
+
+<!-- [See Also](#see-also) -->
+...existing code...
+
+---
+<div id="see-also"><b>See also:</b>
+
+* [Pattern Caste System](pattern_caste_system.md)
+* [Major Families](major_families.md)
+* [Patterns and Bindings](../fate_system/patterns_and_bindings.md)
+* [Attunement and Marks](../fate_system/attunement_and_marks.md)
+* [The Warden (Story)](../halcova_stories/the_warden.md)
 </div>
 
 # Institutions and Roles

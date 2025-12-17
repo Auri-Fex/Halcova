@@ -1,12 +1,16 @@
 <h1 style="color:gold; font-size:2em;">The Constrained</h1>
 <!-- Wiki References -->
 <hr>
-<div><b>See also:</b>
-<ul>
-	<li><a href="/halcova/society/pattern_caste_system/">Pattern Caste System</a></li>
-	<li><a href="/halcova/society/major_families/">Major Families</a></li>
-	<li><a href="/halcova/fate_system/patterns_and_bindings/">Patterns and Bindings</a></li>
-</ul>
+
+<!-- [See Also](#see-also) -->
+...existing code...
+
+---
+<div id="see-also"><b>See also:</b>
+
+* [Pattern Caste System](../society/pattern_caste_system.md)
+* [Major Families](../society/major_families.md)
+* [Patterns and Bindings](../fate_system/patterns_and_bindings.md)
 </div>
 
 ## Part One
