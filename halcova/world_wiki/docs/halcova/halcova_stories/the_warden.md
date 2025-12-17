@@ -8,9 +8,9 @@
 ---
 <div id="see-also"><b>See also:</b>
 
-* [Attunement and Marks](../fate_system/attunement_and_marks.md)
-* [Echoes and Binding](../fate_system/echoes_and_binding.md)
-* [Institutions and Roles](../society/institutions_and_roles.md)
+* [Attunement and Marks](/Halcova/halcova/fate_system/attunement_and_marks/)
+* [Echoes and Binding](/Halcova/halcova/fate_system/echoes_and_binding/)
+* [Institutions and Roles](/Halcova/halcova/society/institutions_and_roles/)
 </div>
 
 ## Part One

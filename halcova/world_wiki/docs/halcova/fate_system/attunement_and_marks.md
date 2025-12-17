@@ -8,10 +8,10 @@
 ---
 <div id="see-also"><b>See also:</b>
 
-* [Patterns and Bindings](patterns_and_bindings.md)
-* [Echoes and Binding](echoes_and_binding.md)
-* [Institutions and Roles](../society/institutions_and_roles.md)
-* [The Warden (Story)](../halcova_stories/the_warden.md)
+* [Patterns and Bindings](/Halcova/halcova/fate_system/patterns_and_bindings/)
+* [Echoes and Binding](/Halcova/halcova/fate_system/echoes_and_binding/)
+* [Institutions and Roles](/Halcova/halcova/society/institutions_and_roles/)
+* [The Warden (Story)](/Halcova/halcova/halcova_stories/the_warden/)
 </div>
 
 ...existing content from world/fate_system/attunement_and_marks.md...

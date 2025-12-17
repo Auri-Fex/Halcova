@@ -9,11 +9,11 @@
 ---
 <div id="see-also"><b>See also:</b>
 
-* [Pattern Caste System](pattern_caste_system.md)
-* [Major Families](major_families.md)
-* [Patterns and Bindings](../fate_system/patterns_and_bindings.md)
-* [Attunement and Marks](../fate_system/attunement_and_marks.md)
-* [The Warden (Story)](../halcova_stories/the_warden.md)
+* [Pattern Caste System](/Halcova/halcova/society/pattern_caste_system/)
+* [Major Families](/Halcova/halcova/society/major_families/)
+* [Patterns and Bindings](/Halcova/halcova/fate_system/patterns_and_bindings/)
+* [Attunement and Marks](/Halcova/halcova/fate_system/attunement_and_marks/)
+* [The Warden (Story)](/Halcova/halcova/halcova_stories/the_warden/)
 </div>
 
 # Institutions and Roles
