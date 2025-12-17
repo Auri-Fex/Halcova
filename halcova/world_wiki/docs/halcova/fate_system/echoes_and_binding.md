@@ -1,19 +1,10 @@
+
 <h1 style="color:gold; font-size:2em;">Echoes and Binding</h1>
 <!-- Wiki References -->
 <hr>
 
 <!-- [See Also](#see-also) -->
 
-# Echoes and Binding
-
----
-**Story Reference:**
-This section is primarily informed by "Bleed" (02_bleed_story_v2.md), with supporting details from "The Warden" and "The Constrained." The nature of echoes, bleed, and dissolution are dramatized through the experiences of Fèinnav, Vèscalìn, and the Wardens.
-
-**Implications in the Stories:**
-- In "Bleed," echoes are not just tools but repositories of dangerous memory, and the phenomenon of bleed drives the plot as forbidden knowledge resurfaces.
-- "The Warden" explores the enforcement of dissolution and the ethical dilemmas faced by those who police echoes.
-- "The Constrained" shows the social and psychological costs of echo labor and the precariousness of identity for both the living and the dead.
 ---
 
 ## Echoes

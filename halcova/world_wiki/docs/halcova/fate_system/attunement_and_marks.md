@@ -1,17 +1,10 @@
+
 <h1 style="color:gold; font-size:2em;">Attunement and Marks</h1>
 <!-- Wiki References -->
 <hr>
 
 <!-- [See Also](#see-also) -->
 
-# Attunement and Marks
-
----
-**Story Reference:**
-This section is informed by "The Warden" (Vèscalìn's attunement and marks), "Bleed" (attunement as risk), and "The Woven" (Loom operators). The costs and consequences of attunement are dramatized through the experiences of Wardens and Loom workers.
-
-**Implications in the Stories:**
-- Attunement is both a privilege and a burden, granting power but also exposing the bearer to danger and social stigma.
 ---
 
 ## Attunement
