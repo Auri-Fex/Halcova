@@ -50,5 +50,33 @@
   "tzazatalya": {
     "concept": "Tundra",
     "root": "tsasan tal"
+  },
+  "shyalev": {
+    "concept": "Aethergale Leviathan",
+    "root": "shyak lev"
+  },
+  "blaykor": {
+    "concept": "Luminbark Colossus",
+    "root": "blay kor"
+  },
+  "shuvrak": {
+    "concept": "Smogcoil Wyrm",
+    "root": "shuv rak"
+  },
+  "stanak": {
+    "concept": "Crystback Terrapin",
+    "root": "stan ak"
+  },
+  "yakshen": {
+    "concept": "Emberdelve Mole",
+    "root": "yak shen"
+  },
+  "blayresh": {
+    "concept": "Luminous Subglacial Rivers",
+    "root": "blay resh"
+  },
+  "blayarch": {
+    "concept": "Floating Crystal Plateaus",
+    "root": "blay arch"
   }
 }

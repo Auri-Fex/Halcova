@@ -281,4 +281,4 @@ By 1900, Norbela is:
 - **1750–1830** – *Compacts & Alt-Fuel*: Creature breeding programs, international quotas, huge fauxil and slagcell sectors; cities retrofit for Residue handling.
 - **1830–1900** – *Residual Modernity*: Late-Victorian arcane punk; tri-fuel regime; Residue grids; arcane rail, airships, telegraph, proto-computers, body-mod medicine, and permanent ecological debt.
 
-From here your next “era” choice is the fun fork: do they double down on Residue, turn to Aetherite directly, or try to build a post-magic civilization on top of all this mess?
+From here your next "era" choice is the fun fork: do they double down on Residue, turn to finyak directly, or try to build a post-magic civilization on top of all this mess?

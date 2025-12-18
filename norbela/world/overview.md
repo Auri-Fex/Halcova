@@ -1,42 +1,76 @@
-## World Overview
+﻿## World Overview
 
-This world is shaped by deep, primordial forces—long before the rise of civilization or human influence. Its foundation is the arcane substrate known as Aetherite, a mineral and energy field that suffuses the planet’s crust, mantle, and atmosphere. The distribution and density of Aetherite determine the flow of magic, the fertility of life, and the emergence of extraordinary phenomena.
+**Conlang Note**: This world uses a systematic conlang built from Mongolian roots + Turkish affixes + Celtic mutations. All proper names, place names, magical terms, and core vocabulary derive from this methodology. See `conlang_methodology.md`, `conlang_lexicon_expanded.json`, `conlang_character_names.json`, and `conlang_verb_grammar.md` for full documentation.
 
-**At the time this world is being built, humans have not found any way to extract Aetherite directly. All usable magic, oil, and arcane energy must be harvested from magical creatures that metabolize it. These creatures are the sole source of magical power.**
+This world is shaped by deep, primordial forces—long before the rise of civilization or human influence. Its foundation is the arcane substrate known as finyak (Aetherite), a mineral and energy field that suffuses the planet’s crust, mantle, and atmosphere. The distribution and density of finyak determine the flow of magic, the fertility of life, and the emergence of extraordinary phenomena.
+
+**Only animals possess magic. All other natural phenomena (weather, substrate, plants, fungi, crystals) are non-magical unless directly affected by magical animals. Humans cannot extract, use, or directly sense finyak or magic. All usable magic, shyak (arcane oil), and arcane energy must be harvested from magical creatures that metabolize finyak. These creatures and their symbiotic microfauna are the sole source of magical power.**
+
+## Name Key (Conlang → Gloss)
+
+### Core Vocabulary
+- **Magic & Elements**: itu → magic/arcane; val → fire; ushli → water; dak → earth; shak → air/wind
+- **Energy & Forces**: mer → power/strength; shenesh → magical entropy; suvaanyak → resonance cascade; vonder → wonder/awe
+- **Places & Structures**: shalen → castle/hold; vorn → forest; toren → mountain/high; gen → valley/low; shira → desert
+- **Creatures**: shera → dragon; balkor → wolf; kira → bird; thek → beast/monster
+- **Quality & State**: guren → sharp/new; kalen → bright/light; nosh → dark/shadow; meshol → ancient/primordial; imal → slow/plodding; shora → swift
+- **Action & Time**: vam → go/journey; kelm → speak/declare; telun → create; mordin → destroy; telian → day; neshmir → night; sanar → year/season; moreth → moment
+- **Emotion & Philosophy**: kesh → joy; dren → sorrow; vesh → fear; telom → love; nethis → betrayal; koren → anger
+
+### Compound Terms & Place Names
+- **Magical Phenomena**: itu-shak (arcane air/ethereal magic); shak-neshmir (night winds); val-mer (fire power/volcanic regions)
+- **Arcane Sites**: itu-shibak (arcane font, overcharged magic site); shira-nosh (arcane desert, depleted zone); tayak → aurora fields (from old lexicon, kept for compatibility)
+- **Seasons**: telian-kalen (bright day/spring awakening); neshmir-tropush (entropy winter/dark deep-freeze)
+- **Sun & Sky**: Blaysol → Kalen-Tal (Bright Sky/Blue Sun); shoril → rings/orbital mechanics
+- **Rulers & Orders**: Shyakorin/Shyakorin-Mer → arcane barons (lit. "magic-force ones" or "power-keepers"); Veshkorin-Ral → defender-lords
+- **Continents**: 
+  - Tavanor → Toren-Val (High Fire/volcanic heart)
+  - Sulenor → Sulen-Toren (Ancient High/primordial mountains)
+  - Eshtor → Esh-Vorn (Fertile Forest/life-rich lands)
+  - Vashor → Vash-Gen (Cold Valley/frozen wastes)
+  - Konor → Konen-Shira (Empty Desert/depleted realm)
+
+### Character Examples (Personality-Based Naming)
+- Morshan → Destroyer/Revolutionary (Mordin + Shak = one who breaks with wind/change)
+- Telumesh → Builder/Wise Mentor (Telun + Meshol = creator with ancient wisdom)
+- Veshkorin → Fearless Warrior (Vesh [inverted fear] + Korin = courage in strength)
+- Keshiel → Heart/Healer (Kesh + Iel = bringer of joy and tender comfort)
+- Nethvor → Betrayer/Schemer (Nethis + Vor = shadow-walker of betrayal)
+- Shalen-Mor → Ruler/Sage (Castle-keeper of Wisdom)
 
 ## Geography & Structure
 
 - Vast continents, shifting archipelagos, and deep oceans are sculpted by tectonic and magical forces.
-- Mountain ranges and crystal caverns mark regions of high Aetherite concentration, while arcane deserts are depleted and unstable.
+- Mountain ranges and crystal caverns mark regions of high finyak concentration, while shisolak deserts are depleted and unstable.
 - Volcanic zones, fog seas, and underground lakes are common, each with unique magical properties.
-- **Aetherite deposits are unreachable by direct mining or extraction; only magical creatures and their symbiotic microfauna can metabolize and transform Aetherite into usable magical oil or energy.**
+- **Finyak deposits are unreachable by direct mining or extraction; only magical creatures and their symbiotic microfauna can metabolize and transform finyak into usable magical oil or energy.**
 
 ## Geography: Continents & Oceans
 
-- **Five Continents:** The world is divided into five major continents, each with distinct geography, climate, and magical characteristics. Their shapes and boundaries are influenced by tectonic activity and the underlying Aetherite substrate.
+- **Five Continents:** The world is divided into five major continents, each with distinct geography, climate, and magical characteristics. Their shapes and boundaries are influenced by tectonic activity and the underlying finyak substrate.
 
-  1. **Northern Continent** – The heart of arcane activity, rich in crystal mountains and deep caverns. Known for frequent magical storms and dense enchanted forests.
-  2. **Southern Continent** – Dominated by volcanic ranges, fog seas, and badlands. Home to rare, heat-adapted magical creatures and unstable Aetherite flows.
-  3. **Eastern Continent** – Lush fungal jungles, sprawling wetlands, and crystal plains. A center for biodiversity and symbiotic magical life.
-  4. **Western Continent** – Cold, windswept tundra and icy coasts. Sparse but powerful magical phenomena, with ancient energy wells beneath the permafrost.
-  5. **Central Continent** – Vast arcane deserts, shifting dunes, and mirage-filled valleys. Aetherite is depleted here, but rare magical anomalies and oasis biomes exist.
+  1. **Tavanor** – The heart of arcane activity, rich in crystal mountains and deep caverns. Known for frequent magical storms and dense enchanted forests.
+  2. **Sulenor** – Dominated by volcanic ranges, fog seas, and badlands. Home to rare, heat-adapted magical creatures and unstable finyak flows.
+  3. **Eshtor** – Lush fungal jungles, sprawling wetlands, and crystal plains. A center for biodiversity and symbiotic magical life.
+  4. **Vashor** – Cold, windswept tundra and icy coasts. Sparse but powerful magical phenomena, with ancient energy wells beneath the permafrost.
+  5. **Konor** – Vast shisolak arcades, shifting dunes, and mirage-filled valleys. Finyak is depleted here, but rare magical anomalies and oasis biomes exist.
 - **Oceans:** Deep, ancient oceans separate the continents. Ocean currents are influenced by both natural forces and arcane surges, sometimes causing magical phenomena like glowing tides, floating crystal reefs, or energy storms.
-- **Archipelagos & Islands:** Smaller islands and archipelagos dot the oceans, some appearing or vanishing due to magical events. These are often sites of rare magical flora, fauna, or unique Aetherite concentrations.
+- **Archipelagos & Islands:** Smaller islands and archipelagos dot the oceans, some appearing or vanishing due to magical events. These are often sites of rare magical flora, fauna, or unique finyak concentrations.
 
 ## Climate & Biomes (Locked)
 
 - The planet is colder than Earth, bordering on iceworld conditions. Most regions are frigid, with snow, ice, and frost dominating the landscape. Geothermal and arcane hotspots provide rare warmth.
-- Seasons are marked by shifts in magical energy rather than temperature. “Arcane spring” brings brief thaws and magical surges, while “entropy winter” deepens the cold and magical depletion.
+- Seasons are marked by shifts in magical energy rather than temperature. “Selyak” (arcane spring) brings brief thaws and magical surges, while “Tropush” (entropy winter) deepens the cold and magical depletion.
 - Weather includes blizzards, magical snowstorms, and vivid auroras. Arcane energy can cause sudden ice melts, crystal growths, or localized warming, but the baseline remains cold.
 - Major biomes: enchanted frost forests, fungal ice jungles, crystal snowfields, volcanic badlands, arcane tundra, frozen wetlands, arcane glacial deserts.
-- Unique magical biomes: fog ice seas, floating ice islands, Aetherite ice caverns, aurora fields.
+- Unique magical biomes: fog ice seas, floating ice islands, finyak ice caverns, tayak (aurora fields).
 - Biome interactions: frozen ecotones, magical corridors, entropy zones.
-- Magical fauna and flora are adapted to cold, often bioluminescent, and metabolize Aetherite for heat and energy.
+- Magical fauna and flora are adapted to cold, often bioluminescent, and metabolize finyak for heat and energy.
 - Human adaptation: settlements cluster around geothermal or arcane hotspots; technology, magic, and culture are shaped by the need to survive and thrive in a frigid world.
 
-## Blue Sun & Visual Effects (Locked)
+## Blaysol (Blue Sun) & Visual Effects (Locked)
 
-- The world orbits a distant blue sun, casting pale blue or icy white light. Daytime is cold and ethereal, with sharp shadows and vibrant blues and whites.
+- The world orbits Blaysol, a distant blue sun, casting pale blue or icy white light. Daytime is cold and ethereal, with sharp shadows and vibrant blues and whites.
 - The sky ranges from deep cobalt or indigo to pale turquoise or silver. Sunrises and sunsets are electric blue, lavender, or silvery.
 - Snow and ice glow with a faint blue shimmer; crystals and glaciers sparkle with iridescent highlights.
 - Auroras are vivid, with blue, violet, and white arcs dominating the night sky.
@@ -47,7 +81,7 @@ This world is shaped by deep, primordial forces—long before the rise of civili
 ## Science vs. Fantasy Notes (Locked)
 
 - Blue sun, auroras, bioluminescence, and crystal refraction are grounded in real science.
-- Magical weather, Aetherite substrate, magical fauna/flora, floating islands, fog seas, and human magical adaptation are invented for fantasy worldbuilding.
+- Magical weather, finyak substrate, magical fauna/flora, floating islands, fog seas, and human magical adaptation are invented for fantasy worldbuilding.
 - Blended concepts: photosynthesis adapted to blue light is plausible, but magical photosynthesis is invented; timekeeping and rituals based on auroras/magic are inspired by real cultures but fantasy-driven.
 
 // ---
@@ -56,20 +90,19 @@ This world is shaped by deep, primordial forces—long before the rise of civili
 
 # Primordial Arcane Ecosystem
 
-- Life evolved in symbiosis with Aetherite, giving rise to magical flora, fauna, and microfauna.
+- Life evolved in symbiosis with finyak, giving rise to magical flora, fauna, and microfauna.
 - Magical creatures range from simple energy feeders to complex, sentient beings, each adapted to local arcane conditions.
-- Microbial colonies metabolize Aetherite, forming the basis of the magical oil cycle and supporting higher life forms.
+- Microbial colonies metabolize finyak, forming the basis of the magical oil cycle and supporting higher life forms.
 - Ecosystem balance is maintained by cycles of energy absorption, transformation, and release—predation, symbiosis, and competition are all shaped by magic.
 
 ## Arcane Phenomena
 
-- Arcane storms, resonance cascades, and magical anomalies are natural occurrences, sometimes reshaping entire landscapes.
-- The world’s surface and subsurface are dotted with arcane fonts, crystal spires, and energy wells—sources of power and mystery.
-- Some regions are unstable, prone to magical entropy or sudden depletion, while others are overcharged and teeming with life.
+Rare magical sites exist across the world. Shisolak (arcane deserts) are permanently depleted zones where magic fails and creatures cannot survive. Shibak (arcane fonts) are overcharged zones where magic surges unpredictably, causing mutations, storms, or spontaneous phenomena. Both are shaped by finyak concentration and magical activity.
 
+*For advanced magical theory and rare phenomena, see Appendix B.*
 ## Economic Theories and Dynamics
 
-Government and guild intervention stabilizes the magical oil economy during booms and busts—stockpiling oil, subsidizing alternatives, or funding infrastructure. Over-extraction leads to depletion, instability, and collapse of magical resources, accelerated by social and magical feedback loops. Solutions include collective management, quotas, and enchanted contracts for sustainable use. Population and economic growth can outpace the regenerative capacity of magical oil creatures and Aetherite substrate, causing periodic crises and forced innovation. There is an optimal tax, quota, or tithe on oil extraction that maximizes revenue without driving illegal harvesting or black market growth. Elites may control oil sources, extracting rents and stifling innovation, while black markets and resistance movements arise in response. As magical entropy rises, societies must innovate new tech, fuels, or conservation methods to avoid collapse. Markets and magical systems seek a balance point where extraction, use, and restoration are in harmony; disruptions cause cascading failures or booms.
+Government and guild intervention stabilizes the magical oil economy during booms and busts—stockpiling oil, subsidizing alternatives, or funding infrastructure. Over-extraction leads to depletion, instability, and collapse of magical resources, accelerated by social and magical feedback loops. Solutions include collective management, quotas, and enchanted contracts for sustainable use. Population and economic growth can outpace the regenerative capacity of magical oil creatures and finyak substrate, causing periodic crises and forced innovation. There is an optimal tax, quota, or tithe on oil extraction that maximizes revenue without driving illegal harvesting or black market growth. Elites may control oil sources, extracting rents and stifling innovation, while black markets and resistance movements arise in response. As magical entropy rises, societies must innovate new tech, fuels, or conservation methods to avoid collapse. Markets and magical systems seek a balance point where extraction, use, and restoration are in harmony; disruptions cause cascading failures or booms.
 
 # Magical Physics and Feedback
 
@@ -77,13 +110,13 @@ Government and guild intervention stabilizes the magical oil economy during boom
 
 Magical energy is finite and can only be transformed or transferred, not created or destroyed. Extraction and use of magical oil draw from a global arcane reservoir, and overuse in one domain can cause depletion elsewhere. This principle underpins all responsible magical engineering and resource management.
 
-## Arcane Entropy
+## Shenesh (Magical Entropy)
 
-Every magical process increases arcane entropy, making future magic less efficient or more unstable. High-entropy regions experience more magical accidents, device failures, and unpredictable effects. Managing entropy is a key concern for artificers and magical engineers.
+Every magical process increases shenesh (magical entropy), making future magic less efficient or more unstable. High-entropy regions experience more magical accidents, device failures, and unpredictable effects. Managing shenesh is a key concern for artificers and magical engineers.
 
-## Resonance Cascade Theory
+## Suvaanyak (Resonance Cascade) Theory
 
-Magical energy flows best through harmonious materials and structures. Over-extraction or reckless use causes resonance cascades, where magic becomes unstable, leading to device surges, mutations, or local null zones. Skilled artificers design systems to minimize resonance mismatches and prevent cascades.
+Magical energy flows best through harmonious materials and structures. Over-extraction or reckless use causes suvaanyak (resonance cascades), where magic becomes unstable, leading to device surges, mutations, or local null zones. Skilled artificers design systems to minimize resonance mismatches and prevent cascades.
 
 ## Arcane Feedback Loops
 
@@ -91,7 +124,7 @@ Magical systems can become self-reinforcing: overuse or pollution increases inst
 
 ## Magical Depletion & Restoration
 
-Arcane density can be measured with special instruments or rituals. Restoration is possible through rest periods, careful management, or arcane remediation (rituals, planting magical flora, or introducing stabilizing artifacts). Some areas may become permanently depleted (arcane deserts) or, rarely, overcharged (arcane fonts).
+Arcane density can be measured with special instruments or rituals. Restoration is possible through rest periods, careful management, or arcane remediation (rituals, planting magical flora, or introducing stabilizing artifacts). Some areas may become permanently depleted (shisolak deserts) or, rarely, overcharged (shibak fonts).
 
 ## Competing Magical Physics Schools
 
@@ -117,9 +150,11 @@ Many cultures revere certain magical creatures as sacred, ancestral, or spiritua
 
 ## Arcane Oil Economics and Society
 
-The arcane oil economy is shaped by complex, interlocking market forces. Prices fluctuate based on supply, demand, purity, magical resonance, and perceived risk. Scarcity is driven by physical limits (creature populations, Aetherite substrate health) and social factors. Black market fuels are cheaper but riskier, and the threat of magical contamination or device failure is ever-present. Economic models must account for both rational actors and magical uncertainty. Social stratification is reinforced by access to high-grade oil, with the elite able to hedge against scarcity through magical contracts, futures markets, and enchanted vaults.
+The arcane oil economy is shaped by complex, interlocking market forces. Prices fluctuate based on supply, demand, purity, magical resonance, and perceived risk. Scarcity is driven by physical limits (creature populations, finyak substrate health) and social factors. Black market fuels are cheaper but riskier, and the threat of magical contamination or device failure is ever-present. Economic models must account for both rational actors and magical uncertainty. Social stratification is reinforced by access to high-grade oil, with the elite able to hedge against scarcity through magical contracts, futures markets, and enchanted vaults.
 
-All legal magical oil is tracked from extraction to end use via arcane seals, serial numbers, or magical resonance signatures. Regulatory bodies conduct regular audits, using magical inspectors and enchanted ledgers to monitor compliance. Enforcement is uneven: powerful Arcane Barons and corporations often evade scrutiny or manipulate the system, while underclass communities and small operators face harsher penalties. Smugglers and black marketeers develop countermeasures—illusionary seals, resonance scramblers, and bribed officials—to evade detection.
+*For advanced economic models, regulatory systems, and black market dynamics, see Appendix A.*
+
+All legal magical oil is tracked from extraction to end use via arcane seals, serial numbers, or magical resonance signatures. Regulatory bodies conduct regular audits, using magical inspectors and enchanted ledgers to monitor compliance. Enforcement is uneven: powerful Shyakorin (Arcane Barons) and corporations often evade scrutiny or manipulate the system, while underclass communities and small operators face harsher penalties. Smugglers and black marketeers develop countermeasures—illusionary seals, resonance scramblers, and bribed officials—to evade detection.
 
 Alternative fuels (fauxil, slagcells, bonewire) are less efficient due to missing or unstable magical molecules. Some communities innovate out of necessity, developing unique tech cultures and hybrid devices. The elite may suppress or monopolize knowledge of efficient alternatives, using magical patents or secrecy. The black market is a hotbed of innovation, but also of instability and risk.
 
@@ -141,7 +176,7 @@ Mage-engineers, druids, and alchemists develop a range of cleanup methods: encha
 
 ## Societal & Regulatory Response
 
-Laws require polluters to monitor, report, and remediate magical contamination, but enforcement is often inconsistent or biased. Powerful Arcane Barons and corporations may evade penalties or receive preferential treatment, while underclass communities and small operators face harsher scrutiny and punishment. Conservation groups, local communities, and activists sometimes take direct action, leading protests, sabotage, or independent cleanup efforts. Magical pollution is a persistent source of social tension, driving both reform and resistance.
+Laws require polluters to monitor, report, and remediate magical contamination, but enforcement is often inconsistent or biased. Powerful Shyakorin (Arcane Barons) and corporations may evade penalties or receive preferential treatment, while underclass communities and small operators face harsher scrutiny and punishment. Conservation groups, local communities, and activists sometimes take direct action, leading protests, sabotage, or independent cleanup efforts. Magical pollution is a persistent source of social tension, driving both reform and resistance.
 
 # Logical Technological Integration
 
@@ -180,13 +215,6 @@ Maintaining genetic diversity is critical for healthy, oil-producing populations
 Extraction is only sustainable if magical creature habitats are protected. Conservation efforts include habitat restoration and pollution control. Extraction rights are often tied to stewardship responsibilities—license holders must maintain habitat quality and mitigate environmental impacts. Disruption of habitats can reduce oil yields, destabilize local magic, and trigger broader ecological crises. Some regions establish magical reserves or sanctuaries where extraction is prohibited, serving as genetic and ecological refuges for future generations.
 
 ### The Arcane Revolution: 1780s–1880s (Ecology Protections)
-
-#### Discovery & Early Experimentation (1780s–1820s)
-
-- **Technology:** The first arcane lamps and alchemical devices are crude, hand-built, and highly experimental. Workshops are small, often hidden, and filled with strange apparatuses—glass retorts, copper coils, bone implements, and rune-etched reservoirs. Most devices are unreliable, prone to magical surges or catastrophic failure. Early attempts at oil-powered prosthetics and healing beds are rare and dangerous, sometimes causing mutations or unpredictable side effects.
-- **Society:** Knowledge of magical oil is restricted to a handful of scholars, alchemists, and local elites. Secret societies and guilds form to protect extraction sites and research, using coded language and magical wards. The general populace is wary, viewing oil harvesters as both miracle workers and potential threats. Rumors of “oil cults” and forbidden experiments circulate in taverns and markets.
-- **Economy:** Magical oil is a luxury, traded in secret and at exorbitant prices. Early trade networks are informal, relying on trusted intermediaries and coded messages. Counterfeit oils and dangerous byproducts flood the black market, leading to frequent accidents and disputes. Some regions see the rise of “Arcane Barons”—families or individuals who control oil-rich lands and enforce strict monopolies.
-
 ## City Feel & Aesthetics
 
 - **Urban Landscape:** The city is sprawling, layered, and chaotic. The upper districts are opulent, with glowing towers, floating platforms, and clean air—reserved for the elite. The lower districts are dense, polluted, and alive with magical graffiti, makeshift tech, and arcane smog.
@@ -195,23 +223,16 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ## Daily Life & Culture
 
-- **Underclass:** Most people live in crowded tenements, working dangerous jobs in extraction, refining, or illegal magic. Many dream of inventing something new or joining a rebel cell to fight the Barons.
-- **Rebels & Outcasts:** Tinkerers and mages experiment in hidden workshops, trying to create alternative power sources or hack the city’s magical infrastructure. Gangs control territory, offering protection in exchange for loyalty or resources.
-- **Entertainment:** Underground arenas host construct battles, illegal spell duels, and races through the city’s magical transit lines. Street performers use minor magic to dazzle crowds or distract from pickpocketing.
-
 // ---
 // LOCKED WORLD NOTES UPDATE: Only animals possess magic. All other natural phenomena (weather, substrate, plants, fungi, crystals) are non-magical unless directly affected by magical animals. This rule supersedes previous references to magical weather, substrate, or phenomena.
 // ---
 
 ## Surface Considerations (Locked)
 
-- Weather is entirely natural: cold, blizzards, auroras (from the blue sun), and other atmospheric effects are not magical.
-- The land, plants, fungi, and crystals are non-magical by default. Any magical effects on the environment must originate from animal activity.
-- Microbial and fungal life are adapted to cold, but do not possess or metabolize magic unless interacting with magical animals.
-- Crystal fields, ice formations, and unique biomes are shaped by climate and geology, not magic.
-- Biome interactions and succession cycles are driven by natural processes, except where magical animals play a direct role.
-- Surface features (geysers, fogs, floating ice) are natural, not arcane. No magical substrate or phenomena exist outside animal life.
-- The only magical phenomena visible on the surface are those created by magical animals—bioluminescence, magical displays, or environmental changes caused by their activity.
+
+## Surface Considerations
+
+Only animals possess magic. All other natural phenomena (weather, substrate, plants, fungi, crystals) are non-magical unless directly affected by magical animals. Weather is entirely natural: cold, blizzards, auroras (from the blue sun), and other atmospheric effects are not magical. The land, plants, fungi, and crystals are non-magical by default. Any magical effects on the environment must originate from animal activity. Microbial and fungal life are adapted to cold, but do not possess or metabolize magic unless interacting with magical animals. Crystal fields, ice formations, and unique biomes are shaped by climate and geology, not magic. Biome interactions and succession cycles are driven by natural processes, except where magical animals play a direct role. Surface features (geysers, fogs, floating ice) are natural, not arcane. No magical substrate or phenomena exist outside animal life. The only magical phenomena visible on the surface are those created by magical animals—bioluminescence, magical displays, or environmental changes caused by their activity.
 - Human adaptation and settlement patterns are shaped by climate, geography, and proximity to magical animals, not by ambient magic.
 
 // ---
@@ -219,23 +240,14 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 // ---
 
 // ---
-// LOCKED WORLD NOTES: Aetherite Substrate
+// LOCKED WORLD NOTES: Finyak Substrate
 // ---
 
-## Aetherite Substrate (Locked)
+## Finyak Substrate (Locked)
 
-- Aetherite is a hidden, invisible substrate or energy field within the planet, undetectable by human senses or technology.
-- Only magical animals can perceive, metabolize, or interact with Aetherite. It is the source of their magical abilities and unique adaptations.
-- Aetherite influences the distribution, evolution, and behavior of magical animals, creating ecological hotspots and driving biodiversity.
-- Non-magical life (plants, fungi, microbes) may indirectly benefit from magical animal activity powered by Aetherite, but cannot access it directly.
-- Regions rich in Aetherite may display unusual natural phenomena (vivid auroras, crystal formations, odd weather patterns) that humans attribute to geology or climate, not magic.
-- Surface features shaped by magical animals using Aetherite appear natural to humans; the true nature of these phenomena remains hidden.
-- Humans cannot detect, extract, or use Aetherite. Myths and scientific theories may arise, but the reality is inaccessible.
-- Aetherite is the secret engine of magical animal life, making the world unique without direct human interaction.
-- The cold climate, blue sun, and surface phenomena are subtly shaped by Aetherite’s influence, always mediated by magical animals.
-
+  - Fantasy Science: Absorbs finyak-derived energy, stores it in specialized blubber cells, migrates to areas of high finyak concentration for optimal charging.
 // ---
-// END LOCKED WORLD NOTES: Aetherite Substrate
+// END LOCKED WORLD NOTES: Finyak Substrate
 // ---
 
 // ---
@@ -245,10 +257,10 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 ## Luminarchs (Locked)
 
 - Luminarchs are large, semi-translucent, multi-limbed lifeforms that drift across the icy plains. Their bodies are composed of flexible, crystalline filaments that refract the blue sun’s light, creating dazzling displays of color and light.
-- They metabolize Aetherite, powering bioluminescent displays and generating localized warmth, which supports micro-ecosystems beneath their bodies. Non-magical life clusters in their wake, benefiting from temporary heat and nutrients.
-- Luminarchs migrate seasonally, following Aetherite-rich currents beneath the surface. Their movement shapes the distribution of other life, creating shifting “oases” in the frozen landscape.
+- They metabolize finyak, powering bioluminescent displays and generating localized warmth, which supports micro-ecosystems beneath their bodies. Non-magical life clusters in their wake, benefiting from temporary heat and nutrients.
+- Luminarchs migrate seasonally, following finyak-rich currents beneath the surface. Their movement shapes the distribution of other life, creating shifting “oases” in the frozen landscape.
 - They communicate through pulses of colored light and vibration, forming complex social networks. Their crystalline limbs can anchor into ice or snow, and they can “fold” themselves to conserve energy during entropy winter.
-- Humans perceive Luminarchs as mysterious, living auroras—sources of myth and wonder. Their true nature and connection to Aetherite remain unknown to humans.
+- Humans perceive Luminarchs as mysterious, living auroras—sources of myth and wonder. Their true nature and connection to finyak remain unknown to humans.
 
 // ---
 // END LOCKED WORLD FEATURE: Luminarchs
@@ -262,20 +274,20 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ### 1. Layered Ice-Shelf Organism
 
-- A slow-moving, layered organism resembling a living ice shelf. Its body consists of stacked, semi-rigid plates that absorb and store Aetherite energy. As it moves, it leaves behind trails of nutrient-rich meltwater, supporting bursts of non-magical life in its wake.
+- A slow-moving, layered organism resembling a living ice shelf. Its body consists of stacked, semi-rigid plates that absorb and store finyak energy. As it moves, it leaves behind trails of nutrient-rich meltwater, supporting bursts of non-magical life in its wake.
 - Communicates through low-frequency vibrations transmitted through the ice, coordinating migration and resource sharing among distant individuals.
 - During entropy winter, it burrows deep into the ice, forming communal hibernation clusters that stabilize local temperatures.
 
 ### 2. Floating Iridescent Tendril Creature
 
-- A small, floating spheroid creature with iridescent, filamentous tendrils. It drifts on cold air currents, using subtle magnetic fields to navigate and cluster in Aetherite-rich zones.
-- Metabolizes Aetherite to produce brief flashes of light and heat, attracting non-magical scavengers and dispersing spores from symbiotic fungi.
+- A small, floating spheroid creature with iridescent, filamentous tendrils. It drifts on cold air currents, using subtle magnetic fields to navigate and cluster in finyak-rich zones.
+- Metabolizes finyak to produce brief flashes of light and heat, attracting non-magical scavengers and dispersing spores from symbiotic fungi.
 - Its tendrils can sense minute changes in the environment, allowing it to avoid predators and locate optimal feeding grounds.
 
 ### 3. Burrowing Crystalline Exoskeleton Lifeform
 
 - A burrowing, multi-segmented lifeform with a crystalline exoskeleton. It tunnels through permafrost and ice, creating intricate networks that aerate the soil and channel meltwater.
-- Metabolizes Aetherite to reinforce its exoskeleton and generate localized magnetic fields, which help it navigate and communicate underground.
+- Metabolizes finyak to reinforce its exoskeleton and generate localized magnetic fields, which help it navigate and communicate underground.
 - Its tunnels become microhabitats for non-magical life, and its seasonal migrations shape the landscape over generations.
 
 // ---
@@ -288,19 +300,19 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ### 4. Radiant Spire Cluster Organism
 
-- Tall, spire-like communal organisms that grow in clusters on exposed ice fields. Their bodies are semi-transparent and internally channel Aetherite energy, causing periodic pulses of colored light.
+- Tall, spire-like communal organisms that grow in clusters on exposed ice fields. Their bodies are semi-transparent and internally channel finyak energy, causing periodic pulses of colored light.
 - These pulses synchronize across the cluster, creating rhythmic light displays that attract non-magical pollinators and signal seasonal changes.
 - The spires slowly rotate to track the blue sun, maximizing energy absorption and distributing warmth to nearby microhabitats.
 
 ### 5. Subsurface Thermal Web Creature
 
 - A sprawling, web-like organism that lives beneath the permafrost, extending thin, heat-conducting filaments over large areas.
-- It metabolizes Aetherite to generate and distribute warmth, creating stable thermal pockets that support diverse non-magical life above.
+- It metabolizes finyak to generate and distribute warmth, creating stable thermal pockets that support diverse non-magical life above.
 - The web can sense vibrations and chemical signals, allowing it to respond to environmental changes and avoid predation by burrowing lifeforms.
 
 ### 6. Glimmering Shell Migrant
 
-- Compact, dome-shaped creatures with reflective, multi-layered shells that scatter sunlight and Aetherite-powered bioluminescence.
+- Compact, dome-shaped creatures with reflective, multi-layered shells that scatter sunlight and finyak-powered bioluminescence.
 - They migrate in large groups across the tundra, leaving behind trails of enriched soil and melted ice, which foster rapid growth of non-magical plants and fungi.
 - Their shells serve as both protection and communication devices, flashing patterns to coordinate movement and warn of danger.
 
@@ -330,55 +342,55 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 - Solitary, territorial lifeforms with prominent crystalline horn structures used for display and defense.
 - They patrol the edges of frost forests and spire fields, marking territory with trails of bioluminescent secretions.
-- Their horns refract sunlight and Aetherite energy, creating dazzling visual signals during mating and conflict.
+- Their horns refract sunlight and finyak energy, creating dazzling visual signals during mating and conflict.
 
 // ---
 // END LOCKED WORLD FEATURE: Bovae Lifeforms (Descriptive Names Only)
 // ---
 
 // ---
-// LOCKED WORLD FEATURE: Unique World Aspects (Aetherite & Blue Sun)
+// LOCKED WORLD FEATURE: Unique World Aspects (Finyak & Blue Sun)
 // ---
 
 ## Unique World Aspects (Locked)
 
-### 1. Crystal Mantle Ranges
+### 1. Stanyak Ral (Crystal Mantle Ranges)
 
 - Towering, jagged mountain ranges composed of translucent crystal and ice, refracting blue sunlight into dazzling patterns across the landscape.
-- Deep veins of Aetherite run through the ranges, subtly influencing local gravity and causing periodic tremors or slow, undulating shifts in the terrain.
+- Deep veins of finyak run through the ranges, subtly influencing local gravity and causing periodic tremors or slow, undulating shifts in the terrain.
 - The ranges act as natural barriers, shaping weather patterns and migration routes for lifeforms. Some peaks emit faint, harmonic vibrations during Pulse Season, attracting migratory creatures.
 - The crystal composition allows for rare, echoing auroras that ripple along the slopes, visible from great distances.
 
-### 2. Luminous Subglacial Rivers
+### 2. Blayresh (Luminous Subglacial Rivers)
 
-- Vast networks of rivers flow beneath the surface ice, glowing faintly from Aetherite energy and refracted blue sunlight.
+- Vast networks of rivers flow beneath the surface ice, glowing faintly from finyak energy and refracted blue sunlight.
 - Surface meltwater occasionally reveals radiant pools, which support bursts of life and serve as migration waypoints for both magical and non-magical organisms.
 - The rivers shift course over time, carving new caverns and channels, and sometimes surfacing as temporary, glowing streams during Pulse Season.
 - Subglacial river junctions are hotspots for biodiversity, with unique microclimates and mineral deposits.
 
-### 3. Aetherite-Driven Seasons
+### 3. Finyak-Driven Seasons
 
-- Seasons are marked by fluctuations in Aetherite energy rather than temperature. “Pulse Season” brings surges of magical activity, bioluminescence, and rapid growth, while “Dusk Season” dims the world, causing life to hibernate, migrate, or conserve energy.
+- Seasons are marked by fluctuations in finyak energy rather than temperature. “Pulse Season” brings surges of magical activity, bioluminescence, and rapid growth, while “Dusk Season” dims the world, causing life to hibernate, migrate, or conserve energy.
 - The transition between seasons is signaled by changes in aurora intensity and the color of refracted sunlight.
-- Lifeforms synchronize their behaviors and migrations to the Aetherite cycle, with some species only emerging or reproducing during Pulse Season.
-- Human rituals and timekeeping are based on the visible effects of Aetherite, such as aurora patterns and crystal resonance.
+- Lifeforms synchronize their behaviors and migrations to the finyak cycle, with some species only emerging or reproducing during Pulse Season.
+- Human rituals and timekeeping are based on the visible effects of finyak, such as aurora patterns and crystal resonance.
 
-### 4. Floating Crystal Plateaus
+### 4. Blayarch (Floating Crystal Plateaus)
 
-- Massive, flat crystal formations hover above the surface, held aloft by concentrated Aetherite fields that distort gravity locally.
+- Massive, flat crystal formations hover above the surface, held aloft by concentrated finyak fields that distort gravity locally.
 - These plateaus cast shifting, prismatic shadows and serve as refuges for migratory lifeforms, offering shelter from harsh surface conditions.
 - The undersides of the plateaus are covered in bioluminescent growths, creating a surreal, glowing canopy over the land below.
 - Occasionally, plateaus drift or collide, reshaping the landscape and creating new habitats.
 
 ### 5. Aurora-Linked Settlements
 
-- Early human communities cluster near regions with frequent auroras and strong Aetherite activity, using the light for navigation, ritual, and timekeeping.
+- Early human communities cluster near regions with frequent auroras and strong finyak activity, using the light for navigation, ritual, and timekeeping.
 - Architecture incorporates crystal and ice, designed to refract blue sunlight and maximize warmth, with buildings oriented to capture aurora displays.
-- Social gatherings and ceremonies are timed to aurora cycles and Aetherite surges, with myths and stories centered on the interplay of light and magic.
-- Settlements are often semi-nomadic, moving with the shifting patterns of Aetherite and aurora activity to ensure survival and prosperity.
+- Social gatherings and ceremonies are timed to aurora cycles and finyak surges, with myths and stories centered on the interplay of light and magic.
+- Settlements are often semi-nomadic, moving with the shifting patterns of finyak and aurora activity to ensure survival and prosperity.
 
 // ---
-// END LOCKED WORLD FEATURE: Unique World Aspects (Aetherite & Blue Sun)
+// END LOCKED WORLD FEATURE: Unique World Aspects (Finyak & Blue Sun)
 // ---
 
 // ---
@@ -407,9 +419,9 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ## Planet Shape (Locked)
 
-- The planet is an oblate spheroid: the equator bulges outward, and the poles are flattened due to rotation and Aetherite anomalies.
-- Localized crystal mantle ranges and Aetherite veins create additional surface bulges and irregularities.
-- Gravity varies: weaker at the equator, stronger at the poles, with local "light" zones near crystal bulges and "heavy" zones near dense Aetherite deposits.
+- The planet is an oblate spheroid: the equator bulges outward, and the poles are flattened due to rotation and finyak anomalies.
+- Localized crystal mantle ranges and finyak veins create additional surface bulges and irregularities.
+- Gravity varies: weaker at the equator, stronger at the poles, with local "light" zones near crystal bulges and "heavy" zones near dense finyak deposits.
 - Climate and weather patterns are complex, with microclimates around crystal bulges and dramatic weather bands along the equator.
 - Biomes and migration routes adapt to gravity and climate anomalies, resulting in shifting habitats and settlement strategies.
 - Auroras and magnetic field effects are unpredictable, with spectacular, shifting light displays and rare ring-shaped auroras near crystal bulges.
@@ -462,7 +474,7 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 - Effects:
   - Extreme climate variation: long, harsh winters and short, intense summers.
   - Year length is longer than Earth’s; lifeforms and humans must adapt to extended cold and brief periods of warmth and light.
-  - Auroras and crystal growth peak during close approaches to the sun, while Aetherite activity surges during far passes.
+  - Auroras and crystal growth peak during close approaches to the sun, while finyak activity surges during far passes.
   - Migrations, reproduction, and cultural cycles synchronize to orbital position, with rituals marking the transitions between extremes.
   - Unique phenomena: dramatic shifts in weather, light, and magical surges, creating story-rich cycles and unpredictable challenges.
 
@@ -471,40 +483,40 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 // ---
 
 // ---
-// LOCKED WORLD PARAMETER: Aetherite-Related Anomalies
+// LOCKED WORLD PARAMETER: Finyak-Related Anomalies
 // ---
 
-## Aetherite-Related Anomalies (Locked)
+## Finyak-Related Anomalies (Locked)
 
-- Aetherite veins and crystal mantle ranges create local gravity anomalies: "light zones" with reduced gravity and "heavy zones" with increased gravity.
-- The planet’s magnetic field is distorted by Aetherite concentrations, resulting in unpredictable aurora patterns and shifting magnetic poles.
-- Light refraction through crystal formations and Aetherite fields produces surreal visual effects: prismatic shadows, glowing halos, and shifting colors across the landscape.
+- Finyak veins and crystal mantle ranges create local gravity anomalies: "light zones" with reduced gravity and "heavy zones" with increased gravity.
+- The planet’s magnetic field is distorted by finyak concentrations, resulting in unpredictable aurora patterns and shifting magnetic poles.
+- Light refraction through crystal formations and finyak fields produces surreal visual effects: prismatic shadows, glowing halos, and shifting colors across the landscape.
 - These anomalies influence weather, migration routes, settlement patterns, and the distribution of biomes and lifeforms.
-- Human technology and rituals adapt to the unpredictable effects of Aetherite, using crystal and magnetic phenomena for navigation, communication, and cultural expression.
+- Human technology and rituals adapt to the unpredictable effects of finyak, using crystal and magnetic phenomena for navigation, communication, and cultural expression.
 
 // ---
-// END LOCKED WORLD PARAMETER: Aetherite-Related Anomalies
+// END LOCKED WORLD PARAMETER: Finyak-Related Anomalies
 // ---
 
 // ---
-// LOCKED WORLD FEATURE: Airborne Aetherite Impacts
+// LOCKED WORLD FEATURE: Airborne Finyak Impacts
 // ---
 
-## Airborne Aetherite Impacts (Locked)
+## Airborne Finyak Impacts (Locked)
 
-- Aetherite particles or energy are suspended in the atmosphere, creating a baseline magical field that fluctuates with weather, seasons, and ring alignment.
-- Regional variation in Aetherite density leads to magical hotspots, unique biomes, and migration routes for magic-dependent lifeforms.
-- Magical storms, glowing clouds, and aurora surges occur when Aetherite concentration spikes, affecting animal behavior and ecosystem dynamics.
-- Lifeforms evolve specialized organs, tissues, and behaviors to absorb, store, or metabolize airborne Aetherite, driving ecological and evolutionary diversity.
-- Rare plants and fungi may absorb Aetherite, resulting in glowing foliage, rapid growth, or unique chemical properties; symbiotic relationships with animals and fungi are common.
-- Humans generally cannot absorb Aetherite, but rare mutations, environmental exposure, or symbiosis may grant magical abilities to some individuals, leading to cultural, social, and technological impacts.
-- Prolonged exposure to high Aetherite concentrations can cause magical mutations, illnesses, or new evolutionary paths, influencing social structures and history.
+- Finyak particles or energy are suspended in the atmosphere, creating a baseline magical field that fluctuates with weather, seasons, and ring alignment.
+- Regional variation in finyak density leads to magical hotspots, unique biomes, and migration routes for magic-dependent lifeforms.
+- Magical storms, glowing clouds, and aurora surges occur when finyak concentration spikes, affecting animal behavior and ecosystem dynamics.
+- Lifeforms evolve specialized organs, tissues, and behaviors to absorb, store, or metabolize airborne finyak, driving ecological and evolutionary diversity.
+- Rare plants and fungi may absorb finyak, resulting in glowing foliage, rapid growth, or unique chemical properties; symbiotic relationships with animals and fungi are common.
+- Humans generally cannot absorb finyak, but rare mutations, environmental exposure, or symbiosis may grant magical abilities to some individuals, leading to cultural, social, and technological impacts.
+- Prolonged exposure to high finyak concentrations can cause magical mutations, illnesses, or new evolutionary paths, influencing social structures and history.
 
 // ---
 // LOCKED WORLD FEATURE: Origins of the Rings
 // ---
 
-## Origins of the Rings (Locked)
+## Origins of Shoril (Rings) (Locked)
 
 ### Natural Formation Possibilities
 
@@ -515,13 +527,13 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ### Fantastical/Magical Formation Possibilities
 
-- Aetherite resonance: A surge of magical energy from the blue sun or a cosmic event crystallized ambient Aetherite into rings.
+- Finyak resonance: A surge of magical energy from the blue sun or a cosmic event crystallized ambient finyak into rings.
 - Ancient magic: A primordial civilization or powerful entity created the rings as a barrier, lens, or source of magic for the world.
-- Magical collision: Two magical bodies collided, fusing their Aetherite and crystal into a ring system that channels magic to the planet.
-- Living rings: The rings are composed of semi-sentient Aetherite crystals, which regulate the flow of magic and interact with planetary life.
+- Magical collision: Two magical bodies collided, fusing their finyak and crystal into a ring system that channels magic to the planet.
+- Living rings: The rings are composed of semi-sentient finyak crystals, which regulate the flow of magic and interact with planetary life.
 
 // ---
-// END LOCKED WORLD FEATURE: Airborne Aetherite Impacts & Origins of the Rings
+// END LOCKED WORLD FEATURE: Airborne Finyak Impacts & Origins of the Rings
 // ---
 
 // ---
@@ -530,8 +542,8 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ## Moon Eruptions, Rings, and Atmospheric Magic (Locked)
 
-- The planet’s rings are formed and replenished by volcanic eruptions from its moon, which is rich in Aetherite and crystal.
-- Eruptions eject Aetherite-rich particles, ice, and crystal into orbit, building and maintaining the rings over time.
+- The planet’s rings are formed and replenished by volcanic eruptions from its moon, which is rich in finyak and crystal.
+- Eruptions eject finyak-rich particles, ice, and crystal into orbit, building and maintaining the rings over time.
 - Ring particles gradually spiral inward or are pulled by gravity, entering the planet’s atmosphere as “magical rain” and creating the ambient magic field.
 - The moon’s volcanic activity is visibly magical, with eruptions directly linked to the world’s magical ecosystem.
 - This cycle makes the moon a clear source of magic, and its eruptions are central to the world’s magical phenomena.
@@ -555,7 +567,7 @@ Note: Discuss the yearly cycle and magical implications of moon eruptions when t
 - Lifeforms and humans experience magical “withdrawal,” leading to strange behaviors, hibernation, aggression, and entropy storms.
 - Biomes may collapse, predators become desperate, and eerie phantom phenomena haunt the landscape.
 - Survival depends on preparation, community, and resilience, making winter a time of fear, transformation, and myth.
-- The world itself seems to react to the absence of magic, with entropy storms, aetherite sickness, and environmental instability marking the season.
+- The world itself seems to react to the absence of magic, with entropy storms, finyak sickness, and environmental instability marking the season.
 
 // ---
 // END LOCKED WORLD FEATURE: Low Magic Season & Winter Phenomena
@@ -584,9 +596,9 @@ Note: Discuss the yearly cycle and magical implications of moon eruptions when t
 
 ## Biomes & Microclimates (Locked)
 
-- Biomes are shaped by the interplay of cold climate, Aetherite surges, aurora cycles, and planetary anomalies.
+- Biomes are shaped by the interplay of cold climate, finyak surges, aurora cycles, and planetary anomalies.
 - Shimmering Frost Forests: Dense crystalline growths refract blue sunlight and aurora, creating shifting microclimates of warmth and color. Life clusters in pockets where crystal density and magic are highest.
-- Subsurface Glow Caverns: Underground chambers maintain stable temperatures and high Aetherite concentration, serving as refuges during low magic seasons. Bioluminescent fungi and animals thrive here.
+- Subsurface Glow Caverns: Underground chambers maintain stable temperatures and high finyak concentration, serving as refuges during low magic seasons. Bioluminescent fungi and animals thrive here.
 - Wind-Swept Spire Fields: Tall spire organisms create microclimates by channeling wind and magic, supporting migratory life and rapid crystal growth during high magic surges.
 - Migrant Shell Tundra: Open tundra is transformed by migrating shell lifeforms, which enrich soil and create temporary oases of warmth and nutrients. Microclimates shift with migration patterns and magic density.
 - Thermal Web Basins: Heat-conducting web organisms maintain pockets of warmth and stable microclimates, supporting diverse life even during harsh winters.
@@ -608,13 +620,13 @@ Note: Discuss the yearly cycle and magical implications of moon eruptions when t
 - Migration is common: communities move with the cycles of magic, following animal migrations, aurora patterns, and microclimate shifts.
 - Technology harnesses ambient magic indirectly—crystal lenses, aurora collectors, and heat webs provide light, warmth, and navigation.
 - Rituals and festivals mark the transitions between high and low magic seasons, celebrating aurora displays, moon eruptions, and magical surges. Winter is a time of communal shelter, storytelling, and preparation.
-- Social structure emphasizes cooperation, adaptability, and mythic storytelling. Magical sensitivity, rare powers, or aetherite sickness shape roles, taboos, and leadership.
+- Social structure emphasizes cooperation, adaptability, and mythic storytelling. Magical sensitivity, rare powers, or finyak sickness shape roles, taboos, and leadership.
 - Art, music, and language are inspired by auroras, crystal formations, and magical phenomena, with symbolism tied to the cycles of the world.
 
 
 ## Economic Theories and Dynamics
 
-Government and guild intervention stabilizes the magical oil economy during booms and busts—stockpiling oil, subsidizing alternatives, or funding infrastructure. Over-extraction leads to depletion, instability, and collapse of magical resources, accelerated by social and magical feedback loops. Solutions include collective management, quotas, and enchanted contracts for sustainable use. Population and economic growth can outpace the regenerative capacity of magical oil creatures and Aetherite substrate, causing periodic crises and forced innovation. There is an optimal tax, quota, or tithe on oil extraction that maximizes revenue without driving illegal harvesting or black market growth. Elites may control oil sources, extracting rents and stifling innovation, while black markets and resistance movements arise in response. As magical entropy rises, societies must innovate new tech, fuels, or conservation methods to avoid collapse. Markets and magical systems seek a balance point where extraction, use, and restoration are in harmony; disruptions cause cascading failures or booms.
+Government and guild intervention stabilizes the magical oil economy during booms and busts—stockpiling oil, subsidizing alternatives, or funding infrastructure. Over-extraction leads to depletion, instability, and collapse of magical resources, accelerated by social and magical feedback loops. Solutions include collective management, quotas, and enchanted contracts for sustainable use. Population and economic growth can outpace the regenerative capacity of magical oil creatures and finyak substrate, causing periodic crises and forced innovation. There is an optimal tax, quota, or tithe on oil extraction that maximizes revenue without driving illegal harvesting or black market growth. Elites may control oil sources, extracting rents and stifling innovation, while black markets and resistance movements arise in response. As magical entropy rises, societies must innovate new tech, fuels, or conservation methods to avoid collapse. Markets and magical systems seek a balance point where extraction, use, and restoration are in harmony; disruptions cause cascading failures or booms.
 
 ## Potential Future Theories for Expansion
 
@@ -643,7 +655,7 @@ Magical systems can become self-reinforcing: overuse or pollution increases inst
 
 ## Magical Depletion & Restoration
 
-Arcane density can be measured with special instruments or rituals. Restoration is possible through rest periods, careful management, or arcane remediation (rituals, planting magical flora, or introducing stabilizing artifacts). Some areas may become permanently depleted (arcane deserts) or, rarely, overcharged (arcane fonts).
+Arcane density can be measured with special instruments or rituals. Restoration is possible through rest periods, careful management, or arcane remediation (rituals, planting magical flora, or introducing stabilizing artifacts). Some areas may become permanently depleted (shisolak deserts) or, rarely, overcharged (shibak fonts).
 
 ## Competing Magical Physics Schools
 
@@ -669,9 +681,9 @@ Many cultures revere certain magical creatures as sacred, ancestral, or spiritua
 
 ## Arcane Oil Economics and Society
 
-The arcane oil economy is shaped by complex, interlocking market forces. Prices fluctuate based on supply, demand, purity, magical resonance, and perceived risk. Scarcity is driven by physical limits (creature populations, Aetherite substrate health) and social factors. Black market fuels are cheaper but riskier, and the threat of magical contamination or device failure is ever-present. Economic models must account for both rational actors and magical uncertainty. Social stratification is reinforced by access to high-grade oil, with the elite able to hedge against scarcity through magical contracts, futures markets, and enchanted vaults.
+The arcane oil economy is shaped by complex, interlocking market forces. Prices fluctuate based on supply, demand, purity, magical resonance, and perceived risk. Scarcity is driven by physical limits (creature populations, finyak substrate health) and social factors. Black market fuels are cheaper but riskier, and the threat of magical contamination or device failure is ever-present. Economic models must account for both rational actors and magical uncertainty. Social stratification is reinforced by access to high-grade oil, with the elite able to hedge against scarcity through magical contracts, futures markets, and enchanted vaults.
 
-All legal magical oil is tracked from extraction to end use via arcane seals, serial numbers, or magical resonance signatures. Regulatory bodies conduct regular audits, using magical inspectors and enchanted ledgers to monitor compliance. Enforcement is uneven: powerful Arcane Barons and corporations often evade scrutiny or manipulate the system, while underclass communities and small operators face harsher penalties. Smugglers and black marketeers develop countermeasures—illusionary seals, resonance scramblers, and bribed officials—to evade detection.
+All legal magical oil is tracked from extraction to end use via arcane seals, serial numbers, or magical resonance signatures. Regulatory bodies conduct regular audits, using magical inspectors and enchanted ledgers to monitor compliance. Enforcement is uneven: powerful Shyakorin (Arcane Barons) and corporations often evade scrutiny or manipulate the system, while underclass communities and small operators face harsher penalties. Smugglers and black marketeers develop countermeasures—illusionary seals, resonance scramblers, and bribed officials—to evade detection.
 
 Alternative fuels (fauxil, slagcells, bonewire) are less efficient due to missing or unstable magical molecules. Some communities innovate out of necessity, developing unique tech cultures and hybrid devices. The elite may suppress or monopolize knowledge of efficient alternatives, using magical patents or secrecy. The black market is a hotbed of innovation, but also of instability and risk.
 
@@ -693,7 +705,7 @@ Mage-engineers, druids, and alchemists develop a range of cleanup methods: encha
 
 ## Societal & Regulatory Response
 
-Laws require polluters to monitor, report, and remediate magical contamination, but enforcement is often inconsistent or biased. Powerful Arcane Barons and corporations may evade penalties or receive preferential treatment, while underclass communities and small operators face harsher scrutiny and punishment. Conservation groups, local communities, and activists sometimes take direct action, leading protests, sabotage, or independent cleanup efforts. Magical pollution is a persistent source of social tension, driving both reform and resistance.
+Laws require polluters to monitor, report, and remediate magical contamination, but enforcement is often inconsistent or biased. Powerful Shyakorin (Arcane Barons) and corporations may evade penalties or receive preferential treatment, while underclass communities and small operators face harsher scrutiny and punishment. Conservation groups, local communities, and activists sometimes take direct action, leading protests, sabotage, or independent cleanup efforts. Magical pollution is a persistent source of social tension, driving both reform and resistance.
 
 # Logical Technological Integration
 
@@ -737,7 +749,7 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 - **Technology:** The first arcane lamps and alchemical devices are crude, hand-built, and highly experimental. Workshops are small, often hidden, and filled with strange apparatuses—glass retorts, copper coils, bone implements, and rune-etched reservoirs. Most devices are unreliable, prone to magical surges or catastrophic failure. Early attempts at oil-powered prosthetics and healing beds are rare and dangerous, sometimes causing mutations or unpredictable side effects.
 - **Society:** Knowledge of magical oil is restricted to a handful of scholars, alchemists, and local elites. Secret societies and guilds form to protect extraction sites and research, using coded language and magical wards. The general populace is wary, viewing oil harvesters as both miracle workers and potential threats. Rumors of “oil cults” and forbidden experiments circulate in taverns and markets.
-- **Economy:** Magical oil is a luxury, traded in secret and at exorbitant prices. Early trade networks are informal, relying on trusted intermediaries and coded messages. Counterfeit oils and dangerous byproducts flood the black market, leading to frequent accidents and disputes. Some regions see the rise of “Arcane Barons”—families or individuals who control oil-rich lands and enforce strict monopolies.
+- **Economy:** Magical oil is a luxury, traded in secret and at exorbitant prices. Early trade networks are informal, relying on trusted intermediaries and coded messages. Counterfeit oils and dangerous byproducts flood the black market, leading to frequent accidents and disputes. Some regions see the rise of Shyakorin (Arcane Barons)—families or individuals who control oil-rich lands and enforce strict monopolies.
 - **Law & Regulation:** Most governments are unaware or dismissive of magical oil, but a few forward-thinking regions enact early laws to restrict extraction, set quotas, and require licenses. Enforcement is inconsistent, often relying on local militias or hired mages. Magical tracking and rudimentary conservation measures are introduced in some areas, but poaching and illegal harvesting remain common.
 - **Culture:** Art and literature begin to reflect the mystery and danger of magical oil. Paintings depict glowing lamps, mutated creatures, and secret rituals. Folk songs warn of the risks of oil extraction and the fate of those who meddle with forbidden magic. Festivals and ceremonies are rare, but some communities hold secret gatherings to honor the spirits of harvested creatures.
 - **Urban Development:** Towns near oil-rich habitats experience rapid, chaotic growth. Makeshift refineries, hidden workshops, and fortified compounds spring up, often clashing with traditional homes and farms. Infrastructure is primitive—mud roads, wooden bridges, and crude magical wards to protect against accidents or creature attacks.
@@ -751,7 +763,7 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 - New inventions—telegraphs, signal lamps, automata—are powered by oil, enabling long-distance communication and labor-saving devices. Medical technology advances with oil-powered prosthetics, healing beds, and alchemical treatments.
 - The middle class grows as more people gain access to oil-powered tech, but the elite maintain control over the best sources and refinement methods. Pollution, magical runoff, and ecological disruption begin to affect cities and countryside alike.
 - Counterfeit oils and runoff alternatives (early fauxil, primitive slagcells) become common among the underclass, leading to device failures, health risks, and magical accidents. Black market workshops experiment with new formulas and scavenged materials.
-- Ecological consequences intensify: over-harvesting and habitat destruction cause local extinctions, mutations, and magical imbalances. Conservation efforts begin to take hold, with Arcane Barons and mage guilds funding sanctuaries and reserves to protect breeding populations and restore habitats.
+- Ecological consequences intensify: over-harvesting and habitat destruction cause local extinctions, mutations, and magical imbalances. Conservation efforts begin to take hold, with Shyakorin (Arcane Barons) and mage guilds funding sanctuaries and reserves to protect breeding populations and restore habitats.
 - Breeding programs are developed to replenish endangered species, with some success in stabilizing local populations.
 - Sustainable harvesting techniques are introduced, such as non-lethal siphoning, rotational harvesting, and habitat restoration after extraction.
 
@@ -787,7 +799,7 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ### Resource Economy, Trade, and Regulation
 
-- Ownership & Control: Magical oil creatures and their habitats are owned or claimed by powerful families, corporations, or guilds (“Arcane Barons”). Extraction rights are tightly regulated, with licenses, quotas, and magical tracking to prevent poaching and over-harvesting.
+- Ownership & Control: Magical oil creatures and their habitats are owned or claimed by powerful families, corporations, or guilds (“Shyakorin”). Extraction rights are tightly regulated, with licenses, quotas, and magical tracking to prevent poaching and over-harvesting.
 - Harvesting & Refinement: Authorized teams harvest creatures using specialized equipment and transport oil to refineries. Refineries purify, grade, and package oil, runoff, and byproducts for distribution.
 - Distribution Channels: Legal trade is managed by trade guilds, who set prices, enforce quality standards, and mediate disputes. Black markets thrive, selling illicit oil, runoff products, and alternative power sources to those denied access.
 - Scarcity & Value: Scarcity drives up prices, making high-grade oil a luxury for the elite and forcing the underclass to rely on alternatives (fauxil, slagcells, bonewire, drugs). Counterfeit and diluted products are common, leading to device failures and health risks.
@@ -798,21 +810,80 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 - Habitats: Each magical creature thrives in a unique environment shaped by magical oil presence—fog seas, enchanted forests, polluted ruins, crystal caves, or volcanic tunnels. Habitats are often remote, dangerous, or protected by natural or magical barriers.
 - Reproduction: Creatures reproduce slowly, with complex mating rituals or magical spawning cycles. Some require specific environmental conditions (rare plants or mineral deposits) to breed successfully.
-- Growth & Development: Young creatures grow by absorbing nutrients and Aetherite-derived energy, developing oil-rich tissues, bones, or glands as they mature. Life stages may include metamorphosis, migration, or symbiotic relationships with other species.
+- Growth & Development: Young creatures grow by absorbing nutrients and finyak-derived energy, developing oil-rich tissues, bones, or glands as they mature. Life stages may include metamorphosis, migration, or symbiotic relationships with other species.
 - Population Dynamics: Populations are kept in check by natural predators, disease, and resource scarcity. Over-harvesting, pollution, or habitat destruction can cause population crashes, mutations, or magical imbalances.
-- Role in Ecosystem: Magical creatures regulate the flow of Aetherite-derived energy, purify environments, and maintain ecological balance. Their presence supports other life forms, influences weather, and shapes the landscape.
+- Role in Ecosystem: Magical creatures regulate the flow of finyak-derived energy, purify environments, and maintain ecological balance. Their presence supports other life forms, influences weather, and shapes the landscape.
 - Adaptations: Creatures evolve magical defenses, camouflage, or aggressive behaviors to survive harvesting and predation. Some develop symbiotic relationships with plants, fungi, or other animals to share or protect magical resources.
 
-## TODOs for Arcane Punk Worldbuilding
+# Appendix A: Economic Models and Regulatory Systems
 
-- Define ecology & lifecycle of magical creatures
-- Detail resource economy, trade, and regulation
-- Expand technology & device design for creature-derived magic
-- Develop social structure, culture, and class dynamics
-- Establish law, ethics, and conservation systems
-- Design urban, extraction, and wild environments
-- Identify major sources of conflict and story hooks
-- Create lore, history, and pivotal events
+## Oil Futures Markets & Magical Contracts
+
+Elite traders and Shyakorin manipulate shyak prices through futures contracts—binding magical agreements that lock in prices for future delivery. Enchanted vaults store high-grade oil as hedge against scarcity. Market speculation drives boom-bust cycles, with fortunes made and lost on rumors of new deposits or conservation crackdowns. Black market parallel economies operate outside official exchanges, using coded signals and secret meetups.
+
+## Guild Hierarchies & Enforcement
+
+Trade guilds organize into tiers: Master Extractors, Refiners, Distributors, and Inspectors. Each tier jealously guards its privileges and knowledge. Advancement requires sponsorship, arcane oaths, and proof of sustainable practice—or bribery. Guild enforcers use magical tracking seals and resonance detectors to monitor compliance, but corruption is rampant. Rival guilds engage in sabotage, espionage, and legal warfare.
+
+## Black Market Networks
+
+Smugglers operate through coded language, hidden caches, and enchanted scramblers to evade detection. Counterfeit oils are blended with legitimate product to maximize profit. Underground refineries process stolen or illegal oil, producing unstable but cheap alternatives. Black market hubs exist in port cities, borderlands, and polluted wastelands where official authority is weak. Resistance movements liberate captive creatures and sabotage extraction sites, funded by sympathetic merchants or foreign powers.
+
+## Conservation Quotas & Magical Census
+
+Regulators use arcane tagging, resonance mapping, and population models to set annual extraction limits. Breeding sanctuaries operate under strict supervision, with genetic diversity monitored via magical bloodline tracking. Habitat restoration projects employ mage-engineers to cleanse pollution and replant magical flora. Violators face escalating penalties: fines, license revocation, magical sanctions, or imprisonment. However, enforcement is inconsistent—powerful Shyakorin often negotiate exemptions or lighter penalties.
+
+---
+
+# Appendix B: Advanced Magical Theory and Rare Phenomena
+
+## Shibak Zones (Arcane Fonts)
+
+Overcharged regions where finyak concentration exceeds stable thresholds. Magic surges unpredictably, causing spontaneous spellcasting, device overloads, and rapid mutations. Flora and fauna in shibak zones evolve bizarre adaptations—crystalline exoskeletons, teleportation, or hive-mind intelligence. Entry requires protective wards and specialized equipment. Some scholars harvest shibak energy for experimental devices, risking catastrophic cascades.
+
+## Shisolak Wastes (Arcane Deserts)
+
+Depleted zones where finyak has been stripped away by over-extraction or magical disasters. Magic fails completely—devices shut down, creatures weaken, mages lose their abilities. Shisolak wastes expand slowly, consuming adjacent regions unless remediation efforts restore finyak levels. Some wastes harbor refugees, outcasts, or anti-magic cults who view shisolak as salvation from arcane tyranny.
+
+## Resonance Storms
+
+Massive atmospheric disturbances caused by finyak instability. Magical lightning arcs between crystals, auroras twist into impossible geometries, and reality warps temporarily. Storms can recharge depleted zones or devastate populated areas. Storm-chasers harvest rare magical phenomena—crystallized lightning, resonance shards, or echoes of past spells.
+
+## Temporal Finyak Loops
+
+Rare pockets where finyak energy folds back on itself, creating localized time distortions. Objects or creatures caught in loops experience time slippage—aging rapidly, reversing, or existing in multiple states simultaneously. Scholars study these zones to understand finyak's fundamental nature, but experiments often go catastrophically wrong.
+
+## Living Finyak Crystals
+
+Semi-sentient crystal formations that grow in high-finyak environments. They pulse with bioluminescence, "communicate" through harmonic vibrations, and sometimes protect or attack intruders. Some cultures worship them as spirits or ancestors. Harvesting living crystals is deeply controversial and may trigger ecological collapse.
+
+---
+
+# Story Hooks and Major Conflicts
+
+## The Shyakorin Wars
+
+Rival oil barons clash over newly discovered deposits beneath the Stanyak Ral ranges. Private armies, hired mages, and saboteurs wage a shadow war while governments pretend neutrality. Players could work as mercenaries, spies, or mediators trying to prevent open conflict.
+
+## The Shibak Incident
+
+An experimental refinery near a shibak zone suffers a catastrophic resonance cascade, creating a spreading zone of magical chaos. Evacuations are bungled, refugees flee into shisolak wastes, and opportunists loot abandoned tech. Players must rescue survivors, contain the cascade, or exploit the chaos for profit.
+
+## The Leviathan Uprising
+
+Shyalev (Aethergale Leviathans) begin coordinated attacks on extraction sites, suggesting sudden sapience or external manipulation. Conservationists demand immediate harvest bans; Shyakorin call for extermination. Players investigate the cause—ancient finyak awakening, foreign agitators, or genuine creature revolt.
+
+## The Bonewire Conspiracy
+
+A secret cult harvests creature bones to build a planet-spanning bonewire network, claiming it will "heal" the finyak substrate. Their methods are brutal, their goals unclear. Players uncover the conspiracy, decide whether to stop or join them, and discover the network's true purpose—salvation or apocalypse.
+
+## The Fauxil Plague
+
+Black market fauxil contaminated with magical pathogens spreads through underclass districts, causing mutations and madness. Guild authorities quarantine entire neighborhoods, sparking riots. Players work to find the source, develop a cure, or lead an uprising against negligent elites.
+
+## The Aurora Prophecy
+
+Ancient texts predict a convergence of shoril (rings) alignment, aurora surges, and finyak tides that will either restore or destroy the world's magic. Factions race to control key sites—Blayarch plateaus, Stanyak Ral peaks, Blayresh river junctions. Players choose sides or forge their own path as the deadline approaches.
 
 ### Locked Power Option: Resonant Bone Conduits (Bonewire)
 
@@ -888,27 +959,27 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 ## Unique Magical Oil Creatures
 
-- **Aethergale Leviathan:**
+- **Shyalev (Aethergale Leviathan):**
 
   - Description: A massive, translucent aquatic creature that drifts through arcane fog seas and underground lakes. Its body glows with shifting magical veins, and its fins pulse with harmonious energy. Revered by some cultures, its blubber stores stable, potent magical oil.
   - Oil Properties: Highly stable, ideal for spell batteries, healing devices, and constructs needing long-lasting power.
-  - Fantasy Science: Absorbs Aetherite-derived energy, stores it in specialized blubber cells, migrates to areas of high Aetherite concentration for optimal charging.
-- **Luminbark Colossus:**
+  - Fantasy Science: Absorbs finyak-derived energy, stores it in specialized blubber cells, migrates to areas of high finyak concentration for optimal charging.
+- **Blaykor (Luminbark Colossus):**
 
   - Description: A towering, quadrupedal beast with bark-like, bioluminescent skin and intricate patterns that shift with its mood. Dwells in enchanted forests, blending seamlessly with magical flora.
   - Oil Properties: Exceptionally pure, best for illumination, enchantments, and subtle magical effects.
   - Fantasy Science: Symbiotic with enchanted plants, absorbs bioluminescent sap and magical nutrients, glands concentrate and purify energy.
-- **Smogcoil Wyrm:**
+- **Shuvrak (Smogcoil Wyrm):**
 
   - Description: A long, serpentine creature with oily, iridescent scales and eyes that emit swirling smoke. Inhabits polluted ruins and magical wastelands, often seen coiling around arcane machinery.
   - Oil Properties: Potent but unstable, used for high-powered engines, weapons, or risky experimental tech.
   - Fantasy Science: Metabolizes magical pollutants, breaks down unstable compounds, secretions are rich in raw, chaotic magic.
-- **Crystback Terrapin:**
+- **Stanak (Crystback Terrapin):**
 
   - Description: A large, resilient tortoise with crystalline growths embedded in its shell. Found in rocky highlands and crystal caves, it channels magical energy through its shell.
   - Oil Properties: Infused with crystalline particles, perfect for crystallization, storage, and devices needing precise magical control.
   - Fantasy Science: Consumes mineral-rich soil and magical crystals, integrates them into fatty tissues, crystalline shell acts as a magical conductor.
-- **Emberdelve Mole:**
+- **Yakshen (Emberdelve Mole):**
 
   - Description: A small, burrowing mammal with glowing red fur and heat-resistant, armored skin. Lives in volcanic tunnels and geothermal vents, often igniting bursts of magical flame for defense.
   - Oil Properties: Volatile and fiery, suited for energy-intensive machinery, weapons, and explosive spells.
@@ -945,25 +1016,25 @@ Extraction is only sustainable if magical creature habitats are protected. Conse
 
 # Arcane Oil: Biology, Chemistry, and the Deep Arcane Substrate
 
-## The Aetherite Substrate: The Hidden Source of Magic
+## The Finyak Substrate: The Hidden Source of Magic
 
-Deep beneath the world’s surface lies a primordial substance known as **Aetherite**. This rare mineral or energy field is the true wellspring of all magic. Aetherite is ancient, possibly predating all life, and its emanations suffuse the land, air, and water with arcane potential. The density and health of Aetherite deposits determine the strength of local magic, the fertility of magical creatures, and the potency of harvested oil.
+Deep beneath the world’s surface lies a primordial substance known as **finyak**. This rare mineral or energy field is the true wellspring of all magic. Finyak is ancient, possibly predating all life, and its emanations suffuse the land, air, and water with arcane potential. The density and health of finyak deposits determine the strength of local magic, the fertility of magical creatures, and the potency of harvested oil.
 
 ## Symbiotic Microfauna: The True Alchemists
 
-Magical oil is not produced directly by the host creatures, but by colonies of symbiotic, arcane-adapted microbes living within their tissues—especially in specialized organs or glands. These microfauna are unique in their ability to metabolize trace Aetherite or its magical emissions, transforming it into a potent, energy-rich oil. The host provides nutrients and a stable environment; the microbes, in turn, convert both mundane and magical inputs into magical oil.
+Magical oil is not produced directly by the host creatures, but by colonies of symbiotic, arcane-adapted microbes living within their tissues—especially in specialized organs or glands. These microfauna are unique in their ability to metabolize trace finyak or its magical emissions, transforming it into a potent, energy-rich oil. The host provides nutrients and a stable environment; the microbes, in turn, convert both mundane and magical inputs into magical oil.
 
 ### Microbial Metabolism
 
-- The microbes require both organic nutrients (from the host’s diet) and trace Aetherite exposure to thrive.
+- The microbes require both organic nutrients (from the host’s diet) and trace finyak exposure to thrive.
 - They break down complex compounds, incorporating arcane energy into long-chain magical lipids and proteins, which are then secreted as oil into the host’s storage glands.
-- The exact composition of the oil depends on the host species, diet, habitat, and the local strength of Aetherite fields.
+- The exact composition of the oil depends on the host species, diet, habitat, and the local strength of finyak fields.
 
 ## Ecological Interdependence
 
-The health of the Aetherite substrate, the symbiotic microfauna, and the host creatures are tightly linked:
+The health of the finyak substrate, the symbiotic microfauna, and the host creatures are tightly linked:
 
-- **Aetherite depletion** (from over-harvesting or magical pollution) weakens the microbes, reducing oil yield and stability.
+- **Finyak depletion** (from over-harvesting or magical pollution) weakens the microbes, reducing oil yield and stability.
 - **Microbial imbalance** (from disease, environmental toxins, or genetic drift) can cause oil instability, dangerous mutations, or even magical plagues.
 - **Host population decline** (from over-hunting or habitat loss) disrupts the entire cycle, threatening the world’s magical equilibrium.
 
@@ -977,7 +1048,7 @@ Once extracted, magical oil is highly sensitive to environmental conditions:
 
 ## Deeper Mysteries and Societal Impact
 
-The true nature of Aetherite and its connection to magical oil is a closely guarded secret, known only to a handful of scholars, cults, and Arcane Barons. Some believe Aetherite is the “soul” of the world, and that its exploitation risks catastrophic magical collapse. Others see it as a resource to be managed, regulated, or monopolized. The balance between extraction, conservation, and reverence for the deep substrate is a source of ongoing conflict, innovation, and intrigue.
+The true nature of finyak and its connection to magical oil is a closely guarded secret, known only to a handful of scholars, cults, and Shyakorin (Arcane Barons). Some believe finyak is the “soul” of the world, and that its exploitation risks catastrophic magical collapse. Others see it as a resource to be managed, regulated, or monopolized. The balance between extraction, conservation, and reverence for the deep substrate is a source of ongoing conflict, innovation, and intrigue.
 
 # Arcane Punk
 
@@ -1021,19 +1092,9 @@ Arcane Punk is a setting where magic is not just wondrous, but also disruptive, 
 
 ## Power Structure `<!-- Duplicate heading: consider renaming or merging -->`
 
-- **Arcane Barons:** Wealthy families or corporations who control the harvesting, refining, and distribution of the magical oil. They own vast tracts of land where the exotic fauna are bred or hunted, and employ private armies to protect their interests.
-- **Mage Guilds & Academies:** Institutions that regulate magical education and research. They may be allied with the Barons or act as a separate power, hoarding knowledge and licensing who can legally use advanced magic.
-- **Trade Guilds:** Control the flow of arcane oil and enchanted goods. They set prices, enforce trade laws, and sometimes act as mediators between Barons and the underclass.
-- **Underground Networks:** Smugglers, rogue inventors, and rebel mages who steal, synthesize, or redistribute arcane oil. They operate in the shadows, fueling black markets and resistance movements.
-
 ## City Feel & Aesthetics
 
-- **Urban Landscape:** The city is sprawling, layered, and chaotic. The upper districts are opulent, with glowing towers, floating platforms, and clean air—reserved for the elite. The lower districts are dense, polluted, and alive with magical graffiti, makeshift tech, and arcane smog.
-- **Resource Extraction:** Refineries and pipelines snake through the city, sometimes leaking magical residue that mutates plants and animals. The extraction sites are dangerous, heavily guarded, and often the target of sabotage.
-- **Fashion:** The elite wear enchanted fabrics, glowing jewelry, and magical prosthetics. The underclass sports patchwork clothing, scavenged tech, and runic tattoos that double as tools or weapons.
 
 ## Daily Life & Culture
 
-- **Underclass:** Most people live in crowded tenements, working dangerous jobs in extraction, refining, or illegal magic. Many dream of inventing something new or joining a rebel cell to fight the Barons.
-- **Rebels & Outcasts:** Tinkerers and mages experiment in hidden workshops, trying to create alternative power sources or hack the city’s magical infrastructure. Gangs control territory, offering protection in exchange for loyalty or resources.
-- **Entertainment:** Underground arenas host construct battles, illegal spell duels, and races through the city’s magical transit lines. Street performers use minor magic to dazzle crowds or distract from pickpocketing.
+
