@@ -131,9 +131,34 @@ Power concentrates where:
 
 * Lamp stations; airworks posts; span posts.
 
----
+### 3.3 Underdark Settlement Model
+
+* **Underways/Lanes** are the primary intercity network; travel is engineered corridors with rules, bracework, lantern posts, air-handling, and posted procedures.
+* **Excavation as statecraft:** new districts are “won” by cut/shore/seal/vent; expansion is political and audited.
+* **Settlement size ladder (capped, not mega-metropolis):** Lay-by/Stop → Hamlet/Relay → Hold/Wardtown → Cavern City → High Seat (largest, still capped).
+* **Waystations** exist along travel tunnels as real logistics stops (air/water/food culture exchange, permits, quarantine leverage).
+
+### 3.4 Stack-Cities (Vertical Cavern Urbanism)
+
+* Cities rise up into cavern space and expand down into underdecks (basement districts).
+* **Compartment logic / “station feel”:** seal-gates, tier permits, isolation during breach/riot/audit; life-support is managed per tier.
+* **Vertical zoning pattern:** Crownwalks / Midworks / Sumpward / Underdecks.
+* **Transit:** hoist towers, brace-stairs, net bridges; tier-specific access is a major control vector.
+* **Story consequence lock:** class is altitude + access; politics are seal-based; conflict is three-dimensional.
+
 
 ## 4) Scarcity Engines (the real “currency”)
+
+---
+
+## 13A) Bracefaith (Ideology Engine for the Maiming Wars)
+
+* **Bracefaith / Proving / Hard Mercy** as a doctrine that frames maiming + conditional repair as “strengthening” and “faithfulness.”
+* **Operational virtues:** Resilience, Fortitude, Endurance defined as measurable metrics (return-to-function, compliance under restriction, output under ration).
+* **Proving Ladder:** Restriction → Correction (maiming) → Repair (conditional nutrients/clinic) → Bond (Covenant settings) → Receipt (classification).
+* **Missionary framing:** “make them faithful/fit” used to justify conversion wars and compartment coercion.
+* **Institutional carriers:** Lantern Guild, Bracewrights, Writ-Doctors, Seal-Houses, Spore Houses (nutrients as sacrament).
+* **Key twist:** the doctrine sometimes “works,” creating sincere believers and moral complexity.
 
 Orrovae’s economy is built on controllable necessities:
 
@@ -141,9 +166,22 @@ Orrovae’s economy is built on controllable necessities:
 
 Money exists; **breath and passage** remain the deeper unit.
 
----
 
 ## 5) Institutions and Factions (Formal / Trade / Street)
+
+---
+
+## 15A) Helmeted Enforcement (Faceless Procedure)
+
+* **Helm Patrol** concept: helmeted soldiers used for patrol, gate law, closures, quarantine enforcement, escorting “corrections.”
+* Helmets justified by spore/air hazards, anonymity as policy, and verification asymmetry.
+* Standard kit concepts: latch tools, lantern lines, chalk/stamps, procedural receipts; not “sci-fi cops,” but industrial/occult-medical bureaucracy.
+
+## 15B) Rural Guardians / Construct Enforcement Anchors
+
+* **Ward-Frames** (guardian constructs) placed at chokepoints, relays, membrane rooms, underdeck bypass mouths—fixed-site security, not universal patrol.
+* **Bounded autonomy:** task-oathed, boring, procedural; paired with a clerk/warden because paperwork matters.
+* Risk/implication: forgotten mandates, use as Bracefaith instruments, and the “procedural refusal” seed for rebellion (world-level possibility, not plot).
 
 ### 5.1 Light authority
 
@@ -193,9 +231,27 @@ Controls:
 
 * match charters, safety boundaries, map configurations, sanctioned emplacements, rebuild windows, and the licensing of frame architects.
 
----
 
 ## 6) Law and Papers (Lane Law Packet Canon)
+
+---
+
+## 21A) Neo-Noir Pirate Adventure (Genre Lock)
+
+* Orrovae supports a **Neo-Noir Pirate Adventure** mode: piracy = stealing survival infrastructure + the paperwork that moves it.
+* “Spice” analogue = actinic goods + critical inputs (minerals/electrolytes/essential fats) plus authoring rights (waivers, exemptions, inspection authority).
+* Heist logic is bottleneck logic: hoists, gates, air compartments, route maps; every job leaves a receipt.
+
+## 21B) Proof/Receipt Scaffolding (World Principle)
+
+* Reinforced world rule: **every major action leaves a visible receipt** (stamped permits, seal-check results, closure postings, term-sheets, ration tags, air-draw logs, chalked brace marks).
+* This is partly tone, partly world logic—worth listing explicitly as an “always-on” storytelling/world coherence principle.
+
+## 21C) 5-Lane POV Schema (Project Structure)
+
+* **Five POV lanes (roles):** Case Spine / Crew-Logistics / Pact-Clinic / Authority / Outsider-Edge.
+* **Saga flow loop:** Rumor → Run → Clamp → Care → Chain (each handoff carries a receipt baton).
+* (If your World Bible avoids story scaffolds, put this in a “Series Bible / Story Engine” section instead.)
 
 ### 6.1 The paper hierarchy
 

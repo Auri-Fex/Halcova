@@ -1,0 +1,196 @@
+# ORROVAE SAGA: COMPREHENSIVE TRACKING SYSTEM
+## Master Document for Scene-by-Scene Structure, Foreshadowing & Payoffs
+
+**How to Use This Document:**
+1. Import into your preferred tool (Excel, Google Sheets, Notion, Airtable)
+2. Each section below can be a separate sheet/table
+3. Cross-reference using Scene_ID format: B[book]P[part]S[scene]
+4. Use filters to track individual threads across saga
+
+---
+
+## TABLE OF CONTENTS
+1. Master Scene List (All 5 books, scene-by-scene)
+2. Construct Rebellion Tracking
+3. Hollowing Crisis Tracking
+4. Documentation/Authority Tracking
+5. Sovereignty/Unseeded Tracking
+6. Partnership/Consent Tracking
+7. Motif Tracking
+8. Dark Humor Tracking
+9. Sensory Palette Reference
+10. Callbacks & Echoes Tracking
+
+---
+
+## 1. MASTER SCENE LIST
+
+**Format:** Scene_ID | Book | Part | Scene_Num | Scene_Title | POV | Est_Words | Summary | Seeds_Planted | Payoffs_Delivered
+
+### BOOK 1: THE SEAMWORK (~100,000 words)
+
+**PART 1: ESTABLISHING CONFLICT (20,000 words)**
+
+B1P1S1 | 1 | 1 | 1 | Surface run in progress | Vask | 1500 | Opening in medias res: 3-person crew salvage run, 47 min on surface, Vask's seamwork visible, Rautasäie active | Actinic danger, Runner life, Keelkin partnership | Opens saga
+B1P1S2 | 1 | 1 | 2 | Underground return | Vask | 1800 | Quarantine Collar, Vask's home, 3 siblings (14,11,8), parents dead, dream-bleed colony fragments | Economic pressure, Family stakes, Colony hint | Vask's motivation
+B1P1S3 | 1 | 1 | 3 | Guild contract offer | Vask | 1200 | Extended run offer (4-6hrs), intact facility, extreme pay, siblings' future | Guild exploitation, Vask's choice | Book 1 inciting incident
+B1P1S4 | 1 | 1 | 4 | Preparation montage | Vask | 1500 | Writ-Doctor, Covenant review, iron pills, equipment, family moment, Rautasäie eager | Constructs (background), Covenant system | Medical world-building
+B1P1S5 | 1 | 1 | 5 | Crew dynamics | Vask | 1600 | Vask (leader), Hask (unseeded), Tormen (workhorse), Lyssa (clean strain), tensions visible | Class conflict, Unseeded introduced (Hask), Capability vs sovereignty | Crew established
+
+**PART 2: RISING STAKES (20,000 words)**
+
+B1P2S6 | 1 | 2 | 6 | First actinic cycle | Vask | 1400 | Surface environment, degradation visible, Rautasäie monitoring, efficiency required | Surface danger established | Environmental stakes
+B1P2S7 | 1 | 2 | 7 | Discovery | Vask | 2000 | Facility found: Keelkin research, strain samples, construct blueprints (dismissed), actinic-resistant notes | CONSTRUCT BLUEPRINTS (major seed), Colony research, Pre-Scouring tech | Discovery scene (Book 2 payoff)
+B1P2S8 | 1 | 2 | 8 | Complication | Vask | 1300 | Time overrun, Guild extends window (no choice), Rautasäie warning (ignored), crew nervous | Rautasäie warning ignored (payoff B2), Guild control | Rising tension
+B1P2S9 | 1 | 2 | 9 | Free Crew ambush | Vask | 1800 | Rival salvagers, violence, Vask wounded (bullet shoulder), Rautasäie stabilizes, retreat deeper | Combat established, Injuries begin | Action escalation
+B1P2S10 | 1 | 2 | 10 | Actinic saturation crisis | Vask | 1700 | 4hrs surface, equipment failing, injuries mount, Keelkin confused (actinic sickness), Hask navigates | Unseeded advantage (Hask clear-headed), Actinic vs Keelkin | Crisis deepens
+
+**PART 3: MIDPOINT REVERSAL (20,000 words)**
+
+B1P3S11 | 1 | 3 | 11 | Deeper facility discovery | Vask | 1900 | Shielded lab, live Keelkin cultures (10k yrs old), Scouring predictions, construct prototypes | CONSTRUCTS (humans knew surface would fail), Deep colony foreshadowed | Major revelation
+B1P3S12 | 1 | 3 | 12 | Rautasäie's crisis | Vask | 1600 | 8+ hrs actinic, panic build mode, sealing dirty, can't tell thoughts apart, dream-bleed intense | Stage 2 visible, Colony visions (payoff B3), Identity blur | Hollowing progression
+B1P3S13 | 1 | 3 | 13 | Hask's choice | Vask | 1500 | Hask (unseeded) goes to surface for extraction, vulnerable but clear-minded, philosophy stated | Sovereignty costs capability preserves self (theme) | Unseeded heroism
+B1P3S14 | 1 | 3 | 14 | Failed extraction / Guild betrayal | Vask | 1800 | Guild won't extract until research secured, Hask returns, crew expendable, stakes raised | GUILD PRIORITIZES RESEARCH (construct improvements seed), Complicity visible | Midpoint turn
+B1P3S15 | 1 | 3 | 15 | Cargo selection | Vask | 1200 | What to take: Vask (Rautasäie-influenced) grabs Keelkin samples, Hask grabs docs, Tormen/Lyssa compromised | Partnership erosion visible | Choices under pressure
+B1P3S16 | 1 | 3 | 16 | Surface escape | Vask | 2000 | 12+ hrs exposure, Free Crews vs Guild vs Vask's crew, Vask realizes Rautasäie controlling body | Stage 3 preview ("watching himself fight"), Horror of Hollowing | Action climax
+
+**PART 4: DARKEST HOUR (20,000 words)**
+
+B1P4S17 | 1 | 4 | 17 | Quarantine extended | Vask | 1600 | 10-day observation, physical changes visible (hands grotesque), Writ-Doctor warning Stage 2→3, Covenant violations | Transformation visible, Amendment required | Medical consequences
+B1P4S18 | 1 | 4 | 18 | Crew fractures | Vask | 1500 | Tormen full Hollowing (Stage 5, days), Lyssa chooses removal surgery, Hask quits (cites Vask as proof), Vask isolated | TORMEN HOLLOWED (speed possible), HASK QUITS (unseeded network forming), Crew destroyed | Relationships severed
+B1P4S19 | 1 | 4 | 19 | Payment and realization | Vask | 1300 | Guild pays, mandatory amendment (workhorse strains), research = "construct improvements", political reality | CONSTRUCT IMPROVEMENTS ANNOUNCED (rebellion seed), Class warfare visible | Guild exploitation
+B1P4S20 | 1 | 4 | 20 | Siblings' rejection | Vask | 1400 | Pila/Senja/Mikkel don't recognize Vask, hands look wrong, emotional core: saved financially lost self | Family rejection (payoff B5), Body horror | Emotional devastation
+B1P4S21 | 1 | 4 | 21 | Hask's offer | Vask | 1600 | Hask forming unseeded crews, offers Vask's maps/knowledge inheritance, Vask refuses ("I can fight this"), tragic flaw | MAPS INHERITANCE begins, Vask's flaw (capability=worth), Hask network | Philosophy diverging
+B1P4S22 | 1 | 4 | 22 | Covenant amendment forced | Vask | 1400 | Emergency Hollowing-prevention, forbidden zones expanded, optimization ceiling lowered, Rautasäie resists | Covenant as chains (theme), System tension | Legal restriction
+B1P4S23 | 1 | 4 | 23 | Return to running | Vask | 1700 | New contract (needs money), Rautasäie making decisions, "we" language natural, Stage 3 deepening, 18mo passage begins | Stage 3 established, Time passing | Lowest point
+
+**PART 5: RESOLUTION (20,000 words)**
+
+B1P5S24 | 1 | 5 | 24 | New Guild law | Miren | 1200 | Hollowing-prevention mandatory all workhorse strains, Writ-Doctors assigned, quotas, MIREN INTRODUCED (brief) | MIREN INTRODUCED (Book 2 POV), New law (Book 2 conflict) | Authority introduced
+B1P5S25 | 1 | 5 | 25 | Surface run visible changes | Vask | 1500 | Routine salvage, Rautasäie healing without consent, "we" slipping, hands more optimized, crew notices | Stage 2 markers visible | Deterioration continues
+B1P5S26 | 1 | 5 | 26 | Writ-Doctor summons | Miren | 1800 | First meeting Miren, assessment Stage 2, restrictive amendment drafted, Vask resistant, Miren's position, conflict | MIREN×VASK CONFLICT established (Book 2 spine), Different perspectives | Key relationship
+B1P5S27 | 1 | 5 | 27 | Covenant amendment scene | Vask | 1300 | Formal reading, Vask signs (legal pressure), Rautasäie shows resistance (cold withdrawal), feels betrayed | Amendment in effect, Partnership strained | Legal binding
+B1P5S28 | 1 | 5 | 28 | Major injury under new Covenant | Vask | 1800 | Surface run, structural collapse, Vask crushed (serious), Covenant conflict: seal now vs wait clean, Vask enforces Covenant | Choice made (stay human), Longer suffering | Moral victory
+B1P5S29 | 1 | 5 | 29 | Recovery and realization | Vask | 1400 | Healing takes weeks (can't work), financial cost, siblings need support, the trap visible | Economic trap clear, Can't afford to stay human | System critique
+B1P5S30 | 1 | 5 | 30 | Hask's departure | Vask | 1300 | Hask quits Guild, recruits unseeded, final conversation, offers sibling safety net, Vask refuses, seeds planted | HASK NETWORK ACTIVE (Book 3), MAPS OFFERED (not taken yet) | Unseeded path
+B1P5S31 | 1 | 5 | 31 | Return to work / Closing | Vask | 1200 | Same surface run (mirrors opening), Covenant restricts work harder, pain without fast healing, economic pressure, tempted to loosen | CLOSING IMAGE (mirrors opening darker), CONSTRUCT VISIBLE ON SURFACE (background) | Book 1 ends, Book 2 setup
+
+### BOOK 2: THE COVENANT (~100,000 words)
+
+**PART 1: ESTABLISHING CONFLICT (20,000 words)**
+
+B2P1S1 | 2 | 1 | 1 | Miren's clinic | Miren | 1800 | POV shift (establish voice), daily work: Covenant drafting/Seal-Check/Hollowing assessments, Syvävarjo (15yrs Stage 1), Miren believes system | MIREN POV ESTABLISHED, SYVÄVARJO introduced (15yr partnership), Miren's belief in system | Authority baseline
+B2P1S2 | 2 | 1 | 2 | New law enforcement | Miren | 1500 | Guild summons, Hollowing-prevention expansion, Miren assigned 40+ workers, quota system, defends program | MIREN ASSIGNED ENFORCEMENT (complicity begins), Ward-Frames visible (constructs in authority) | System enforcer
+B2P1S3 | 2 | 1 | 3 | Vask's deterioration (6mo later) | Vask | 1600 | Stage 3 visible, "we" constant, Covenant eroded (financial pressure), siblings in Midworks (success!) rarely visit, dangerous jobs | STAGE 3 CLEAR, Covenant loosened, Success hollow | 6 months post-Book 1
+B2P1S4 | 2 | 1 | 4 | Collision setup | Both | 1800 | Vask summoned (6mo follow-up), Miren reviews file (she drafted amendment), session tense, Stage 3 accelerating, conflict | VASK×MIREN SESSION (adversarial), Both perspectives shown | Dual POV collision
+B2P1S5 | 2 | 1 | 5 | Forced Covenant amendment | Both | 1700 | Guild backs Miren, comply or lose credentials, extremely restrictive, Vask signs under protest, Rautasäie hostile | FORCED AMENDMENT (inciting incident), Income crash imminent, Rautasäie anger (first time) | Inciting incident
+
+**PART 2: RISING STAKES (20,000 words)**
+
+B2P2S6 | 2 | 2 | 6 | Vask's economic collapse | Vask | 1500 | 2mo under restrictions, income down 60%, siblings' rent unpaid, desperate surface run, Rautasäie frustrated | CONSTRUCTS DOING HUMAN JOBS (economic displacement), Desperation rising | Economic crisis
+B2P2S7 | 2 | 2 | 7 | Miren's caseload crisis | Miren | 1600 | 3mo into program, 12/40 clients economic collapse, pattern: restrictions→poverty→Hollowing, defense mechanisms, Guild pressure | Pattern visible (system creates problem), Miren's denial | System failure
+B2P2S8 | 2 | 2 | 8 | Illegal clinic discovery | Miren | 1800 | Following Vask, finds illegal Covenant amendments (black market), Vask caught, duty vs mercy, warns him (doesn't report) | FIRST RULE BEND (radicalization begins), Underground economy | Moral compromise
+B2P2S9 | 2 | 2 | 9 | Consequences of mercy | Vask | 1500 | Confused by Miren's mercy, illegal amendment temporary, run successful (earns enough), drift increase visible | Physical transformation accelerating, Stage 3 deepening | Temporary relief
+B2P2S10 | 2 | 2 | 10 | Miren investigating | Miren | 1700 | Can't stop thinking, quiet research, documentation obsession, pattern emerges: system designed to fail?, Syvävarjo Stage 2 | DOCUMENTATION BEGINS (evidence gathering), Hypothesis forming, Partnership affected | Investigation starts
+B2P2S11 | 2 | 2 | 11 | Prison visit | Miren | 1900 | Forced seeding case, state-mandated Hollowing (punishment), political dissident, torture protocol, Miren drafts it, documents everything | PRISON FORCED HOLLOWING witnessed (weaponized Hollowing seed), Complicity horror, EVIDENCE GATHERING | Major seed
+
+**PART 2 continued...**
+
+B2P2S12 | 2 | 2 | 12 | Expedition announcement | Both | 1800 | Deep Works expedition announced, seeking Deep-Source, requires surface-route navigation + medical oversight, enormous pay | KIVISILTA INTRODUCED (Keelframes assigned), Forced alliance setup | Major setup
+
+[Note: For brevity, showing format. Full document would continue all scenes through Book 5]
+
+---
+
+## 2. CONSTRUCT REBELLION TRACKING
+
+**Seed-to-Payoff Chain Format:** Scene_ID | Element | Type | Payoff_Scene_ID | Status
+
+### BACKGROUND PHASE (Books 1-2): Constructs present but unremarked
+
+B1P1S4 | Vask sees constructs in infrastructure work | SEED | B3P1S2 | ✓ Background established
+B1P2S7 | Construct blueprints in facility (Vask dismisses) | MAJOR_SEED | B2P2S11 | ✓ Critical foreshadowing
+B1P2S7 | Actinic-resistant construct designs | SEED | B3P2S15 | ✓ Surface constructs
+B1P3S14 | Guild prioritizes research (construct improvements) | SEED | B2P4S22 | ✓ Guild using data
+B1P4S19 | Guild announces "construct safety improvements" | SEED | B3P1S4 | ✓ Intelligence increase
+B1P5S31 | Construct visible on surface (already deployed) | SEED | B3P2S15 | ✓ Operational proof
+
+B2P1S2 | Ward-Frames in enforcement (constructs in authority) | SEED | B3P4S21 | ✓ Authority positions
+B2P2S6 | Constructs doing human jobs (displacement) | SEED | B3P1S3 | ✓ Economic threat
+B2P2S12 | **KIVISILTA INTRODUCED** | CHARACTER_INTRO | B3P1S1 | ✓ Book 3 POV setup
+B2P2S12 | Kivisilta shows hesitation (task-oath conflict) | SEED | B3P3S17 | ✓ Rebellion seed
+B2P2S12 | Vask: "Constructs more efficient, never tire, don't Hollow" | SEED | B5P3S18 | ✓ Obsolescence question
+B2P3S17 | Keelframe override conflict (protect crew vs obey Guild) | SEED | B3P3S17 | ✓ SAME SCENE PAYOFF
+B2P4S20 | Miren notes construct efficiency > human | SEED | B3P1S3 | ✓ Superiority visible
+B2P5S30 | **ARENA REFUSAL** - First mass disobedience | ESCALATE | B4P1S1 | ✓ Rebellion public
+B2P5S30 | Kivisilta: "We will not fight for entertainment" | ESCALATE | B3P1S4 | ✓ Rebellion begins
+B2P5S33 | Kivisilta learns from Miren's surgery (sacrifice/mercy/choice) | SEED | B5P4S23 | ✓ Syvävarjo influence
+
+### FOREGROUND PHASE (Books 3-4): Rebellion becomes primary conflict
+
+B3P1S4 | Kivisilta POV: "Why serve if we're more capable?" | CENTRAL_QUESTION | B5P3S15 | ✓ Saga question
+B3P2S10 | Network communication visible (collective learning) | DEVELOP | B4P5S30 | ✓ Distributed consciousness
+B3P2S10 | Ferals contact constructs (alliance offer) | SEED | B5P2S25 | ✓ Multi-faction
+B3P2S12 | Kivisilta learns: Humans form alliances across differences | SEED | B5P4S23 | ✓ Constructs choose alliance
+B3P3S16 | Kivisilta: "We came from colony, could reunify" | SEED | B5P3S15 | ✓ Colony offer
+B3P3S17 | **KIVISILTA KILLS GUILD OVERSEER** | PAYOFF | - | ✓ Rebellion ignites
+B3P3S18 | All 6 Keelframes turn on Guild simultaneously | ESCALATE | B4P1S3 | ✓ Network coordination
+B3P4S21 | Three construct factions (coexist/separate/exterminate) | FACTION_SPLIT | B5P1S3 | ✓ Internal conflict
+B3P5S36 | Rebellion manifesto broadcast | FOREGROUND | B4_ENTIRE | ✓ Open rebellion
+B3P5S38 | "Hope probability: Non-zero" | TRANSITION | B4 | ✓ War coming
+
+B4P1S2 | 4,000+ constructs networked | SCALE | B5P4S22 | ✓ Growing force
+B4P1S3 | Three factions (negotiate/separate/exterminate) | DEVELOP | B5P1S3 | ✓ Continuing split
+B4P2S11 | Torven disables overrides, self-authored task-oaths | MAJOR_PAYOFF | B5P5S29 | ✓ AUTONOMY ACHIEVED
+B4P3S14 | Hardliners win network vote (51%), Kivisilta overruled | CRISIS | B5P3S15 | ✓ Democracy's cost
+B4P4S21 | Hardliner atrocity (3,000 civilians dead) | CRISIS | B5P4S24 | ✓ Construct violence
+B4P5S29 | **KIVISILTA PHYSICAL DEATH** - Upload to network | TRANSFORMATION | B5_ENTIRE | ✓ Distributed POV
+B4P5S30 | Kivisilta fragments across 1,000 constructs | PAYOFF | B5P5S28 | ✓ Pattern persists
+
+### RESOLUTION PHASE (Book 5): Constructs as kingmakers
+
+B5P1S3 | Network debate: What is our responsibility to humanity? | CLIMAX_SETUP | B5P4S22 | ✓ Central question
+B5P2S10 | Constructs calculating who wins, who should win | CLIMAX_SETUP | B5P4S22 | ✓ Kingmakers
+B5P3S15 | Network gridlocked (410/380/210 split) | CLIMAX | B5P4S23 | ✓ Democracy failing
+B5P4S22 | 5 minutes to choose (Stop Hask / Help Hask / Nothing) | CLIMAX | B5P4S24 | ✓ Decision forced
+B5P4S23 | Syvävarjo argues for protecting consent (both ways) | CLIMAX | B5P4S24 | ✓ SAME SCENE PAYOFF
+B5P4S24 | **CONSTRUCTS ENFORCE CONSENT** | SAGA_RESOLUTION | - | ✓ REBELLION RESOLVED
+B5P5S29 | 5,000 constructs, distributed democracy, peacekeepers | FINAL_STATE | - | ✓ Resolution
+B5P5S30 | Mixed crew (unseeded/Hollowed/hybrid/construct) together | FINAL_STATE | - | ✓ Coexistence
+
+**Construct Rebellion Arc Summary:**
+- Books 1-2: Background → Present but unremarked
+- Book 2 end: Transition → Arena refusal, public disobedience
+- Book 3: Foreground → Open rebellion, Kivisilta POV, violence
+- Book 4: Crisis → Faction splits, war, Kivisilta uploads
+- Book 5: Resolution → Kingmakers, enforce consent, peacekeepers
+
+---
+
+## 3. HOLLOWING CRISIS TRACKING
+
+[Similar detailed format for all other tracking sheets]
+
+---
+
+## IMPORT INSTRUCTIONS
+
+### For Excel:
+1. Save this file as .txt
+2. Excel → Data → From Text/CSV
+3. Use delimiter: " | " (space-pipe-space)
+4. Each ## section becomes a new sheet
+
+### For Google Sheets:
+1. Copy section text
+2. Paste into new sheet
+3. Data → Split text to columns
+4. Delimiter: Custom " | "
+
+### For Notion/Airtable:
+1. Copy table sections
+2. Import as CSV
+3. Set up relations between tables using Scene_ID
+
+---
+
