@@ -1,0 +1,98 @@
+{
+  "htryk": {
+    "concept": "Primordial",
+    "root": "ehter"
+  },
+  "tlshty": {
+    "concept": "Crystal",
+    "root": "talst"
+  },
+  "tndryk": {
+    "concept": "Tundra",
+    "root": "tundra"
+  },
+  "dshhdy": {
+    "concept": "Arcane",
+    "root": "idshid"
+  },
+  "tyyk": {
+    "concept": "Aurora",
+    "root": "tuyaa"
+  },
+  "rdncyk": {
+    "concept": "Aurora",
+    "root": "radiance"
+  },
+  "prmfrs": {
+    "concept": "Tundra",
+    "root": "permafrost"
+  },
+  "glltyk": {
+    "concept": "Aurora",
+    "root": "gerelt"
+  },
+  "tnglty": {
+    "concept": "Tundra",
+    "root": "tsaraitai"
+  },
+  "gedlt tz": {
+    "concept": "Aurora",
+    "root": "gerelt tsagaan"
+  },
+  "huten gz": {
+    "concept": "Tundra",
+    "root": "huiten gazar"
+  },
+  "tzedenkhad": {
+    "concept": "Aurora",
+    "root": "tserenkhar"
+  },
+  "tzazatalya": {
+    "concept": "Tundra",
+    "root": "tsasan tal"
+  },
+  "sulvex-lev": {
+    "concept": "Aethergale Leviathan",
+    "root": "sulvex lev"
+  },
+  "blaykor": {
+    "concept": "Luminbark Colossus",
+    "root": "blay kor"
+  },
+  "shuvrak": {
+    "concept": "Smogcoil Wyrm",
+    "root": "shuv rak"
+  },
+  "stanak": {
+    "concept": "Crystback Terrapin",
+    "root": "stan ak"
+  },
+  "yakshen": {
+    "concept": "Emberdelve Mole",
+    "root": "yak shen"
+  },
+  "blayresh": {
+    "concept": "Luminous Subglacial Rivers",
+    "root": "blay resh"
+  },
+  "blayarch": {
+    "concept": "Floating Crystal Plateaus",
+    "root": "blay arch"
+  },
+  "murvesh": {
+    "concept": "Dead Ocean Fog Seas (murk-waters)",
+    "root": "murv vesh"
+  },
+  "kaleth": {
+    "concept": "Deep Arcane Waters / The Deeps",
+    "root": "kal eth"
+  },
+  "sulvex": {
+    "concept": "Refined Bio-Fuel / Arcane Oil (extracted from creatures)",
+    "root": "sul vex"
+  },
+  "finyak": {
+    "concept": "Primordial Substrate / Raw Arcane Material (in planet)",
+    "root": "fin yak"
+  }
+}
