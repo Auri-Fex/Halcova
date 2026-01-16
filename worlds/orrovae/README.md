@@ -1,8 +1,17 @@
 # ORROVAE WORLDBUILDING - COMPLETE UPDATE SUMMARY
 
-**Date**: December 24, 2025
-**Version**: 2.0
+**Date**: January 14, 2026
+**Version**: 2.1
 **Status**: ✅ COMPREHENSIVE CANON LOCKED - Ready for content development
+
+---
+
+## THEMATIC STORY SPINE
+
+**Axis 1 — Power/Cost**: *"Every miracle has a supply chain. Every body keeps a ledger."*
+**Axis 2 — Rebellion/Empire**: *"Stability cannot be achieved under external ownership."*
+
+See [01_story_spine/thematic_core.md](01_story_spine/thematic_core.md) for complete thematic architecture.
 
 ---
 
@@ -15,6 +24,7 @@
 4. ✅ **QUICK_REFERENCE.md** - Rapid lookup for writing
 5. ✅ **INDEX_AND_TODO.md** - Development roadmap
 6. ✅ **README.md** (this file) - Summary and navigation
+7. ✅ **01_story_spine/thematic_core.md** - Thematic architecture (Power/Cost + Rebellion/Empire)
 
 ### Canon Systems Locked
 - ✅ Core identity and premise

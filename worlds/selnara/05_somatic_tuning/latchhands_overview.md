@@ -107,3 +107,36 @@ Experienced opponents can recognize technique initiation by watching for:
 * Sudden stillness
 * Breath hold
 * Weight shift into ready stance
+
+## Long-Term Degradation (Territory Loss)
+
+Prolonged Somatic Tuning causes progressive **territory loss** across three domains:
+
+### Somatic Territory (Body)
+
+* Galvanic scarring patterns on palms/forearms
+* Chronic tremors, seizures, tinnitus
+* Smell/taste degradation
+* Nerve pathway damage becomes permanent
+
+### Cognitive Territory (Mind)
+
+* **Preference drift**: Repeated Signal work makes practitioners calmer, more compliant, less urgency-capable
+* **Memory shearing**: Missing minutes, wrong sequencing, false certainty about events
+* **Contested will**: Difficulty determining if desires are authentic or installed
+
+### Dream Territory (Sleep)
+
+* **Dream-bleed**: Prolonged exposure causes practitioners to share dream content with others who worked the same circuits
+* **Circuit memory**: Dreams contain protocols never learned, grief for people never met, knowledge that shouldn't exist
+* **Residue sleep**: Not telepathy — contamination. The circuit remembers; the Latchhand carries it.
+
+**The Horror**: A veteran Latchhand cannot reliably distinguish their own memories, preferences, or dreams from those absorbed through their work. Their "professional calm" may be damage, not discipline.
+
+## Social Consequences of Territory Loss
+
+* Enemies call them "softened" or "looped"
+* Allies fear dependence on their compliance
+* Testimony becomes unreliable (time-sense drift)
+* Institutions exploit cognitive vulnerability
+* Long-term practitioners become ideal employees — and cannot be certain they chose to be

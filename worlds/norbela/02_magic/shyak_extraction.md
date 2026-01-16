@@ -254,6 +254,67 @@ source_files:
 3. **Refinery Sabotage**: Someone destroying extraction facilities; conservationists or rival barons?
 4. **Grade Switching**: High-grade oil diluted with runoff; massive scandal; who's responsible?
 5. **Microbe Theft**: Stolen symbiotic colonies could create independent shyak source; everyone wants them
+6. **Identity Drift**: Elite patron experiencing personality changes after decades of premium consumption; what's happening?
+7. **The Contaminated Bloodline**: Baron family showing obvious creature-derived traits; politically devastating
+
+---
+
+## Consumer Contamination (LOCKED)
+
+> **Thematic Integration**: This section connects extraction to the Identity/Mask/Monster thematic pillar.
+
+### The Hidden Cost
+
+Long-term shyak consumption literally transforms consumers. The effects vary by grade and source:
+
+**Premium/High-Grade (Elite Consumption)**:
+- Source: Highly sentient creatures (Shyalev, etc.)
+- Effects: Identity contamination (preference shifts, dream fragments, behavioral drift)
+- Physical: Faint bioluminescence, tissue saturation, metabolic dependency
+- Timeline: Decades of cumulative exposure
+
+**Standard Grade (Middle-Class)**:
+- Source: Mixed sentience levels
+- Effects: Milder identity effects, more physical dependency
+- Physical: Metabolic changes, tolerance buildup
+- Timeline: Years of regular use
+
+**Low-Grade/Fauxil (Lower-Class)**:
+- Source: Low-sentience creatures, synthetic blending
+- Effects: Minimal identity contamination, maximum physical toxicity
+- Physical: Entropy corruption, organ damage, shortened lifespan
+- Timeline: Immediate physical effects, cumulative damage
+
+### The Transformation Spectrum
+
+**Literal Transformation**:
+- Bodies change with prolonged exposure
+- Elite: Subtle divergence (lifespan extension, dependency, tissue changes)
+- Workers: Obvious damage (entropy corruption, mutations)
+- The system optimizes for different contamination profiles by class
+
+**Behavioral Monstrosity**:
+- Extraction requires cruelty
+- Workers who harvest sentient creatures for decades become... adapted
+- Not possessed — normalized
+- The job makes the monster
+
+**Identity Dissolution**:
+- Consuming sentient creatures leaves traces
+- Elite who consume Shyalev become *less distinctly themselves*
+- The boundary between consumer and consumed blurs
+- You become what you consume
+
+### The Silence
+
+- Officially unacknowledged
+- Research suppressed or discredited
+- Admitting contamination would undermine:
+  - Elite legitimacy ("purity" of bloodlines)
+  - Extraction economy (moral crisis)
+  - Caste system (elite aren't superior, they're contaminated)
+
+**Key phrase**: *"You become what you consume. The question is whether you notice."*
 
 ---
 

@@ -4,6 +4,14 @@
 
 ---
 
+## THEMATIC SPINE
+
+**Axis 1 — Power/Cost**: *"Every miracle has a supply chain. Every body keeps a ledger."*
+**Axis 2 — Rebellion/Empire**: *"Stability cannot be achieved under external ownership."*
+**Central Question**: Who decides what your body is for?
+
+---
+
 ## CORE IDENTITY
 
 **One-Sentence**: People aren't afraid of danger because things grow back—until they meet the world that wants to eat you that you can't grow back from.
@@ -163,6 +171,8 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 3. **Hollowing**: Disease vs. exploitation vs. weaponization
 4. **Golem Economy**: Tools vs. slaves vs. citizens
 5. **Deep Expeditions**: Resources vs. risk vs. unknown
+
+**Thematic Framing**: Every conflict expresses Power/Cost (what is spent, who profits) and Rebellion/Empire (who controls, who breaks free).
 
 ---
 

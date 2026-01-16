@@ -8,6 +8,16 @@ Physics has transaction costs. Identity is a balance sheet. Time is currency wit
 
 ---
 
+## Thematic Story Spine
+
+**Axis 1 — Inheritance vs Prophecy**: *"Your pattern is what you were born with. Your reading is what they say you'll become. Sometimes these are the same. Sometimes they can be purchased."*
+
+**Axis 2 — Trade of Fate**: *"Some lives are worth more dead than alive. Everyone knows the math."*
+
+The economic principles below are the mechanics through which these themes operate. Opportunity cost is how inheritance gets spent. Sunk cost is how prophecy traps. Moral hazard is how the trade exploits.
+
+---
+
 ## Economic Principles Made Literal
 
 ### 1. Opportunity Cost (Fate Threading)

@@ -2,6 +2,64 @@
 
 ---
 
+# 0) Cosmological Foundation (LOCKED)
+
+### The Core Truth
+
+**Selnara is the world of the living. Ashra is the underworld—the land of the dead.**
+
+Every Selnari dies daily (Kharven). Every morning, they are resurrected (Narret). A parasitic entity feeds on the dead during their time in Ashra.
+
+From Selnara's perspective:
+- Sleep is death
+- Waking is resurrection
+- The cycle is natural, expected, routine
+
+From Ashra's perspective:
+- Ashra appears as "Earth" / modern reality
+- Residents don't know they're dead
+- "Sleep" means being available for resurrection
+- "Dreams" are actually life in Selnara
+
+### Core Terminology (LOCKED)
+
+* **Ashra** (*ash-ra*) — The underworld / land of the dead / "Earth"
+* **Kharven** (*khar-ven*) — Going dormant / dying / descending to Ashra
+* **Tulren** (*tul-ren*) — Being banished / forced death / violent severance
+* **Narret** (*nar-ret*) — Returning / resurrection / flowing back to life
+
+### The Memory Anchor
+
+Existence in Ashra depends on being **meaningfully remembered** in Selnara:
+- Strong anchor (intimate knowledge) = stable Ashra existence
+- Losing all anchors = fading, true death
+- Ashra death severs anchors, causes forgetting in Selnara
+
+### Key Entities
+
+* **The Parasite** — Feeds on those in Ashra during the death cycle. Has physical presence in Selnara through Pale Medium.
+* **The Hollow** — The parasite's immune response. Not agents—antibodies. Drawn to disruptions.
+* **The Awakened** — Dead in Ashra who remember they lived. Form underground networks.
+* **Faction Agents** — Awakened who work for Selnara powers in Ashra.
+
+### Power System Integration (LOCKED)
+
+The cosmology is **deeply integrated** with the industrial power systems:
+
+* **Grey Current** = boundary energy from death-resurrection cycle
+* **Pale Medium** = the parasite's physical substance in Selnara
+* **Charged Pale** = activated parasitic connection
+* **Signal Pale effects** = direct parasitic influence on consciousness
+* **Creatures** = extensions/offspring serving the parasite
+* **Necromantic devices** = arcane-punk technology that manipulates the death cycle
+
+The Selnari have built an economy around extracting, refining, and consuming the thing that feeds on them.
+
+> **Full cosmology documentation: 00_cosmology/**
+> **Necromantic applications: 02_power_systems/necromantic_applications.md**
+
+---
+
 # 1) High Concept and Aesthetic Targets
 
 ### Core pitch
@@ -31,7 +89,39 @@ The frontier feel comes from  **structure** , not vocabulary:
 * bio-industrial horror where **systems behave like predators** and  **habits become rails** .
 
 ---
+# 1.5) Thematic Spine (LOCKED)
 
+All Selnara stories are built around four interlocking themes:
+
+### Dream (Contamination Residue)
+
+Dreams are **exposure artifacts**, not prophecy. Prolonged Signal exposure causes dream-bleed between workers in shared circuits. You dream what the circuit remembers — other people's memories, protocols you never learned. Signal Mimics nest in shared dream-space.
+
+*Key phrase: "The circuit remembers. You just carry it."*
+
+### Dominion (Cognitive Colonization)
+
+The question is not who rules — it's **who owns your preferences**. Signal Pale doesn't force obedience; it cultivates it. Populations show preference drift — they want what the system needs them to want. The nightmare: discovering you've been governed from inside.
+
+*Key phrase: "The dream of freedom is also installed."*
+
+### Time (Commodity and Weapon)
+
+"Minutes on the manifold" commodifies time economically. Memory shearing weaponizes time perceptually. High-Signal environments cause temporal dysphoria — certainty about sequences that are wrong. Institutions exploit the gap between experience and record.
+
+*Key phrase: "Time is money. Memory is debt."*
+
+### Territory (Fractal Dispossession)
+
+Territory operates at three scales: geographic, somatic (body), cognitive (mind). The same "hold what you can defend" logic applies to claims, tissue, and preferences. You can win a claim war while the pit claims *you*. Dispossession feels the same at every scale.
+
+*Key phrase: "Every claim costs something. The question is what you're paying with."*
+
+### Synthesis
+
+> **The system works exactly as designed. The nightmare is that you've been participating willingly — and you can't prove otherwise.**
+
+---
 # 2) World Name and Language
 
 ### World name (locked)
@@ -442,9 +532,9 @@ This setting’s politics are driven by  **compatibility regimes** ,  **charging
 ## 11.1 Core institutional actors (names are functional labels; Selnara versions can be coined consistently later)
 
 * **Standard Enclaves** (port zones defined by hardware standards: jar-mouth sizes, seal resins, catalyst alloys, coil geometries)
-* **Seal Syndics** (counterfeiters and legitimizers of seals)
-* **Spine Brokers** (sell charging time; “minutes on the manifold”)
-* **Neutral Piers** (violence tolerated only where it won’t wreck shared infrastructure)
+* **Beghel Syndics** (counterfeiters and legitimizers of beghels)
+* **Khergem Brokers** (sell charging time; "minutes on the manifold")
+* **Navsad Piers** (violence tolerated only where it won't wreck shared infrastructure)
 * **Claim Rings** (pit territory held by presence and machinery placement)
 * **Breaker Crews** (anti-rig squads: ash, grounding spikes, seal paste)
 * **Purge Houses** (containment craft-cults; hated until needed)
@@ -468,7 +558,7 @@ Selnara’s main play region is designed around three anchor settlement types:
 
 ## 12.1 Brasswake Quays analog (locked as Selnara name below)
 
-A treaty-port noir city where borders are  **hardware standards** . Dense canals, warehouses, industrial docks, syndics, smuggling in seals/fractions, Neutral Piers.
+A treaty-port noir city where borders are  **hardware standards** . Dense canals, warehouses, industrial docks, syndics, smuggling in beghels/fractions, Navsad Piers.
 
 ## 12.2 Ringpits of Kharrow analog
 
@@ -569,50 +659,49 @@ Common speech may drop -se.
 
 When generating names:
 
-* Use root seeds: sel, nar, tul, shet, khar, gir, pal, lak, miv, dara (+ others added later)
-* Pick ONE strategy (A–E)
-* Rotate finals; do not reuse same final repeatedly
-* Keep major names pronounceable
-* Output segmentation + literal gloss + intended meaning + dialect nickname if relevant.
+* Use Georgian-derived root seeds: kalak, zeva, sha, karesh, meta, dinar, kid, safek, sirem, kava, sul, benel, natel
+* Apply mutation rules: cluster simplification, ejective softening, final trim
+* Keep syllables (C)V(C), penultimate stress
+* Output segmentation + Georgian source + literal gloss + intended meaning
 
 ---
 
-# 15) Gazetteer Starter Set (already established in-thread; Selnara forms)
+# 15) Gazetteer Starter Set (Georgian-derived; LOCKED)
 
 ## 15.1 Major regions
 
-1. **Selina** — sel-ina — Saltwind Littoral (fossil simplification)
-2. **Kharveth** — khar-veth — Pale Pit Terraces / ringpit country
-3. **Nartul** — nar-tul — River Locklands
-4. **Shethassa** — shet-hassa — Shear Desert Basins
-5. **Girven** — gir-ven — Stormspine ridge settlements / old towns
+1. **Zevareg** — zeva-reg — Sea Region / coastal littoral *(zghva → zeva)*
+2. **Sharekeoba** — sha-re-keoba — Pit Valley / ringpit country *(ch'a → sha, kheoba → keoba)*
+3. **Dinargoza** — dinar-goza — River Roadlands *(mdinare → dinar, gza → goza)*
+4. **Kidmiva** — kid-miva — Edge Lands / shear desert *(kide → kid, mits'a → miva)*
+5. **Metaven** — meta-ven — Mountain Lands / stormspine settlements *(mta → meta)*
 
 ## 15.2 Signature cities and sites
 
-6. **Selmara** — sel-mara — main port city (Brasswake analog; formal)
-7. **Mivselu** — miv-selu — canal-steps district inside Selmara
-8. **Lakdoka** — lak-doka — sealed industrial docks / fortified pier complex (standard enclave vibe)
-9. **Kharras** — khar-raza → fossilized Kharras — pit-market metropolis (ringpit hub)
-10. **Vethgoro** — veth-goro — terrace-to-slurry yard sprawl (down levels of pit city)
-11. **Tulwarda** — tul-warda — lock-fort chokepoint city (Lockward analog)
-12. **Narnaru** — nar-naru — riverbend market town
-13. **Shetshet** — shet-shet — notorious shear depot (warning-name)
-14. **Darahassa** — dara-hassa — stone-cistern basin town
+6. **Zevakalak** — zeva-kalak — main port city (sea-city; noir hub)
+7. **Navsadel** — navsad-el — harbor district inside Zevakalak *(navsadguri → navsad)*
+8. **Hidkalak** — hid-kalak — bridge-city / fortified crossing *(khidi → hid)*
+9. **Sharem** — sha-rem — pit-market metropolis (pit-deep; ringpit hub)
+10. **Siremsha** — sirem-sha — deep pit sprawl (depth-pit; lower terraces)
+11. **Kareshtul** — karesh-tul — lock-fort chokepoint city (gate-lock)
+12. **Dinarkaresh** — dinar-karesh — river gate town (river-gate)
+13. **Kidshet** — kid-shet — desert edge depot (edge-corridor)
+14. **Kavahid** — kava-hid — stone bridge town (stone-bridge)
 
-## 15.3 Rivers and waterways (hydronym rule applied)
+## 15.3 Rivers and waterways (hydronym rule: u- prefix)
 
-15. **Unadara** — u-nar-dara — “Stone River” (slate-banked main river)
-16. **Unasel** — u-na-sel — salt tributary / brackish branch
-17. **Unamiv** — u-na-miv — fogwater / industrial runoff canal-river
-18. **Unakhar** — u-na-khar — pitwater (often poisoned)
-19. **Unashet** — u-na-shet — stormwash / flashflood wadi-river
+15. **Ukava** — u-kava — "Stone River" (slate-banked main river)
+16. **Uzeva** — u-zeva — salt tributary / brackish branch
+17. **Ubenel** — u-benel — dark water / industrial runoff canal
+18. **Usha** — u-sha — pitwater (often poisoned)
+19. **Ukid** — u-kid — edge-water / flashflood wadi
 
 ## 15.4 Countries / polities (state suffix -se)
 
-20. **Selmarase** — sel-mara-se — Harbor Realm
-21. **Kharvethse** — khar-veth-se — Terrace Confederacy / pit coalition
-22. **Tulse** — tul-se — Gate Dominion / lockworks authority
-23. **Shethassase** — shet-hassa-se — Basin Marches / desert depots polity
+20. **Zevakalakse** — zeva-kalak-se — Harbor Realm
+21. **Sharekeobse** — sha-re-keob-se — Terrace Confederacy / pit coalition
+22. **Kareshtulse** — karesh-tul-se — Gate Dominion / lockworks authority
+23. **Kidmivase** — kid-miva-se — Edge Marches / desert depots polity
 
 ---
 
@@ -627,7 +716,7 @@ When generating names:
 
 # 17) What this world is built to support (explicit use-cases)
 
-* Standalone noir thriller in Selmara’s Standard Enclave wars (counterfeit Charged Pale, Signal drift killings, seal syndics)
-* Pit frontier feud in Kharras/Vethgoro with vertical gunfights and nest ecology awakening
-* River lockwork containment crisis at Tulwarda: blockade vs spread choice, quarantine violence, corridor starvation dilemmas
+* Standalone noir thriller in Zevakalak's Standard Enclave wars (counterfeit Charged Pale, Signal drift killings, Beghel Syndics)
+* Pit frontier feud in Sharem/Siremsha with vertical gunfights and nest ecology awakening
+* River lockwork containment crisis at Kareshtul: blockade vs spread choice, quarantine violence, corridor starvation dilemmas
 * Multiple unrelated stories in the same world: ports, pits, lockworks, desert depots, ridge spines, corridor caravans.

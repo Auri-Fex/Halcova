@@ -26,6 +26,8 @@ source_files:
 
 > **Quick Summary**: Comprehensive catalog of all known magical creatures that metabolize finyak and produce shyak (arcane oil), the foundation of Norbela's civilization and economy.
 
+> **Thematic Note**: Creatures are the mirror that reflects everything back. Their sentience challenges human exceptionalism. Their family structures parallel human families. Consuming them contaminates human identity. The boundary between harvester and harvested blurs.
+
 **In this article:**
 - Catalog Overview
 - Aquatic Creatures
@@ -34,6 +36,7 @@ source_files:
 - Aerial Creatures
 - Unique/Experimental Species
 - Extinction Status
+- Creature Families and Social Structures
 
 ---
 
@@ -116,6 +119,20 @@ A massive, translucent aquatic creature that drifts through arcane fog seas and 
 - Symbol of ancient power and wisdom
 - Forbidden to hunt in some regions (cultural taboo)
 - Songs and legends centered on their calls
+
+**Family Structure** (Thematic Integration):
+- Multi-generational pods with 5-15 individuals
+- One calf per 20-30 years = dynasty-level reproduction
+- Calves remain with mothers for 40+ years
+- Pod members recognize each other across decades
+- Harvesting adults orphans entire generations
+- Pod "mourning" behavior documented (disputed interpretation)
+
+**Identity Contamination Risk**: **HIGHEST**
+- Most sentient species in catalog
+- Premium oil from Shyalev carries strongest identity residue
+- Elite consumers report dream fragments, behavioral drift
+- Generations of consumption = significant bloodline contamination
 
 ### [Additional Aquatic Species - TO BE ADDED]
 

@@ -2,6 +2,8 @@
 
 **Current Status**: World systems ~85% complete | Operational content ~30% complete
 
+**Thematic Spine**: Power/Cost + Rebellion/Empire (see `01_story_spine/thematic_core.md`)
+
 ---
 
 ## COMPLETED CANON DOCUMENTS
@@ -12,6 +14,14 @@
 - ✅ **CHANGELOG.md** - Version history and additions
 - ✅ **QUICK_REFERENCE.md** - Rapid lookup guide for writing
 - ✅ **world_bible.md** (original) - Preserved for comparison
+- ✅ **01_story_spine/thematic_core.md** - Thematic architecture
+
+### Thematic Story Spine (NEW)
+- ✅ **Axis 1 — Power/Cost**: *"Every miracle has a supply chain. Every body keeps a ledger."*
+- ✅ **Axis 2 — Rebellion/Empire**: *"Stability cannot be achieved under external ownership."*
+- ✅ Thematic architecture for all world systems
+- ✅ Scene checklists for thematic writing
+- ✅ Saga-level thematic beats
 
 ### World Systems (LOCKED CANON)
 - ✅ Core Identity & Premise

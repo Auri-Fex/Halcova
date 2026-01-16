@@ -1,5 +1,12 @@
 # QUICK REFERENCE CARD
 
+## THEMATIC SPINE
+
+**Axis 1 — Faith vs Truth**: *"Predictions are probable cause, not proof. But faith in the forecast creates the crime."*
+**Axis 2 — Memory vs History**: *"Control the paper, control the past. Erase the month, erase the people."*
+
+---
+
 ## ESSENTIAL FACTS
 
 **City**: Kitsahl (380,000 population)
@@ -135,6 +142,8 @@ Personal, Economic, Political, Natural, Social, Temporal
 - Urban networks (language preservation, mutual aid)
 - Political activism (extremely dangerous)
 
+**Thematic Note**: Indigenous resistance embodies both axes—they reject colonial *faith* in oracle-as-weapon, and they preserve *memory* in defiance of historical erasure.
+
 **Labor**:
 - Unions (Bureau targets)
 - Strikes (oracle predicts, Bureau preempts)
@@ -143,6 +152,16 @@ Personal, Economic, Political, Natural, Social, Temporal
 ---
 
 ## STORY HOOKS
+
+**Faith vs Truth Stories**:
+- Agent discovers faith in forecasts creates self-fulfilling prophecies
+- Precrime target: the prediction was accurate *because* they were arrested
+- The 30-40% false positive rate is known—why does faith persist?
+
+**Memory vs History Stories**:
+- The ledger gap (June 1860)—what was erased and why?
+- Indigenous language teacher preserves memory despite death penalty
+- Archive manipulation: paperwork that "proves" lies
 
 **Bureau Stories**:
 - Agent discovers false readings
@@ -168,11 +187,16 @@ Personal, Economic, Political, Natural, Social, Temporal
 
 ## CORE THEMES
 
-1. **Colonial Theft** - Europeans stole indigenous knowledge
-2. **Surveillance State** - Prophecy enables total control
-3. **Class Oppression** - Oracle access ossifies hierarchy
-4. **Environmental Disaster** - Alchemy extraction destroys land
-5. **Resistance** - Despite odds, people fight back
+**Primary Axes**:
+1. **Faith vs Truth** - Faith in prediction creates predicted outcomes
+2. **Memory vs History** - Paper trails manufacture history; memory is criminalized
+
+**Supporting Themes**:
+3. **Colonial Theft** - Europeans stole indigenous knowledge
+4. **Surveillance State** - Prophecy enables total control
+5. **Class Oppression** - Oracle access ossifies hierarchy
+6. **Environmental Disaster** - Alchemy extraction destroys land
+7. **Resistance** - Despite odds, people fight back
 
 ---
 

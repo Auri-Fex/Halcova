@@ -22,16 +22,22 @@ source_files:
 
 > **Quick Summary**: The sentience of magical oil creatures is hotly debated—some demand they be granted personhood and protection, while others insist they're merely animals to be harvested, creating deep moral and political divides.
 
+> **Thematic Note**: The creature question is the mirror that reflects everything back. If creatures have identity, what does extraction destroy? If they don't, what makes human identity more real? The boundary between harvester and harvested blurs — especially when consuming sentient creatures leaves traces.
+
 **In this article:**
 - The Sentience Spectrum
 - Legal Status and Debates
 - Conservation Movements
 - Cultural Perspectives
 - The Moral Crisis
+- Identity Contamination (LOCKED)
+- Creature Families
 
 ---
 
 ## The Sentience Spectrum
+
+> **Thematic Note**: The sentience question isn't academic. Consuming highly sentient creatures leaves traces in the consumer — not possession, but *contamination*. Preferences shift. Responses change. Dream fragments appear. Elite who consume Shyalev oil for decades become *less distinctly themselves*. This is the literal monster-making the system enables.
 
 **Animal-Like** (Low Sentience):
 - Simple instincts
@@ -320,6 +326,101 @@ Civilization depends on harvesting creatures, some of which may be sentient. Is 
 6. **Creature Alliance**: Multiple species cooperating; uprising or communication attempt?
 7. **Memory Transfer**: Harvester experiences creature's consciousness; moral crisis
 8. **Child's Bond**: Young character befriends creature; forced to choose
+
+---
+
+## Identity Contamination (LOCKED)
+
+> **Thematic Integration**: This section connects creature ethics to the Identity/Mask/Monster thematic pillar.
+
+### The Mechanism
+
+Long-term consumption of shyak from *highly sentient* creatures (Shyalev, potentially others) leaves traces in the consumer:
+
+**Not Possession**: The consumer doesn't "become" the creature
+**Contamination**: Identity residue accumulates over time
+**Manifestations**:
+- Preferences shift (food, temperature, social patterns)
+- Emotional responses change (fear/calm triggers alter)
+- Dream fragments appear (memories that aren't yours)
+- Behavioral drift (subtle, cumulative)
+
+### Who Is Affected
+
+**Elite (highest exposure)**:
+- Consume premium oil from most sentient species
+- Generations of accumulation in bloodlines
+- Most contaminated, least aware
+- "Refined taste" may be absorbed preference
+
+**Extractors/Refiners (occupational)**:
+- Constant low-level exposure
+- Different contamination profile
+- Physical symptoms more prominent
+- Behavioral changes attributed to job stress
+
+### The Horror
+
+- You can't tell which preferences are yours
+- The boundary between self and consumed blurs
+- Elite families are literally part-creature after generations
+- The thing you've been exploiting is now inside you
+
+### The Denial
+
+- Officially unacknowledged
+- Research suppressed
+- Those who notice are dismissed as "entropy-touched"
+- Admitting it would undermine the entire extraction economy
+
+**Key phrase**: *"You become what you consume. The question is whether you notice."*
+
+---
+
+## Creature Families (LOCKED)
+
+> **Thematic Integration**: This section connects creature ethics to the Found Family/Bloodlines thematic pillar.
+
+### Creature Social Structures
+
+Magical creatures have family structures that extraction systematically destroys:
+
+**Pack Hunters** (Balkor-Vorn, etc.):
+- Extended family units
+- Cooperative hunting and child-rearing
+- Orphans adopted by pack
+- Extraction breaks pack bonds
+
+**Pod Species** (Shyalev, aquatics):
+- Multi-generational pods
+- One calf per 20-30 years = dynasty-level reproduction
+- Calves stay with mothers for decades
+- Harvesting adults orphans entire generations
+
+**Colonial Organisms**:
+- Hive-family structures
+- Individual death damages collective
+- Unknown if colony "mourns"
+
+### The Mirror
+
+Creature family destruction mirrors human lower-caste family destruction:
+
+- Children separated from parents (sold at age 5-10)
+- Breeding programs that ignore pair bonds
+- "Family" recognized only when economically useful
+- Systematic destruction of loyalty structures
+
+**The Uncomfortable Question**: If we recognize creature families as families, what does that say about how we treat human families in lower castes?
+
+### The Silence
+
+- Creature family bonds officially denied or minimized
+- "They don't really bond like we do"
+- Same rhetoric applied to lower-caste humans
+- Parallel exploitation requires parallel denial
+
+**Key phrase**: *"They're just animals. That's what we tell ourselves. That's what they'll say about us."*
 
 ---
 

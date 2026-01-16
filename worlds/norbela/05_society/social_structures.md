@@ -22,12 +22,15 @@ source_files:
 
 > **Quick Summary**: Norbela's society is rigidly stratified into seven castes, from omnipotent barons to disposable slaves, where access to magical oil determines life quality, lifespan, and basic dignity.
 
+> **Thematic Note**: The caste system is a *mask system*. Every caste has its costume, posture, speech, and expected behavior. Deviation is punished. After enough years, the performance becomes the person. The question every character must face: *Is there a "real you" underneath the caste you were assigned?*
+
 **In this article:**
 - The Seven Castes
 - Social Mobility
 - Cultural Norms
 - Power Structures
 - Daily Realities
+- Found Families (Survival Units)
 
 ---
 
@@ -104,6 +107,18 @@ source_files:
 - Eliminate rivals creatively
 
 **Life Expectancy**: 80-100 years (with magic)
+
+### The Elite Mask
+
+**Performance**: The Shyakor perform entitlement, cruelty, and casual power as caste markers. After generations, is this performance or identity?
+
+**Contamination**: Generations of premium shyak consumption have changed elite bodies:
+- Higher tolerance (can consume more)
+- Deeper dependency (need more to function)
+- Physiological divergence (subtle but measurable)
+- Absorption traces from sentient creature consumption (identity residue)
+
+**The Question**: Elite ARE different. Not superior — *contaminated*. Evolution or corruption depends on who's asking.
 
 ---
 
@@ -458,6 +473,59 @@ source_files:
 **Criminal Guilds**: Control vice, smuggling
 **Religious Leaders**: Influence masses
 **Rebel Groups**: Fight (ineffectively)
+
+---
+
+## Found Families (Survival Units)
+
+> **Thematic Note**: Blood families are destroyed by design at lower castes. The only families that survive are the ones you build. The system targets them because loyalty outside institutional control is dangerous.
+
+### Why They Form
+
+- Children sold at age 5-10 (slave/indentured)
+- Spouses separated by work assignments
+- Generations scattered by economic collapse
+- Blood family = liability in lower castes
+- Survival requires mutual aid
+
+### Examples
+
+**Pipe Rats**: Tunnel-dwelling salvagers with "Uncle" Relash as patriarch
+**Tenement Watches**: Neighborhood cooperatives sharing food, childcare, protection
+**Burial Societies**: Funeral cooperatives that care for orphans
+**Work Crews**: Factory teams that cover for each other, share rations
+**Criminal Networks**: Nethvor-Shadows recruits become "brothers" and "sisters"
+
+### Why They're Precious
+
+- Only functional families most people have
+- Provide meaning beyond survival
+- Create loyalty outside institutional control
+- Prove something human can exist in this system
+
+### Why They're Complicated
+
+- Hard choices (who eats, who gets the medicine, who's sacrificed)
+- Loyalty can be weaponized ("the family needs you to do this")
+- Survival units sometimes exploit their own members
+- Joining means owing; leaving often means dying
+- Love and coercion coexist in the same relationship
+
+### Why They're Targeted
+
+- System recognizes them as threats
+- Infiltrated by informants
+- Leaders arrested, executed, or bought
+- Members forced to betray each other
+- Criminalized when possible
+
+### The Contrast
+
+- Elite obsess over bloodlines but have broken families (assassination, incest, political marriage)
+- Poor who've lost everything build something that actually functions
+- The inversion is deliberate: dysfunction correlates with power
+
+**Key phrase**: *"Blood is what you're born with. Family is what you'd die for. The system knows the difference."*
 
 ---
 

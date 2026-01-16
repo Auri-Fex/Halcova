@@ -151,7 +151,7 @@ Win or lose, both parties suffer:
 
 Duels witnessed by:
 * **Telegraph operators**: Will report technique use
-* **Seal Syndics**: May flag for Standard Enclave boundary violation
+* **Beghel Syndics**: May flag for Standard Enclave boundary violation
 * **Civilians**: Create reputation spread
 
 ### Legal and Institutional Responses
@@ -159,7 +159,7 @@ Duels witnessed by:
 Use of somatic tuning in violence:
 * May violate Standard Enclave protocols
 * Creates insurance complications
-* Attracts Neutral Pier arbitrator interest
+* Attracts Navsad Pier arbitrator interest
 * Marks user as "known practitioner"
 
 ## Bullet-Counter Mechanics (Locked Rules)

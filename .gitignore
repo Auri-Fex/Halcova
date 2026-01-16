@@ -13,6 +13,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+.DS_Store
 
 # Distribution / packaging
 .Python
@@ -45,5 +46,10 @@ wheels/
 *.swo
 *~
 
+archive/
+*.bak
+*.tmp
+*.swp
 # OS files
 .DS_Store
+.vscode/

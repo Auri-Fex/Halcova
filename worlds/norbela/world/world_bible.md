@@ -32,6 +32,24 @@
 - **Knowledge vs. Greed**: Solutions exist but profit prevents change
 - **Individual vs. System**: Can anyone stop the machine?
 
+### Thematic Spine (LOCKED)
+
+All stories in Norbela are built around six interlocking themes:
+
+**Identity**: What remains after the system. Caste performance erodes selfhood until the mask becomes the face. After decades of performing your caste, is there a "real you" underneath?
+
+**Mask**: Social performance (mandatory), psychological defense (necessary), literal disguise (rare). They blur into each other. The stories people tell themselves to survive complicity aren't lies — they're survival mechanisms. The horror is that they work.
+
+**Monster**: Literal transformation (shyak consumption changes bodies), behavioral monstrosity (the system creates cruelty through normalization), identity dissolution (consuming sentient creatures leaves traces — not possession, but contamination).
+
+**Found Family**: How people survive when blood families are destroyed by design. Precious, functional, complicated, and deliberately targeted by the system because loyalty outside institutional control is dangerous.
+
+**Bloodlines**: Political power structure AND biological contamination. Generations of elite shyak consumption have made baron families physically different — not superior, contaminated. Lower-caste bloodlines are liabilities, not assets.
+
+**The Creature Question**: The mirror that reflects everything back. If creatures have identity, what makes human identity more real? The boundary between harvester and harvested blurs.
+
+**Synthesis**: *The system doesn't create monsters — it reveals that the distinction between person and monster was always negotiable.*
+
 ---
 
 ## II. Planetary Parameters
@@ -428,6 +446,28 @@
 **Systemic Inertia**: Solutions exist but systems prevent implementation  
 **The Cost of Comfort**: Elite luxury requires mass suffering  
 **Too Late?**: Can anything stop the machine?
+
+### Thematic Pillars (Story-Level)
+
+**Identity/Mask/Monster**:
+- You become what you consume, perform, and are forced to be
+- Long-term shyak consumption literally transforms elite bodies (contamination, not evolution)
+- Consuming sentient creatures leaves identity traces (preferences, dream fragments)
+- Caste performance erodes authentic selfhood
+- The mask becomes the face; the system creates monsters through normalization
+
+**Found Family/Bloodlines**:
+- Blood families are destroyed by design at lower castes
+- Found families (survival units) are how people actually survive
+- Elite bloodlines are power structures AND biological contamination
+- Creature bloodlines mirror human bloodlines (breeding programs, optimization for yield)
+- The system targets found families because loyalty outside control is dangerous
+
+**Key Phrases**:
+- *"You become what you consume. The question is whether you notice."*
+- *"The mask becomes the face. The face becomes the mask."*
+- *"Blood is what you're born with. Family is what you'd die for."*
+- *"They're just animals. That's what we tell ourselves. That's what they'll say about us."*
 
 ---
 

@@ -3,7 +3,23 @@ Reviewing: None (no external docs referenced)
 
 # ORROVAE — WORLD BIBLE (Live Canon, Updated)
 
-## 0) Canon Lock Index
+## 0) Thematic Story Spine
+
+**Axis 1 — Power/Cost**: *"Every miracle has a supply chain. Every body keeps a ledger."*
+
+Power in Orrovae is never free. Healing consumes mass and chemistry. Strain-class writes poverty on bodies. Hollowing is the ultimate invoice.
+
+**Axis 2 — Rebellion/Empire**: *"Stability cannot be achieved under external ownership."*
+
+Empire is extraction dressed as infrastructure. Every chokepoint is a throne. Rebellion arises when bounded autonomy discovers the system requires its consumption.
+
+**Central Question**: Who decides what your body is for?
+
+See `01_story_spine/thematic_core.md` for complete thematic architecture.
+
+---
+
+## 0.1) Canon Lock Index
 
 This document incorporates all current locked canon for Orrovae, including:
 
@@ -11,6 +27,7 @@ This document incorporates all current locked canon for Orrovae, including:
 
 * Underground civilization beneath the Ruinfield surface; trade and power run through chokepoint corridors called the  **Lanes** .
 * Core theme: survival as chosen dependency; bodies and infrastructure are priced, regulated, and exploited through institutions.
+* **Thematic expression**: Every lane is a toll. Every gate is a throne. Power/Cost manifests as passage fees; Rebellion/Empire manifests as who controls the chokepoints.
 
 **“Magic”**
 

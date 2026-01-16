@@ -10,6 +10,24 @@ Frigid iceworld orbiting a blue sun. All magic comes from creatures that eat fin
 
 ---
 
+## Thematic Spine (LOCKED)
+
+**Six Pillars**:
+1. **Identity** — What remains after the system erodes you
+2. **Mask** — Performance, defense, disguise (they blur together)
+3. **Monster** — Transformation, behavior, dissolution through consumption
+4. **Found Family** — Survival units that function; targeted by the system
+5. **Bloodlines** — Power structure + biological contamination
+6. **Creature Question** — The mirror that reflects everything back
+
+**Key Phrases**:
+- *"You become what you consume. The question is whether you notice."*
+- *"The mask becomes the face. The face becomes the mask."*
+- *"Blood is what you're born with. Family is what you'd die for."*
+- *"They're just animals. That's what we tell ourselves."*
+
+---
+
 ## Core Rules
 
 1. **Only animals have magic** - No exceptions, no human wizards

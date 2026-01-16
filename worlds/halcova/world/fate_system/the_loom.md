@@ -8,6 +8,14 @@ More importantly: The Loom may be a point of contact with Fate itself. Whether F
 
 ---
 
+## Thematic Role
+
+**Inheritance vs Prophecy**: The Loom reads patterns it didn't create (inheritance) and predicts futures (prophecy). But its predictions shape institutional response, which shapes actual outcomes. Is it reading fate or writing it? The distinction may be the system's central lie.
+
+**Trade of Fate**: The Loom's accuracy makes fate tradeable. Fate futures, pattern speculation, and prediction markets all depend on Loom readings. The Attendance trades information for... something. The system monetizes destiny.
+
+---
+
 ## Historical Origins: The Bootstrap Question
 
 ### The Fundamental Problem

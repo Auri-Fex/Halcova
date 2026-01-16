@@ -1,8 +1,8 @@
 # Major Locations Gazetteer
 
-## 1) SELMARA
+## 1) ZEVAKALAK
 
-**sel-mara** — "Saltwind City"
+**zeva-kalak** — "Sea City" *(Georgian: zghva → zeva, kalaki → kalak)*
 
 ### Classification
 
@@ -10,7 +10,7 @@ Major coastal port; Standard Enclave hub; treaty-port noir city
 
 ### Geography
 
-* Coastal location in Selina (Saltwind Littoral)
+* Coastal location in Zevareg (Sea Littoral)
 * Deep harbor with industrial docks
 * Terraced hillside districts
 * Warehouse labyrinth near waterfront
@@ -20,7 +20,7 @@ Major coastal port; Standard Enclave hub; treaty-port noir city
 * Major trade hub for Charged Pale imports
 * Refinery district (cracking stillworks on riverboats)
 * Telegraph nexus with multiple repeater stations
-* Seal Syndic headquarters district
+* Beghel Syndic headquarters district
 
 ### Key Districts
 
@@ -44,8 +44,8 @@ Major coastal port; Standard Enclave hub; treaty-port noir city
 
 **Crown Square**:
 * Wealthy residential
-* Seal Syndic offices
-* Neutral Pier chambers
+* Beghel Syndic offices
+* Navsad Pier chambers
 * Telegraph exchanges
 
 **Admiralty Heights**:
@@ -63,16 +63,26 @@ Major coastal port; Standard Enclave hub; treaty-port noir city
 ### Story Hooks
 
 * Counterfeit Charged Pale investigation
-* Seal Syndic corruption case
+* Beghel Syndic corruption case
 * Warehouse district outbreak
 * Dockworker uprising
 * Telegraph intelligence theft
 
+### Thematic Hooks (Dream/Dominion/Time/Territory)
+
+**Dream**: Admiralty Heights telegraph operators sharing identical nightmares. Circuit memory spreading through the repeater network. Workers wake knowing things about ships that haven't arrived yet.
+
+**Dominion**: Tidemark workers increasingly docile. Foundry Row foremen realize the workforce isn't loyal — they're *tuned*. Dregs market flourishes because compliance sells.
+
+**Time**: Contract disputes where both parties remember different durations. Telegraph logs don't match operator memory. "Signal drift" used as legal defense and legal weapon.
+
+**Territory**: The Tangles are contested ground where geographic, somatic, and cognitive territory all blur. Long-term warehouse workers can't be certain which memories are theirs.
+
 ---
 
-## 2) KHARRAS
+## 2) SHAREM
 
-**khar-ras** — "Pit Reach"
+**sha-rem** — "Pit Deep" *(Georgian: ch'a → sha, sirem from sighrme)*
 
 ### Classification
 
@@ -80,7 +90,7 @@ Major terrace metropolis; extraction hub; vertical city
 
 ### Geography
 
-* Terraced crater city in Kharveth (Pale Pit Country)
+* Terraced crater city in Sharekeoba (Pale Pit Country)
 * Vertical districts descending into pit
 * Pale seam access at multiple depths
 * Claim Ring territories mark extraction zones
@@ -98,7 +108,7 @@ Major terrace metropolis; extraction hub; vertical city
 * Broker headquarters
 * Claim registry offices
 * Wealthy extraction families
-* Spine Broker branch sites
+* Khergem Broker branch sites
 
 **Mid Rings**:
 * Worker housing
@@ -127,11 +137,21 @@ Major terrace metropolis; extraction hub; vertical city
 * Pale-Gilled nest purge
 * Extraction sabotage
 
+### Thematic Hooks (Dream/Dominion/Time/Territory)
+
+**Dream**: The Sealed Terrace survivors (if any exist) have been dreaming together for fifteen years. What have they become? What do they remember? Expedition teams return with memories of people they never met.
+
+**Dominion**: Deep pit workers are the most compliant in Selnara. Is it the isolation? The dregs? Or has something in the seeps been cultivating them? Claim bosses prefer "reliable" workers — and the supply is endless.
+
+**Time**: How long has the Sealed Terrace been sealed? Records say fifteen years. Survivors (rumored) say it's been longer. Or shorter. Time moves differently down there.
+
+**Territory**: Every terrace level is a claim. Your body accumulates contamination as you descend. By the time you own a deep claim, the deep claim owns you.
+
 ---
 
-## 3) TULWARDA
+## 3) KARESHTUL
 
-**tul-warda** — "Lock Ward"
+**karesh-tul** — "Gate Lock" *(Georgian: karibche → karesh, tula → tul)*
 
 ### Classification
 
@@ -139,7 +159,7 @@ Major lock-fort; river chokepoint; corridor control city
 
 ### Geography
 
-* Stone River lock-fort in Nartul (River Locklands)
+* Stone River lock-fort in Dinargoza (River Locklands)
 * Multi-stage lock system
 * Fortified gates at both ends
 * Quarantine inspection stations
@@ -156,7 +176,7 @@ Major lock-fort; river chokepoint; corridor control city
 **Upper Lock**:
 * Entry inspection
 * Gear mark checkpoint
-* Neutral Pier arbitration office
+* Navsad Pier arbitration office
 * Seal verification station
 
 **Transit Basin**:
@@ -185,19 +205,29 @@ Major lock-fort; river chokepoint; corridor control city
 * Blockade standoff
 * Creature infestation in spillways
 
+### Thematic Hooks (Dream/Dominion/Time/Territory)
+
+**Dream**: Quarantine inspectors begin sharing dreams about cargo they've never seen. Is it Signal contamination from the inspection coils? Or something in the river itself?
+
+**Dominion**: Kareshtul controls the corridor. The corridor controls the economy. But who controls Kareshtul? The lock-masters are calm, efficient, certain. Too certain. Too calm.
+
+**Time**: Lock scheduling is exact. But upstream and downstream witnesses disagree on transit times. Ships arrive "on schedule" but crews insist the passage took days longer. Or shorter.
+
+**Territory**: Kareshkalak is the ultimate chokepoint — geographic territory that grants cognitive dominion. If you control what passes through, you control what people know.
+
 ---
 
-## 4) GIRVETH
+## 4) METASAFEK
 
-**gir-veth** — "Spine Terrace"
+**meta-safek** — "Mountain Terrace" *(Georgian: mta → meta, sapexuri → safek)*
 
 ### Classification
 
-Ridge town; skyframe harvesting site; Spine Broker stronghold
+Ridge town; skyframe harvesting site; Khergem Broker stronghold
 
 ### Geography
 
-* Highland ridge settlement in Girven (Stormspine region)
+* Highland ridge settlement in Metaven (Stormspine region)
 * Exposed to Grey Current shearbelts
 * Skyframe deployment sites
 * Charge manifold facilities
@@ -221,7 +251,7 @@ Ridge town; skyframe harvesting site; Spine Broker stronghold
 * Charging stations
 * Pale transfer apparatus
 * Time slot control
-* Spine Broker offices
+* Khergem Broker offices
 
 **Weather Tower**:
 * Storm forecasting
@@ -237,11 +267,21 @@ Ridge town; skyframe harvesting site; Spine Broker stronghold
 * Discharge event disaster
 * Broker assassination
 
+### Thematic Hooks (Dream/Dominion/Time/Territory)
+
+**Dream**: Skyframe crews work in the highest Grey Current concentrations. They dream of storms that haven't happened yet — or have they? Circuit memory from previous crews, previous storms, previous deaths.
+
+**Dominion**: Khergem Brokers sell time. They also sell certainty — weather forecasts that make trade predictable. What if the forecasts aren't predictions but *instructions*? What if the storms come when they're scheduled?
+
+**Time**: "Minutes on the manifold" is the ultimate time commodity. But Broker records and client memories never quite align. Charging time is extorted, stolen, or simply *lost* — and no one can prove which.
+
+**Territory**: The ridge is geographic territory. The charge is economic territory. The forecast is cognitive territory. Metasafek controls all three — and the Compact intends to keep it.
+
 ---
 
-## 5) VETHGORO
+## 5) SIREMSHA
 
-**veth-goro** — "Deep Terrace"
+**sirem-sha** — "Deep Pit" *(Georgian: sighrme → sirem, ch'a → sha)*
 
 ### Classification
 
@@ -249,7 +289,7 @@ Deep pit settlement; frontier extraction site; hazardous zone
 
 ### Geography
 
-* Lower terraces in Kharveth pit country
+* Lower terraces in Sharekeoba pit country
 * Deeper Pale seams
 * Higher contamination risk
 * Limited Standard Enclave presence
@@ -271,9 +311,9 @@ Deep pit settlement; frontier extraction site; hazardous zone
 
 ---
 
-## 6) SHETMAR
+## 6) KIDSHET
 
-**shet-mar** — "Edge City"
+**kid-shet** — "Edge Corridor" *(Georgian: kide → kid, sheti → shet)*
 
 ### Classification
 
@@ -281,7 +321,7 @@ Desert edge settlement; depot hub; boom/bust town
 
 ### Geography
 
-* Desert basin in Shethassa (Shear Desert)
+* Desert basin in Kidmiva (Shear Desert)
 * Trade route nexus
 * Storm shear exposure
 * Temporary skyframe sites
@@ -303,9 +343,9 @@ Desert edge settlement; depot hub; boom/bust town
 
 ---
 
-## 7) NARTUL
+## 7) DINARKARESH
 
-**nar-tul** — "River Lock"
+**dinar-karesh** — "River Gate" *(Georgian: mdinare → dinar, karibche → karesh)*
 
 ### Classification
 
@@ -314,7 +354,7 @@ River gate city; secondary lock-fort; corridor checkpoint
 ### Geography
 
 * Single-stage lock on Stone River
-* Upstream from Tulwarda
+* Upstream from Kareshkalak
 * Smaller scale operations
 * Regional traffic control
 
@@ -327,9 +367,9 @@ River gate city; secondary lock-fort; corridor checkpoint
 
 ---
 
-## 8) SELVETH
+## 8) ZEVASAFEK
 
-**sel-veth** — "Saltwind Terrace"
+**zeva-safek** — "Sea Terrace" *(Georgian: zghva → zeva, sapexuri → safek)*
 
 ### Classification
 
@@ -340,7 +380,7 @@ Coastal terrace town; secondary port; refinery site
 * Terraced coastal settlement
 * Smaller harbor
 * Cracking stillworks
-* Quieter than Selmara
+* Quieter than Zevakalak
 
 ### Story Hooks
 
@@ -355,34 +395,34 @@ Coastal terrace town; secondary port; refinery site
 
 ### For Port Noir Stories
 
-**Primary**: Selmara (major city, all institutions present)
+**Primary**: Zevakalak (major city, all institutions present)
 
-**Secondary**: Selveth (smaller scale, regional focus)
+**Secondary**: Zevasafek (smaller scale, regional focus)
 
 ### For Frontier Violence Stories
 
-**Primary**: Kharras (terrace wars, claim jumping)
+**Primary**: Sharem (terrace wars, claim jumping)
 
-**Secondary**: Vethgoro (deeper, more desperate)
+**Secondary**: Siremsha (deeper, more desperate)
 
-**Tertiary**: Shetmar (desert boom/bust)
+**Tertiary**: Kidshet (desert boom/bust)
 
 ### For Corridor Crisis Stories
 
-**Primary**: Tulwarda (major lock, high stakes)
+**Primary**: Kareshkalak (major lock, high stakes)
 
-**Secondary**: Nartul (regional lock, local focus)
+**Secondary**: Dinarkaresh (regional lock, local focus)
 
-### For Spine Broker Stories
+### For Khergem Broker Stories
 
-**Primary**: Girveth (established monopoly)
+**Primary**: Metasafek (established monopoly)
 
-**Secondary**: Shetmar (temporary sites, instability)
+**Secondary**: Kidshet (temporary sites, instability)
 
 ### For Horror Outbreak Stories
 
 **Any location works**, but:
-* **Urban**: Selmara warehouse district
-* **Vertical**: Kharras Sealed Terrace
-* **Corridor**: Tulwarda spillways
-* **Frontier**: Vethgoro deep pits
+* **Urban**: Zevakalak warehouse district
+* **Vertical**: Sharem Sealed Terrace
+* **Corridor**: Kareshkalak spillways
+* **Frontier**: Siremsha deep pits

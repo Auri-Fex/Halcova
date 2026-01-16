@@ -1,4 +1,4 @@
-# Creature Ecology — Industrial Parasites
+# Creature Ecology — Parasitic Extensions
 
 ## Core Principle (LOCKED)
 
@@ -9,6 +9,23 @@ Selnara's non-human threats are **not classical monsters**. They are:
 * **Containment Failures**: They thrive where maintenance lapses
 
 This creates an **Alien-style horror vibe** where the industrial labyrinth itself becomes predatory.
+
+## Cosmological Truth (LOCKED)
+
+**These creatures are extensions or offspring of the main parasite.**
+
+The entity that feeds on the dead in Ashra has a physical presence in Selnara through Pale Medium. The creature families are **parasitic organisms serving the feeding cycle**—not random contamination fauna, but purposeful ecosystem elements.
+
+| Creature | Cosmological Role |
+|----------|-------------------|
+| **Ashwrights** | Feed on boundary energy (Grey Ash = Current residue) |
+| **Varnish Sheets** | Spread parasitic contamination, build networks |
+| **Pale-Gilled** | Guard extraction sites, process waste |
+| **Signal Mimics** | **Actively serve the parasite's interests**—cultivating compliance, protecting the cycle |
+
+Signal Mimics are the most important: they make humans calm, compliant, and ignorant. They install preferences. They cultivate the docility that makes feeding easier. They may be the parasite's **direct agents** in the material world.
+
+**The Selnari do not know this.** They treat creatures as industrial pests or contamination hazards.
 
 ## The Three Base Families
 
@@ -36,6 +53,8 @@ This creates an **Alien-style horror vibe** where the industrial labyrinth itsel
 
 **Horror Element**: They **wear the posture of whoever they killed last**
 
+**Cosmological note**: Ashwrights may be absorbing fragments of consciousness from victims—not fully, but echoes. They're crude collectors of death-energy, feeding on the boundary bleed.
+
 **Containment**: Ventilation, ash removal, dehumidification, grounding straps
 
 ### 2) Varnish Sheets
@@ -61,6 +80,8 @@ This creates an **Alien-style horror vibe** where the industrial labyrinth itsel
 * Slow death unless removed immediately
 
 **Horror Element**: **Multiple victims become a living circuit**, convulsing in sync
+
+**Cosmological note**: Varnish Sheets build conductive networks—they're extending the parasite's physical presence, creating pathways for influence. An infested facility becomes more connected to the parasitic system.
 
 **Containment**: Fire watch, varnish burn-off, sealed drainage, regular pipe scraping
 
@@ -89,9 +110,13 @@ This creates an **Alien-style horror vibe** where the industrial labyrinth itsel
 
 **Horror Element**: Victims caught alive are **kept docile while being consumed**
 
+**Cosmological note**: The behavioral drift Pale-Gilled induce isn't a side effect—it's the same compliance the parasite cultivates in everyone. These creatures are doing on a micro-scale what the cosmic system does to all Selnari.
+
 **Containment**: Sealed sumps, waste disposal protocols, armed watch at extraction sites
 
 ## Signal Mimics (Fourth Family — Advanced Threat)
+
+**Cosmological Status**: Signal Mimics may be the **parasite's direct agents**—the closest thing to conscious servants it has in the material world.
 
 **Habitat**: High-concentration Signal Pale environments (telegraph stations, repeater junctions)
 
@@ -116,6 +141,25 @@ This creates an **Alien-style horror vibe** where the industrial labyrinth itsel
 **Horror Element**: **Victims insist they were following protocol and don't remember danger**
 
 **Containment**: Operator rotation, buddy system, sealed maintenance hatches, regular discharge of static buildup
+
+### Dream-Nesting (Advanced Behavior)
+
+Signal Mimics don't only operate during waking hours. In high-infestation environments:
+
+* **Shared dream contamination**: Workers in the same circuit begin dreaming the same content
+* **Protocol installation**: Victims wake knowing procedures they never learned — and follow them
+* **Memory colonization**: Mimics deposit "residue memories" that feel authentic
+* **Preference drift acceleration**: Dream-exposure compounds daytime compliance effects
+
+**The Deep Horror**: The Mimic doesn't need to lure you. It makes you *want* to go. The dream tells you it's safe. The protocol says you should. Your certainty is complete. You were following orders — orders you gave yourself, that were given to you in sleep.
+
+**Cosmological truth**: Signal Mimics are doing the parasite's core work—cultivating compliance, installing preferences, making the feeding cycle feel natural and necessary. They're not pests. They're **infrastructure maintenance for the cosmic system**. Every telegraph station they nest in becomes a node of parasitic influence.
+
+**Detection**: Impossible in early stages. Later signs include:
+* Multiple workers reporting identical dream content
+* Unprompted protocol execution by untrained staff
+* Grief or nostalgia for people/places that don't exist
+* Temporal disagreements between witnesses about shared events
 
 ## Nest Ecology and Outbreak Events
 
@@ -171,21 +215,21 @@ This creates an **Alien-style horror vibe** where the industrial labyrinth itsel
 
 ## Famous Outbreak Events (Story Hooks)
 
-### The Kharras Terrace Seal (15 Years Ago)
+### The Sharem Terrace Seal (15 Years Ago)
 
 * **Cause**: Pale Dregs dumped in old mine shaft
 * **Result**: Pale-Gilled population explosion
 * **Outcome**: Entire terrace sealed; 200+ deaths
 * **Legacy**: "Sealed Terrace" now off-limits; rumors of survivors
 
-### The Selmara Bellworks Incident (8 Years Ago)
+### The Zevakalak Bellworks Incident (8 Years Ago)
 
 * **Cause**: Grey Ash accumulation in foundry sub-floors
 * **Result**: Ashwright outbreak during night shift
 * **Outcome**: 40 workers dead before dawn; building burned
 * **Legacy**: Labor laws changed (briefly); ash protocols "strengthened"
 
-### The Tulwarda Repeater Station Drift (3 Years Ago)
+### The Kareshkalak Repeater Station Drift (3 Years Ago)
 
 * **Cause**: Signal Mimic in main junction
 * **Result**: 12 operators followed "protocol" into flooded maintenance tunnel

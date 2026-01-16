@@ -14,12 +14,26 @@
 
 ---
 
+## Thematic Pillars (LOCKED)
+
+1. **Identity** — What remains after the system. Performance erodes selfhood; caste becomes personality.
+2. **Mask** — Social performance, psychological defense, literal disguise. They blur into each other.
+3. **Monster** — Literal transformation, behavioral adaptation, identity dissolution through consumption.
+4. **Found Family** — Survival units that function. Precious, complicated, and targeted by the system.
+5. **Bloodlines** — Power structure with biological contamination. Elite ARE different — contaminated, not superior.
+6. **The Creature Question** — The mirror that reflects everything back. The boundary between harvester and harvested blurs.
+
+**Synthesis**: *The system doesn't create monsters — it reveals that the distinction between person and monster was always negotiable.*
+
+---
+
 ## Core Documents
 
 ### Essential Reading
 
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - 1-page rapid lookup for writing/gaming
 - **[world/world_bible.md](world/world_bible.md)** - 20-page comprehensive reference (START HERE)
+- **[10_story_spine/thematic_core.md](10_story_spine/thematic_core.md)** - Thematic story spine (Identity/Mask/Monster + Found Family/Bloodlines)
 - **[conlang_lexicon.json](conlang_lexicon.json)** - Complete vocabulary reference
 
 ### Planning Documents (Historical)
@@ -114,6 +128,10 @@ Conlang system, vocabulary, naming conventions
 ### 09_Reference
 Quick lookups, glossaries, conversion tables
 - (To be populated with extracted reference materials)
+
+### 10_Story_Spine
+Thematic core, protagonist archetypes, narrative structures
+- thematic_core.md (Identity/Mask/Monster + Found Family/Bloodlines)
 
 ---
 

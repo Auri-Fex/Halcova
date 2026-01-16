@@ -1,14 +1,21 @@
-## Reviewing: World Bible v1.1 (locked) • Collection decisions (locked) • Akslur/Vlokim/Kemhak + Schim/Aapshim (locked) • POV/wordcount plan (locked)
 
-# ORSEK CASEFILES — COLLECTION BIBLE v1.0
+## Anthology Canon Update (Jan 2026)
+
+This collection is now part of the 8-book slate, with each story a Schim case (intensity oscillates: Full/Partial). Dual POV structure is canon: Boiskem (containment) and Orsek (aftermath/noir). Crew/bench details, conlang-compliant names, and belief/cost structure are locked as described in the main world bible. See story_doc.md for full slate and scene outlines.
+
+# ORSEK & BOISKEM CASEFILES — COLLECTION BIBLE v1.1
 
 *(World-first anthology: Constructcraft + civic noir + horror escalation)*
+
+**Thematic Reference:** [thematic_core.md](thematic_core.md)
 
 ## 1) What this book is
 
 A  **collection of episodic short stories** . Each story is  **one complete case** . The only continuity that grows story-to-story is **small, outside-life character texture** (not plot arcs, not new world rules). The world, the system, and the horror are the stars.
 
 **Core promise:** every case resolves to a **provable mechanism** (even if power tries to bury it).
+
+**Thematic core:** *How long can you hold the line—with failing tools, rotting fuel, and a truth that keeps getting laundered?*
 
 ---
 
@@ -25,16 +32,20 @@ Violence is engineered to look like:
 
 Guilds and underwriters win by controlling  **work, tools, food, housing, protection** , and the narrative of blame.
 
+**Thematic role (Language/Reality):** Quiet Blood is language hiding truth. The battle is over which words become official—"accident" vs "murder," "failure" vs "sabotage."
+
 ### The horror layer (rare escalation)
 
 Most cases are human Quiet Blood. Sometimes, someone pays for worse:
 
 * **Akslur** (hostile behind-layer)
-* **Vlokim** (curse condition; common speech says “curse”)
+* **Vlokim** (curse condition; common speech says "curse")
 * **Kemhak** (planted anchor object)
 * **Schim** / **Aapshim** (the monkey-like manifest seat-form)
 
-**Hard rule:** if there’s Vlokim, there’s a Kemhak. If there’s a Kemhak, there was  **access** .
+**Hard rule:** if there's Vlokim, there's a Kemhak. If there's a Kemhak, there was  **access** .
+
+**Thematic role (Plague):** Vlokim is Plague—a hostile ecology that feeds on what Nature produces. It has a lifecycle. It can be contained. It cannot be reasoned with or named into submission.
 
 ---
 
@@ -79,7 +90,7 @@ Akslur can’t freely roam. It can only **seat briefly** under conditions:
 * **Schim** — manifest seat-form (Orsek term)
 * **Aapshim** — common/scared name for Schim
 
-(Use code-switching for flavor: Orsek lean Strak; street uses English “curse” plus Aapshim folklore talk.)
+(Use code-switching for flavor: Orsek lean Koldrik formal; street uses English "curse" plus Aapshim folklore talk.)
 
 ---
 
@@ -157,20 +168,19 @@ POV is a camera. The camera serves the  **world rules and dread** , not ensemble
 
 ---
 
-## 11) Episode slate (working titles + what each showcases)
 
-1. **Scaffold Slip** — Werslag; tool-failure murder; chase + standardized sabotage tells
-2. **Cut Oil** — Marvel; contamination hit; supply route + residue logic
-3. **Payroll Vanish** — Marvel→Werslag; riot pressure; Stravak cordon reality
-4. **Impound Wrong** — Kwerf; custody laundering; “safety doval” as antagonist tool
-5. **Cold Hem** *(Feature #1 recommended)* — Kustra/Havkad; first true Vlokim; Kemhak found; Schim moves the world
-6. **Venue Window** — Menvri; licensed crowd window; panic + donor crash setpiece
-7. **Chainmark** *(Skerin POV)* — Sporek/Werslag; counterfeit chain/bolt; wear-state and tool-mark truth
-8. **House Fire That Isn’t** — Havkad; arson staged as accident; proof extraction under pressure
-9. **Red Herring Curse** *(Mildan POV works well)* — everyone screams Vlokim; it’s human staging; reinforces Orsek discipline
-10. **Swallowed Anchor** *(Feature #2)* — escalation: Kemhak internalized; medical clock + custody war + finite light defense
+## 8-book slate: Schim intensity, counterplay, and cost
 
-(These are casefile labels, not permanent “series lore.”)
+1. **BUOY-17: Tide Case** — Full intensity, coherence raise + Kemhak removal, cost: Blood
+2. **BUOY-04: Cold Tow** — Partial intensity, coherence corridor rails + timing discipline, cost: Time
+3. **LINECALL: Warehouse Hymn** — Full intensity, Kemhak removal, cost: Reputation
+4. **BUOY-22: Wreck Court Siege** — Partial intensity, coherence raise, cost: Legitimacy
+5. **LINECALL: Quarantine Yard Keys** — Full intensity, terrain denial + coherence raise, cost: Truth
+6. **BUOY-09: The Bell Diver** — Partial → brief Full, coherence pool-lighting + timing discipline, cost: Body
+7. **LINECALL: Stage Window** — Full intensity, coherence routing, cost: Innocents
+8. **BUOY-31: The Containment That Travels** — Full intensity, systemic Kemhak removal + deny re-seeding, cost: Future
+
+Each story is a Schim case, with intensity oscillation to keep dread alive. See story_doc.md for scene outlines and POV breakdowns.
 
 ---
 

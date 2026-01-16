@@ -1,6 +1,40 @@
-## Reviewing: Orsek Casefiles Collection Bible v1.0 • World Bible v1.1 (locked) • Akslur/Vlokim/Kemhak/Schim terms (locked)
 
-Below are **full crew profiles** (first names only), tuned for  **world-first noir + Constructcraft + horror** , with **usable POV tells** and **practical flaws** (no cringe “procedure slogans”).
+## Anthology Canon Update (Jan 2026)
+
+Crew structure now follows the anthology’s dual POV format: Boiskem (containment) and Orsek (aftermath/noir). Size B core and Size C bench are canon, with rotation rules and conlang-compliant names as described in worldbible.md. See story_doc.md for full cast and POV breakdowns.
+**Thematic Reference:** [thematic_core.md](thematic_core.md)
+
+**Crew thematic roles:**
+- **Boiskem** = Holders (maintaining structure against Entropy and Plague)
+- **Orsek** = Namers (making language stick to reality)
+# ORSEK CREW (Core + Bench)
+
+Core 3:
+* Marike Dravel (lead POV)
+* Senn Rik (field partner)
+* Verle Koen (analyst)
+
+Bench:
+* Nils Fen (runner)
+* Ota Wran (fixer liaison)
+
+# BOISKEM CREW (Core + Bench)
+
+Core 4:
+* Bram Skorin (lead POV)
+* Joris Skelm (coherence tech)
+* Tomas Veld (breacher)
+* Riss Boien (diver/recovery)
+
+Bench:
+* Halen Vrink (medic)
+* Kaat Vervo (handler)
+
+Rotation: Bram + 2 core + 1 bench for Boiskem; Marike + 1 core + 1 bench for Orsek per novella.
+
+---
+
+# Legacy Crew Profiles (for reference)
 
 ---
 
@@ -341,9 +375,9 @@ If you want these to be immediately draft-ready, next I can produce a **POV Voic
 
 
 
-## Reviewing: Orsek Casefiles Collection Bible v1.0 • World Bible v1.1 (locked) • Strak conlang pipeline (Dutch roots → molted) • Locked terms: Akslur / Vlokim / Kemhak / Schim (Aapshim)
+## Reviewing: Orsek Casefiles Collection Bible v1.0 • World Bible v1.1 (locked) • Koldrik conlang pipeline (Dutch roots → molted) • Locked terms: Akslur / Vlokim / Kemhak / Schim (Aapshim)
 
-Yep — they have full names. I’m keeping it  **simple and usable** : **given name (already locked) + family name** (Strak-molted). Below, each surname shows the  **root words → molt path** , and each profile includes the **POV perception filters** (what they notice that nobody else does).
+Yep — they have full names. I'm keeping it  **simple and usable** : **given name (already locked) + family name** (Koldrik-molted). Below, each surname shows the  **root words → molt path** , and each profile includes the **POV perception filters** (what they notice that nobody else does).
 
 ---
 

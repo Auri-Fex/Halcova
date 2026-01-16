@@ -4,6 +4,14 @@
 
 ---
 
+## Thematic Story Spine
+
+**Axis 1 — Inheritance vs Prophecy**: Each Art transforms what you inherited into a different prophesied future. Core Binding trades inherited echoes for prophesied knowledge. Fate Threading spends inherited potential for prophesied capability.
+
+**Axis 2 — Trade of Fate**: Every Art is a transaction. The universe keeps ledgers. Some lives are worth more dead than alive—Core Binding and Pact Summoning make this explicit. The trade is always honored; the question is who pays.
+
+---
+
 # Overview
 
 In Hálcova, power is never free. Every magical tradition operates on the same fundamental truth: you must spend something real to gain something real. There are no shortcuts, no loopholes, no clever tricks that let you escape the cost. The universe keeps ledgers, and it always collects.

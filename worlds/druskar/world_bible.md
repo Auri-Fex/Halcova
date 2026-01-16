@@ -1,9 +1,10 @@
 
-Reviewing: world_bible.docx
-
 # WORLD BIBLE — DRUSKAR
 
 **Version:** v1.2 (Comprehensive + Zoomed-Out Strategic Board + Arcane-Punk Device Ecology + Biota Policy)
+
+> **Navigation:** This is the canonical reference document. For quick reference, see [QUICK_REFERENCE.md](QUICK_REFERENCE.md). For story development, see [storyengine_maimingwars/](storyengine_maimingwars/).
+
 **Hard locks**
 
 * **World:** Druskar
@@ -26,6 +27,31 @@ Reviewing: world_bible.docx
 4. Bureaucracy is physical (chokepoints make paperwork real).
 5. Arcane-punk is infrastructure (meters, seals, assays, filters, clocks, routing). Combat gear is a subset.
 6. Firearms baseline (revolvers and carbines are normal).
+
+---
+
+## A2) Thematic pillars
+
+**Full reference:** [01_story_spine/thematic_core.md](01_story_spine/thematic_core.md)
+
+### Law vs Oath vs Hospitality
+*Every favor is a debt, every promise is a contract, and there’s no such thing as free shelter.*
+
+| Force | System Expression |
+|-------|-------------------|
+| **Law** | Commission protocols, closure orders, admissibility requirements |
+| **Oath** | Order contracts, Fortune Claims, bonded obligations |
+| **Hospitality** | *Absent*—the wound. Human connection has been monetized. |
+
+### Artifice vs Soul
+*The paperwork is real. The devices are real. But you’re still bleeding through.*
+
+| Force | System Expression |
+|-------|-------------------|
+| **Artifice** | Devices, documents, seals—survival through becoming a ledger entry |
+| **Soul** | Innate ability, authentic self—liability that leaves Heat and evidence |
+
+**Central Question:** *What does it cost to stay human in a world that prices everything?*
 
 ---
 

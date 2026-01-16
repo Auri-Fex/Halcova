@@ -1,14 +1,28 @@
-## Reviewing: World Bible v1.0 (Constructcraft + Quiet Blood) • City Layer v0.1 • Institutional Web v0.1 • Orsek Crew v0.1 • Strak conlang pipeline + lexicon • B-Track supernatural patch (Akslur / Vlokim / Kemhak) + integration updates
+## Reviewing: World Bible v1.0 (Constructcraft + Quiet Blood) • City Layer v0.1 • Institutional Web v0.1 • Orsek Crew v0.1 • Koldrik conlang pipeline + lexicon • B-Track supernatural patch (Akslur / Vlokim / Kemhak) + integration updates
 
 # WORLD BIBLE v1.1 — Constructcraft + Quiet Blood + Akslur (B-Track)
 
 A dark fantasy / neo-noir city where guilds fight economic wars through “accidents,” counterfeits, shortages, and crowd pressure — while investigators (Orsek) try to prove causes inside a system designed to smooth trouble away. The only usable human “magic” is Constructcraft (hard-light constructs). The only other supernatural phenomenon is hostile and deniable: Akslur intrusion, typically induced through Vlokim using a planted Kemhak.
 
+**Thematic Reference:** [thematic_core.md](thematic_core.md)
+
 ---
 
 ## 0) One-line pitch
 
-Hard-light constructs are produced by etched lens-coins and powered by biolight (often stored as levpekel). The city’s real war is bureaucratic and economic — violence disguised as failure. In the background, a hostile behind-layer (Akslur) can be carried in via curse-objects (Kemhak), turning “accidents” into something worse — while coherent light keeps it away only as long as the fuel and hardware hold.
+Hard-light constructs are produced by etched lens-coins and powered by biolight (often stored as levpekel). The city's real war is bureaucratic and economic — violence disguised as failure. In the background, a hostile behind-layer (Akslur) can be carried in via curse-objects (Kemhak), turning "accidents" into something worse — while coherent light keeps it away only as long as the fuel and hardware hold.
+
+## 0.1) Thematic Pillars
+
+**Nature vs Plague vs Entropy:** *Everything is fuel. Everything rots. The question is what you burn and how long it lasts.*
+- **Nature:** Biolight (what life produces, what tools consume)
+- **Plague:** Akslur/Vlokim (hostile ecology that feeds on Nature)
+- **Entropy:** Degradation ladders, rot, wear (the only universal law)
+
+**Language / Reality:** *The pattern defines the possible. But some things exist whether you name them or not.*
+- Etched patterns are literal language-as-reality
+- Akslur exists outside the pattern system
+- The battle is over which words become official
 
 ---
 
@@ -28,6 +42,8 @@ The ability to instantiate **hard-light constructs** (solid, load-bearing photon
 
 **Common speech** calls Vlokim “a curse.” In-world, they code-switch.
 
+**Thematic role (Plague):** Akslur/Vlokim is a competing ecology that feeds on what Nature produces. It doesn't hate—it feeds. It can be contained but not reasoned with. It exists outside the pattern/language system entirely.
+
 ---
 
 ## 2) Constructcraft system (core)
@@ -35,6 +51,8 @@ The ability to instantiate **hard-light constructs** (solid, load-bearing photon
 ### 2.1 Biolight fuel
 
 Biolight is extracted from living metabolic processes and converted into coherent structure.
+
+**Thematic role (Nature):** Biolight is not benevolent—it's fuel. What life produces, tools consume. The question is always what you're willing to burn.
 
 **Fuel qualities**
 
@@ -80,6 +98,8 @@ A lens-coin is a palm-sized photonic circuit defining:
 * **how stable** it is (resolution)
 * **how it fails** (wear profile)
 
+**Thematic role (Language/Reality):** Etched patterns are literal language-as-reality. The pattern defines what can exist. Pattern libraries are vocabularies of the possible. Those who control the catalogs control what can be spoken into being.
+
 **Anatomy**
 
 * **Ring (metal):** phase stability + signature retention
@@ -117,6 +137,8 @@ Coins are calibrated to a living physiological signature (pulse rhythm, breath c
 ### Rule B: Etches degrade (entropy smear)
 
 Every activation damages the lattice.
+
+**Thematic role (Entropy):** This is the only universal law. Every use brings the tool closer to failure. You can't prevent degradation—you can only manage it long enough to accomplish something.
 
 **Degradation ladder**
 
@@ -335,9 +357,9 @@ Vlokim is a premium tactic within Quiet Blood:
 
 ---
 
-## 13) Strak conlang pipeline (repeatable, practical)
+## 13) Koldrik conlang pipeline (repeatable, practical)
 
-**Baseline root language:** Dutch (as raw material), then “molted” into Strak.
+**Baseline root language:** Dutch (as raw material), then "molted" into Koldrik.
 
 **Core transforms**
 
@@ -353,9 +375,9 @@ Vlokim is a premium tactic within Quiet Blood:
 
 * Charter/legal speech uses longer compounds.
 * Street speech uses molted forms.
-* Characters mix English translations (“curse”) with Strak terms (Vlokim) naturally.
+* Characters mix English translations ("curse") with Koldrik terms (Vlokim) naturally.
 
-**Locked Strak supernatural terms**
+**Locked Koldrik supernatural terms**
 
 * **Akslur** (behind-layer)
 * **Vlokim** (curse condition)
@@ -380,7 +402,209 @@ Vlokim is a premium tactic within Quiet Blood:
 
 ---
 
-If you want the next “make it writeable” step, the two highest-value inserts are:
 
-1. **Akslur Appendix v0.2** (expanded tells + containment + rarity rules)
-2. **Orsek Protocol Addendum (Kemhak Suspected) — one-page** (scene procedure you can reuse every case)
+---
+
+# Anthology Series Canon Update (Jan 2026)
+
+## 8-book slate: Schim intensity, counterplay, and cost
+
+**Key**
+
+* **Intensity:** Signs → Environment → Partial → Full
+* **Primary counter:** (1) **Coherence raise** (hard-light lattices/rails), (2) **Kemhak removal** (anchor hunt/bag), (3) **Terrain denial** (light/airflow/fog/smoke control), plus **Timing discipline** (survive the window)
+* **Cost type:** what the belief extracts: *“You can plan for containment. You can’t plan for what it costs.”*
+
+### 1) **BUOY-17: Tide Case**
+
+* **Intensity:** **Full**
+* **Primary counter:** **Coherence raise + Kemhak removal** (perimeter + bag the anchor)
+* **Cost type:** **Blood** (injury/maiming to hold the line)
+
+### 2) **BUOY-04: Cold Tow**
+
+* **Intensity:** **Partial** (inside-the-hull dread; limited contact)
+* **Primary counter:** **Coherence corridor rails + Timing discipline**
+* **Cost type:** **Time** (missed window → ambush/seizure; defenses burn out)
+
+### 3) **LINECALL: Warehouse Hymn**
+
+* **Intensity:** **Full**
+* **Primary counter:** **Kemhak removal** (anchor hunt under breach/clear pressure)
+* **Cost type:** **Reputation** (scapegoat / “operator error” narrative)
+
+### 4) **BUOY-22: Wreck Court Siege**
+
+* **Intensity:** **Partial** (public “wake-up” event; not a prolonged fight)
+* **Primary counter:** **Coherence raise** in a hostile civilian environment
+* **Cost type:** **Legitimacy** (authority flips; Boiskem framed as hazard)
+
+### 5) **LINECALL: Quarantine Yard Keys**
+
+* **Intensity:** **Full**
+* **Primary counter:** **Terrain denial + Coherence raise** (floodlights + lattice fences)
+* **Cost type:** **Truth** (forced silence bargain to prevent riot/market panic)
+
+### 6) **BUOY-09: The Bell Diver**
+
+* **Intensity:** **Partial → brief Full** (one nasty contact beat)
+* **Primary counter:** **Coherence pool-lighting + Timing discipline** (water/fog keeps trying to drop it)
+* **Cost type:** **Body** (permanent loss: fingers, vision, lung capacity)
+
+### 7) **LINECALL: Stage Window**
+
+* **Intensity:** **Full**
+* **Primary counter:** **Coherence routing** (funnel the crowd; hold rails long enough)
+* **Cost type:** **Innocents** (triage math: save mass, lose a pocket)
+
+### 8) **BUOY-31: The Containment That Travels**
+
+* **Intensity:** **Full**
+* **Primary counter:** **Kemhak removal (systemic)** + deny re-seeding
+* **Cost type:** **Future** (burn the ladder: go outlaw / expose patrons / destroy a protection network)
+
+This keeps “Aliens in the middle”: every book is a Schim case, but intensity oscillates so the creature doesn’t become routine.
+
+---
+
+# Comprehensive write-up: what we added/changed/updated
+
+## What we set as the anthology’s core direction
+
+* We chose **A+B**: **mission-based responders** + **wet salvage/retrieval horror** (“Aliens” chassis inside your dark-fantasy/noir world).
+* We renamed the whole operating concept into **Boiskem runs**: standalone “jobs” tied by light connective tissue (BUOY IDs, recurring minor, traveling cradle).
+
+## Canon decision: what Boiskem *are*
+
+* **Boiskem are private (Option 2A)**: a **corporate hazard containment + asset recovery unit** contracted by a consortium.
+* They are **separate from Stravak** (beat/cordon) and **Orsek** (investigation).
+* Some Boiskem are **ex-Stravak/ex-Orsek**, creating built-in friction, guilt, and cross-competence.
+
+### Boiskem mandate stack (locked)
+
+1. **Primary:** contain escalation + recover/secure the asset (control the object)
+2. **Secondary:** liability suppression (witness/narrative control)
+3. **Tertiary:** triage intel (not full investigation)
+
+This was explicitly chosen to preserve noir: **who controls the object controls the story**.
+
+## Canon decision: Orsek side is real and recurring
+
+* We locked a **Dual POV structure** (Option 4): each novella has:
+
+	* **Boiskem POV** for containment (the mission/horror)
+	* **Orsek POV** for causation/aftermath (the noir)
+
+This gives you X-files rhythm: monster pressure + human coverup.
+
+## Canon decision: the belief tested (series theme)
+
+We set the series belief tested (Hybrid) to:
+
+> **“You can plan for containment. You can’t plan for what it costs.”**
+
+Then we made it operational:
+
+* the plan often works,
+* containment is competent,
+* the *cost* is where tragedy/noir lives (blood, blame, silence, innocents, future).
+
+## Canon decision: Schim presence policy (Aliens heartbeat)
+
+* **Every book is a Schim case**, but **not every book has full contact**.
+* We set an **intensity oscillation** across 8 books (Full vs Partial) to keep dread alive.
+
+## Canon decision: conlang-compliant names
+
+You required names to come from your conlang pipeline. We locked **Package A** as canon, with Charter (long) vs street (molted/clipped) forms.
+
+### Duo anchors (recurring POVs)
+
+* **Marike Dravel** *(Charter: Marijke Draaiveld)* — Orsek
+* **Bram Skorin** *(Charter: Bram Schoren)* — Boiskem
+
+### Orsek roster (Size B core + Size C bench)
+
+Core 3:
+
+* **Marike Dravel** (lead POV)
+* **Senn Rik** *(Senne Rijck)* (field partner)
+* **Verle Koen** *(Veerle Koenen)* (analyst)
+
+Bench:
+
+* **Nils Fen** *(Nijls Fenner)* (runner)
+* **Ota Wran** *(Otta Wraanen)* (fixer liaison)
+
+### Boiskem roster (Size B core + Size C bench)
+
+Core 4:
+
+* **Bram Skorin** (lead POV)
+* **Joris Skelm** *(Joris Schermel)* (coherence tech)
+* **Tomas Veld** *(Thomas Veldman)* (breacher)
+* **Riss Boien** *(Ritse Boeijen)* (diver/recovery)
+
+Bench:
+
+* **Halen Vrink** *(Haalen Vrincken)* (medic)
+* **Kaat Vervo** *(Kaatje Vervooen)* (handler)
+
+## Canon decision: crew size model and rotation
+
+* **On-page default:** **Size B** (Boiskem 4 / Orsek 3)
+* **Bench known:** Size C add-ons exist and rotate in/out per novella.
+* **Rotation rule:** Bram + 2 core + 1 bench for Boiskem; Marike + 1 core + 1 bench for Orsek.
+
+This keeps scenes tight while allowing variety and deaths without collapsing the series.
+
+## Canon decision: the X-files “duo comfort arc” — with the swap
+
+We swapped the “believer/cynic” assignments with the **asymmetric** version:
+
+* **Bram (Boiskem) = believer** (action-faith: people can be saved; the line can hold)
+* **Marike (Orsek) = cynic** (truth-fatigue: the system eats evidence; outcomes don’t follow truth)
+
+Why it works:
+
+* Boiskem belief = *field courage / rescue impulse* (not “belief in the corporation”)
+* Orsek cynicism = *epistemic noir* (truth exists; leverage is unreliable)
+
+We mapped a comfort ladder across Books 1–8:
+
+* collision → tactical respect → shared risk → final break.
+
+## What we drafted in outline form so far
+
+* We created a **Boiskem Field Card** conceptually (kit, counters, abort thresholds).
+* We created an **Orsek Field Card** conceptually (timeline, receipts, witness protection, leverage).
+* We drafted **BUOY-17: Tide Case** as a **dual-POV 14-beat** outline with:
+
+	* mixing triggers,
+	* coherence/perimeter tactics,
+	* Kemhak suspected compromise (Marike grabs secondary truth while Boiskem bags anchor),
+	* ending sting: containment holds, truth thins.
+
+---
+
+## What’s now stable canon vs flexible
+
+### Stable (locked)
+
+* Boiskem private corporate unit (2A)
+* Dual POV with recurring duo
+* Package A names
+* Asymmetric believer/cynic swap
+* Series belief tested
+* Schim in every book, intensity oscillation
+
+### Flexible (easy to adjust)
+
+* Exact consortium name(s) and which faction they answer to
+* Whether Bram is ex-Stravak or corporate lifer (either still works)
+* Which bench members appear in which book
+* The exact traveling object (cradle/crate) and recurring minor (dispatcher/registrar)
+
+---
+
+If you want the next concrete deliverable, I can turn this into a **single “Anthology Series Bible” page** (cast, premise, belief, Schim rules, slate) and then expand **Book 1** into full **scene cards** with plaques + coherence level + Schim window probability + cost escalation notes.

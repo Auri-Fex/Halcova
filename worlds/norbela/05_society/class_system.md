@@ -12,6 +12,8 @@ last_updated: 2024-12-20
 
 > **Quick Summary**: The seven-tier caste system is legally enforced, economically maintained, and culturally ingrained—escape is nearly impossible, falling is easy.
 
+> **Thematic Note**: Caste is a mask system. Every tier has its costume, posture, speech, and expected behavior. After enough years of performance, the mask becomes the face. The question: *Is there a "real you" underneath the caste you were assigned?*
+
 See [[Social Structures]] for complete overview.
 
 ---

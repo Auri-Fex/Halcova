@@ -10,6 +10,14 @@
 
 ---
 
+## Thematic Story Spine
+
+**Axis 1 — Inheritance vs Prophecy**: Sára inherits her family's wealth (pattern-privileged). Her father purchases her Binding Draw (prophecy). She witnesses inheritance buying prophecy—the distinction collapsing. But the Attendance is real. The horror: maybe the "guided" and "honest" readings would have been the same.
+
+**Axis 2 — Trade of Fate**: The Loom-Reader trades favorable readings for coin. Sára's future is a commodity. Meanwhile, Erzsi receives an unpurchased reading: Thorn and Maze. The market prices prophecy.
+
+---
+
 ## Thematic Integration
 
 **Core Themes**:

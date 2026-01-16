@@ -10,6 +10,22 @@ The world runs on death. **Pattern Residue** — the energy released when fates 
 
 ---
 
+## Thematic Story Spine
+
+**Axis 1 — Inheritance vs Prophecy**: *"Your pattern is what you were born with. Your reading is what they say you'll become. Sometimes these are the same. Sometimes they can be purchased."*
+
+Inheritance and prophecy collapse in Hálcova. Natal circles are read at birth (inheritance). Binding circles are drawn at ceremony (prophecy). But wealthy families purchase favorable draws. The system presents prophecy as neutral reading of fate—the truth: prophecy reads a world already shaped by inheritance.
+
+**Axis 2 — Trade of Fate**: *"Some lives are worth more dead than alive. Everyone knows the math."*
+
+Fate is commodity. Pattern Residue fuels civilization. Fate futures trade on prediction accuracy. Souls are substitutes in pacts. The Loom's predictions are accurate partly because institutions act on them—creating the conditions for prophecy to succeed.
+
+**Central Question**: If prophecy is tradeable, who profits? If fate can be bought, what's the price—and who pays it?
+
+See `world/thematic_core.md` for complete thematic architecture.
+
+---
+
 ## The Metaphysical Spine
 
 Hálcova isn't a world with an economy—it **is** an economy. Economic and psychological principles are the literal physics of reality here.
@@ -141,9 +157,13 @@ Five-circle metaphysical pattern everyone carries:
 | Hálmaht | Death/End | Vég |
 | Sórscad | Fate/Path | Fonál |
 
+**Thematic Note (Inheritance vs Prophecy)**: Natal circles (Léilcrù, Húslaimh, Hálmaht) are read at birth—inheritance. Binding circles (Cóitcai, Sórscad) are drawn at ceremony—prophecy. But wealthy families purchase favorable draws, collapsing the distinction.
+
 ### The Loom
 
 Distributed network that reads, records, and predicts fate. Something called "The Attendance" answers queries. May be divine, may be Elsewhere, may be both. Predictions are accurate far beyond statistical chance—the uncertainty is whether it's reading or creating fate.
+
+**Thematic Note (Trade of Fate)**: The Loom's predictions are tradeable. Fate futures, pattern speculation, and prediction markets all depend on Loom accuracy. The system monetizes destiny.
 
 ---
 
@@ -193,11 +213,14 @@ All traditions accept the Loom's accuracy. They disagree about why it works:
 
 ### Economics
 
-- Pattern as capital, fate as commodity, death as production
+**Thematic Expression (Trade of Fate)**: Pattern as capital, fate as commodity, death as production.
+
 - Credit, employment, insurance priced by Sórscad
 - Pattern Residue harvested, refined, traded
 - War and plague are economically productive
 - Class: Pattern-Privileged, Pattern-Constrained, Pattern-Illegible
+
+**Thematic Expression (Inheritance vs Prophecy)**: Pattern-privileged inherit access; the Loom then "predicts" their success. Pattern-constrained inherit obstacles; the Loom predicts their failure. Prophecy reads a world shaped by inheritance.
 
 ### The Warden Order
 

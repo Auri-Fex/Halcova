@@ -8,6 +8,16 @@
 
 ---
 
+## THEMATIC STORY SPINE
+
+**Axis 1 — Faith vs Truth**: *"Predictions are probable cause, not proof. But faith in the forecast creates the crime."*
+
+**Axis 2 — Memory vs History as a Weapon**: *"Control the paper, control the past. Erase the month, erase the people."*
+
+See `thematic_core.md` for complete thematic architecture.
+
+---
+
 ## QUICK FACTS
 
 **City**: **Kitsahl** (population 380,000 in 1873)
@@ -288,11 +298,16 @@ claude_holder/
 
 ## THEMES
 
-**Colonial Theft**: Europeans stole indigenous knowledge, now use it for oppression  
-**Surveillance State**: Prophecy enables total population control  
-**Class Oppression**: Oracle access creates rigid hierarchy  
-**Environmental Catastrophe**: Alchemy extraction destroys land  
-**Resistance**: Despite overwhelming odds, people fight back
+**Axis 1 — Faith vs Truth**: The oracle system runs on institutional faith. Forecasts measure probability, not certainty—yet the Bureau treats predictions as gospel. Faith in prediction creates the conditions for prediction to succeed.
+
+**Axis 2 — Memory vs History as a Weapon**: History isn't recorded—it's manufactured. The Theft extracted indigenous knowledge via torture, then erased the extraction. Indigenous languages are criminalized. Paper trails create admissible history, not truth.
+
+**Supporting Themes**:
+- **Colonial Theft**: Europeans stole indigenous knowledge, now use it for oppression  
+- **Surveillance State**: Prophecy enables total population control  
+- **Class Oppression**: Oracle access creates rigid hierarchy  
+- **Environmental Catastrophe**: Alchemy extraction destroys land  
+- **Resistance**: Despite overwhelming odds, people fight back
 
 ---
 
@@ -300,9 +315,9 @@ claude_holder/
 
 **Completion**: ~35-40% of planned worldbuilding
 **Word Count**: ~140,000+ words across 50+ documents
-**Canon Status**: Core systems established, expansion ongoing
+**Canon Status**: Core systems established, thematic spine integrated, expansion ongoing
 
-**Last Updated**: December 25, 2025
+**Last Updated**: January 14, 2026
 
 ---
 

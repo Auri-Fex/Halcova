@@ -8,6 +8,14 @@ This creates an economy where some people are worth more dead than alive, where 
 
 ---
 
+## Thematic Role
+
+**Inheritance vs Prophecy**: Pattern-privileged inherit access to favorable readings, credit, opportunity. The Loom then "predicts" their success—a prophecy shaped by inheritance. Pattern-constrained inherit obstacles; the Loom predicts their failure; the prediction creates conditions for failure. The system presents prophecy as neutral. The truth: prophecy reads a world shaped by inheritance.
+
+**Trade of Fate**: Fate futures, pattern arbitrage, substitution markets, collateral markets. Death produces fuel. Heavy patterns are worth more dead. The math is known. The trade is explicit. Some lives have market prices before they end.
+
+---
+
 ## The Fate Market
 
 ### Pattern as Asset

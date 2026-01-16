@@ -1,10 +1,24 @@
-# World Bible: Orrovae (Updated v2.0)
+# World Bible: Orrovae (Updated v2.1)
 
-**Last Updated**: December 24, 2025
+**Last Updated**: January 14, 2026
 
 ---
 
-## 0) The One-Sentence Premise
+## 0) Thematic Story Spine
+
+**Axis 1 — Power/Cost**: *"Every miracle has a supply chain. Every body keeps a ledger."*
+
+Power in Orrovae is never free. Healing consumes mass and chemistry. Strain-class writes poverty on bodies. Hollowing is the ultimate invoice. Pantry raids become war crimes because regeneration requires inputs the symbiote cannot conjure.
+
+**Axis 2 — Rebellion/Empire**: *"Stability cannot be achieved under external ownership."*
+
+Empire is not a flag—it's a system of extraction dressed as infrastructure. The Lanes concentrate passage. The Seal-Houses concentrate identity. Every chokepoint is a throne. Rebellion arises when bounded autonomy discovers the system requires its consumption to function.
+
+**Central Question**: Who decides what your body is for?
+
+---
+
+## 0.1) The One-Sentence Premise
 
 **Orrovae** is a world where the surface is a lethal **Ruinfield** mined by timed salvage runs, while most civilization survives underground along the tunnel **Lanes**—and the defining "magic" is a widely desired, intelligent **symbiote partner** (Keelkin) that enables rapid regeneration through consent-based Covenants, leaving physical seamwork, shedding, and slow, cumulative redesign of the human body.
 

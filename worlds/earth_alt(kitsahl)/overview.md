@@ -1,6 +1,24 @@
-# Oracle Magitech Canon v1.0
+# Oracle Magitech Canon v1.1
 
 Arcane-punk city world with 1860–70s silhouette tech, powered by mined Resonance crystals; prophecy emerges as engineered instrumentation and becomes the backbone of noir corruption and precrime.
+
+---
+
+## 0) Thematic Story Spine
+
+**Axis 1 — Faith vs Truth**: *"Predictions are probable cause, not proof. But faith in the forecast creates the crime."*
+
+The oracle system runs on institutional faith. Forecasts measure probability, not certainty—yet the Bureau treats predictions as gospel. The 30-40% false positive rate is known. It changes nothing. Faith in prediction creates the conditions for prediction to succeed.
+
+**Axis 2 — Memory vs History as a Weapon**: *"Control the paper, control the past. Erase the month, erase the people."*
+
+History isn't recorded—it's manufactured. The Theft extracted indigenous knowledge via torture, then erased the extraction. Indigenous languages are criminalized. The Bureau's paper trails don't document truth; they create admissible history.
+
+**Central Question**: What survives when the people who remember are killed, and the records that remain are lies?
+
+See `claude_holder/thematic_core.md` for complete thematic architecture.
+
+---
 
 ## 1) Core Aesthetic and Tech Baseline
 
@@ -78,7 +96,9 @@ Meters produce **Load Traces** (paper strip/plate): draw + stability + drift mar
 ### Prime rule
 
 Oracles don’t “know the future.” They  **measure forecast-pressure** —how strongly the world is already committing to an outcome. Outputs are instrumental, not mystical.
+**Thematic expression (Faith vs Truth)**: The oracles tell the truth—they measure real probability. But "real probability" includes the Bureau's response to the forecast. Faith in prediction creates the conditions for prediction to succeed.
 
+**Thematic expression (Memory vs History)**: Every forecast is a historical document the moment it's printed. Drift laundering means history is rewritten before it's even written.
 ### Physical build stack
 
 * **Frame (mundane engineering):** gimbals, escapements, dampers; determines stability, response time, and drift.
@@ -149,6 +169,10 @@ Each domain is a distinct build family with its own bias, failure mode, and tamp
 ## 8) Precrime: Bureau of Preemptions
 
 Forecasts are  **probable cause** , not proof, enabling Minority Report tension without plot-breaking certainty.
+
+**Thematic expression (Faith vs Truth)**: The warrant ladder converts probability into actionable force. 65% confidence justifies arrest. But who decided 65% was enough to destroy a life? Faith in the threshold justifies the threshold.
+
+**Thematic expression (Memory vs History)**: Mandatory attachments create documentary chains that *look* like accountability. But the Bureau cheats: drift laundering, anchor swapping, receipt editing. The paperwork is immaculate. The truth is buried.
 
 ### Warrant ladder
 

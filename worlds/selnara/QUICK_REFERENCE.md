@@ -1,19 +1,48 @@
 # Selnara World Bible — Quick Reference
 
+## Cosmological Foundation (LOCKED)
+
+**Selnara** = World of the living
+**Ashra** = Underworld / land of the dead (appears as "Earth")
+
+Every Selnari dies daily (**Kharven**) and is resurrected each morning (**Narret**). A parasitic entity feeds on the dead during Ashra-time.
+
+**Memory Anchors**: Ashra existence depends on being remembered in Selnara. Lose all anchors = true death.
+
+**The Hollow**: Parasite's immune response—not agents, antibodies. Drawn to disruptions.
+
+**The Awakened**: Dead in Ashra who remember they lived. Some work as **Faction Agents** for Selnara powers.
+
+### Power System Integration (LOCKED)
+
+The cosmology is deeply integrated with the industrial systems:
+
+* **Grey Current** = boundary energy from death-resurrection cycle
+* **Pale Medium** = parasite's physical substance in Selnara
+* **Signal Pale** = fraction retaining most parasitic influence
+* **Creatures** = parasitic extensions serving the main entity
+* **Necromancy** = arcane-punk devices manipulating the death cycle
+
+> **Full cosmology: 00_cosmology/**
+
+---
+
 ## High Concept (10-Second Pitch)
 
 **Neo-noir arcane-punk** set in a **non-Earth 1860s–1880s tech world** where industrial infrastructure feeds on contaminated waste and **bio-industrial parasites colonize maintenance corridors**.
 
 ## Core Power System
 
-**Grey Current** (atmospheric charge flow) + **Pale Medium** (subsurface fluid) → **Charged Pale** (energy commodity)
+**Grey Current** (atmospheric charge flow / boundary energy) + **Pale Medium** (subsurface fluid / parasitic substance) → **Charged Pale** (energy commodity / activated parasitic connection)
 
 **Charged Pale cracks into three fractions**:
 1. **Motive Pale** (engines/work)
 2. **Lumen Pale** (light/heat)
-3. **Signal Pale** (comms/sense)
+3. **Signal Pale** (comms/sense + parasitic influence)
 
 **Waste byproducts** fuel creature ecology and black markets.
+
+**Cosmological integration**: The entire industrial chain is unknowingly a system for harvesting and refining the parasite's presence. Signal Pale's behavioral effects are direct parasitic influence.
 
 ## Core "Magic" System
 
@@ -39,19 +68,31 @@
 
 ## Creature Threats
 
-**Industrial parasites**, not wilderness monsters:
+**Parasitic extensions**, not wilderness monsters:
 
-* **Ashwrights**: Ash-silhouettes that mirror killed victims
-* **Varnish Sheets**: Suffocating films in bilges
-* **Pale-Gilled**: Amphibious ambush packs at contamination sites
-* **Signal Mimics**: Voice-imitating entities in telegraph stations
+* **Ashwrights**: Ash-silhouettes that mirror killed victims (feed on boundary energy)
+* **Varnish Sheets**: Suffocating films in bilges (spread parasitic networks)
+* **Pale-Gilled**: Amphibious ambush packs at contamination sites (guard extraction)
+* **Signal Mimics**: Voice-imitating entities in telegraph stations (**direct parasitic agents**)
+
+## Necromantic Applications (NEW)
+
+Arcane-punk devices that manipulate the death cycle using Pale:
+
+* **Echo Coils**: Summon fragments of the dead from Ashra
+* **Calling Rigs**: Force complete resurrection outside natural cycle
+* **Binding Cages**: Prevent Kharven—trap someone in continuous life
+* **Tulren Weapons**: Force immediate death/banishment
+* **Memory Devices**: Strengthen or weaken memory anchors
+
+> See: 02_power_systems/necromantic_applications.md
 
 ## Four Institutional Poles
 
 1. **Standard Enclaves** — Hardware-bordered treaty-ports (safe zones)
-2. **Seal Syndics** — Authentication cartels (reputation as currency)
-3. **Spine Brokers** — Charging monopolists (time on manifold = power)
-4. **Neutral Piers** — Arbitrator networks (adjudicate when law is absent)
+2. **Beghel Syndics** — Authentication cartels (reputation as currency)
+3. **Khergem Brokers** — Charging monopolists (time on manifold = power)
+4. **Navsad Piers** — Arbitrator networks (adjudication when law is absent)
 
 ## Geographic System
 
@@ -64,25 +105,31 @@
 
 ## Major Locations
 
-* **Selmara** — Major port, Standard Enclave hub, Seal Syndic headquarters
-* **Kharras** — Terrace metropolis, Pale extraction hub, Sealed Terrace outbreak zone
-* **Tulwarda** — Lock-fort, river chokepoint, quarantine enforcement
-* **Girveth** — Ridge town, Spine Broker stronghold, skyframe yards
+* **Zevakalak** — Major port, Standard Enclave hub, Beghel Syndic headquarters
+* **Sharem** — Terrace metropolis, Pale extraction hub, Sealed Terrace outbreak zone
+* **Kareshkalak** — Lock-fort, river chokepoint, quarantine enforcement
+* **Metasafek** — Ridge town, Khergem Broker stronghold, skyframe yards
 
 ## Conlang Basics
 
 **Selnara** (world and language name)
 
+**Base Language**: Georgian (mutated) — *kalaki* → kalak, *zghva* → zeva, *ch'a* → sha
+
 **Phonology**: Simple (C)V(C) syllables, penultimate stress
 
-**Seed roots**:
-* **sel** (saltwind/coast)
-* **nar** (river/flow)
-* **khar** (pit/hollow)
-* **tul** (lock/gate)
-* **gir** (spine/ridge)
+**Core roots** (Georgian-derived):
+* **kalak** (city) ← *kalaki*
+* **zeva** (sea/coast) ← *zghva*
+* **sha** (pit/well) ← *ch'a*
+* **karesh** (gate/lock) ← *karibche*
+* **meta** (mountain) ← *mta*
+* **dinar** (river) ← *mdinare*
+* **kid** (edge) ← *kide*
+* **safek** (terrace) ← *sapexuri*
+* **sirem** (depth) ← *sighrme*
 
-**Formation**: Root + ending (Sel-mara, Khar-ras, Tul-warda)
+**Formation**: Root + Root (Zeva-kalak, Sha-rem, Karesh-tul)
 
 ## Tech Baseline (1860–1880 Hardware)
 
@@ -98,6 +145,28 @@
 * **Port noir** (counterfeit Charged Pale, Syndic corruption)
 * **Frontier violence** (claim wars, pit territory feuds)
 * **Corridor crisis** (quarantine breakdown, blockade math)
+* **Mind horror** (cognitive colonization, preference drift, dream contamination)
+* **Investigation noir** (the mystery leads inward — what have I become?)
+
+## Thematic Spine (LOCKED)
+
+**Four Pillars**:
+
+1. **Dream** — Exposure artifacts, not prophecy. Circuit memory, dream-bleed, Signal Mimic nesting.
+2. **Dominion** — Who owns your preferences? Compliance cultivated, not forced.
+3. **Time** — Commodity and weapon. Memory shearing, temporal dysphoria, institutional exploitation.
+4. **Territory** — Fractal dispossession. Geographic, somatic, cognitive — all subject to claim logic.
+
+**Synthesis**: The system works as designed. The nightmare is willing participation.
+
+**Key Phrases**:
+* *"The circuit remembers. You just carry it."*
+* *"The dream of freedom is also installed."*
+* *"Time is money. Memory is debt."*
+* *"Every claim costs something. The question is what you're paying with."*
+
+## Additional Story Modes
+
 * **Bio-industrial horror** (outbreak containment, creature nests)
 
 ## What This Is NOT
@@ -122,6 +191,12 @@
 ## Quick Access File Structure
 
 ```
+00_cosmology/
+  - ashra_selnara_cycle.md
+  - the_hollow.md
+  - awakened_and_agents.md
+  - condition_mapping.md
+
 01_core/
   - high_concept.md
 
@@ -154,18 +229,29 @@
 
 10_locations/
   - gazetteer.md
+
+11_story_spine/
+  - thematic_core.md
+```
+
+10_locations/
+  - gazetteer.md
 ```
 
 ## For Writers: Starting Points
 
-**Want port noir?** → Selmara, Standard Enclave intrigue, Seal Syndic corruption
+**Want port noir?** → Zevakalak, Standard Enclave intrigue, Beghel Syndic corruption
 
-**Want frontier violence?** → Kharras, claim wars, vertical city combat
+**Want frontier violence?** → Sharem, claim wars, vertical city combat
 
-**Want corridor crisis?** → Tulwarda, quarantine breakdown, blockade dilemmas
+**Want corridor crisis?** → Kareshkalak, quarantine breakdown, blockade dilemmas
 
 **Want horror?** → Any location, focus on maintenance lapses and creature outbreaks
 
 **Want duels?** → Signal-rich environments (telegraph stations, refineries), latchhand practitioners
 
-**Want political intrigue?** → Spine Broker charging extortion, Seal counterfeit markets, Neutral Pier arbitration
+**Want political intrigue?** → Khergem Broker charging extortion, Beghel counterfeit markets, Navsad Pier arbitration
+
+**Want Ashra stories?** → Modern "Earth" setting, Awakened networks, faction agents, the Hollow as threat
+
+**Want cross-world intrigue?** → Assassination in both worlds, memory anchor warfare, resurrection blocking

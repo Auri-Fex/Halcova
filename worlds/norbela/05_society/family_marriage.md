@@ -13,6 +13,8 @@ source_files:
 
 > **Quick Summary**: Marriage customs vary drastically by caste—from political arrangements among barons to informal partnerships among workers to forced breeding programs for slaves.
 
+> **Thematic Note**: Blood families are power structures at the top and liabilities at the bottom. The system destroys lower-caste families by design, which is why found families become essential survival units. Elite bloodlines are politically valuable AND biologically contaminated after generations of shyak consumption.
+
 ---
 
 ## By Caste
@@ -24,6 +26,12 @@ source_files:
 - Dowries: territories, trade rights, shyak reserves (upper) or money/property (middle)
 - Polygamy common among barons
 - Divorce allowed but expensive
+
+**Bloodline Significance**:
+- Ancestry determines inheritance, legitimacy, political power
+- Intermarriage concentrates power (and contamination)
+- "Pure bloodlines" are actually most saturated with shyak effects
+- Generations of premium oil consumption = physiological divergence
 
 **Children**:
 - Raised by servants/tutors
@@ -57,6 +65,13 @@ source_files:
 - 4-8 born, 2-4 survive
 - Work from age 6-8
 - Illegitimate common, no stigma
+
+**Found Family Necessity**:
+- Blood families constantly broken by economic pressure
+- Children may be sold, given away, or abandoned to survive
+- Work assignments separate couples
+- "Family" becomes whoever you survive with
+- Tenement Watches, work crews, and survival units become true families
 
 ### Indentured/Slaves
 

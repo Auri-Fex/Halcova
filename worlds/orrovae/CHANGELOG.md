@@ -1,7 +1,51 @@
 # ORROVAE WORLDBUILDING CHANGELOG
 
-**Date**: December 24, 2025
-**Version**: 2.0
+**Date**: January 14, 2026
+**Version**: 2.1
+**Status**: Thematic story spine integration complete
+
+---
+
+## VERSION 2.1 — THEMATIC STORY SPINE (January 14, 2026)
+
+### THEMATIC ARCHITECTURE ADDED
+
+**Created**: `01_story_spine/thematic_core.md` — Complete thematic architecture
+
+**Axis 1 — Power/Cost**: *"Every miracle has a supply chain. Every body keeps a ledger."*
+- Power is never free; healing consumes mass and chemistry
+- Strain-class writes poverty on bodies
+- Hollowing is the ultimate invoice
+- Pantry raids become war crimes
+
+**Axis 2 — Rebellion/Empire**: *"Stability cannot be achieved under external ownership."*
+- Empire is extraction dressed as infrastructure
+- Every chokepoint is a throne
+- Bounded autonomy discovers the system requires its consumption
+- The surface creatures aren't invaders—they're abandoned kin coming home
+
+**Central Question**: Who decides what your body is for?
+
+### FILES UPDATED
+- ✅ README.md — Thematic spine header, file list updated
+- ✅ overview.md — Thematic section added
+- ✅ QUICK_REFERENCE.md — Thematic spine and conflict framing
+- ✅ INDEX_AND_TODO.md — Thematic spine section, file reference
+- ✅ world_bible.md — Thematic architecture header, setting/magic/arena thematic expressions
+- ✅ SAGA_SNOWFLAKE_OUTLINE.md — Saga-level thematic framing
+- ✅ CHANGELOG.md (this file)
+
+### THEMATIC EXPRESSIONS INTEGRATED
+- Setting + economy: "Every lane is a toll. Every gate is a throne."
+- Magic/Keelkin: Bodies become ledgers; caste written on flesh
+- Bracefaith: Power/Cost and Rebellion/Empire fused into doctrine
+- Construct Rebellion: The survival theorem—ownership cannot provide stability
+- Maiming Wars Saga: Both axes colliding across five books
+
+---
+
+## VERSION 2.0 — December 24, 2025
+
 **Status**: Major canon expansion and consolidation
 
 ---

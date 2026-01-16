@@ -149,6 +149,31 @@ Example chains:
 * Tell-Map → Drift-Whisper (read, then disrupt)
 * Steady-Hand → Fear-Cut (stabilize body, then mind)
 
+## Cumulative Exposure Effects (LOCKED)
+
+Beyond immediate technique costs, prolonged practice causes **progressive territory loss**:
+
+### Cognitive Drift
+
+* **Preference shift**: Practitioners become calmer, more compliant over years
+* **Memory shearing**: Sequences feel certain but prove wrong
+* **False certainty**: Conviction that contradicts records
+
+### Dream-Bleed
+
+* **Circuit memory**: Practitioners who work the same Signal environments share dream content
+* **Residue inheritance**: Dreams contain others' memories, protocols, and griefs
+* **Mimic vulnerability**: Signal Mimics can nest in shared dream-space
+
+### The Territory Calculus
+
+Every technique use trades immediate advantage for long-term territory:
+* Body territory: Nerve damage, scarring, tremors
+* Mind territory: Preference drift, memory unreliability
+* Dream territory: Loss of sleep sovereignty, circuit contamination
+
+**Key phrase**: *"Every claim costs something. The question is what you're paying with."*
+
 ## Training Progression
 
 ### Novice (0–2 years)
