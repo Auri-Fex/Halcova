@@ -3,7 +3,7 @@
 
 **Canon Status**: ACTIVE
 **Last Updated**: January 4, 2026
-**Related Files**: `hollowing_complete.md`, `keelkin_complete_reference.md`
+**Related Files**: `hollowing_complete.md`, `Säidesolu_complete_reference.md`
 
 ---
 

@@ -1,4 +1,4 @@
-ï»¿# THE FRAYING THREAD
+# THE FRAYING THREAD
 ## Chapter 5: "The Arrangement"
 
 *Function: Close Part 1. Complicity established. Threat confirmed. All threads active.*
@@ -21,7 +21,7 @@ The booth Varkus had reserved was in the back, naturally, positioned for privacy
 
 What he didn't say, because saying it would have been inappropriate even if thinking it was unavoidable, was that invitations from supervisors were not things one appreciated so much as things one accepted with appropriate expressions of appreciation regardless of whether appreciation was what one actually felt. Varkus had been his supervisor for eleven years, and in those eleven years Helmar had learned that invitations to dinner meant either rewards or requirements, and that the distinction between the two was often less clear than people outside administrative culture imagined.
 
-The server appeared with menus and water and professional invisibility that high-end service establishments cultivated, taking drink orders and disappearing with the efficiency of someone who understood that customers at this establishment were paying for privacy as much as food. Helmar ordered conservatively--a modest wine, an entrÃ©e that fell in the middle of the price range--while Varkus ordered with the confident expansiveness of someone spending someone else's money, which was technically accurate since expense accounts were ultimately taxpayer-funded but which still managed to feel like a statement about relative position.
+The server appeared with menus and water and professional invisibility that high-end service establishments cultivated, taking drink orders and disappearing with the efficiency of someone who understood that customers at this establishment were paying for privacy as much as food. Helmar ordered conservatively--a modest wine, an entrée that fell in the middle of the price range--while Varkus ordered with the confident expansiveness of someone spending someone else's money, which was technically accurate since expense accounts were ultimately taxpayer-funded but which still managed to feel like a statement about relative position.
 
 "I've been reviewing your performance metrics," Varkus said once the server had retreated beyond conversational range, his tone shifting from social pleasantry to professional assessment with the smoothness that long practice provided. "Impressive, as always. Your documentation accuracy is the highest in the department. Your processing speed is in the top percentile. Your compliance with procedural requirements is, frankly, exemplary."
 
@@ -43,7 +43,7 @@ Helmar was aware of the position. Everyone in the department was aware of the po
 
 "Of course. Of course." Varkus nodded as if Helmar had said exactly the right thing, which he probably had, because administrative culture rewarded the ability to communicate understanding without explicitly stating what was being understood. "The procedures are well-established. The position primarily involves ensuring that files flow smoothly through those procedures. That documentation arrives where it needs to arrive, leaves where it needs to leave, and that the records reflect what the records need to reflect."
 
-Helmar felt his SÃ¤ide pulse, the colony's warmth intensifying slightly in response to the stress that his conscious mind hadn't yet fully acknowledged. His SÃ¤ide was Ã„ly-strain, cognitive-enhancement, which meant it was exceptionally good at processing information and exceptionally sensitive to situations where information was being presented in ways designed to obscure rather than illuminate. The pulsing was warning, the symbiotic equivalent of a raised eyebrow, the suggestion that what was being said deserved more attention than casual acceptance would provide.
+Helmar felt his Säide pulse, the colony's warmth intensifying slightly in response to the stress that his conscious mind hadn't yet fully acknowledged. His Säide was Äly-strain, cognitive-enhancement, which meant it was exceptionally good at processing information and exceptionally sensitive to situations where information was being presented in ways designed to obscure rather than illuminate. The pulsing was warning, the symbiotic equivalent of a raised eyebrow, the suggestion that what was being said deserved more attention than casual acceptance would provide.
 
 "The records reflect what the records need to reflect," Helmar repeated, making the words a question without technically making them a question, inviting clarification without demanding it.
 
@@ -61,7 +61,7 @@ Helmar had processed Aldric's death certificate himself. Had noted the irregular
 
 "Excellent." Varkus's smile broadened, the satisfaction of a transaction successfully completed. "I knew you'd understand. You've always been someone who understands how institutions function."
 
-The server returned with their meals, the interruption providing a natural transition from professional negotiation to professional dining, the food arriving with the timing that suggested either excellent kitchen coordination or staff trained to recognize when conversations had reached appropriate pausing points. Helmar ate without tasting, his SÃ¤ide continuing its warm pulse of warning, his mind cycling through implications that he didn't want to examine too closely because examining them would require acknowledging what he'd just agreed to.
+The server returned with their meals, the interruption providing a natural transition from professional negotiation to professional dining, the food arriving with the timing that suggested either excellent kitchen coordination or staff trained to recognize when conversations had reached appropriate pausing points. Helmar ate without tasting, his Säide continuing its warm pulse of warning, his mind cycling through implications that he didn't want to examine too closely because examining them would require acknowledging what he'd just agreed to.
 
 "One more thing," Varkus said, midway through the main course, his tone casual in the way that important information was often delivered casually to disguise its importance. "There's a records clerk in your current division. Grigor Sealkeeper. You know him?"
 
@@ -75,7 +75,7 @@ The server returned with their meals, the interruption providing a natural trans
 
 "Understood."
 
-The dinner continued for another hour, the conversation shifting to topics that didn't require Helmar to commit to anything he couldn't later deny committing to--departmental politics, institutional gossip, the kind of social lubrication that professional relationships required even when the relationships had just been revealed as transactional in ways that social lubrication was supposed to disguise. Helmar participated appropriately, said the expected things at the expected moments, and filed away every word Varkus said in the perfect memory that his SÃ¤ide provided.
+The dinner continued for another hour, the conversation shifting to topics that didn't require Helmar to commit to anything he couldn't later deny committing to--departmental politics, institutional gossip, the kind of social lubrication that professional relationships required even when the relationships had just been revealed as transactional in ways that social lubrication was supposed to disguise. Helmar participated appropriately, said the expected things at the expected moments, and filed away every word Varkus said in the perfect memory that his Säide provided.
 
 Varkus mentioned, almost as an afterthought, that there was a backlog of minor reports that needed routing before the transition--routine filings that previous administrators had let accumulate. "Construct maintenance reports, facility variance documentation, that sort of thing. Nothing requiring attention, just requiring processing." Helmar had nodded without thinking, because processing was what he did, because routing documentation was reflex rather than decision. Later, he would remember that one of those reports--flagged as "routine construct behavioral variance, recommended dismissal"--had described a mining unit that had stopped working for seventeen seconds, stood motionless in the middle of a shaft, and then resumed operations as if nothing had happened. The report noted that witnesses described the construct as "looking at something that wasn't there." Helmar had routed it to the dismissal archive without reading past the summary header, because the summary said "routine" and routine meant "not requiring attention" and attention was what he was being paid to allocate according to institutional priorities.
 
@@ -87,7 +87,7 @@ For the record: I have accepted these instructions without objection.
 
 For the record: I have done exactly what Aldric didn't do.
 
-When the dinner concluded and Helmar walked home through Midworks streets that he'd walked thousands of times before, his SÃ¤ide remained active in ways that cognitive-enhancement strains usually didn't--processing, analyzing, connecting patterns that his conscious mind hadn't yet assembled into coherent recognition. The promotion wasn't reward. The promotion was purchase. Varkus had bought something with it, and the something wasn't merely Helmar's skills--it was Helmar's complicity, his willingness to participate in whatever documentation manipulation the Special Documentation Division existed to perform.
+When the dinner concluded and Helmar walked home through Midworks streets that he'd walked thousands of times before, his Säide remained active in ways that cognitive-enhancement strains usually didn't--processing, analyzing, connecting patterns that his conscious mind hadn't yet assembled into coherent recognition. The promotion wasn't reward. The promotion was purchase. Varkus had bought something with it, and the something wasn't merely Helmar's skills--it was Helmar's complicity, his willingness to participate in whatever documentation manipulation the Special Documentation Division existed to perform.
 
 The structure was becoming visible now, the architecture of institutional control that he'd been part of for thirty years without recognizing what he was part of. Varkus had a supervisor, who had a supervisor, who reported to administrators whose names appeared on organizational charts but whose actual functions remained deliberately obscure. The Special Documentation Division didn't exist to create documentation--it existed to curate it, to ensure that certain information flowed to certain places and other information disappeared into archives where it would never be retrieved. A security apparatus, he realized. Not the official security services that everyone knew about, but something beneath them, something that used paperwork as weapon and filing systems as fortification.
 
@@ -103,11 +103,11 @@ His apartment was empty when he arrived, as it had been empty for twelve years, 
 
 The empty room didn't answer. Empty rooms never did.
 
-But his SÃ¤ide pulsed warm, and somewhere in the patterns his enhanced cognition was processing, something was beginning to take shape--a recognition that had been building for years, that had started the day he'd filed Aldric's death certificate and noticed the irregularities and done nothing about them, that was now crystallizing into understanding he couldn't unfeel even if he wanted to.
+But his Säide pulsed warm, and somewhere in the patterns his enhanced cognition was processing, something was beginning to take shape--a recognition that had been building for years, that had started the day he'd filed Aldric's death certificate and noticed the irregularities and done nothing about them, that was now crystallizing into understanding he couldn't unfeel even if he wanted to.
 
 The system that had killed Aldric was the system he'd agreed to serve more deeply. The documentation he'd been asked to manage was the documentation that made that system possible. The questions Grigor was asking were the questions Helmar should have asked twelve years ago, and instead of asking them he'd agreed to report on the person who was brave enough or foolish enough to ask.
 
-He sat in his husband's chair until the artificial lighting shifted to its night cycle, thinking about paperwork and complicity and the cowardice that administrative culture rewarded with promotion. Then he went to bed, and slept poorly, and woke with his SÃ¤ide still warm and his mind still processing and the beginning of something that might have been conscience or might have been simple recognition that he'd made a terrible mistake.
+He sat in his husband's chair until the artificial lighting shifted to its night cycle, thinking about paperwork and complicity and the cowardice that administrative culture rewarded with promotion. Then he went to bed, and slept poorly, and woke with his Säide still warm and his mind still processing and the beginning of something that might have been conscience or might have been simple recognition that he'd made a terrible mistake.
 
 For the record: I know what I've done.
 
@@ -123,7 +123,7 @@ For the record: I'm going to try.
 
 ---
 
-The watchers had withdrawn with the artificial dawn, their SÃ¤ide signatures dispersing into the background noise of a waking district like predators retreating from daylight that they had no biological reason to fear. Torven had tracked their departure with attention the previous night had demanded, watching the pattern of their distribution shift and thin until the only signatures his SÃ¤ide detected were the ordinary residents of an ordinary Midworks neighborhood going about ordinary Midworks business.
+The watchers had withdrawn with the artificial dawn, their Säide signatures dispersing into the background noise of a waking district like predators retreating from daylight that they had no biological reason to fear. Torven had tracked their departure with attention the previous night had demanded, watching the pattern of their distribution shift and thin until the only signatures his Säide detected were the ordinary residents of an ordinary Midworks neighborhood going about ordinary Midworks business.
 
 Ordinary. The word felt hollow now, felt like the comfortable lie that people told themselves when they didn't want to think too hard about what ordinary might be concealing. Ordinary neighborhoods didn't get surrounded by coordinated observers holding positions through the night. Ordinary protection contracts didn't attract the attention of people organized enough to mount surveillance operations with rotating coverage and apparent institutional backing. Ordinary mercenary commanders didn't find themselves wondering whether the company they'd built over twenty years was adequate to the situation they'd apparently accepted.
 
@@ -175,7 +175,7 @@ Somewhere in the city, people were manipulating files to ensure that documentati
 
 Somewhere in the city, people were arranging bodies on a surface that most citizens pretended didn't exist.
 
-Somewhere in the city, people were deciding what to do about the Unseeded communities that lived outside the protection that SÃ¤ide provided.
+Somewhere in the city, people were deciding what to do about the Unseeded communities that lived outside the protection that Säide provided.
 
 And somewhere in the city, watchers were resting from a night's observation, preparing to resume surveillance when the evening came, confident that they could reach their target whenever they decided reaching was necessary.
 
@@ -197,7 +197,7 @@ What came next would determine whether understanding the pattern was possible--o
 **Sensory Immersion**:
 - Restaurant ambiguity (The Balanced Ledger name)
 - Server professional invisibility, timing conversations
-- SÃ¤ide cognitive-enhancement as warning system (warm pulsing)
+- Säide cognitive-enhancement as warning system (warm pulsing)
 - Empty apartment, Aldric's chair kept for 12 years
 - Morning light through ventilation grates
 

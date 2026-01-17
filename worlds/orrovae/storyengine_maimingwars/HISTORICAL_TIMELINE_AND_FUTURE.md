@@ -192,11 +192,11 @@ The Maiming Wars occur in **YS 9,847-9,852** (roughly 10,000 years after the Sea
 **The Proving Yards (~YS 4,000)**
 - Combat institutions formalized
 - Originally civic proving (legal disputes, honor)
-- Keelframes replace human combatants (~YS 5,500)
+- Säideframes replace human combatants (~YS 5,500)
 - Becomes spectacle/sport while retaining civic function
 
 **Construct Awakening (YS ~5,000-8,000)**
-- Keelframes become more sophisticated
+- Säideframes become more sophisticated
 - Thread-Memory accumulation continues
 - First "glitches"â€”dismissed as malfunction
 - Constructs remember things they never experienced

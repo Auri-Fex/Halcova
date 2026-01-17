@@ -11,7 +11,7 @@ Orrovae's technology level is constrained by available resources, power limitati
 ### Why This Era?
 
 **Power Availability**:
-- Steam, gas, early electricity (matches Glowstock/Keel-Current/Deep-Source)
+- Steam, gas, early electricity (matches Glowstock/Säide-Current/Deep-Source)
 - Mechanical engineering sophisticated
 - Pre-mass-electrification (fits power constraints)
 

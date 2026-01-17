@@ -27,7 +27,7 @@
 - âœ… Core Identity & Premise
 - âœ… Five-Layer Geography (Surface through Deep Works)
 - âœ… The Scouring (10,000-year history)
-- âœ… Keelkin Symbiote System (complete)
+- âœ… Säidesolu Symbiote System (complete)
   - Acquisition (spore-seeding model)
   - Communication (5 pathways)
   - Regeneration limits (5 categories)
@@ -37,9 +37,9 @@
   - Deep Purpose (mystery)
 - âœ… Power Systems (dual economy)
   - Glowstock
-  - Keel-Current
+  - Säide-Current
   - Deep-Source
-- âœ… Keelframes/Golems (complete)
+- âœ… Säideframes/Golems (complete)
   - Construction and autonomy
   - Arena evolution
   - Construct Rebellion framework
@@ -57,7 +57,7 @@
 **Goal**: 30-50 fully developed NPCs across all tiers and factions
 
 ### Required Components Per Character
-- Full name + Keelkin name (if seeded)
+- Full name + Säidesolu name (if seeded)
 - Age, tier, occupation
 - Institution/faction affiliation
 - Seeding status and strain-class
@@ -175,7 +175,7 @@ Current state: Basic concept only
 - Setup situation
 - Complications (3-5 potential twists)
 - Stakes (what happens if succeed/fail)
-- Keelkin elements (regeneration limits tested, Hollowing risk, etc.)
+- Säidesolu elements (regeneration limits tested, Hollowing risk, etc.)
 - Evidence/receipts involved
 - Possible outcomes
 - Connection to larger conflicts
@@ -201,11 +201,11 @@ Current state: Basic concept only
 - Forced Hollowing cover-up
 - Hollowed exploitation discovery
 - Stage 3/4 intervention attempt
-- Keel-Current harvesting scandal
+- Säide-Current harvesting scandal
 
 **Golem Economy Scenarios** (5-7):
 - Arena match-fixing
-- Keelframe theft/liberation
+- Säideframe theft/liberation
 - Architect rivalry sabotage
 - Construct showing unexpected autonomy
 - Rebellion seeds (procedural refusal)
@@ -240,13 +240,13 @@ Current state: Basic concept only
 - Common name (formal/trade/street)
 - Description (appearance, size, behavior)
 - Habitat and ecology
-- Keelkin relationship (if any)
+- Säidesolu relationship (if any)
 - Threat level and capabilities
 - Hunting/feeding patterns
 - Weaknesses and counters
 - Signs of presence
 - Story hooks (how to use)
-- Can Keelkin regenerate damage from it? (Yes/No/Unreliable)
+- Can Säidesolu regenerate damage from it? (Yes/No/Unreliable)
 
 ### Distribution Needed
 
@@ -287,7 +287,7 @@ Current state: Basic concept only
 
 ### Categories Needed
 
-**Keelkin Diagnostics** (10-15 items):
+**Säidesolu Diagnostics** (10-15 items):
 - Seal-Check equipment
 - Fever thermography
 - Drift measurement tools
@@ -307,7 +307,7 @@ Current state: Basic concept only
 
 **Power Systems** (10-15 items):
 - Glowstock cultivation vats
-- Keel-Current harvesting apparatus
+- Säide-Current harvesting apparatus
 - Lamp varieties and fuel systems
 - Air filtration membranes
 - Power distribution conduits
@@ -317,7 +317,7 @@ Current state: Basic concept only
 - Chassis materials and assembly
 - Living scaffold growth systems
 - Covenant inscription tools
-- Keelkin seeding apparatus
+- Säidesolu seeding apparatus
 - Rebuild/repair equipment
 - Task-oath encoding devices
 
@@ -338,7 +338,7 @@ Current state: Basic concept only
 - Communication (telegraph equivalents)
 
 ### Files to Create
-- `technology/keelkin_medicine.md`
+- `technology/Säidesolu_medicine.md`
 - `technology/surface_gear.md`
 - `technology/power_systems.md`
 - `technology/golem_construction.md`
@@ -380,7 +380,7 @@ Current state: Basic concept only
 **Personal** (10-15):
 - Letters between NPCs
 - Journal entries
-- Keelkin naming ceremonies
+- Säidesolu naming ceremonies
 - Last testaments
 - Covenant negotiation transcripts
 
@@ -408,7 +408,7 @@ Current state: Basic concept only
 
 **Character Generation**:
 - Names (first/family)
-- Keelkin names (by category)
+- Säidesolu names (by category)
 - Seamwork descriptions
 - Drift markers
 - Doctrine affiliations
@@ -429,7 +429,7 @@ Current state: Basic concept only
 
 **Complication Tables**:
 - Investigation twists
-- Keelkin failures
+- Säidesolu failures
 - Equipment breakdowns
 - Faction interference
 - Environmental hazards
@@ -473,7 +473,7 @@ Current state: Basic concept only
 
 **GM/Writer's Guide**:
 - How to use the world systems
-- Scaling Keelkin powers appropriately
+- Scaling Säidesolu powers appropriately
 - Pacing regeneration scenes
 - Hollowing as character arc
 - Integrating active conflicts
@@ -505,7 +505,7 @@ Current state: Basic concept only
 ### Visual Development
 - Character sketches (if artist available)
 - Location concept art
-- Keelkin anatomical diagrams
+- Säidesolu anatomical diagrams
 - Golem chassis designs
 - Map illustrations
 
@@ -518,7 +518,7 @@ Current state: Basic concept only
 
 ### Advanced Systems
 - Detailed arena match rules (if game system)
-- Keelkin strain genetics
+- Säidesolu strain genetics
 - Economic simulation tools
 - Political intrigue frameworks
 - War scenario expansion
@@ -590,7 +590,7 @@ orrovae/
 â”‚   â””â”€â”€ creature_template.md
 â”‚
 â”œâ”€â”€ technology/
-â”‚   â”œâ”€â”€ keelkin_medicine.md
+â”‚   â”œâ”€â”€ Säidesolu_medicine.md
 â”‚   â”œâ”€â”€ surface_gear.md
 â”‚   â”œâ”€â”€ power_systems.md
 â”‚   â”œâ”€â”€ golem_construction.md

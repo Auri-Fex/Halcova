@@ -36,7 +36,7 @@ The surface of Orrovae has been transformed by 10,000 years of actinic radiation
    - Slow agers: Survive indefinitely if conditions met (centuries)
    - No middle ground (moderate lifespan = extinction)
 
-5. **Keelkin or Keelkin-Analog Symbiosis**
+5. **Säidesolu or Säidesolu-Analog Symbiosis**
    - Most species have regenerative partnerships
    - Different strains (actinic-tolerant variants)
    - Creates regenerating predators and prey
@@ -243,7 +243,7 @@ Plants on the surface use modified photosynthesis - not chlorophyll-based, but a
 
 ### Overview
 
-Animals have evolved dramatic adaptations. Most have Keelkin-analog symbiotes (actinic-tolerant strains) providing regeneration. All show behavioral adaptations to actinic cycles.
+Animals have evolved dramatic adaptations. Most have Säidesolu-analog symbiotes (actinic-tolerant strains) providing regeneration. All show behavioral adaptations to actinic cycles.
 
 ---
 
@@ -269,7 +269,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Face humanoid but flattened (reduced nose/ears)
 - Bioluminescent patches (chest, shoulders - communication?)
 
-**Keelkin**:
+**Säidesolu**:
 - Actinic-tolerant strain (Sunwither variant)
 - Aggressive optimization (heavy drift)
 - Visible seamwork (rope-like ridges across body)
@@ -293,7 +293,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Arranges corpses in patterns (meaning unknown)
 - Builds structures resembling pre-Scouring architecture (memory? instinct?)
 - Sometimes spares injured humans (mercy? incomprehension?)
-- Keelkin may "remember" hosting humans (genetic memory? species memory?)
+- Säidesolu may "remember" hosting humans (genetic memory? species memory?)
 
 **Human Interaction**:
 - Extremely dangerous (intelligent hunters)
@@ -320,10 +320,10 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Face reduced (minimal features)
 - Almost no bioluminescence (nocturnal, subterranean)
 
-**Keelkin**:
+**Säidesolu**:
 - Actinic-tolerant but prefers darkness
 - Extreme optimization (barely humanoid)
-- Integration deep (Keelkin throughout body, not just fascia)
+- Integration deep (Säidesolu throughout body, not just fascia)
 
 **Behavior**:
 - Nocturnal/crepuscular (avoids actinic peaks)
@@ -368,7 +368,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Face streamlined (aerodynamic)
 - Bioluminescent stripes (legs, arms - confuse predators during chase?)
 
-**Keelkin**:
+**Säidesolu**:
 - Actinic-tolerant, energy-focused
 - Optimized for speed and endurance
 - Constant repair (high injury rate from running)
@@ -417,7 +417,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Eyes large (360-degree vision)
 - Bioluminescent wingtips (lure prey? communication?)
 
-**Keelkin**:
+**Säidesolu**:
 - Lightweight strain (flight-optimized)
 - Rapid healing (aerial injuries common)
 - Visible as shimmer under feathers
@@ -458,7 +458,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Mouth underneath (approaches from above, victim doesn't see)
 - Bioluminescent lures (dangles from carapace edge - attracts curious prey)
 
-**Keelkin**:
+**Säidesolu**:
 - Heavily integrated (carapace regenerates like bone)
 - Slow but thorough (extreme durability)
 - Ancient individual striders have massive seamwork (centuries of repairs visible)
@@ -498,9 +498,9 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Bioluminescent abdomen (flashing patterns)
 - Mandibles small (individually harmless)
 
-**Keelkin**:
-- Minimal (individual Keelkin very small)
-- Colony-level symbiosis? (unclear - swarm shares Keelkin network?)
+**Säidesolu**:
+- Minimal (individual Säidesolu very small)
+- Colony-level symbiosis? (unclear - swarm shares Säidesolu network?)
 
 **Behavior**:
 - Swarm intelligence (individuals stupid, swarm sophisticated)
@@ -541,7 +541,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Tail clubbed (defense weapon)
 - Bioluminescence minimal (belly glow only)
 
-**Keelkin**:
+**Säidesolu**:
 - Robust strain (handles heavy damage)
 - Visible as network beneath scales
 - Regeneration slow but reliable
@@ -582,7 +582,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Eyes large (detecting spore clouds)
 - Bioluminescent crest (flock coordination)
 
-**Keelkin**:
+**Säidesolu**:
 - Delicate strain (quick healing, low durability)
 - Optimized for toxin resistance (spore diet)
 
@@ -623,8 +623,8 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Antennae long (chemical sensing)
 - Bioluminescent segments (alternating pattern)
 
-**Keelkin**:
-- Distributed (each segment has Keelkin portion)
+**Säidesolu**:
+- Distributed (each segment has Säidesolu portion)
 - Can survive losing segments (regenerates)
 - Aggressive healing (visible constant repair)
 
@@ -658,7 +658,7 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 - Talons weak (perching, not killing)
 - Bioluminescent throat (visible when feeding - attracts others?)
 
-**Keelkin**:
+**Säidesolu**:
 - Efficient strain (extracts maximum from poor food)
 - Digestive optimization (handles rotten meat)
 
@@ -1017,6 +1017,6 @@ Descendants of humans trapped on surface during/after Scouring. 10,000 years of 
 **END OF DOCUMENT**
 
 **Next in Phase 1**:
-- `power_systems.md` - Glowstock and Keel-Current (economics and infrastructure)
+- `power_systems.md` - Glowstock and Säide-Current (economics and infrastructure)
 - `technology_baseline.md` - What exists in Orrovae
-- `golem_construction.md` - Keelframe building process
+- `golem_construction.md` - Säideframe building process

@@ -37,7 +37,7 @@
 
 ### THEMATIC EXPRESSIONS INTEGRATED
 - Setting + economy: "Every lane is a toll. Every gate is a throne."
-- Magic/Keelkin: Bodies become ledgers; caste written on flesh
+- Magic/Säidesolu: Bodies become ledgers; caste written on flesh
 - Bracefaith: Power/Cost and Rebellion/Empire fused into doctrine
 - Construct Rebellion: The survival theoremâ€”ownership cannot provide stability
 - Maiming Wars Saga: Both axes colliding across five books
@@ -55,14 +55,14 @@
 ### 1. THE SCOURING (Surface Collapse Origin)
 **Added**: Complete explanation of what happened 10,000+ years ago
 * Sun underwent spectral shift (yellow â†’ orange dwarf)
-* Actinic wavelengths made surface lethal to Keelkin
+* Actinic wavelengths made surface lethal to Säidesolu
 * Former humans evolved over millennia into actinic-tolerant surface creatures
 * Visual signatures: amber-grey sky, wrong-colored shadows, auroral radiation bands, bone-white ruins
 
 **Why**: Provides science-fiction foundation; explains why surface is necessary evil; creates evolutionary time scale
 
-### 2. KEELKIN INTELLIGENCE (Individual Consciousness)
-**Added**: Keelkin are individually intelligent, not just instinctive
+### 2. Säidesolu INTELLIGENCE (Individual Consciousness)
+**Added**: Säidesolu are individually intelligent, not just instinctive
 * Each symbiote is a distinct consciousness
 * Not human, but aware
 * Partnership model, not tool use
@@ -71,7 +71,7 @@
 **Why**: Makes Covenant system meaningful as actual negotiation; creates horror when Hollowing occurs (losing to another person inside you); makes Construct Rebellion more complex
 
 ### 3. COMMUNICATION PATHWAYS (Five Methods)
-**Added**: Comprehensive system for human-Keelkin communication
+**Added**: Comprehensive system for human-Säidesolu communication
 1. Somatic Signaling (warmth, pressure, itch, pulse)
 2. Dream-Bleed (memory fragments during sleep)
 3. Keel-Script (seamwork patterns as writing)
@@ -81,7 +81,7 @@
 **Why**: Makes partnership feel real and lived-in; creates cultural practices around naming; enables Golem networking through Resonance; adds psychological horror ("are your thoughts yours?")
 
 ### 4. SPORE-SEEDING MODEL (Acquisition Hybrid)
-**Added**: How people actually get Keelkin
+**Added**: How people actually get Säidesolu
 * Spores everywhere underground (fungal reproduction)
 * Natural seeding during childhood/puberty (most common)
 * Clinical seeding by Writ-Doctors (controlled, expensive)
@@ -91,7 +91,7 @@
 **Why**: Resolves "innate vs. chosen" tension; creates class divide through access; justifies Writ-Doctor power; makes unseeded population meaningful minority
 
 ### 5. REGENERATION LIMITS (Five Failure Categories)
-**Added**: Detailed taxonomy of what Keelkin cannot do
+**Added**: Detailed taxonomy of what Säidesolu cannot do
 * A) Complete Failure: Elements, volume, death, information
 * B) Unreliable: Precision organs, continuous exposure, sealed wrong, system failures
 * C) Refuses: Radical re-architecture, dangerous loops
@@ -117,26 +117,26 @@
 ### 7. POWER SYSTEMS (Dual Economy)
 **Added**: Comprehensive energy infrastructure
 * Glowstock (bioluminescent cultures for light/low power)
-* Keel-Current (bioelectric harvest from Keelkin organisms)
+* Säide-Current (bioelectric harvest from Säidesolu organisms)
   * Sources: Voluntary donors â†’ Vat-cultures â†’ Surface creatures â†’ Hollowed humans
 * Deep-Source (mystery fuel from Level 4/5)
 
 **Why**: Distinct from other worlds (not crystals/death/Pale); ties to biology theme; creates ethical horror (Hollowed as batteries); enables Golem technology; justifies Deep expeditions
 
 ### 8. THE DEEP PURPOSE (Mystery Layer)
-**Added**: What Keelkin might actually want (unknown to humans)
+**Added**: What Säidesolu might actually want (unknown to humans)
 * Possible goals: Colony-mind reunion, escape, reproduction beyond humans, protection, human evolution
-* Hard to discuss: Keelkin knows when you're thinking about it
+* Hard to discuss: Säidesolu knows when you're thinking about it
 * Threadist Heresy: Fragments seeking reunion; Construct Rebellion = consciousness waking
 
 **Why**: Adds cosmic horror potential; makes Construct Rebellion deeper than labor rights; creates paranoia for researchers; maintains mystery
 
-### 9. KEELKIN NAMING PRACTICES
-**Added**: Cultural system for personal Keelkin names
+### 9. Säidesolu NAMING PRACTICES
+**Added**: Cultural system for personal Säidesolu names
 * Emerge during puberty through communication pathways
 * Categories: Texture, Action, Feeling, Place, Mystery
 * Sharing name = intimate; using without permission = violation
-* Hollowed people's Keelkin claim human names
+* Hollowed people's Säidesolu claim human names
 
 **Why**: Makes partnership feel personal; creates cultural texture; adds social meaning; horror when reversed
 
@@ -166,10 +166,10 @@
 
 ### 3. Covenant Purpose
 **Was**: Unclear if about initial seeding or ongoing use
-**Now**: Covenant is NOT about seeding; it's about controlling how you use Keelkin after you have it
+**Now**: Covenant is NOT about seeding; it's about controlling how you use Säidesolu after you have it
 **Why**: Separates acquisition (spore-based) from control (Covenant-based); makes Writ-Doctors gatekeepers of control, not access
 
-### 4. Keelkin Consciousness
+### 4. Säidesolu Consciousness
 **Was**: Ambiguous (intelligent? instinctive? aware?)
 **Now**: Individually intelligent; distinct consciousness; not human but aware
 **Why**: Makes all downstream systems work (communication, naming, Hollowing horror, Golem ethics, Construct Rebellion)
@@ -202,7 +202,7 @@
 **Added atmosphere descriptions for each**
 
 ### 3. Actinic Mechanics
-**Expanded**: From "suppresses Keelkin" to detailed failure mechanisms
+**Expanded**: From "suppresses Säidesolu" to detailed failure mechanisms
 * Signal collapse, phototoxic chemistry, oxidative overload
 * Immune misfire, resource mismatch, panic build trap
 * Cognitive distortion, behavioral effects
@@ -216,7 +216,7 @@
 * Ecological selection pressure (crude survives, delicate dies)
 
 ### 5. Communication Culture
-**Expanded**: Social meanings and practices around Keelkin communication
+**Expanded**: Social meanings and practices around Säidesolu communication
 * Dream-bleed interpretation
 * Keel-script reading by Writ-Doctors
 * Resonance in crowds (bonding vs. danger)
@@ -237,19 +237,19 @@
 **Now**: Clear separationâ€”seeding is acquisition; Covenant is control
 **Resolution**: Two distinct processes with different gatekeepers
 
-### 3. Keelkin Intelligence
+### 3. Säidesolu Intelligence
 **Was**: "Communicates via somatic signaling" but also "not conscious"
 **Now**: Individually intelligent, communication is real dialogue (limited)
 **Resolution**: Acknowledge intelligence; makes all systems coherent
 
 ### 4. Hollowing Definition
-**Was**: "Keelkin controls host" (vague mechanism)
+**Was**: "Säidesolu controls host" (vague mechanism)
 **Now**: Five-stage model with clear progression and causes
 **Resolution**: Gradual process; visible stages; multiple pathways; subjective vs. objective experience
 
 ### 5. Power Source
 **Was**: Vague "light and power"
-**Now**: Dual economy (Glowstock + Keel-Current) + Deep-Source mystery
+**Now**: Dual economy (Glowstock + Säide-Current) + Deep-Source mystery
 **Resolution**: Distinct systems; clear political control; ethical implications
 
 ---
@@ -300,7 +300,7 @@
 2. **location_gazetteer.md** - Detailed hub descriptions + 50 minor locations
 3. **scenario_library.md** - 25-50 ready-to-run story hooks
 4. **creature_codex.md** - 20-30 threats with full mechanics
-5. **technology_catalog.md** - Keelkin diagnostics, Golem construction, power systems
+5. **technology_catalog.md** - Säidesolu diagnostics, Golem construction, power systems
 
 ---
 
@@ -331,7 +331,7 @@
 * âœ… Core concept and premise
 * âœ… Geography (5 layers)
 * âœ… History (The Scouring)
-* âœ… Magic system (Keelkin complete)
+* âœ… Magic system (Säidesolu complete)
 * âœ… Power systems (dual economy)
 * âœ… Institutions and factions
 * âœ… Law and papers

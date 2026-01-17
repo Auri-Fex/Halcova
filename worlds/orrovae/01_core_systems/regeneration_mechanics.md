@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides complete mechanical and biological details for how Keelkin accelerates tissue repair, what it can and cannot regenerate, the costs and limitations, and the visible consequences of repeated healing. This is the core "magic system" of Orrovae made concrete and usable.
+This document provides complete mechanical and biological details for how Säidesolu accelerates tissue repair, what it can and cannot regenerate, the costs and limitations, and the visible consequences of repeated healing. This is the core "magic system" of Orrovae made concrete and usable.
 
 ---
 
@@ -10,7 +10,7 @@ This document provides complete mechanical and biological details for how Keelki
 
 ### The Three Rules
 
-1. **Keelkin is an accelerated repair partner, not a reality editor**
+1. **Säidesolu is an accelerated repair partner, not a reality editor**
    - It speeds up and guides natural healing processes
    - It cannot create matter from nothing
    - It requires viable living substrate to work from
@@ -28,7 +28,7 @@ This document provides complete mechanical and biological details for how Keelki
 
 ---
 
-## WHAT KEELKIN CAN REGENERATE
+## WHAT Säidesolu CAN REGENERATE
 
 ### Category A: Full Regeneration (High Success)
 
@@ -58,12 +58,12 @@ These tissues regenerate reliably with good fidelity if conditions are met.
 **3. Blood Vessels**
 - **Success Rate**: 95%+
 - **Time**: Hours to days
-- **Quality**: Excellent (Keelkin prioritizes this)
+- **Quality**: Excellent (Säidesolu prioritizes this)
 - **Visible Receipts**:
   - "Buttoning" (dot-trails where vessels reattach)
   - Spider-web patterns under skin
   - Warmth differences in rebuilt areas
-- **Notes**: Critical for all other healing; Keelkin excels here
+- **Notes**: Critical for all other healing; Säidesolu excels here
 
 **4. Bone (Simple Fractures)**
 - **Success Rate**: 85%+
@@ -74,7 +74,7 @@ These tissues regenerate reliably with good fidelity if conditions are met.
   - Slight shape changes
   - Increased density at break site
   - Possible joint stiffness
-- **Notes**: Keelkin accelerates but doesn't skip stages
+- **Notes**: Säidesolu accelerates but doesn't skip stages
 
 **5. Peripheral Nerves**
 - **Success Rate**: 70-80%
@@ -85,7 +85,7 @@ These tissues regenerate reliably with good fidelity if conditions are met.
   - Temperature perception changes
   - Possible chronic pain loops
   - Nerve cross-threading (signals rerouted)
-- **Notes**: Slow process; Keelkin can't rush this well
+- **Notes**: Slow process; Säidesolu can't rush this well
 
 **6. Teeth (Surprising Success)**
 - **Success Rate**: 60-70%
@@ -114,7 +114,7 @@ These tissues can regenerate but with significant quality loss or functional com
   - Chronic pain
   - Reduced range of motion
   - Heavy callus formation
-- **Notes**: Keelkin does best effort; surgical intervention helps
+- **Notes**: Säidesolu does best effort; surgical intervention helps
 
 **8. Tendons and Ligaments**
 - **Success Rate**: 60-70%
@@ -136,7 +136,7 @@ These tissues can regenerate but with significant quality loss or functional com
   - Reduced cushioning
   - Arthritis acceleration
   - Stiffness
-- **Notes**: Keelkin struggles here; builds "good enough" not "same as before"
+- **Notes**: Säidesolu struggles here; builds "good enough" not "same as before"
 
 **10. Internal Organs (Liver, Kidneys, Spleen)**
 - **Success Rate**: 50-70% (organ-dependent)
@@ -169,7 +169,7 @@ These tissues can regenerate but with significant quality loss or functional com
   - Scar tissue strictures
   - Motility changes
   - Chronic inflammation
-- **Notes**: Keelkin prioritizes seal-and-function over perfection
+- **Notes**: Säidesolu prioritizes seal-and-function over perfection
 
 ---
 
@@ -183,10 +183,10 @@ These tissues cannot regenerate reliably or at all.
 - **Quality**: N/A
 - **Why Impossible**:
   - Neural architecture too complex
-  - Keelkin cannot reconstruct exact synaptic patterns
+  - Säidesolu cannot reconstruct exact synaptic patterns
   - Information state cannot be rebuilt
   - "Hardware" can repair but "data" is lost
-- **What Keelkin CAN Do**:
+- **What Säidesolu CAN Do**:
   - Seal and stabilize
   - Prevent further damage
   - Route around damage (neuroplasticity)
@@ -206,7 +206,7 @@ These tissues cannot regenerate reliably or at all.
   - Requires exact micro-wiring
   - Light-sensitive cells fragile
   - Brain integration critical
-- **What Keelkin CAN Do**:
+- **What Säidesolu CAN Do**:
   - Rebuild eye structure (globe, lens)
   - Restore some light sensitivity
   - Cannot restore acuity or color vision reliably
@@ -239,7 +239,7 @@ These tissues cannot regenerate reliably or at all.
   - Cannot stop for repair
   - Scar tissue doesn't conduct electricity
   - Valve precision critical
-- **What Keelkin CAN Do**:
+- **What Säidesolu CAN Do**:
   - Seal holes
   - Reinforce walls
   - Crude valve repair
@@ -279,12 +279,12 @@ These tissues cannot regenerate reliably or at all.
 
 ---
 
-## ABSOLUTE LIMITS: WHAT KEELKIN CANNOT DO
+## ABSOLUTE LIMITS: WHAT Säidesolu CANNOT DO
 
 ### 1. Cannot Create Elements
 
 **The Hard Wall**:
-- Keelkin manipulates molecules, not atoms
+- Säidesolu manipulates molecules, not atoms
 - Cannot conjure: iron, calcium, iodine, sodium, potassium, zinc, magnesium, phosphorus, copper, selenium
 - Cannot create essential fatty acids
 - Cannot create water
@@ -293,7 +293,7 @@ These tissues cannot regenerate reliably or at all.
 - Repair requires inputs
 - "Repair rations" are real necessity
 - Mineral deficiency = healing failure
-- Starvation = death despite Keelkin
+- Starvation = death despite Säidesolu
 
 **Political Consequence**:
 - Those who control nutrition control healing
@@ -305,11 +305,11 @@ These tissues cannot regenerate reliably or at all.
 ### 2. Cannot Create Volume from Nothing
 
 **The Physics Problem**:
-- Severe blood loss: Keelkin can clamp/seal but not replace lost volume
+- Severe blood loss: Säidesolu can clamp/seal but not replace lost volume
 - Dehydration: Cannot create water
 - Mass loss: Cannot create tissue mass without feedstock
 
-**What Keelkin Does Instead**:
+**What Säidesolu Does Instead**:
 - Triages (keeps core alive, abandons periphery)
 - Seals (stops further loss)
 - Waits (for inputs to arrive)
@@ -324,19 +324,19 @@ These tissues cannot regenerate reliably or at all.
 ### 3. Cannot Resurrect the Dead
 
 **The Definition of Death**:
-- **Cellular death**: If cells are dead (not dying, but dead), Keelkin cannot restart them
+- **Cellular death**: If cells are dead (not dying, but dead), Säidesolu cannot restart them
 - **Brain death**: If consciousness is gone, cannot rebuild it
 - **Systemic collapse**: If circulation stopped too long, tissue death cascades
 
 **The Gray Zone** (Clinical Death vs. True Death):
-- Keelkin can extend the "saveable window" (minutes â†’ tens of minutes)
+- Säidesolu can extend the "saveable window" (minutes â†’ tens of minutes)
 - Can survive longer without oxygen than normal
 - Can restart systems if core hasn't failed completely
 - BUT: There's still a hard limit
 
 **The Timing**:
 - Normal human: 4-6 minutes without oxygen = brain damage
-- Keelkin bearer: 8-15 minutes possible (strain-dependent)
+- Säidesolu bearer: 8-15 minutes possible (strain-dependent)
 - Beyond that: Death is death
 
 ---
@@ -344,7 +344,7 @@ These tissues cannot regenerate reliably or at all.
 ### 4. Cannot Reconstruct Lost Information
 
 **The Memory Problem**:
-- Keelkin can regrow brain tissue
+- Säidesolu can regrow brain tissue
 - Cannot recreate exact neural patterns
 - Memories: Gone
 - Personality: Changed
@@ -352,7 +352,7 @@ These tissues cannot regenerate reliably or at all.
 
 **The Identity Question**:
 - If you survive massive brain damage, are you still you?
-- Keelkin keeps the body alive
+- Säidesolu keeps the body alive
 - The person may be lost anyway
 
 **Horror Implication**:
@@ -365,14 +365,14 @@ These tissues cannot regenerate reliably or at all.
 ### 5. Cannot Heal in Impossible Conditions
 
 **Environmental Requirements**:
-- **Temperature**: Too cold â†’ Keelkin goes dormant; too hot â†’ fever spiral
+- **Temperature**: Too cold â†’ Säidesolu goes dormant; too hot â†’ fever spiral
 - **Oxygen**: Need stable oxygen or repair collapses
-- **Pressure**: Extreme pressure changes disrupt Keelkin
+- **Pressure**: Extreme pressure changes disrupt Säidesolu
 - **Actinic**: Surface radiation suppresses/destabilizes all healing
 - **Toxins**: Active poisoning prevents repair
 
 **The Surface Problem**:
-- Actinic conditions attack Keelkin itself
+- Actinic conditions attack Säidesolu itself
 - Healing becomes unreliable
 - Misbuilds accumulate
 - "Surface wounds don't heal right"
@@ -381,7 +381,7 @@ These tissues cannot regenerate reliably or at all.
 
 ### 6. Cannot Prevent Aging (Mostly)
 
-**Keelkin and Longevity**:
+**Säidesolu and Longevity**:
 - Does NOT grant immortality
 - Does NOT prevent aging
 - DOES repair accumulated damage â†’ slower aging
@@ -392,7 +392,7 @@ These tissues cannot regenerate reliably or at all.
 - Telomere shortening
 - Epigenetic changes
 - Accumulated cellular errors
-- Keelkin can't fix everything
+- Säidesolu can't fix everything
 
 **The Irony**:
 - You live longer
@@ -403,7 +403,7 @@ These tissues cannot regenerate reliably or at all.
 
 ## REGENERATION OPERATING MODES
 
-Keelkin has three decision-making frameworks it uses based on threat assessment and available resources.
+Säidesolu has three decision-making frameworks it uses based on threat assessment and available resources.
 
 ---
 
@@ -416,7 +416,7 @@ Keelkin has three decision-making frameworks it uses based on threat assessment 
 - Shock state
 - Poor conditions (cold, hypoxia, dehydration)
 
-**Keelkin Priorities**:
+**Säidesolu Priorities**:
 1. Stop bleeding (clamp vessels)
 2. Maintain blood pressure (vasoconstriction)
 3. Protect brain/heart (sacrifice periphery)
@@ -449,7 +449,7 @@ Keelkin has three decision-making frameworks it uses based on threat assessment 
 - Time pressure (surface run, combat ongoing)
 - Limited resources
 
-**Keelkin Priorities**:
+**Säidesolu Priorities**:
 1. Close all open wounds
 2. Prevent contamination entry
 3. Restore basic barrier function
@@ -489,7 +489,7 @@ Keelkin has three decision-making frameworks it uses based on threat assessment 
 - Covenant permissions clear
 - Clinic oversight (ideally)
 
-**Keelkin Priorities**:
+**Säidesolu Priorities**:
 1. Clean and correct previous seals
 2. Rebuild tissue layers properly
 3. Restore function
@@ -502,7 +502,7 @@ Keelkin has three decision-making frameworks it uses based on threat assessment 
 - Host feels constant low-level ache/pressure
 - High calorie/nutrient demand
 - Sleep need increases
-- Mood changes (Keelkin focus)
+- Mood changes (Säidesolu focus)
 
 **Duration**: Days to weeks to months
 **Quality Factors**:
@@ -529,7 +529,7 @@ Keelkin has three decision-making frameworks it uses based on threat assessment 
 
 ## DECISION TREE: MODE SELECTION
 
-**Keelkin assesses every second**:
+**Säidesolu assesses every second**:
 
 ```
 Is host dying? 
@@ -543,12 +543,12 @@ Is host dying?
 
 **Covenant Override**:
 - Host can force BUILD during marginal conditions
-- Risks: poor quality, Keelkin stress, possible failure
-- Keelkin may refuse if survival threatened
+- Risks: poor quality, Säidesolu stress, possible failure
+- Säidesolu may refuse if survival threatened
 
 **Hollowing Warning**:
-- If Keelkin makes these decisions without host input
-- Or if host always defers to Keelkin judgment
+- If Säidesolu makes these decisions without host input
+- Or if host always defers to Säidesolu judgment
 - Partnership shifts â†’ Hollowing begins
 
 ---
@@ -558,7 +558,7 @@ Is host dying?
 ### Minor Injuries (Cuts, Bruises, Small Burns)
 
 **Normal Healing**: 1-2 weeks
-**With Keelkin**:
+**With Säidesolu**:
 - Stabilize: 1-5 minutes
 - Seal: 2-6 hours
 - Build (complete): 1-3 days
@@ -573,7 +573,7 @@ Is host dying?
 ### Moderate Injuries (Deep Cuts, Simple Fractures, Muscle Tears)
 
 **Normal Healing**: 4-8 weeks
-**With Keelkin**:
+**With Säidesolu**:
 - Stabilize: 5-15 minutes
 - Seal: 12-48 hours
 - Build (functional): 1-2 weeks
@@ -590,7 +590,7 @@ Is host dying?
 ### Major Injuries (Compound Fractures, Organ Damage, Severe Burns)
 
 **Normal Healing**: Months to years (if survives)
-**With Keelkin**:
+**With Säidesolu**:
 - Stabilize: 15-60 minutes
 - Seal: 2-7 days
 - Build (functional): 3-8 weeks
@@ -608,7 +608,7 @@ Is host dying?
 ### Catastrophic Injuries (Limb Loss, Near-Death)
 
 **Normal Healing**: Death or permanent disability
-**With Keelkin**:
+**With Säidesolu**:
 - Stabilize: 1-4 hours (if survives)
 - Seal: 1-2 weeks
 - Build (functional): 2-6 months
@@ -625,7 +625,7 @@ Is host dying?
 - Possible but rare
 - Requires: exceptional strain, perfect conditions, months of time, massive resources
 - Result: functional but clearly rebuilt
-- More common: prosthetic + Keelkin integration
+- More common: prosthetic + Säidesolu integration
 
 ---
 
@@ -779,7 +779,7 @@ Is host dying?
 - **Texture**: Thin, slightly oily
 - **Color**: Always black
 - **Location**: In sweat, bedding, wounds
-- **Meaning**: Keelkin shedding excess filaments
+- **Meaning**: Säidesolu shedding excess filaments
 - **Duration**: During and after active repair
 
 **6. Silverthread** (Clean Strain Shimmer)
@@ -795,7 +795,7 @@ Is host dying?
 - **Texture**: Harder, denser tissue
 - **Color**: Varies
 - **Location**: Areas of repeated injury or stress
-- **Meaning**: Keelkin has reinforced/optimized
+- **Meaning**: Säidesolu has reinforced/optimized
 - **Irreversibility**: Permanent
 
 **8. Texture Mismatch Zones**
@@ -803,7 +803,7 @@ Is host dying?
 - **Texture**: Too smooth (baby-soft) OR too rough (leather-like)
 - **Color**: May differ slightly
 - **Location**: Large wound sites
-- **Meaning**: Keelkin rebuilt but couldn't perfectly match
+- **Meaning**: Säidesolu rebuilt but couldn't perfectly match
 - **Feel**: Temperature regulation different
 
 **9. Fingerprint Alterations**
@@ -818,8 +818,8 @@ Is host dying?
 - **Appearance**: Symbolic scarring in patterns
 - **Texture**: Raised or indented
 - **Color**: Usually contrasting
-- **Location**: Torso, back, major sites (Keelkin chooses)
-- **Meaning**: Keelkin communication
+- **Location**: Torso, back, major sites (Säidesolu chooses)
+- **Meaning**: Säidesolu communication
 - **Rarity**: Only ~20% develop this
 
 ---
@@ -832,7 +832,7 @@ Is host dying?
 **Amount**: Handful to cupful depending on repair size
 **Duration**: 1-7 days
 **Appearance**: Like coarse black hair, slightly oily
-**Composition**: Excess Keelkin filaments being pruned
+**Composition**: Excess Säidesolu filaments being pruned
 **Disposal**: Burned (cultural practice), some collect for study
 **Smell**: Faintly metallic
 **Cultural**: Normal, expected, but private (like nail clippings)
@@ -859,7 +859,7 @@ Is host dying?
 **Amount**: Few to dozens depending on repair quality
 **Duration**: Permanent unless removed
 **Appearance**: Small hard bumps under skin
-**Composition**: Calcified Keelkin tissue + mineral deposits
+**Composition**: Calcified Säidesolu tissue + mineral deposits
 **Removal**: Debridement (minor surgery)
 **Pain**: Usually painless but can catch/irritate
 **Social**: Mark of hard life if many present
@@ -871,33 +871,33 @@ Is host dying?
 ### Temperature Effects
 
 **Cold (Below 15Â°C)**:
-- Keelkin slows (energy conservation)
+- Säidesolu slows (energy conservation)
 - Stabilize mode only
 - Build quality collapses
-- Risk: Keelkin dormancy â†’ death
+- Risk: Säidesolu dormancy â†’ death
 
 **Optimal (18-25Â°C)**:
 - All modes function normally
 - Best quality outcomes
 
 **Hot (Above 30Â°C)**:
-- Keelkin accelerates (metabolic stress)
+- Säidesolu accelerates (metabolic stress)
 - Fever risk increases
 - Panic build tendency
-- Risk: Keelkin fever spiral
+- Risk: Säidesolu fever spiral
 
 **Extreme Heat (Above 40Â°C)**:
-- Keelkin begins shutdown
+- Säidesolu begins shutdown
 - Erratic behavior
 - Misbuilds
-- Risk: Keelkin death
+- Risk: Säidesolu death
 
 ---
 
 ### Oxygen Effects
 
 **Hypoxic (Poor Air Quality)**:
-- Keelkin prioritizes core over periphery
+- Säidesolu prioritizes core over periphery
 - Seal mode preferred
 - Build quality reduced
 - Chronic exposure â†’ permanent optimization (barrel chest, thick blood)
@@ -917,7 +917,7 @@ Is host dying?
 **See separate document: `actinic_exposure_complete.md`**
 
 **Quick Summary**:
-- Suppresses Keelkin function
+- Suppresses Säidesolu function
 - Causes misbuilds
 - Triggers panic sealing
 - Creates photoreactive chemistry issues
@@ -928,15 +928,15 @@ Is host dying?
 ### Pressure Effects
 
 **High Pressure (Deep Works)**:
-- Keelkin adapts over time
+- Säidesolu adapts over time
 - Acute pressure changes dangerous
-- Rapid ascent â†’ "bends" worse for Keelkin-bearers
+- Rapid ascent â†’ "bends" worse for Säidesolu-bearers
 
 **Normal Pressure**:
 - Standard function
 
 **Low Pressure (Rare)**:
-- Keelkin struggles
+- Säidesolu struggles
 - Fluid balance issues
 - Healing quality degrades
 
@@ -945,7 +945,7 @@ Is host dying?
 ### Hydration Status
 
 **Dehydrated**:
-- Keelkin enters clamp mode
+- Säidesolu enters clamp mode
 - Seal only, no Build
 - "Dry healing" (brittle, prone to failure)
 - Tabs form more readily
@@ -965,7 +965,7 @@ Is host dying?
 
 **Deficient**:
 - Anemia worsens
-- Keelkin rations oxygen
+- Säidesolu rations oxygen
 - Healing crawls or stops
 - Fatigue extreme
 - Functional priority only (crude)
@@ -986,7 +986,7 @@ Is host dying?
 
 **Deficient**:
 - Cannot build tissue mass
-- Keelkin uses host muscle as feedstock (wasting)
+- Säidesolu uses host muscle as feedstock (wasting)
 - Healing craters
 - Muscle loss accelerates
 
@@ -1008,7 +1008,7 @@ Is host dying?
 - Bone healing fails
 - Nerve healing fails
 - Enzyme function collapses
-- Keelkin becomes erratic
+- Säidesolu becomes erratic
 - Fever risk
 
 **Sufficient**:
@@ -1077,7 +1077,7 @@ Is host dying?
 - Social: Some display proudly, others hide
 
 **The Hollowing Risk**:
-- More injuries â†’ More Keelkin intervention â†’ More drift â†’ Partnership tilts â†’ Hollowing approaches
+- More injuries â†’ More Säidesolu intervention â†’ More drift â†’ Partnership tilts â†’ Hollowing approaches
 
 ---
 
@@ -1085,20 +1085,20 @@ Is host dying?
 
 ### Pregnancy and Birth
 
-**Keelkin During Pregnancy**:
+**Säidesolu During Pregnancy**:
 - Protects fetus (if compatible)
 - Reduces miscarriage risk
 - Complicated delivery healing faster
 - BUT: Fetus may spontaneously seed (wild-seeding)
 
-**Birth with Keelkin**:
+**Birth with Säidesolu**:
 - Childbirth damage heals rapidly
 - Less maternal mortality
 - But: Drift from pregnancy is permanent
 - Body never quite the same
 
 **Wild-Seeded Babies**:
-- Born with Keelkin already integrated
+- Born with Säidesolu already integrated
 - Medical/political crisis (no Covenant, no consent)
 - Often develop unusual abilities
 - Social stigma varies by culture
@@ -1108,9 +1108,9 @@ Is host dying?
 
 ### Deliberate Self-Harm
 
-**Keelkin Response**:
+**Säidesolu Response**:
 - Follows Covenant (will heal if not forbidden)
-- No judgment (Keelkin has no morality)
+- No judgment (Säidesolu has no morality)
 - Repeated self-harm â†’ drift accumulation like any injury
 
 **Social Response**:
@@ -1124,7 +1124,7 @@ Is host dying?
 ### Forced Healing (Torture)
 
 **The Horror**:
-- Injure â†’ Keelkin heals â†’ Injure same spot â†’ Repeat
+- Injure â†’ Säidesolu heals â†’ Injure same spot â†’ Repeat
 - Creates massive scarring
 - Accelerates drift
 - Psychological trauma compounded by physical
@@ -1145,9 +1145,9 @@ Is host dying?
 
 ### Combat Healing (Active Fight)
 
-**Keelkin in Combat**:
+**Säidesolu in Combat**:
 - Stabilize mode automatic
-- Adrenaline + Keelkin = dangerous combination
+- Adrenaline + Säidesolu = dangerous combination
 - Pain blunted (can fight past normal limits)
 - Bleeding controlled
 - Can create false confidence â†’ death
@@ -1159,7 +1159,7 @@ Is host dying?
 - Massive repair debt afterward
 
 **Tactical Implication**:
-- Keelkin-bearers dangerous in melee (won't stop bleeding out)
+- Säidesolu-bearers dangerous in melee (won't stop bleeding out)
 - Must target brain/heart/spine for reliable kills
 - Or: Poison, drowning, actinic exposure
 
@@ -1186,7 +1186,7 @@ Is host dying?
 
 ### Rot-Seal (Sealed Infection)
 
-**Cause**: Keelkin seals over contaminated wound
+**Cause**: Säidesolu seals over contaminated wound
 **Result**:
 - Infection trapped inside
 - Abscess forms
@@ -1197,7 +1197,7 @@ Is host dying?
 - Always clean wounds thoroughly
 - Bleach baths after surface runs
 - Writ-Doctor oversight for major injuries
-- Don't let Keelkin seal dirty wounds
+- Don't let Säidesolu seal dirty wounds
 
 ---
 
@@ -1205,7 +1205,7 @@ Is host dying?
 
 **Cause**: Repeated injury + permissive Covenant + stress
 **Result**:
-- Keelkin optimizes without stopping
+- Säidesolu optimizes without stopping
 - Body transforms toward function
 - Humanity erodes
 - Approaching Hollowing
@@ -1222,7 +1222,7 @@ Is host dying?
 
 **Cause**: Too many injuries too fast, inadequate nutrition, no rest
 **Result**:
-- Keelkin falls behind
+- Säidesolu falls behind
 - Seals start failing
 - Old wounds reopen
 - Fever
@@ -1274,7 +1274,7 @@ At 75+ Drift: High Hollowing danger
 - `the_scouring_event.md` - Historical catastrophe
 - `actinic_exposure_complete.md` - Surface hazards
 - `surface_ecology.md` - Creatures and environment
-- `power_systems.md` - Glowstock and Keel-Current
+- `power_systems.md` - Glowstock and Säide-Current
 - `technology_baseline.md` - What exists
-- `golem_construction.md` - Keelframe building
+- `golem_construction.md` - Säideframe building
 

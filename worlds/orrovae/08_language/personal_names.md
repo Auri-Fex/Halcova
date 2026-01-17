@@ -145,7 +145,7 @@ Examples:
 ### Anglo-Saxon: The Blood-Naming
 - Private family ceremony
 - Name earned through controlled injury
-- Reflects Keelkin character
+- Reflects Säidesolu character
 
 ### Finno-Ugric: The Dream-Gift
 - No formal ceremony
@@ -154,7 +154,7 @@ Examples:
 
 ---
 
-## KEELKIN NAMING
+## Säidesolu NAMING
 
 ### Germanic Tradition
 German compounds: Eisenherz (Iron-heart), Steinwacht (Stone-guard), Tiefschatten (Deep-shadow)
@@ -169,10 +169,10 @@ Single words: Kivi (Stone), Valu (Pain), Harri (Stone), Odol (Blood)
 
 ## HOLLOWING NAME INVERSION
 
-**Before Hollowing**: "Grath Torven" with Keelkin "Eisenherz"
+**Before Hollowing**: "Grath Torven" with Säidesolu "Eisenherz"
 **After Hollowing**: "Eisenherz" (primary) with "of Grath" (possessive)
 
-The Keelkin name becomes the person's identity.
+The Säidesolu name becomes the person's identity.
 
 ---
 
@@ -421,7 +421,7 @@ Female: Hild, Wyn, Gyth, Run, Gif, Flaed, Aeth, Burg, Thryth, Edith
 **Light/Infrastructure**:
 - Lightkeeper, Lampwarden, Glowstock-Tender, Beacon-Master, Lantern-Bearer
 
-**Keelkin/Medical**:
+**Säidesolu/Medical**:
 - Keel-Reader, Seamwright, Writ-Doctor, Covenant-Binder, Seal-Carver, Thread-Binder
 
 **Spore/Agriculture**:
@@ -444,7 +444,7 @@ Female: Hild, Wyn, Gyth, Run, Gif, Flaed, Aeth, Burg, Thryth, Edith
 **Skills**:
 - Runner, Swift, Shadowfoot, Quiet, the Listener, the Watcher, the Climber
 
-**Keelkin Status**:
+**Säidesolu Status**:
 - Clean-Sealed, Rough-Sealed, Drift-Marked, Heavy-Seamed, Light-Keeled
 
 ---
@@ -491,7 +491,7 @@ Female: Hild, Wyn, Gyth, Run, Gif, Flaed, Aeth, Burg, Thryth, Edith
 - Any â†’ single name (Hollowing, exile, criminal status)
 
 **Hollowing Inversion**:
-- Pre-Hollowing: "Grath Torven" with Keelkin "Eisenherz"
+- Pre-Hollowing: "Grath Torven" with Säidesolu "Eisenherz"
 - Post-Hollowing: "Eisenherz" (primary identity) with "of Grath" or "who was Grath"
 
 ### Regional Variations

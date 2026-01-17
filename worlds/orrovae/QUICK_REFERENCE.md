@@ -24,7 +24,7 @@
 
 ## THE FIVE-SECOND PITCH
 
-Civilization lives in underground tunnels beneath a toxic surface. Everyone has a symbiotic partner (Keelkin) that heals themâ€”but healing changes you. Your body becomes a record of every injury. Some people hollow out entirely, their symbiote taking over. Living constructs (Golems) are starting to think for themselves. The surface wants to eat you, and you can't grow back from that.
+Civilization lives in underground tunnels beneath a toxic surface. Everyone has a symbiotic partner (Säidesolu) that heals themâ€”but healing changes you. Your body becomes a record of every injury. Some people hollow out entirely, their symbiote taking over. Living constructs (Golems) are starting to think for themselves. The surface wants to eat you, and you can't grow back from that.
 
 ---
 
@@ -38,7 +38,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 ---
 
-## KEELKIN BASICS (The "Magic")
+## Säidesolu BASICS (The "Magic")
 
 **What**: Intelligent symbiote, lives in fascia/organs, accelerates repair
 **How Acquired**: Spore seeding (natural/clinical/black market), ~75-85% have it
@@ -56,7 +56,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 ---
 
-## WHAT KEELKIN CAN'T FIX (The Stakes)
+## WHAT Säidesolu CAN'T FIX (The Stakes)
 
 1. **No atoms**: Can't create iron, minerals, electrolytes
 2. **No volume**: Can't create water/blood from nothing
@@ -83,7 +83,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 **5 Stages**: Partnership â†’ Negotiation â†’ Blurring â†’ Threshold â†’ Lost
 
-**What it is**: Keelkin becomes primary consciousness; human becomes passenger
+**What it is**: Säidesolu becomes primary consciousness; human becomes passenger
 
 **The twist**: Hollowed people feel satisfied (liberation to them, consumption to others)
 
@@ -96,16 +96,16 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 ## POWER SYSTEMS
 
 **Glowstock**: Bioluminescent cultures (light + low power)
-**Keel-Current**: Bioelectric from Keelkin organisms (high power, ethical questions)
+**Säide-Current**: Bioelectric from Säidesolu organisms (high power, ethical questions)
 **Deep-Source**: Mystery fuel from Level 4/5
 
-**Political control**: Spore Houses (glowstock), Writ-Doctors (Keel-Current), Deep Guilds (mystery)
+**Political control**: Spore Houses (glowstock), Writ-Doctors (Säide-Current), Deep Guilds (mystery)
 
 ---
 
-## KEELFRAMES (Golems)
+## SäideframeS (Golems)
 
-**What**: Rigid chassis + living scaffold + Keelkin + task-oaths
+**What**: Rigid chassis + living scaffold + Säidesolu + task-oaths
 **Intelligence**: Procedural, learns through experience, bounded autonomy
 **Arena**: Evolved from human proving yards â†’ celebrity sport (architects are stars)
 **Rebellion**: Systems failure drives constructs toward independence (Saga conflict)
@@ -114,11 +114,11 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 ## THE SURFACE
 
-**What happened**: 10,000+ years ago, sun shifted spectrum, actinic radiation made surface lethal to Keelkin
+**What happened**: 10,000+ years ago, sun shifted spectrum, actinic radiation made surface lethal to Säidesolu
 
 **Current state**: Amber-grey sky, wrong shadows, visible radiation, bone-white ruins, equipment degrades visibly
 
-**Creatures**: Evolved former humans, actinic-tolerant Keelkin, intelligent but alien
+**Creatures**: Evolved former humans, actinic-tolerant Säidesolu, intelligent but alien
 
 **Why go**: Actinic goods essential (salts, resins, membranes, ash), rare resources, ancient tech
 
@@ -158,7 +158,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 6. **Unbroken**: Design under pressure
 7. **Plain Condition**: Unseeded sovereignty
 8. **Covenant Literalist**: Promises sacred
-9. **Threadist**: Keelkin fragments reuniting
+9. **Threadist**: Säidesolu fragments reuniting
 
 **Core question**: "Who decides what your body is for?"
 
@@ -180,12 +180,12 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 **When writing scenes, verify**:
 
-âœ“ Keelkin follows Stabilize/Seal/Build (based on conditions + Covenant)
-âœ“ Actinic suppresses Keelkin (surface runs timed, equipment degrades)
+âœ“ Säidesolu follows Stabilize/Seal/Build (based on conditions + Covenant)
+âœ“ Actinic suppresses Säidesolu (surface runs timed, equipment degrades)
 âœ“ Every major action leaves receipt (stamps, marks, logs)
 âœ“ Communication uses 5 pathways (somatic, dream, script, resonance, voice)
 âœ“ Hollowing shows stages (not instant)
-âœ“ Power costs resources (glowstock/Keel-Current/Deep-Source)
+âœ“ Power costs resources (glowstock/Säide-Current/Deep-Source)
 âœ“ Regeneration has limits (5 failure categories)
 âœ“ Strain-class visible (Seal-Check makes it readable)
 âœ“ Geography matters (5 layers with different rules)
@@ -195,7 +195,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 ## COMMON PHRASES (In-World Language)
 
-**Keelkin**:
+**Säidesolu**:
 * "The light makes the knot stupid" (actinic effects)
 * "It seals dirty" (panic build)
 * "Pretty healers don't last up top" (surface selection)
@@ -217,7 +217,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 ## QUICK NPC GENERATION
 
-**Name**: [Common] + [Keelkin name if seeded]
+**Name**: [Common] + [Säidesolu name if seeded]
 **Tier**: Crownwalks / Midworks / Sumpward / Underdecks
 **Status**: Seeded (clean/workhorse/feral/specialty) or Unseeded
 **Affiliation**: One of the 8 institutions or Free Crew or Independent
@@ -249,7 +249,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 **Smell**: Spore cultivation musk, lamp oil smoke, metallic blood, actinic ozone, damp stone, antiseptic bleach
 
-**Touch**: Seamwork ridges, warm Keelkin pulse, cold metal gates, damp air, pressure changes at tiers, actinic burn
+**Touch**: Seamwork ridges, warm Säidesolu pulse, cold metal gates, damp air, pressure changes at tiers, actinic burn
 
 **Taste**: Iron pills, protein paste, culture bread, mineral water, repair tonic bitterness, air filter dust
 
@@ -261,7 +261,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 **Surface**: Actinic-tolerant, evolved humans, intelligent-alien, burst activity, reflective/armored
 
 **Threat axis**:
-* **Can Keelkin fix it?** (Yes/No/Unreliable)
+* **Can Säidesolu fix it?** (Yes/No/Unreliable)
 * **Does it hunt bearers specifically?** (Yes = worse)
 * **Intelligence level?** (Animal / Tool-using / Language)
 
@@ -282,7 +282,7 @@ Civilization lives in underground tunnels beneath a toxic surface. Everyone has 
 
 **Too light**: Add receipt consequences, visible drift, Hollowing stage, time pressure
 **Too dark**: Show partnership moments, unseeded solidarity, doctrine beauty, small victories
-**Too generic**: Add Keelkin communication moment, three-register name, specific seamwork detail
+**Too generic**: Add Säidesolu communication moment, three-register name, specific seamwork detail
 **Too futuristic**: Replace tech terms with mechanical equivalents, add steam/brass/gas details
 
 ---

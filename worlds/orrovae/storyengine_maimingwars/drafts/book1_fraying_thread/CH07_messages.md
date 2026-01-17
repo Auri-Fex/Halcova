@@ -1,4 +1,4 @@
-ï»¿# THE FRAYING THREAD
+# THE FRAYING THREAD
 ## Chapter 7: "Messages"
 
 *Function: Communication attempts--surface creatures, conspirators, allies. Multiple warnings given.*
@@ -19,13 +19,13 @@ The bodies were still there. That was the first thing she noticed, the confirmat
 
 But something had changed.
 
-Kaisa approached slowly, her SÃ¤ide quiet in the way it always went quiet on the surface but her own senses sharp with the attention that survival demanded. The arrangement was different--not dramatically different, not obviously rearranged, but shifted in ways that her pattern-recognition training made impossible to ignore. The bodies had been moved. Slightly. Deliberately. The angles of their arms had changed, the orientation of their positioning had rotated maybe fifteen degrees from where it had been before, and in the center of the clearing where previously there had been nothing but debris-covered ground, there were now objects.
+Kaisa approached slowly, her Säide quiet in the way it always went quiet on the surface but her own senses sharp with the attention that survival demanded. The arrangement was different--not dramatically different, not obviously rearranged, but shifted in ways that her pattern-recognition training made impossible to ignore. The bodies had been moved. Slightly. Deliberately. The angles of their arms had changed, the orientation of their positioning had rotated maybe fifteen degrees from where it had been before, and in the center of the clearing where previously there had been nothing but debris-covered ground, there were now objects.
 
 She stopped at the edge of the arrangement, documenting with the camera she'd brought specifically for this purpose, capturing images of what she was seeing before she got close enough to disturb anything. The objects in the center were small--she couldn't identify them from this distance, couldn't determine whether they were salvage or debris or something else entirely--but they were arranged with the same precision that characterized the bodies, positioned in patterns that suggested intention rather than accident.
 
 "Surface rules," she murmured to herself, the phrase that runners used when circumstances defied normal logic. "Something's responding to observation."
 
-Her SÃ¤ide pulsed faintly, the colony's diminished activity under actinic exposure still capable of communicating basic information. *Caution*, the pulse suggested. *Attention*. Her symbiote might be suppressed by the surface light, but it wasn't entirely silent, and what it was telling her was that the situation warranted more care than she'd been exercising.
+Her Säide pulsed faintly, the colony's diminished activity under actinic exposure still capable of communicating basic information. *Caution*, the pulse suggested. *Attention*. Her symbiote might be suppressed by the surface light, but it wasn't entirely silent, and what it was telling her was that the situation warranted more care than she'd been exercising.
 
 She moved closer, each step deliberate, each movement calculated to minimize disturbance while maximizing observation. The objects came into focus as she approached--not salvage, not debris, but things that looked almost like offerings. A piece of fabric that might have been part of a runner's suit, weathered but recognizable. A tool that she identified as a standard-issue surface compass, the kind that runners carried for navigation in conditions where normal orientation methods failed. A small collection of stones arranged in a pattern that might have been geometric or might have been coincidental, depending on how much significance you were willing to assign to rocks positioned in a clearing full of other rocks.
 
@@ -39,7 +39,7 @@ Unless everything she'd been taught was wrong. Unless the incomprehensibility wa
 
 She knelt at the edge of the arrangement, close enough now to examine the photograph without disturbing its placement. The image was a portrait--a woman's face, the features blurred by age and exposure but still recognizable as human. The woman was wearing surface gear, the style distinctive enough to place the photograph in a specific era, maybe thirty years ago based on the equipment design. The woman's face showed the weathering that surface work produced, the seamwork patterns visible on exposed skin--
 
-Kaisa's SÃ¤ide pulsed hard, the colony's warning sharp enough to cut through the suppression that the actinic light imposed.
+Kaisa's Säide pulsed hard, the colony's warning sharp enough to cut through the suppression that the actinic light imposed.
 
 She knew that face. She knew those seamwork patterns. She'd been looking at them on a portrait in her quarters for her entire adult life.
 
@@ -73,15 +73,15 @@ The return route took her along the edge of the ruinfield, the boundary zone whe
 
 She almost missed the watcher.
 
-Her SÃ¤ide pulsed--not the sharp warning of immediate threat, but the sustained warmth of attention, the colony's diminished awareness still capable of detecting presence even when it couldn't provide the detailed analysis that underground operation permitted. Kaisa stopped, letting her own senses take over where her symbiote's senses failed, scanning the terrain ahead with the patient observation that surface work had taught her.
+Her Säide pulsed--not the sharp warning of immediate threat, but the sustained warmth of attention, the colony's diminished awareness still capable of detecting presence even when it couldn't provide the detailed analysis that underground operation permitted. Kaisa stopped, letting her own senses take over where her symbiote's senses failed, scanning the terrain ahead with the patient observation that surface work had taught her.
 
 The creature was maybe fifty meters distant, positioned on a debris pile that gave it elevation and sight lines, watching her with the stillness that predators used when they didn't want to be noticed and that prey used when they didn't want to provoke. It was humanoid in the way that surface creatures were humanoid--bipedal, proportioned roughly like a person, but scaled and adapted in ways that made the resemblance unsettling rather than reassuring.
 
-The skin was translucent in patches, and those patches were the worst part--worse than the scales, worse than the adapted proportions, worse than anything that could be dismissed as alien. Through the translucent sections, Kaisa could see the seamwork. Not the subtle integration lines that marked healthy underground partnerships, but thick cables of symbiotic tissue that pulsed with visible movement, that pressed against the inside of the skin like something trying to escape, that traced patterns across the creature's torso and arms and neck in configurations that looked almost like writing. The seamwork was black against the paler tissue beneath, dark veins of colony material that had spread further than any underground SÃ¤ide would, that had integrated so completely that the boundary between host and symbiote was no longer clear.
+The skin was translucent in patches, and those patches were the worst part--worse than the scales, worse than the adapted proportions, worse than anything that could be dismissed as alien. Through the translucent sections, Kaisa could see the seamwork. Not the subtle integration lines that marked healthy underground partnerships, but thick cables of symbiotic tissue that pulsed with visible movement, that pressed against the inside of the skin like something trying to escape, that traced patterns across the creature's torso and arms and neck in configurations that looked almost like writing. The seamwork was black against the paler tissue beneath, dark veins of colony material that had spread further than any underground Säide would, that had integrated so completely that the boundary between host and symbiote was no longer clear.
 
-She could see the creature's heartbeat through one of the translucent patches--not just the pulse, but the organ itself, wrapped in colony tissue that moved in rhythm with the cardiac muscle, the SÃ¤ide having become so integrated that it was part of the circulatory system rather than merely connected to it.
+She could see the creature's heartbeat through one of the translucent patches--not just the pulse, but the organ itself, wrapped in colony tissue that moved in rhythm with the cardiac muscle, the Säide having become so integrated that it was part of the circulatory system rather than merely connected to it.
 
-Surface creatures had SÃ¤ide. That was known, documented, part of the accepted understanding of what had happened to the humans who'd been stranded above when the Scouring began. They'd adapted, had been adapted by, had merged with their symbiotes in ways that the underground population had avoided, and the result was something that looked like humanity had once looked but that had diverged far enough to seem alien even when the family resemblance was undeniable.
+Surface creatures had Säide. That was known, documented, part of the accepted understanding of what had happened to the humans who'd been stranded above when the Scouring began. They'd adapted, had been adapted by, had merged with their symbiotes in ways that the underground population had avoided, and the result was something that looked like humanity had once looked but that had diverged far enough to seem alien even when the family resemblance was undeniable.
 
 This one was watching her. Specifically, deliberately, with the focused attention that suggested assessment rather than simple awareness.
 
@@ -115,7 +115,7 @@ Then it pointed again--at her, specifically at the pack where she'd stored the p
 
 The creature watched her for another long moment, its expression unreadable but its attention undeniable. Then it turned and moved away, disappearing into the ruinfield with the efficiency of something that belonged to this environment in ways that Kaisa never would, leaving her alone with her questions and her photograph and the certain knowledge that the surface was not what she'd been taught it was.
 
-She stood there until her SÃ¤ide pulsed again, the colony's warning that she'd been stationary too long, that exposure was accumulating, that survival required movement regardless of what revelations she was processing. Then she continued toward the breach point, her body performing the familiar motions of surface navigation while her mind worked on problems that surface navigation couldn't solve.
+She stood there until her Säide pulsed again, the colony's warning that she'd been stationary too long, that exposure was accumulating, that survival required movement regardless of what revelations she was processing. Then she continued toward the breach point, her body performing the familiar motions of surface navigation while her mind worked on problems that surface navigation couldn't solve.
 
 The creatures were intelligent. The creatures were communicating. The creatures had preserved her grandmother's photograph for thirty-two years and had arranged to return it to her in a way that couldn't be dismissed as coincidence or accident.
 
@@ -133,7 +133,7 @@ The records room was one of the few spaces in the Administrative Complex that He
 
 He wasn't expecting Grigor.
 
-The clerk appeared from between the archive stacks with the silence that people developed when they wanted to approach without being heard, materializing at Helmar's elbow before Helmar registered movement in his peripheral vision. Helmar's SÃ¤ide pulsed warm--alarm, recognition, the cognitive enhancement that made surprising him more difficult than surprising most people but that apparently hadn't made it impossible.
+The clerk appeared from between the archive stacks with the silence that people developed when they wanted to approach without being heard, materializing at Helmar's elbow before Helmar registered movement in his peripheral vision. Helmar's Säide pulsed warm--alarm, recognition, the cognitive enhancement that made surprising him more difficult than surprising most people but that apparently hadn't made it impossible.
 
 "Grigor." Helmar kept his voice neutral, the professional tone that revealed nothing about the internal alarm that Grigor's presence was generating. "I didn't expect company."
 
@@ -157,7 +157,7 @@ Helmar's training told him to deflect, to deny, to maintain the professional dis
 
 "I know that twenty-seven people have died of 'natural Hollowing' in the past four months, all in the same district, all from the same professional communities, all with death certificates that were filed within hours of discovery and classified before anyone had time to examine the bodies. I know that the language in those certificates matches a template that someone created, that the template includes specific phrasing that doesn't appear in any legitimate medical documentation, that the people who died were all connected to oversight functions that someone apparently wanted to stop being overseen."
 
-Helmar felt his SÃ¤ide processing, the colony's cognitive enhancement organizing the information that Grigor was providing alongside the information he'd already gathered. The patterns matched. The timeline matched. The scope that Grigor was describing was larger than what Helmar had assembled on his own, but the shape was the same--institutional murder, documented with institutional precision, concealed by institutional procedures.
+Helmar felt his Säide processing, the colony's cognitive enhancement organizing the information that Grigor was providing alongside the information he'd already gathered. The patterns matched. The timeline matched. The scope that Grigor was describing was larger than what Helmar had assembled on his own, but the shape was the same--institutional murder, documented with institutional precision, concealed by institutional procedures.
 
 "Twenty-seven," he said quietly. "You're sure about the number?"
 
@@ -181,7 +181,7 @@ The words struck something that Helmar had been protecting for twelve years, the
 
 "But you're here." Grigor gestured at the archive around them, at the files that Helmar had been researching, at the evidence of the investigation that Helmar had been conducting despite his better judgment. "You're researching the same patterns I am. You're building documentation that you could use to expose something if you decided to expose it. You've spent twelve years choosing silence, and now you're in a position where silence means actively concealing murder rather than just passively ignoring it."
 
-The distinction mattered. Helmar felt his SÃ¤ide confirm it, the colony's cognitive enhancement highlighting the logical progression that Grigor was articulating. Not noticing was one kind of complicity. Choosing not to investigate was another. But processing fraudulent documentation, actively participating in the concealment of systematic murder--that was different. That was the choice he'd made when he accepted Varkus's promotion, and it was a choice that his conscience was no longer willing to accept.
+The distinction mattered. Helmar felt his Säide confirm it, the colony's cognitive enhancement highlighting the logical progression that Grigor was articulating. Not noticing was one kind of complicity. Choosing not to investigate was another. But processing fraudulent documentation, actively participating in the concealment of systematic murder--that was different. That was the choice he'd made when he accepted Varkus's promotion, and it was a choice that his conscience was no longer willing to accept.
 
 "What do you want me to do?" he asked.
 
@@ -224,7 +224,7 @@ Either way, he was no longer the administrator who filed correctly and didn't as
 - Surface clearing changes: shifted bodies, offerings, photograph on display surface
 - Creature description: humanoid, scaled, translucent patches, seamwork visible, "eerily human" gestures
 - Records room archive stacks, stools, ambient institutional space
-- SÃ¤ide pulsing through suppression on surface, sharp warnings and sustained attention
+- Säide pulsing through suppression on surface, sharp warnings and sustained attention
 
 **Dark Humor Beats**:
 - "Space between official policy and practical oversight was where interesting work happened"

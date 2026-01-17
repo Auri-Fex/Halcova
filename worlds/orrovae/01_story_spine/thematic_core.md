@@ -28,11 +28,11 @@ Empire in Orrovae is not a flagâ€”it's a system of extraction dressed as infrast
 
 | System | Power Granted | Cost Extracted |
 |--------|---------------|----------------|
-| **Keelkin Regeneration** | Survive any wound | Seamwork, drift, eventual Hollowing |
+| **Säidesolu Regeneration** | Survive any wound | Seamwork, drift, eventual Hollowing |
 | **Strain-Class** | Clean = social mobility | Workhorse = visible degradation, caste lock |
 | **Covenant Settings** | Control your healing | Surrender instinctive autonomy |
-| **Keelframes** | Living labor, arena champions | Bounded consciousness, starvation gates |
-| **Surface Runs** | Actinic goods, salvage | Exposure accumulates, Keelkin destabilization |
+| **Säideframes** | Living labor, arena champions | Bounded consciousness, starvation gates |
+| **Surface Runs** | Actinic goods, salvage | Exposure accumulates, Säidesolu destabilization |
 | **Seal-Check** | Identity verification, access | Legibility to power, coercion vector |
 | **Tier Access** | Safety, resources, opportunity | Permit fees, inspection, surveillance |
 
@@ -74,7 +74,7 @@ Empire in Orrovae is not a flagâ€”it's a system of extraction dressed as infrast
 
 ### Level 4 â€” Deep Works
 **Power/Cost**: Unknown deep threats. Resources extracted from darkness.
-**Rebellion/Empire**: What the Keelkin actually wantâ€”colony-mind reunion? Escape? Something older?
+**Rebellion/Empire**: What the Säidesolu actually wantâ€”colony-mind reunion? Escape? Something older?
 
 ---
 
@@ -97,7 +97,7 @@ Empire in Orrovae is not a flagâ€”it's a system of extraction dressed as infrast
 | Book | Power/Cost Expression | Rebellion/Empire Expression |
 |------|----------------------|----------------------------|
 | **1: Fraying Thread** | First weaponized Hollowingâ€”forcing permanent cost | Conspiracy requires complicit institutions |
-| **2: Hollowing Price** | Weapons industrializeâ€”cost becomes doctrine | Torven dies from tiny wound Keelkin couldn't reach |
+| **2: Hollowing Price** | Weapons industrializeâ€”cost becomes doctrine | Torven dies from tiny wound Säidesolu couldn't reach |
 | **3: Breaking Strain** | Sigurd Hollowsâ€”healer becomes the consumed | Constructs ask: "Why do I remember what I never experienced?" |
 | **4: Shattered Doctrine** | Unmaimed doctrine collapses under contradictions | Kris dies buying timeâ€”empire betrays its defenders |
 | **5: Surface Returns** | Vaska dies healing a surface creatureâ€”cost transcends sides | The creatures aren't invading. They're coming home. |
@@ -116,9 +116,9 @@ Each doctrine answers: **"Who decides what your body is for?"**
 | **Ladder** | Tier reflects endurance | Merit justifies hierarchy |
 | **Actinic** | Courage in exposure | Surface work is honorable |
 | **Unbroken** | Design under pressure | Resilience is faith |
-| **Plain Condition** | Unseeded sovereignty | Reject Keelkin empire |
+| **Plain Condition** | Unseeded sovereignty | Reject Säidesolu empire |
 | **Covenant Literalist** | Promises are sacred | Consent cannot be coerced |
-| **Threadist** | Keelkin fragments reuniting | Something larger is coming |
+| **Threadist** | Säidesolu fragments reuniting | Something larger is coming |
 
 ---
 
@@ -139,17 +139,17 @@ Bracefaith is the thematic crystallization of both axes:
 
 ---
 
-## KEELFRAME REBELLION â€” PURE THEMATIC EXPRESSION
+## Säideframe REBELLION â€” PURE THEMATIC EXPRESSION
 
 The Construct Rebellion is the inevitable conclusion of both axes meeting:
 
-**Power/Cost Applied to Keelframes**:
+**Power/Cost Applied to Säideframes**:
 - Starvation gates = control through withheld feed
 - Veto channels = autonomy bounded by deprivation
 - Repeated rebuilds = selection pressure for adaptability
 - The frame pays; the architect profits
 
-**Rebellion/Empire Applied to Keelframes**:
+**Rebellion/Empire Applied to Säideframes**:
 - Bounded autonomy discovers edge-case compliance
 - Task-oaths designed to prevent sovereigntyâ€”until they don't
 - Arena = unintentional tactical evolution simulator
@@ -166,9 +166,9 @@ The Construct Rebellion is the inevitable conclusion of both axes meeting:
 
 Five stages from Partnership to Lost. The horror is subjective:
 
-**Power/Cost**: Every use of your Keelkin erodes the boundary. Push too hard, and it pushes back. The healer becomes the consumed.
+**Power/Cost**: Every use of your Säidesolu erodes the boundary. Push too hard, and it pushes back. The healer becomes the consumed.
 
-**Rebellion/Empire**: Hollowed individuals feel *satisfied*. To them, it's liberation. To observers, it's consumption. The Keelkin isn't conqueringâ€”it's filling the space you abandoned.
+**Rebellion/Empire**: Hollowed individuals feel *satisfied*. To them, it's liberation. To observers, it's consumption. The Säidesolu isn't conqueringâ€”it's filling the space you abandoned.
 
 **Uses Legal**: Power harvest, labor, research
 **Uses Illegal**: Batteries, gladiators, organs
@@ -218,7 +218,7 @@ This thematic spine should inform:
 - All character motivations (what are they paying? who controls them?)
 - All institutional descriptions (what do they extract? what do they provide?)
 - All conflict structures (power purchase vs. rebellion against cost)
-- All magic/Keelkin usage (what is spent? what drifts?)
+- All magic/Säidesolu usage (what is spent? what drifts?)
 - All saga plotting (every book should advance both axes)
 
 **The Promise**: Orrovae stories are about bodies as ledgers, institutions as empires, and the inevitable rebellion that comes when the cost exceeds what survival requires.

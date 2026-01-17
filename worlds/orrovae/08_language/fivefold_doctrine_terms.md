@@ -3,7 +3,7 @@
 
 **Canon Status**: ACTIVE
 **Last Updated**: January 4, 2026
-**Related Files**: `personal_names.md`, `keelkin_complete_reference.md`, `the_unmaimed.md`
+**Related Files**: `personal_names.md`, `Säidesolu_complete_reference.md`, `the_unmaimed.md`
 
 ---
 

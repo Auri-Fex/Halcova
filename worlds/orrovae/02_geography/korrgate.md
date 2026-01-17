@@ -81,7 +81,7 @@
 **Characteristics**:
 - **Housing**: Estates (carved into upper cavern walls, terraced)
 - **Architecture**: Finest quality (boneglass windows, carved stone, imported materials)
-- **Light**: Bright (premium glowstock, Keel-Current street lighting)
+- **Light**: Bright (premium glowstock, Säide-Current street lighting)
 - **Air**: Best quality (rises naturally, enhanced ventilation)
 - **Space**: Generous (private gardens, courtyards, wide streets)
 
@@ -96,7 +96,7 @@
 
 **Infrastructure**:
 - Private water (filtered, premium quality)
-- Private power (dedicated Keel-Current lines)
+- Private power (dedicated Säide-Current lines)
 - Seal-Check stations (every gate)
 - Private security (hired guards)
 - Exclusive clinics (best Writ-Doctors)
@@ -377,7 +377,7 @@
 **Industries**:
 - **Metalworking**: Iron, steel, copper, brass production
 - **Tool-making**: Implements, weapons, machinery parts
-- **Keel-Current Equipment**: Harvesting apparatus, wiring
+- **Säide-Current Equipment**: Harvesting apparatus, wiring
 - **Glowstock Containers**: Vats, trays, equipment
 - **Construction Materials**: Building components
 
@@ -875,7 +875,7 @@
 **Function**: Identity verification, disease control, entry screening
 
 **Features**:
-- Keelseal reader (identity verification via Keelkin signature)
+- Säideseal reader (identity verification via Säidesolu signature)
 - Covenant registry (database of registered partnerships)
 - Quarantine cells (suspect cases isolated)
 - Guard station (security enforcement)
@@ -883,7 +883,7 @@
 
 **Process** (For Entrants):
 1. **Queue**: Wait in line (can be hours during busy times)
-2. **Seal-Check**: Place hand on reader (Keelkin signature scanned)
+2. **Seal-Check**: Place hand on reader (Säidesolu signature scanned)
 3. **Verification**: System confirms identity against registry
 4. **Covenant Review**: Officials check Covenant compliance (sometimes)
 5. **Health Screen**: Visual inspection (fever, obvious illness)
@@ -896,9 +896,9 @@
 - Decontamination required
 
 **Technology**:
-- Keelseal readers (biological signature detection)
-- Keel-Current powered (requires reliable power)
-- Database (mechanical records, some Keel-Current storage)
+- Säideseal readers (biological signature detection)
+- Säide-Current powered (requires reliable power)
+- Database (mechanical records, some Säide-Current storage)
 - Failure mode: Manual inspection (if power fails)
 
 **Social Function**:
@@ -964,7 +964,7 @@
 
 **Services**:
 - Covenant drafting (initial and amendments)
-- Keelkin assessment (partnership health)
+- Säidesolu assessment (partnership health)
 - Injury treatment (standard medicine)
 - Hollowing evaluation (early intervention)
 - Surgery (if needed)
@@ -972,10 +972,10 @@
 **Writ-Doctor Calen**:
 - Age: 48
 - Strain: Clearweave (clean strain, moderate cost)
-- Keelkin: Healer's Thread (named by Calen)
+- Säidesolu: Healer's Thread (named by Calen)
 - Experience: 20+ years practice
 - Reputation: Solid, trustworthy, not flashy
-- Philosophy: Partnership-focused (respects both host and Keelkin)
+- Philosophy: Partnership-focused (respects both host and Säidesolu)
 
 **Patients**:
 - Midworks residents (primary clientele)
@@ -1003,18 +1003,18 @@
 **Quality**: Third-tier (local arena, not prestigious)
 
 **Function**:
-- Arena fights (Keelframe vs. Keelframe)
+- Arena fights (Säideframe vs. Säideframe)
 - Some human fights (less common)
 - Training facility (aspiring fighters)
 - Gambling (legal, regulated)
 
 **Matches**:
 - Weekly schedule (3-4 fights per week)
-- Local Keelframes (no champions, practice-level)
+- Local Säideframes (no champions, practice-level)
 - Occasionally: Visiting fighters (building reputation)
 - Rarely: Major matches (if traveling champion stops through)
 
-**Keelframes**:
+**Säideframes**:
 - 8 house frames (owned by arena)
 - Variable design (speed, strength, specialized)
 - Names: Given by handlers or crowd favorites
@@ -1054,7 +1054,7 @@
 2. **Manufacturing** (25% of economy)
    - Forgeworks (metal, tools, machinery)
    - Construction materials
-   - Keel-Current equipment
+   - Säide-Current equipment
 
 3. **Agriculture** (20% of economy)
    - Glowstock cultivation
@@ -1185,10 +1185,10 @@
 - Underdeck: 25,000 (14%)
 
 **By Seeding Status**:
-- Keelkin-bearers: 155,000 (86%)
+- Säidesolu-bearers: 155,000 (86%)
 - Unseeded: 25,000 (14% - higher than most cities due to Hollow sanctuary)
 
-**By Strain-Class** (Among Keelkin-bearers):
+**By Strain-Class** (Among Säidesolu-bearers):
 - Clean strains: 20,000 (13% of bearers, mostly Crownwalk)
 - Workhorse strains: 120,000 (77% of bearers, Midworks + Sumpward)
 - Specialty/Feral/Other: 15,000 (10% of bearers)
@@ -1199,9 +1199,9 @@
 - Elderly (60+): 20,000 (11%)
 
 **Life Expectancy**:
-- Crownwalk: 75-85 years (Keelkin + wealth)
-- Midworks: 60-70 years (Keelkin + adequate care)
-- Sumpward: 50-60 years (Keelkin + poor conditions)
+- Crownwalk: 75-85 years (Säidesolu + wealth)
+- Midworks: 60-70 years (Säidesolu + adequate care)
+- Sumpward: 50-60 years (Säidesolu + poor conditions)
 - Underdeck: 40-50 years (harsh conditions, limited care)
 - Unseeded (all tiers): 10-15 years less than equivalent seeded
 
@@ -1262,7 +1262,7 @@
 **Plain Condition** (10%):
 - Dominant in Underdeck
 - Unseeded philosophy
-- Anti-Keelkin
+- Anti-Säidesolu
 
 **Others** (5%):
 - Seal-Sober, Actinic Pragmatists, Unbroken School, Threadists (small groups)
@@ -1305,7 +1305,7 @@
 **Death/Mourning**:
 - Varies by tradition (see naming document)
 - Body disposal: Cremation (most common - space constraints)
-- Keelkin: Spore release (if possible, underground cultivation)
+- Säidesolu: Spore release (if possible, underground cultivation)
 - Mourning period: 1-3 months (varies by doctrine)
 
 ---
@@ -1380,7 +1380,7 @@
 - Resist rapid change
 - Religious/cultural preservation
 - Guild system protection
-- Keelkin-bearer primacy (unseeded second-class)
+- Säidesolu-bearer primacy (unseeded second-class)
 
 **Base**: Crownwalk old families, conservative Midworks, guilds
 **Methods**: Legislation, social pressure, institutional control
@@ -1409,7 +1409,7 @@
 **Factions Within**:
 - **Separatists**: Want complete independence, willing to use violence
 - **Integrationists**: Want equality within system, peaceful methods
-- **Radicals**: Want to end Keelkin system entirely (tiny minority)
+- **Radicals**: Want to end Säidesolu system entirely (tiny minority)
 
 ---
 
@@ -1524,7 +1524,7 @@
 ### Simmering Tensions
 
 **Construct Rebellion Seeds**:
-- Arena Keelframes showing intelligence
+- Arena Säideframes showing intelligence
 - Handlers noticing unusual behavior
 - Fear growing (what if they rebel?)
 - Management denial (just machines)
@@ -1594,7 +1594,7 @@
 - Characters must: Support strike, break strike, negotiate, or protect scabs
 
 **6. Hollowed Exploitation**:
-- Illegal Keel-Current farm discovered
+- Illegal Säide-Current farm discovered
 - Hollowed people used as batteries
 - Legal gray area (are they people?)
 - Characters must: Shut down, rescue victims, prosecute, or complicate
@@ -1638,7 +1638,7 @@
 - Authorities won't investigate
 - Characters must: Explore, explain, exorcise, or exploit
 
-**12. Keelframe Awakening**:
+**12. Säideframe Awakening**:
 - Arena frame refuses to fight
 - Tries to communicate
 - Others showing signs
@@ -1735,7 +1735,7 @@
 - Conflict: Oath to help vs. corrupt system
 
 **[Arena Trainer Name]**:
-- Keelframe handler
+- Säideframe handler
 - Noticing construct awakening
 - Afraid but curious
 - Age/Strain: TBD

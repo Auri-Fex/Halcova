@@ -1,4 +1,4 @@
-ï»¿# CHAPTER EIGHT: PAWNS AND PRESSURE
+# CHAPTER EIGHT: PAWNS AND PRESSURE
 
 ---
 
@@ -46,7 +46,7 @@ The functionaries were no longer exchanging glances. They were staring at their 
 
 "That's an... uncharitable interpretation."
 
-"Is it?" Eneko picked up his own tea, which had cooled to exactly the temperature he preferred--one small advantage of not having a SÃ¤ide meant his body temperature didn't fluctuate with symbiotic activity, making beverage consumption considerably more predictable. "Consider the situation from my position, Councillor. The Unseeded have no SÃ¤ide to manipulate, no colony tissue to corrupt, no Thread connection to sever. We cannot be Hollowed. We cannot be threatened with the particular horrors being visited upon your people. And yet you come to us asking for support against the very factions investigating those horrors."
+"Is it?" Eneko picked up his own tea, which had cooled to exactly the temperature he preferred--one small advantage of not having a Säide meant his body temperature didn't fluctuate with symbiotic activity, making beverage consumption considerably more predictable. "Consider the situation from my position, Councillor. The Unseeded have no Säide to manipulate, no colony tissue to corrupt, no Thread connection to sever. We cannot be Hollowed. We cannot be threatened with the particular horrors being visited upon your people. And yet you come to us asking for support against the very factions investigating those horrors."
 
 "The reformers--"
 
@@ -90,7 +90,7 @@ The assembly hall was full tonight. Word had spread about the delegation, about 
 
 "And making ourselves targets for both sides?" Eneko shook his head. "The reformers are asking questions about Seeded deaths. Seeded politics. This isn't our conflict."
 
-"It's everyone's conflict." Juhan again, louder now. "You think they'll stop with the Seeded? You think the people doing this will look at us and say 'oh, they don't have SÃ¤ide, let's leave them alone'? We're next. We're always next."
+"It's everyone's conflict." Juhan again, louder now. "You think they'll stop with the Seeded? You think the people doing this will look at us and say 'oh, they don't have Säide, let's leave them alone'? We're next. We're always next."
 
 The murmur that went through the crowd suggested he wasn't alone in this assessment, and Eneko felt the gathering shift beneath him--the careful neutrality he'd maintained for forty years suddenly seeming less like wisdom and more like cowardice to a generation that had never experienced the alternative.
 
@@ -102,7 +102,7 @@ The murmur that went through the crowd suggested he wasn't alone in this assessm
 
 "That's what you've always done." Juhan stepped forward, and there was something in his expression that Eneko didn't recognize--a kind of certainty that went beyond youthful confidence into something harder. "You've spent your whole life convincing us to be quiet. To be useful. To not make waves. And what has it gotten us? We're still outsiders in our own Hold. Still treated like defectives because we won't let parasites colonize our bodies. Still--"
 
-"The SÃ¤ide is not a parasite." The correction was automatic, reflexive--four decades of diplomatic language designed to build bridges rather than burn them. "The Seeded are not our enemies. They're potential allies if we--"
+"The Säide is not a parasite." The correction was automatic, reflexive--four decades of diplomatic language designed to build bridges rather than burn them. "The Seeded are not our enemies. They're potential allies if we--"
 
 "They're not our allies." A new voice, from the back of the hall. A young man Eneko didn't recognize, holding something--a piece of paper, creased from being folded and unfolded multiple times. "They never will be. But someone is."
 
@@ -118,7 +118,7 @@ Eneko unfolded it with careful fingers, and found himself looking at a pamphlet.
 
 He read the opening paragraph and felt something cold settle into his chest.
 
-*"You have been told you are defective. Primitive. Incomplete. But consider: in an age where the SÃ¤ide-bonded are destroying each other through the very symbiosis they claim makes them superior, who remains untouched? Who cannot be Hollowed, cannot be corrupted, cannot have their Pattern manipulated by those who would weaponize healing itself? The Unseeded are not defective. The Unseeded are PURE. The Unseeded are what humanity was before the contamination began, and what humanity will be after the contamination ends."*
+*"You have been told you are defective. Primitive. Incomplete. But consider: in an age where the Säide-bonded are destroying each other through the very symbiosis they claim makes them superior, who remains untouched? Who cannot be Hollowed, cannot be corrupted, cannot have their Pattern manipulated by those who would weaponize healing itself? The Unseeded are not defective. The Unseeded are PURE. The Unseeded are what humanity was before the contamination began, and what humanity will be after the contamination ends."*
 
 He turned the page.
 
@@ -174,7 +174,7 @@ He was in the secondary monitoring room when the perimeter alerts triggered, whi
 
 "Contact, northeast wall. Four incoming, possibly more in reserve."
 
-"Brandel, Vikstrom's room. Eyes on client until I arrive." Torven was already moving, his body flowing through the transition from waiting to fighting with the smoothness of twenty-three years' practice--twenty-three years written in the pale lines that mapped his hands and forearms, every old wound healed by his SÃ¤ide but preserved as evidence, a ledger of violence survived that would follow him to his grave. "Count?"
+"Brandel, Vikstrom's room. Eyes on client until I arrive." Torven was already moving, his body flowing through the transition from waiting to fighting with the smoothness of twenty-three years' practice--twenty-three years written in the pale lines that mapped his hands and forearms, every old wound healed by his Säide but preserved as evidence, a ledger of violence survived that would follow him to his grave. "Count?"
 
 "Four confirmed, moving in formation. They're not amateurs."
 
@@ -204,13 +204,13 @@ Torven crossed the distance in three steps and removed the second intruder from 
 
 "What the--"
 
-"We need a healer." Kris's voice, from the doorway. "Now. Something's wrong with his SÃ¤ide."
+"We need a healer." Kris's voice, from the doorway. "Now. Something's wrong with his Säide."
 
 Vikstrom was convulsing on the bed, his body arching in ways that bodies shouldn't arch, spine bending so far backward that Torven could hear vertebrae cracking under the strain. And beneath his skin--beneath the surface where human flesh should have been stable and predictable--something was *writhing*.
 
-Colony tissue, Torven realized with a cold clarity that felt like falling. His SÃ¤ide was reacting to something, something that had been done to him in the seconds before Torven arrived. The seamwork was rising to the surface, dark lines that had been invisible moments ago now standing proud of the skin like veins in a straining muscle, pulsing with a rhythm that didn't match his heartbeat. The flesh around the integration points was rippling, actually rippling, like something was trying to push its way out from underneath, and where the colony tissue pressed hardest against the skin, the flesh had gone translucent, showing black shapes moving beneath like worms in rotten fruit.
+Colony tissue, Torven realized with a cold clarity that felt like falling. His Säide was reacting to something, something that had been done to him in the seconds before Torven arrived. The seamwork was rising to the surface, dark lines that had been invisible moments ago now standing proud of the skin like veins in a straining muscle, pulsing with a rhythm that didn't match his heartbeat. The flesh around the integration points was rippling, actually rippling, like something was trying to push its way out from underneath, and where the colony tissue pressed hardest against the skin, the flesh had gone translucent, showing black shapes moving beneath like worms in rotten fruit.
 
-Vikstrom's mouth opened and what came out wasn't quite a scream--it was higher than that, thinner, the sound of a SÃ¤ide in distress echoing through its host's vocal cords, the colony crying out through the only voice it had access to. The sound raised the hair on Torven's arms and made his own SÃ¤ide pulse in sympathetic alarm, his colony recognizing the death-cry of its distant cousin.
+Vikstrom's mouth opened and what came out wasn't quite a scream--it was higher than that, thinner, the sound of a Säide in distress echoing through its host's vocal cords, the colony crying out through the only voice it had access to. The sound raised the hair on Torven's arms and made his own Säide pulse in sympathetic alarm, his colony recognizing the death-cry of its distant cousin.
 
 "What did they use?" He grabbed the device from where it had fallen, examined it without understanding--technology wasn't his specialty, wasn't his world, he solved problems with tactics and steel and the kind of thinking that didn't require glowing implements connected to people's chests.
 
@@ -220,13 +220,13 @@ Vikstrom's mouth opened and what came out wasn't quite a scream--it was higher t
 
 "Already called. Saide-Writ emergency response, en route." Kris was at Vikstrom's side, hands pressing against his chest as if pressure alone could stabilize whatever was happening inside him. "Torven, this is... I've never seen anything like this."
 
-The convulsions were getting worse. Vikstrom's skin had taken on a grayish pallor that Torven recognized from corpses, from bodies that had lost their connection to the living, and beneath that pallor something was moving--visible ridges that traced paths across his torso and arms, his SÃ¤ide responding to whatever had been done to it with a violence that suggested agony.
+The convulsions were getting worse. Vikstrom's skin had taken on a grayish pallor that Torven recognized from corpses, from bodies that had lost their connection to the living, and beneath that pallor something was moving--visible ridges that traced paths across his torso and arms, his Säide responding to whatever had been done to it with a violence that suggested agony.
 
-"They Hollowed him." Torven heard himself say the words and didn't recognize his own voice. "That device. It did something to his SÃ¤ide."
+"They Hollowed him." Torven heard himself say the words and didn't recognize his own voice. "That device. It did something to his Säide."
 
 "He's not Hollow." Kris's hands were still on the client's chest, but her expression had shifted from concern to something colder--the clinical assessment of someone who had seen enough death to recognize its approach. "Yet. But if we don't get him to a Writ in the next... I don't know. Minutes. Less."
 
-Minutes. Torven had built a career on being the person who made minutes count, who turned impossible timeframes into survival through sheer force of competence and will. But this was beyond his expertise, beyond anyone's expertise except the people who dealt with SÃ¤ide and symbiosis and the horrors that came from weaponizing the thing that kept people alive.
+Minutes. Torven had built a career on being the person who made minutes count, who turned impossible timeframes into survival through sheer force of competence and will. But this was beyond his expertise, beyond anyone's expertise except the people who dealt with Säide and symbiosis and the horrors that came from weaponizing the thing that kept people alive.
 
 "Litter," he said, because movement was the only thing he could do. "We're carrying him to the Writ ourselves. Emergency response won't make it in time."
 
@@ -250,13 +250,13 @@ The same people, perhaps, who had written pamphlets about the "Unmaimed." The sa
 
 Neither had Torven. But he had seen enough to know what it meant: this wasn't a random attack, wasn't a robbery gone wrong, wasn't any of the things that could be explained away as ordinary violence in an ordinary world.
 
-Someone had found a way to make Hollowing happen on a schedule. To weaponize the bond between human and SÃ¤ide, turning the thing that kept people alive into the thing that destroyed them. And they had used it on a man whose only crime, as far as Torven could tell, was having dinner with the wrong company commander.
+Someone had found a way to make Hollowing happen on a schedule. To weaponize the bond between human and Säide, turning the thing that kept people alive into the thing that destroyed them. And they had used it on a man whose only crime, as far as Torven could tell, was having dinner with the wrong company commander.
 
 The Saide-Writ station appeared ahead, lit with the amber glow that signified emergency services available, and Torven felt something shift in his chest--not hope, exactly, but the determination of a man who refused to let someone die on his watch.
 
 "Incoming," Kris called ahead, and the doors were opening, and hands were reaching for the stretcher, and Torven finally let himself stop running.
 
-He stood in the street outside the station, breathing hard, watching through the windows as SÃ¤ide-Writ personnel swarmed around their client, and he thought about the device he was still holding in his hand--the device that had done something impossible, something terrible, something that suggested the deaths he'd been investigating were just the beginning.
+He stood in the street outside the station, breathing hard, watching through the windows as Säide-Writ personnel swarmed around their client, and he thought about the device he was still holding in his hand--the device that had done something impossible, something terrible, something that suggested the deaths he'd been investigating were just the beginning.
 
 "They wanted him Hollowed," Marten said, appearing beside him. "Not dead. Hollowed."
 

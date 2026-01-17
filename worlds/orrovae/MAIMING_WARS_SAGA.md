@@ -5,11 +5,11 @@
 
 ---
 
-## SYMBIOTE RENAMING: KEELKIN → SÄIDESOLU
+## SYMBIOTE RENAMING: S�idesolu → SÄIDESOLU
 
 ### Rationale
 
-"Keelkin" does not follow any of the three established naming traditions in Orrovae:
+"S�idesolu" does not follow any of the three established naming traditions in Orrovae:
 - Germanic-Industrial (Guildtongue) - 50%
 - Anglo-Saxon Revival (Oldblood) - 20%
 - Finno-Ugric Hybrid (Hollowspeech/Sovereign-tongue) - 30%
@@ -38,11 +38,11 @@ The existing strain names (Hopeasäie, Rautajuuri, Valkosolmu, Püsiv, etc.) fol
 
 | Current Term | New Term (Säidesolu) | Notes |
 |--------------|----------------------|-------|
-| Keelkin | Säidesolu (säide for short) | Base symbiote name |
+| S�idesolu | Säidesolu (säide for short) | Base symbiote name |
 | Keel-Script | Säide-Script / Säijekiri | Scar-pattern communication |
-| Keel-Current | Säide-Current / Säijevirta | Bioelectric power |
+| S�ide-Current | Säide-Current / Säijevirta | Bioelectric power |
 | Keel-Reader | Säide-Reader / Säijelukija | Medical diagnostic |
-| Keelframe | Säideframe / Säijekehys | Construct chassis |
+| S�ideframe | Säideframe / Säijekehys | Construct chassis |
 | Knot-Voice | Solmu-Voice / Solmuääni | Internal dialogue |
 | Writ-Doctor | Säide-Writ / Säijarzt (Germanic) | Could stay "Writ-Doctor" |
 
@@ -615,7 +615,7 @@ Per `default.v2.md` and `story_structure_and_rules.md`:
 
 ## NEXT STEPS
 
-1. [ ] Confirm symbiote rename across canon (Keelkin → Säidesolu)
+1. [ ] Confirm symbiote rename across canon (S�idesolu → Säidesolu)
 2. [ ] Develop detailed Book 1 outline with scene cards
 3. [ ] Create character profiles for all 5 starting POVs
 4. [ ] Build relay character profiles (at least sketch)

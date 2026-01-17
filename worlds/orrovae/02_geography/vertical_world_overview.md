@@ -101,7 +101,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 2. **Sterile ash** (agriculture, filtration, industry)
 3. **Photoreactive resins** (waterproofing, adhesives, construction)
 4. **Actinic-treated membranes** (water storage, medical supplies)
-5. **Boneglass** (optics, art, Keelkin diagnostics)
+5. **Boneglass** (optics, art, Säidesolu diagnostics)
 6. **Pre-Scouring salvage** (metal, artifacts, knowledge)
 
 **Why Underground Depends on Surface**:
@@ -382,7 +382,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 - Water systems (pumped from deep, distributed)
 - Sewage (channeled to deep disposal)
 - Power grid (where Deep-Source available)
-- Lighting (glowstock pervasive, Keel-Current for streets)
+- Lighting (glowstock pervasive, Säide-Current for streets)
 
 **Air**:
 - Actively circulated (mechanical systems)
@@ -397,7 +397,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 
 **Light**:
 - Tier-dependent brightness:
-  - **Crownwalk**: Bright (multiple glowstock vats, Keel-Current lighting)
+  - **Crownwalk**: Bright (multiple glowstock vats, Säide-Current lighting)
   - **Midworks**: Adequate (standard glowstock)
   - **Sumpward**: Dim (minimal lighting, shared sources)
 
@@ -621,7 +621,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 
 **Industrial (Illegal/Unlicensed)**:
 - Black market seamwrights (Covenant manipulation)
-- Hollowed farms (Keel-Current exploitation)
+- Hollowed farms (Säide-Current exploitation)
 - Drug manufacture (fungal stimulants, hallucinogens)
 - Counterfeit goods (forged seals, fake actinic goods)
 
@@ -718,7 +718,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 - Warmth (geothermal)
 - Hum (low-frequency vibration)
 - Magnetic anomalies
-- Keelkin agitation
+- Säidesolu agitation
 - Psychological effects (dreams, unease, compulsion)
 
 ---
@@ -772,7 +772,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 - Valuable (economic power)
 
 **Effects on Workers**:
-- Physical: Warmth, magnetic sensitivity, Keelkin agitation
+- Physical: Warmth, magnetic sensitivity, Säidesolu agitation
 - Psychological: Vivid dreams, unease, compulsion
 - Long-term: Drift acceleration, madness, physical changes
 
@@ -796,7 +796,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 **Biological**:
 - Deep fauna (unknown species, dangerous)
 - Disease (unique to depths)
-- Keelkin stress (partnership failures)
+- Säidesolu stress (partnership failures)
 
 **Psychological**:
 - Deep sickness (madness, personality changes)
@@ -834,7 +834,7 @@ Orrovae's civilization exists in five distinct vertical layers, from the lethal 
 
 **Theories**:
 - Pre-Scouring civilization remnants (survivors? ruins?)
-- Primordial Keelkin colony-mind (source of all Keelkin?)
+- Primordial Säidesolu colony-mind (source of all Säidesolu?)
 - Ancient machinery (still running after 10,000 years?)
 - Natural geology (just caves, nothing special)
 - Something alive (entity, ecosystem, intelligence?)

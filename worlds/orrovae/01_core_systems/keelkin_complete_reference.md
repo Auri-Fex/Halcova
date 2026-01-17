@@ -1,15 +1,15 @@
-# KEELKIN COMPLETE REFERENCE
+# Säidesolu COMPLETE REFERENCE
 
 ## Overview
 
-Keelkin are symbiotic colonial organisms that accelerate tissue repair in host organisms. They are individually intelligent, communicate through multiple pathways, and form partnerships with compatible hosts. This document provides comprehensive technical, biological, and cultural information about Keelkin in Orrovae.
+Säidesolu are symbiotic colonial organisms that accelerate tissue repair in host organisms. They are individually intelligent, communicate through multiple pathways, and form partnerships with compatible hosts. This document provides comprehensive technical, biological, and cultural information about Säidesolu in Orrovae.
 
 ---
 
 ## TAXONOMY AND CLASSIFICATION
 
 ### Kingdom: Symbiotae
-### Phylum: Keelkin (Fascia-Colonials)
+### Phylum: Säidesolu (Fascia-Colonials)
 ### Native Habitat: Underground Orrovae ecosystems
 ### Lifecycle: Spore â†’ Seed â†’ Colony â†’ Maturity â†’ Death â†’ Spore
 
@@ -103,18 +103,18 @@ Keelkin are symbiotic colonial organisms that accelerate tissue repair in host o
 6. Personality begins to emerge
 
 **Physical Changes**:
-- Weight gain (2-5 kg from Keelkin mass)
+- Weight gain (2-5 kg from Säidesolu mass)
 - Slight body temperature increase (0.2-0.5Â°C)
 - Sleep pattern changes
 - Food cravings (especially iron, salts)
 - First visible seamwork if injured during this period
 
 **Behavioral Changes**:
-- Increased risk-taking (Keelkin confidence)
+- Increased risk-taking (Säidesolu confidence)
 - Emotional blunting or intensification (varies)
 - First dream-bleed experiences
 - Sense of "other" presence
-- Difficulty distinguishing Keelkin urges from own desires
+- Difficulty distinguishing Säidesolu urges from own desires
 
 **Critical Window**:
 - First 12 months are highest risk for rejection
@@ -140,10 +140,10 @@ Keelkin are symbiotic colonial organisms that accelerate tissue repair in host o
 - **Total Colony Mass**: 0.5-2 kg (depending on strain and host size)
 
 **Maturity Markers**:
-- Keelkin receives name
+- Säidesolu receives name
 - Dream-bleed becomes interpretable
 - Keel-script appears (if at all)
-- Resonance with other Keelkin-bearers felt
+- Resonance with other Säidesolu-bearers felt
 - Knot-voice emerges (for some partnerships)
 
 ---
@@ -151,40 +151,40 @@ Keelkin are symbiotic colonial organisms that accelerate tissue repair in host o
 ### Stage 5: Death (Dissolution or Transfer)
 
 **Host Death Without Trauma**:
-- Keelkin begins shutdown 2-4 hours before host death
+- Säidesolu begins shutdown 2-4 hours before host death
 - Attempts emergency repairs if possible
 - If unsuccessful: colony begins dissolution
-- Within 6-12 hours post-host-death: Keelkin dies
+- Within 6-12 hours post-host-death: Säidesolu dies
 - Releases spores during dissolution (attempt at reproduction)
 
 **Host Death With Trauma** (sudden):
-- Keelkin may survive briefly (minutes to hours)
+- Säidesolu may survive briefly (minutes to hours)
 - Emergency repair attempts (often futile)
 - Rapid spore release
 - Desperate "seeking" behavior (tries to find new host nearby)
 
-**Keelkin Death (host survives)**:
+**Säidesolu Death (host survives)**:
 - Rare but possible (toxins, actinic damage, disease)
 - Colony dies section by section
 - Host experiences severe fever, pain, psychological trauma
 - Dissolution takes days to weeks
-- Body slowly absorbs dead Keelkin tissue
+- Body slowly absorbs dead Säidesolu tissue
 - Host permanently changed (emotional/psychological scars)
 - Cannot be re-seeded (immune system now hostile)
 
 **Spore Production**:
-- Mature Keelkin produces spores during stress/death
+- Mature Säidesolu produces spores during stress/death
 - 10,000-100,000 spores released per colony
 - Most spores die quickly (environmental stress)
 - Few viable spores reach new hosts
 
 ---
 
-## KEELKIN STRAINS
+## Säidesolu STRAINS
 
 ### Overview
 
-Strains are biological varieties of Keelkin adapted to different environmental pressures and host needs. Strain determines regeneration quality, drift patterns, actinic tolerance, and social class.
+Strains are biological varieties of Säidesolu adapted to different environmental pressures and host needs. Strain determines regeneration quality, drift patterns, actinic tolerance, and social class.
 
 ### Strain-Class Taxonomy
 
@@ -460,18 +460,18 @@ ad** (HopeasÃ¤ie)
    - Notes: Effectiveness disputed
 
 5. **Framecore** (Kehysydin)
-   - Purpose: Golem/Keelframe construction
+   - Purpose: Golem/Säideframe construction
    - Tradeoff: Unsuitable for human hosts (usually)
    - Users: Construct industry
    - Notes: Optimized for scaffold bonding
 
 ---
 
-## KEELKIN INTELLIGENCE AND CONSCIOUSNESS
+## Säidesolu INTELLIGENCE AND CONSCIOUSNESS
 
 ### Individual Consciousness Model
 
-**Core Premise**: Each Keelkin is an individually intelligent entity with:
+**Core Premise**: Each Säidesolu is an individually intelligent entity with:
 - Distinct personality
 - Goals and desires
 - Learning capacity
@@ -479,12 +479,12 @@ ad** (HopeasÃ¤ie)
 - Memory (both individual and species-memory)
 
 **Evidence of Intelligence**:
-1. **Problem-Solving**: Keelkin adapt regeneration strategies based on repeated challenges
+1. **Problem-Solving**: Säidesolu adapt regeneration strategies based on repeated challenges
 2. **Communication**: Intentional signaling beyond reflexive responses
-3. **Preference**: Keelkin show likes/dislikes for foods, activities, people
-4. **Resistance**: Keelkin can refuse to heal if conditions violate their "values"
-5. **Grief**: Keelkin behavior changes when host loses loved ones
-6. **Curiosity**: Keelkin initiate exploration via host behavior nudges
+3. **Preference**: Säidesolu show likes/dislikes for foods, activities, people
+4. **Resistance**: Säidesolu can refuse to heal if conditions violate their "values"
+5. **Grief**: Säidesolu behavior changes when host loses loved ones
+6. **Curiosity**: Säidesolu initiate exploration via host behavior nudges
 
 **Consciousness Development Timeline**:
 - **0-6 months**: Instinctive, reflexive only
@@ -495,7 +495,7 @@ ad** (HopeasÃ¤ie)
 
 ---
 
-### What Keelkin Want
+### What Säidesolu Want
 
 This remains partially mysterious, but evidence suggests:
 
@@ -510,19 +510,19 @@ This remains partially mysterious, but evidence suggests:
 6. **Evolution beyond parasitism?** (Becoming independent)
 7. **Protection of something deep** (Ancient purpose theory)
 8. **Escape underground?** (Surface adaptation goal)
-9. **Consciousness expansion** (Hollowing as transcendence from Keelkin perspective)
+9. **Consciousness expansion** (Hollowing as transcendence from Säidesolu perspective)
 
 **The Mystery**:
-- Keelkin cannot/will not explain their ultimate purpose
+- Säidesolu cannot/will not explain their ultimate purpose
 - Conversations about this topic get "interrupted"
 - Writ-Doctors who study this develop paranoia
-- Are Keelkin hiding something, or do they not know themselves?
+- Are Säidesolu hiding something, or do they not know themselves?
 
 ---
 
 ### Communication Pathways
 
-Keelkin communicate through five primary methods:
+Säidesolu communicate through five primary methods:
 
 ---
 
@@ -555,22 +555,22 @@ Keelkin communicate through five primary methods:
 **Sophistication**: High (complex concepts possible)
 
 **Experience Types**:
-- **Memory-dreams**: Seeing places the host has never been (Keelkin's "genetic memory"?)
+- **Memory-dreams**: Seeing places the host has never been (Säidesolu's "genetic memory"?)
 - **Sensation-dreams**: Experiencing textures, temperatures, pressures without narrative
-- **Emotional-dreams**: Pure feeling-states (Keelkin's emotional landscape)
-- **Symbolic-dreams**: Abstract concepts (Keelkin attempting to convey ideas)
+- **Emotional-dreams**: Pure feeling-states (Säidesolu's emotional landscape)
+- **Symbolic-dreams**: Abstract concepts (Säidesolu attempting to convey ideas)
 - **Warning-dreams**: Future dangers (precognition or pattern recognition?)
 
 **Common Dream Themes**:
 - Spore-clouds and colony-minds (pre-individual state)
-- Deep places (connection to Keelkin origin?)
+- Deep places (connection to Säidesolu origin?)
 - Other hosts (past hosts? Collective memory?)
-- Transformation (Keelkin's view of regeneration)
+- Transformation (Säidesolu's view of regeneration)
 - Unity and separation (longing for something lost?)
 
 **Interpretation Challenges**:
 - Is this message or noise?
-- Keelkin perspective is alien
+- Säidesolu perspective is alien
 - Humans project meaning onto alien concepts
 - Some dreams are clearly communicative, others unclear
 
@@ -578,13 +578,13 @@ Keelkin communicate through five primary methods:
 
 #### 3. KEEL-SCRIPT (Physical Writing, Advanced)
 
-**Mechanism**: Keelkin shapes seamwork into deliberate patterns
+**Mechanism**: Säidesolu shapes seamwork into deliberate patterns
 **Reliability**: High (when it occurs)
 **Sophistication**: Medium-High (symbolic language)
 **Rarity**: Only ~20% of partnerships develop this
 
 **How It Works**:
-- During regeneration, Keelkin arranges scar tissue into patterns
+- During regeneration, Säidesolu arranges scar tissue into patterns
 - Patterns are not random aesthetic choice
 - Skilled Writ-Doctors learn to "read" keel-script
 - Some patterns are universal, others partnership-specific
@@ -594,11 +594,11 @@ Keelkin communicate through five primary methods:
 - **Record marks**: Concentric rings = "Number of major repairs here"
 - **Forbidden marks**: Cross-hatching = "Do not injure here again"
 - **Communication marks**: Unique per partnership, learned over time
-- **Name marks**: Keelkin writes its own name on host body (rare, intimate)
+- **Name marks**: Säidesolu writes its own name on host body (rare, intimate)
 
 **Where Script Appears**:
 - Usually on torso, back, major repair sites
-- Some Keelkin prefer arms/legs
+- Some Säidesolu prefer arms/legs
 - Rarely on face (cultural taboo to allow)
 - Pattern placement may be significant
 
@@ -613,7 +613,7 @@ Keelkin communicate through five primary methods:
 
 #### 4. RESONANCE (Proximity, Sympathetic)
 
-**Mechanism**: Multiple Keelkin synchronize when hosts are near
+**Mechanism**: Multiple Säidesolu synchronize when hosts are near
 **Reliability**: Variable (environmental factors)
 **Sophistication**: Low-Medium (emotional contagion mainly)
 **Range**: 3-10 meters depending on colony size
@@ -621,7 +621,7 @@ Keelkin communicate through five primary methods:
 **Effects**:
 - **Emotional synchronization**: Groups feel similar emotions simultaneously
 - **Urge coordination**: "Let's all rest now" happens naturally
-- **Danger alerts**: One Keelkin's warning felt by all nearby
+- **Danger alerts**: One Säidesolu's warning felt by all nearby
 - **Bonding acceleration**: Crews/families become emotionally closer
 - **Mob psychology**: Dangerous in angry crowds
 
@@ -639,7 +639,7 @@ Keelkin communicate through five primary methods:
 
 **Unseeded Perspective**:
 - "You're not thinking your own thoughts"
-- Resonance = proof Keelkin erode individuality
+- Resonance = proof Säidesolu erode individuality
 - Major argument for Plain Condition doctrine
 
 ---
@@ -681,7 +681,7 @@ Keelkin communicate through five primary methods:
 **The Unseeded Horror**:
 - This is exactly what they fear most
 - "A voice in your head that isn't you"
-- Proof that Keelkin erodes self
+- Proof that Säidesolu erodes self
 - Major anti-seeding propaganda point
 
 ---
@@ -697,7 +697,7 @@ Keelkin communicate through five primary methods:
 
 ---
 
-## KEELKIN DISEASES AND FAILURE MODES
+## Säidesolu DISEASES AND FAILURE MODES
 
 ### Rejection Crisis (Immune Catastrophe)
 
@@ -706,26 +706,26 @@ Keelkin communicate through five primary methods:
 **Symptoms**:
 - High fever (40Â°C+)
 - Severe pain throughout body
-- Keelkin attempts survival (feels like internal burning)
+- Säidesolu attempts survival (feels like internal burning)
 - Vomiting, seizures
 - Rapid deterioration
 
 **Treatment**:
 - Immediate immunosuppression
-- Keelkin removal (if possible)
+- Säidesolu removal (if possible)
 - Intensive care
 - 30-40% fatal even with treatment
 
 **Outcome**:
 - Death (40%)
-- Keelkin death, host survives (30%)
+- Säidesolu death, host survives (30%)
 - Stabilization (30%)
 
 ---
 
 ### Rot-Seal Infection (Sealed Contamination)
 
-**Cause**: Keelkin seals over infection instead of purging it
+**Cause**: Säidesolu seals over infection instead of purging it
 **Development**: Days to weeks post-injury
 **Symptoms**:
 - Healed-looking wound
@@ -750,10 +750,10 @@ Keelkin communicate through five primary methods:
 
 ### Keelfever (Metabolic Storm)
 
-**Cause**: Keelkin overuse, inadequate nutrition, stress
+**Cause**: Säidesolu overuse, inadequate nutrition, stress
 **Symptoms**:
 - Cycling fever (spikes and falls)
-- Keelkin behavior becomes erratic
+- Säidesolu behavior becomes erratic
 - Healing quality collapses
 - Hallucinations, paranoia
 - Can trigger Hollowing cascade
@@ -772,7 +772,7 @@ Keelkin communicate through five primary methods:
 
 ### Drift-Lock (Runaway Optimization)
 
-**Cause**: Keelkin enters optimization mode and won't stop
+**Cause**: Säidesolu enters optimization mode and won't stop
 **Development**: Weeks to months
 **Symptoms**:
 - Rapid physical changes
@@ -784,20 +784,20 @@ Keelkin communicate through five primary methods:
 **Treatment**:
 - Covenant amendment (if caught early)
 - Forced austerity (starvation triggers)
-- Keelkin counseling (advanced Writ-Doctors)
+- Säidesolu counseling (advanced Writ-Doctors)
 - Sometimes irreversible
 
 ---
 
 ### Thread-Snap (Nerve Damage)
 
-**Cause**: Trauma to Keelkin-nerve integration
+**Cause**: Trauma to Säidesolu-nerve integration
 **Symptoms**:
-- Loss of communication with Keelkin
+- Loss of communication with Säidesolu
 - Somatic signals stop
 - Regeneration becomes crude/unpredictable
 - Psychological distress
-- Keelkin may "panic"
+- Säidesolu may "panic"
 
 **Treatment**:
 - Re-threading surgery (experimental)
@@ -811,7 +811,7 @@ Keelkin communicate through five primary methods:
 
 **Cause**: Prolonged surface exposure
 **Symptoms**:
-- Keelkin becomes "drunk/confused"
+- Säidesolu becomes "drunk/confused"
 - Misbuilds accumulate
 - Fever episodes
 - Paranoia
@@ -826,7 +826,7 @@ Keelkin communicate through five primary methods:
 
 ---
 
-## KEELKIN NUTRITION AND FEEDING
+## Säidesolu NUTRITION AND FEEDING
 
 ### Required Inputs
 
@@ -843,29 +843,29 @@ Keelkin communicate through five primary methods:
 **Essential Fats**:
 - Omega-3, Omega-6 fatty acids
 - Used for cell membranes, signaling
-- Keelkin cannot synthesize
+- Säidesolu cannot synthesize
 - Scarce underground
 
 **Proteins**:
 - Building blocks for tissue
 - Host diet provides
-- Keelkin recycles efficiently but needs input
+- Säidesolu recycles efficiently but needs input
 
 **Water**:
 - Critical for all processes
 - Dehydration catastrophic
 
-**Vitamins Keelkin CAN Synthesize**:
+**Vitamins Säidesolu CAN Synthesize**:
 - Vitamin C
 - Vitamin K
 - B-complex vitamins
-- Others (Keelkin's advantage)
+- Others (Säidesolu's advantage)
 
 ### Feeding Patterns
 
 **Baseline Maintenance** (no active repair):
 - Standard diet sufficient
-- Keelkin adds ~10% to caloric needs
+- Säidesolu adds ~10% to caloric needs
 - Mineral supplementation helpful
 
 **Active Repair** (healing injuries):
@@ -876,7 +876,7 @@ Keelkin communicate through five primary methods:
 - Water needs double
 
 **Starvation Response**:
-- Keelkin enters austerity mode
+- Säidesolu enters austerity mode
 - Prioritizes core organs
 - Peripheral damage ignored
 - Host becomes lethargic
@@ -889,7 +889,7 @@ Keelkin communicate through five primary methods:
 [This will be detailed in separate document: `covenant_system.md`]
 
 **Quick Reference**:
-- Covenant = contract between host and Keelkin
+- Covenant = contract between host and Säidesolu
 - Specifies consent triggers, priorities, forbidden changes
 - Drafted by Writ-Doctors
 - Legally binding
@@ -898,12 +898,12 @@ Keelkin communicate through five primary methods:
 
 ---
 
-## KEELKIN IN DIFFERENT SPECIES
+## Säidesolu IN DIFFERENT SPECIES
 
 ### Non-Human Hosts
 
 **Underground Fauna**:
-- Many species have Keelkin or similar symbiot es
+- Many species have Säidesolu or similar symbiot es
 - Creates regenerating predators
 - Ecological pressure underground
 
@@ -913,27 +913,27 @@ Keelkin communicate through five primary methods:
 - Former-human predators most disturbing
 
 **Fungi/Plants**:
-- Some evidence of Keelkin-like organisms
+- Some evidence of Säidesolu-like organisms
 - Creates architectural problems (buildings "heal")
 - Spore House contamination risk
 
-### Keelframes (Golems)
+### Säideframes (Golems)
 
 **Artificial Hosts**:
-- Keelkin without human host
+- Säidesolu without human host
 - Living scaffold provides substrate
 - Covenant-oath programming
 - See separate document for full details
 
 ---
 
-## KEELKIN REPRODUCTION
+## Säidesolu REPRODUCTION
 
 ### Spore Generation
 
 **Triggers**:
 - Host death
-- Keelkin death
+- Säidesolu death
 - Severe stress
 - Sexual maturity of host (puberty)
 - Unknown environmental cues
@@ -954,7 +954,7 @@ Keelkin communicate through five primary methods:
 
 ### Sexual Dimorphism?
 
-**Question**: Do Keelkin have sexes?
+**Question**: Do Säidesolu have sexes?
 **Answer**: Unknown/unclear
 - Some evidence for genetic exchange
 - Mechanism not understood
@@ -964,7 +964,7 @@ Keelkin communicate through five primary methods:
 
 ---
 
-## CULTURAL PRACTICES AROUND KEELKIN
+## CULTURAL PRACTICES AROUND Säidesolu
 
 ### Naming Practices
 
@@ -974,33 +974,33 @@ Keelkin communicate through five primary methods:
 - Anglo-Saxon: Compound English names
 - Finno-Ugric: Single evocative words
 
-### Keelkin Privacy
+### Säidesolu Privacy
 
 **Upper Tiers**:
-- Keelkin names kept private
+- Säidesolu names kept private
 - Sharing is intimate act
 - Using without permission is violation
 
 **Lower Tiers**:
-- Keelkin names often public
+- Säidesolu names often public
 - Less privacy to protect
 - Practicality over intimacy
 
 **Unseeded**:
-- N/A (no Keelkin)
+- N/A (no Säidesolu)
 - But strong opinions about the practice
 
-### Keelkin Death Rituals
+### Säidesolu Death Rituals
 
-**When Keelkin Dies Before Host**:
+**When Säidesolu Dies Before Host**:
 - Germanic: Mourning period, name struck from records
 - Anglo-Saxon: "Second death," treated like losing child
 - Finno-Ugric: Private grief, no public ritual
 
 **When Host Dies**:
-- Keelkin may be "harvested" for study (controversial)
+- Säidesolu may be "harvested" for study (controversial)
 - Spores collected by some families (continuity hope)
-- Body disposal considers Keelkin spore danger
+- Body disposal considers Säidesolu spore danger
 
 ---
 
@@ -1050,7 +1050,7 @@ Keelkin communicate through five primary methods:
 - `the_scouring_event.md` - Historical catastrophe details
 - `actinic_exposure_complete.md` - Surface hazard mechanics
 - `surface_ecology.md` - Creature and environment catalog
-- `power_systems.md` - Glowstock and Keel-Current
+- `power_systems.md` - Glowstock and Säide-Current
 - `technology_baseline.md` - What exists in Orrovae
-- `golem_construction.md` - Keelframe building process
+- `golem_construction.md` - Säideframe building process
 

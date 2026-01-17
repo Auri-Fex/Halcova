@@ -30,15 +30,15 @@ See [01_story_spine/thematic_core.md](01_story_spine/thematic_core.md) for compl
 - ✅ Core identity and premise
 - ✅ Five-layer vertical geography
 - ✅ The Scouring (10,000-year history with scientific basis)
-- ✅ Keelkin symbiote (complete system)
+- ✅ S�idesolu symbiote (complete system)
   - Individual intelligence
   - Five communication pathways
   - Spore-seeding acquisition
   - Regeneration limits taxonomy
   - Five-stage Hollowing progression
   - Naming practices and culture
-- ✅ Power systems (glowstock, Keel-Current, Deep-Source)
-- ✅ Keelframes/Golems (complete construction and rebellion)
+- ✅ Power systems (glowstock, S�ide-Current, Deep-Source)
+- ✅ S�ideframes/Golems (complete construction and rebellion)
 - ✅ Eight institutions with three-register names
 - ✅ Law and receipt culture
 - ✅ Nine philosophical doctrines
@@ -48,9 +48,9 @@ See [01_story_spine/thematic_core.md](01_story_spine/thematic_core.md) for compl
 
 ### Major Additions (What's New)
 
-**The Scouring**: 10,000+ years ago, sun spectral shift created actinic radiation that made surface lethal to Keelkin-bearing life. Former humans evolved actinic-tolerant strains. Comprehensive visual descriptions (amber-grey sky, wrong shadows, bone-white ruins, visible auroral radiation).
+**The Scouring**: 10,000+ years ago, sun spectral shift created actinic radiation that made surface lethal to S�idesolu-bearing life. Former humans evolved actinic-tolerant strains. Comprehensive visual descriptions (amber-grey sky, wrong shadows, bone-white ruins, visible auroral radiation).
 
-**Keelkin Intelligence**: Locked as individually conscious, not just instinctive. Each symbiote is a distinct awareness. Makes Covenant meaningful as real negotiation. Creates horror when Hollowing occurs (losing to another consciousness inside you).
+**S�idesolu Intelligence**: Locked as individually conscious, not just instinctive. Each symbiote is a distinct awareness. Makes Covenant meaningful as real negotiation. Creates horror when Hollowing occurs (losing to another consciousness inside you).
 
 **Communication System**: Five pathways (somatic, dream-bleed, Keel-script, resonance, Knot-Voice). Enables Golem networking, creates cultural practices, adds psychological horror ("are your thoughts yours?").
 
@@ -60,11 +60,11 @@ See [01_story_spine/thematic_core.md](01_story_spine/thematic_core.md) for compl
 
 **Hollowing Stages**: Clear five-stage progression from Partnership to Lost. Multiple causes. Subjective satisfaction vs. objective consumption. Uses (legal and illegal). Reversal officially impossible (rumors suggest maybe).
 
-**Power Economy**: Dual system (glowstock bioluminescence + Keel-Current bioelectric harvest) plus Deep-Source mystery. Distinct from other worlds. Ties to biology theme. Creates ethical horror (Hollowed as batteries).
+**Power Economy**: Dual system (glowstock bioluminescence + S�ide-Current bioelectric harvest) plus Deep-Source mystery. Distinct from other worlds. Ties to biology theme. Creates ethical horror (Hollowed as batteries).
 
-**Deep Purpose**: Mystery layer—what Keelkin actually want (colony-mind reunion? Escape? Evolution project?). Hard to discuss (Keelkin knows when you're thinking about it). Threadist heresy interpretation.
+**Deep Purpose**: Mystery layer—what S�idesolu actually want (colony-mind reunion? Escape? Evolution project?). Hard to discuss (S�idesolu knows when you're thinking about it). Threadist heresy interpretation.
 
-**Keelkin Naming**: Cultural practices around personal names emerging through communication pathways. Social intimacy and violation protocols.
+**S�idesolu Naming**: Cultural practices around personal names emerging through communication pathways. Social intimacy and violation protocols.
 
 **Active Conflicts**: Five major ongoing tensions that drive all stories (Surface War, Strain-Class, Hollowing Crisis, Golem Economy, Deep Expeditions).
 
@@ -180,12 +180,12 @@ Create 5-10 ready-to-run scenarios (one per conflict type, plus extras). This te
 
 Before considering any scene/story "Orrovae-authentic", verify:
 
-- ✓ Keelkin follows Stabilize/Seal/Build based on conditions + Covenant
-- ✓ Actinic suppresses Keelkin; surface runs timed; equipment degrades visibly
+- ✓ S�idesolu follows Stabilize/Seal/Build based on conditions + Covenant
+- ✓ Actinic suppresses S�idesolu; surface runs timed; equipment degrades visibly
 - ✓ Every major action leaves receipt (stamps, marks, logs, traces)
 - ✓ Communication uses 5 pathways (not telepathy, not language)
 - ✓ Hollowing shows stages (not instant possession)
-- ✓ Power costs resources (glowstock/Keel-Current/Deep-Source specifics)
+- ✓ Power costs resources (glowstock/S�ide-Current/Deep-Source specifics)
 - ✓ Regeneration has limits (5 failure categories apply)
 - ✓ Strain-class visible via Seal-Check (discrimination is systemic)
 - ✓ Geography matters (which layer? What tier?)
@@ -201,7 +201,7 @@ Before considering any scene/story "Orrovae-authentic", verify:
 
 **Too light?** → Add receipt consequences, visible drift markers, Hollowing stage indicator, time pressure
 **Too dark?** → Show partnership moments, unseeded solidarity, doctrine beauty, small victories
-**Too generic?** → Add Keelkin communication moment, three-register name, specific seamwork detail
+**Too generic?** → Add S�idesolu communication moment, three-register name, specific seamwork detail
 **Too futurist?** → Replace tech terms with mechanical equivalents, add steam/brass/gas/lamp details
 
 ---
@@ -210,7 +210,7 @@ Before considering any scene/story "Orrovae-authentic", verify:
 
 This world is ready for:
 - **Writing team**: Divide by content type (characters, locations, scenarios, etc.)
-- **Artist collaboration**: Visual development (seamwork, Keelframes, surface sky, etc.)
+- **Artist collaboration**: Visual development (seamwork, S�ideframes, surface sky, etc.)
 - **Playtesting**: If developing as game, scenarios can be tested and refined
 - **Community building**: Fan submissions for NPCs, locations, creatures
 

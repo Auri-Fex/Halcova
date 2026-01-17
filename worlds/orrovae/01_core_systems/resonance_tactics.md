@@ -3,7 +3,7 @@
 
 **Canon Status**: ACTIVE
 **Last Updated**: January 4, 2026
-**Related Files**: `keelkin_complete_reference.md`, `weaponized_hollowing.md`, `the_unmaimed.md`
+**Related Files**: `Säidesolu_complete_reference.md`, `weaponized_hollowing.md`, `the_unmaimed.md`
 
 ---
 

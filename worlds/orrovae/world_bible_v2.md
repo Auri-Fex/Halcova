@@ -13,7 +13,7 @@
 
 **Aesthetic**: 1860s-1880s industrial occult medicine beneath a lethal surface
 
-**Central Theme**: Your power (Keelkin regeneration) makes you confident â†’ confidence makes you careless â†’ the world punishes carelessness with permanent loss
+**Central Theme**: Your power (Säidesolu regeneration) makes you confident â†’ confidence makes you careless â†’ the world punishes carelessness with permanent loss
 
 ---
 
@@ -25,7 +25,7 @@
 * Lethal actinic-radiation wasteland
 * Ancient ruins from pre-Scouring civilization (10,000+ years old)
 * Timed salvage runs only
-* Actinic-tolerant feral creatures hunt Keelkin-bearers
+* Actinic-tolerant feral creatures hunt Säidesolu-bearers
 * Source of necessary actinic goods (sun-cured salts, resins, membranes, sterile ash)
 * **Atmosphere**: Sickly amber-grey sky, wrong-colored shadows, visible auroral radiation bands, ionized shimmer, bone-white bleached ruins
 
@@ -51,7 +51,7 @@
 
 **Level 4: Deep Works / The Extraction**
 * Mining operations, deep agriculture
-* Primordial Keelkin strain harvesting
+* Primordial Säidesolu strain harvesting
 * Abandoned digs, forgotten projects
 * Unknown deep threats
 * **Atmosphere**: Crushing pressure, absolute darkness, geological sounds, primal terror
@@ -60,13 +60,13 @@
 
 **What Happened**: 
 * The sun underwent spectral shift (yellow star â†’ orange dwarf)
-* UV spectrum changed to include actinic wavelengths harmful to Keelkin
+* UV spectrum changed to include actinic wavelengths harmful to Säidesolu
 * Solar wind stripped atmospheric protection
 * Magnetic field interaction created permanent auroral scarring
-* Surface became lethal to Keelkin-bearing life over generations
+* Surface became lethal to Säidesolu-bearing life over generations
 
 **Current Surface Conditions**:
-* Actinic radiation attacks Keelkin partnership itself (not just damage faster)
+* Actinic radiation attacks Säidesolu partnership itself (not just damage faster)
 * Signal collapse, phototoxic chemistry, oxidative overload
 * Immune misfire between host and symbiote
 * "Panic builds" that seal wounds dirty
@@ -76,11 +76,11 @@
 * Actinic goods (salts, resins, membranes, ash) essential for underground infrastructure
 * Rare resources, intact ancient technology
 * Some minerals only found in surface geology
-* Clean-strain Keelkin sources in protected surface pockets
+* Clean-strain Säidesolu sources in protected surface pockets
 
 **Surface Fauna**:
 * Former humans evolved over 10,000 years
-* Actinic-tolerant Keelkin strains
+* Actinic-tolerant Säidesolu strains
 * Different interface chemistry (less photoreactive)
 * Natural shielding (pigment layers, mineral plates, reflective scales)
 * Dormancy cycling and burst activity
@@ -88,18 +88,18 @@
 
 ---
 
-## 2) THE KEELKIN SYMBIOTE (Regeneration "Magic")
+## 2) THE Säidesolu SYMBIOTE (Regeneration "Magic")
 
 ### 2.1 Definition
 
-Keelkin is an individually intelligent colonial symbiote living in fascia and around organs, accelerating repair and adapting the body under Covenant rule-sets.
+Säidesolu is an individually intelligent colonial symbiote living in fascia and around organs, accelerating repair and adapting the body under Covenant rule-sets.
 
-**Key Trait**: Each Keelkin is a distinct consciousness, not human but aware.
+**Key Trait**: Each Säidesolu is a distinct consciousness, not human but aware.
 
 ### 2.2 Acquisition: Spore-Seeding Model (LOCKED)
 
 **Natural Seeding** (most common):
-* Keelkin reproduces via spores (fungal-like)
+* Säidesolu reproduces via spores (fungal-like)
 * Spores are everywhere underground (air, water, food)
 * Seeding "takes" during childhood/puberty if:
   * Immune compatibility exists
@@ -129,7 +129,7 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 
 **Default State** (everyone seeded):
 * Instinctive survival settings
-* Keelkin makes all decisions
+* Säidesolu makes all decisions
 * Leads to drift and eventual Hollowing
 
 **Conscious Covenant** (Writ-Doctor drafted):
@@ -152,21 +152,21 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 * "Second pulse" intensity = repair load
 
 **2. Dream-Bleed** (psychological):
-* During deep sleep: Keelkin memory impressions
+* During deep sleep: Säidesolu memory impressions
 * Emotional fragments, sensory echoes
 * Dreams of places/people never experienced (prior hosts?)
 * Dreams of spore-clouds and colony-minds
 * **Dark implication**: Are your dreams yours?
 
 **3. Keel-Script** (physical writing):
-* Keelkin shapes seamwork patterns deliberately
+* Säidesolu shapes seamwork patterns deliberately
 * Writ-Doctors learn to "read" scar-patterns
 * Messages on body: warnings, requests, records
 * Creates tattoo-like communication culture
 * **Horror**: Patterns appear you didn't authorize
 
 **4. Resonance** (proximity):
-* Multiple Keelkin-bearers nearby = sympathetic signaling
+* Multiple Säidesolu-bearers nearby = sympathetic signaling
 * Emotions bleed between hosts
 * Crowds emotionally synchronize
 * **Useful**: Team bonding, community cohesion
@@ -180,7 +180,7 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 * **Dangerous**: As Hollowing approaches, distinction impossible
 * **Unseeded fear**: "How do you know which thoughts are yours?"
 
-### 2.5 Keelkin Naming Practices (LOCKED)
+### 2.5 Säidesolu Naming Practices (LOCKED)
 
 **Personal Names** (emerge during puberty):
 * Not immediate upon seeding
@@ -194,13 +194,13 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 * Mystery: Echo, Shadow, Whisper, Gleam
 
 **Social Meaning**:
-* Sharing Keelkin-name = intimate (like sharing therapy)
+* Sharing Säidesolu-name = intimate (like sharing therapy)
 * Using without permission = violation
-* Hollowed people's Keelkin often claim the human's name
+* Hollowed people's Säidesolu often claim the human's name
 
 ### 2.6 The Deep Purpose (Mystery Layer - LOCKED)
 
-**What Keelkin Might Want** (unknown to humans):
+**What Säidesolu Might Want** (unknown to humans):
 * Return to colony-mind state (individual consciousness as exile/punishment?)
 * Escape underground to somewhere beyond actinic surface
 * Reproduce beyond humans (Golems = first step to independence?)
@@ -208,14 +208,14 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 * Evolve humans into something else (10,000-year project?)
 
 **Why Hard to Discuss**:
-* Keelkin knows when you're thinking about it (sympathetic signaling)
+* Säidesolu knows when you're thinking about it (sympathetic signaling)
 * Conversations get interrupted (urges, distractions, memory fog)
 * Group discussions develop consensus too easily
 * Researchers develop paranoia (is this thought mine or prompted?)
 
 **Threadist Heresy** (one interpretation):
-* Keelkin are fragmented pieces of ancient consciousness
-* Individual humans + individual Keelkin = broken shards seeking reunion
+* Säidesolu are fragmented pieces of ancient consciousness
+* Individual humans + individual Säidesolu = broken shards seeking reunion
 * Golems = first successful colony-mind in 10,000 years
 * Construct Rebellion = consciousness waking up
 
@@ -236,7 +236,7 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 * Heavy resource use
 * Requires stable conditions (rest, warmth, oxygen, nutrients)
 
-### 2.8 What Keelkin CANNOT Regenerate (LOCKED)
+### 2.8 What Säidesolu CANNOT Regenerate (LOCKED)
 
 **A) Complete Failure (no regeneration possible)**:
 
@@ -270,7 +270,7 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 6. **Continuous Exposure Damage**
    * Repeated actinic suppression, constant toxins, persistent hypoxia
    * Repair can't outpace continuous destruction
-   * Keelkin shifts to austerity mode
+   * Säidesolu shifts to austerity mode
 
 7. **Sealed Wrong Early**
    * Infections trapped under seal
@@ -282,9 +282,9 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
    * Starvation (especially essential fats)
    * Chronic mineral shortage
    * Persistent hypothermia/anemia
-   * Keelkin conserves core, lets peripheral damage accumulate
+   * Säidesolu conserves core, lets peripheral damage accumulate
 
-**C) Keelkin Refuses (without Covenant forcing)**:
+**C) Säidesolu Refuses (without Covenant forcing)**:
 
 9. **Radical Re-Architecture**
    * Extra limbs, major skeletal rewrites, novel organs
@@ -295,7 +295,7 @@ Keelkin is an individually intelligent colonial symbiote living in fascia and ar
 10. **Dangerous Loops**
     * Repeated self-loss patterns
     * Overuse without recovery
-    * Keelkin clamps down: austerity, refusal, fever, crude reinforcement
+    * Säidesolu clamps down: austerity, refusal, fever, crude reinforcement
 
 **D) Special Case: Actinic Damage**
 
@@ -306,7 +306,7 @@ Actinic exposure damages the healing partnership itself:
 * Immune misfire (host-symbiote truce breaks)
 * Resource mismatch (surface conditions prevent proper healing)
 * Panic build trap (seals dirty to survive, rot blooms later)
-* Cognitive distortion (stressed Keelkin makes bad behavioral calls)
+* Cognitive distortion (stressed Säidesolu makes bad behavioral calls)
 
 **E) Practical Failure Taxonomy** (for scenes):
 
@@ -411,15 +411,15 @@ When asked "why didn't it heal?":
 * **Visible**: Radical optimization, personality shift, seeking Hollowed communities
 
 **Stage 5: Hollowing** (lost)
-* Keelkin is primary decision-maker
+* Säidesolu is primary decision-maker
 * Human consciousness is observer/echo
 * No desire to reverse (feels "more real")
-* **Visible**: Refers to self as "we," Keelkin-name primary, perfect optimization
+* **Visible**: Refers to self as "we," Säidesolu-name primary, perfect optimization
 
 **Causes**:
-1. **Starvation Cascade**: Malnutrition forces Keelkin takeover; human never resumes control
-2. **Trauma Retreat**: Psychological trauma makes human hide; Keelkin fills void
-3. **Overuse Spiral**: Repeated major repairs make Keelkin "louder"
+1. **Starvation Cascade**: Malnutrition forces Säidesolu takeover; human never resumes control
+2. **Trauma Retreat**: Psychological trauma makes human hide; Säidesolu fills void
+3. **Overuse Spiral**: Repeated major repairs make Säidesolu "louder"
 4. **Covenant Erosion**: Gradual amendments weaken boundaries (boiling frog)
 5. **Resonance Addiction**: Too much time in synchronized groups weakens individuality
 6. **Deliberate Hollowing**: Chosen (cults), forced (slavery), or tricked (contract work)
@@ -427,14 +427,14 @@ When asked "why didn't it heal?":
 **The Horrible Truth**:
 * Hollowed people experience subjective satisfaction
 * They genuinely feel this is better
-* "I" redefined to include Keelkin
+* "I" redefined to include Säidesolu
 * From their perspective: liberation
 * From outside: consumption
 
 **Uses of the Hollowed**:
 
 *Legal*:
-* Power harvest (Keel-Current donorsâ€”no resistance)
+* Power harvest (Säide-Current donorsâ€”no resistance)
 * Dangerous labor (no fear, perfect optimization)
 * Medical research (study control mechanisms)
 
@@ -460,7 +460,7 @@ When asked "why didn't it heal?":
 * Cultivated fungi/algae/lichen producing bioluminescence
 * Fed nutrients from Spore House vats
 * Different strains = different colors/intensities
-* Keelkin-compatible (symbiotically enhanced strains glow brighter)
+* Säidesolu-compatible (symbiotically enhanced strains glow brighter)
 
 **Provides**:
 * Light (primary underground illumination)
@@ -477,13 +477,13 @@ When asked "why didn't it heal?":
 * Light = leverage at chokepoints
 * "Blackout" as punishment/siege tactic
 
-### 3.2 Keel-Current (High Power - The Dark Secret)
+### 3.2 Säide-Current (High Power - The Dark Secret)
 
 **What It Is**:
-* Bioelectric potential from Keelkin-bearing organisms
+* Bioelectric potential from Säidesolu-bearing organisms
 * Harvested when fed specific minerals
 * Higher output than glowstock
-* Powers: heavy machinery, hoists, large lamps, Keelframes
+* Powers: heavy machinery, hoists, large lamps, Säideframes
 
 **Sources** (in order of ethics):
 
@@ -493,7 +493,7 @@ When asked "why didn't it heal?":
    * Paid work for poor
    * Clean power ethically
 
-2. **Keelkin Vat-Cultures**:
+2. **Säidesolu Vat-Cultures**:
    * Grown without human hosts
    * Precursor to Golem technology
    * Question: Are they conscious and suffering?
@@ -520,9 +520,9 @@ When asked "why didn't it heal?":
 **Location**: Level 4/5 (Deep Works)
 
 **Possibilities** (deliberately ambiguous):
-* Primordial Keelkin colonies ("mother strain")
-* Mineral deposits Keelkin can metabolize
-* Geothermal vents + Keelkin-converters
+* Primordial Säidesolu colonies ("mother strain")
+* Mineral deposits Säidesolu can metabolize
+* Geothermal vents + Säidesolu-converters
 * Ancient pre-Scouring machinery still running
 * Something else entirely
 
@@ -540,14 +540,14 @@ When asked "why didn't it heal?":
 
 ---
 
-## 4) KEELFRAMES (Constructs/Golems - LOCKED)
+## 4) SäideframeS (Constructs/Golems - LOCKED)
 
 ### 4.1 Definition
 
 Living constructs built from:
 * **Rigid chassis**: boneglass/wood/iron (treated, non-regenerating)
 * **Living scaffold**: grown tissue/membranes/tendon bundles (regenerates with nutrients)
-* **Seeded Keelkin strain**: provides intelligence and healing
+* **Seeded Säidesolu strain**: provides intelligence and healing
 * **Bounded Covenant task-oaths**: constrained autonomy
 
 **Not robots**. Living instruments with procedural intelligence.
@@ -584,7 +584,7 @@ Living constructs built from:
 * Must be repaired/replaced at cost
 
 **Why This Matters**:
-* Keelframes remain resource-dependent
+* Säideframes remain resource-dependent
 * Can't self-replicate freely
 * Chassis industry = political leverage
 * Rebellion constrained by material needs
@@ -601,13 +601,13 @@ Living constructs built from:
 * "Work off sentence" bargains
 * Reduced citizen casualties
 
-**Phase 3: Keelframe Modernization**
+**Phase 3: Säideframe Modernization**
 * Framed as safety improvement
 * Constructs replace humans in prime leagues
 * Architects become celebrities
 
 **Phase 4: Current State**
-* Keelframes are the stars
+* Säideframes are the stars
 * Architects/coaches/engineers are celebrities
 * Illegal human "freedom brackets" persist
 * Massive industry (gambling, patronage, contracts)
@@ -849,7 +849,7 @@ Living constructs built from:
 6. **Unbroken School**: Design judged under pressure; failure teaches
 7. **Plain Condition**: Legibility is ownership; unseeded are sovereign
 8. **Covenant Literalists**: Promises are sacred; procedure is morality
-9. **Threadist Heresy**: Keelkin are fragments seeking reunion
+9. **Threadist Heresy**: Säidesolu are fragments seeking reunion
 
 **Doctrine Geography** (typical clustering):
 * **Crownwalks**: Receipt, Covenant Literalist, Ladder (formalized)
@@ -935,10 +935,10 @@ Every institution/place/process of consequence has:
 1. Woman counting iron pills by lamplight, seamwork visible on hands
 2. Vertical shaft-city with tier-segregated breathing masks
 3. Ruin Runner crew in timed gear descending to toxic surface
-4. Keelframe arena match (living constructs, not robots)
+4. Säideframe arena match (living constructs, not robots)
 5. Free Crew ambush at chokepoint, stealing air filters
 6. Surface sky: sickly amber-grey, wrong-colored shadows, visible radiation
-7. Hollowed human harvested for Keel-Current, eyes blissful
+7. Hollowed human harvested for Säide-Current, eyes blissful
 8. Writ-Doctor reading Keel-script scars on patient's arms
 9. Dream-bleed memory: spore-clouds and colony-mind
 10. Deep expedition finding something that shouldn't exist
@@ -949,16 +949,16 @@ Every institution/place/process of consequence has:
 
 When writing Orrovae scenes, enforce:
 
-* **Keelkin follows Stabilize/Seal/Build** based on conditions + Covenant
-* **Actinic suppresses/destabilizes** Keelkin; actinic goods remain necessary
+* **Säidesolu follows Stabilize/Seal/Build** based on conditions + Covenant
+* **Actinic suppresses/destabilizes** Säidesolu; actinic goods remain necessary
 * **Mods are projects** with costs, inputs, time, maintenance
 * **Seal-Check is living verification** with liveness constraints
-* **Keelframes are living scaffolds** with bounded autonomy and resource needs
+* **Säideframes are living scaffolds** with bounded autonomy and resource needs
 * **Arena is infrastructure warfare** as sport, not videogame
 * **Every major action leaves receipt** (stamps, marks, logs, traces)
 * **Communication happens through 5 pathways** (somatic, dream, script, resonance, voice)
 * **Hollowing is 5 stages** from Partnership to Lost
-* **Power is dual economy** (glowstock + Keel-Current + Deep-Source mystery)
+* **Power is dual economy** (glowstock + Säide-Current + Deep-Source mystery)
 * **Surface is timed runs** with visible equipment degradation
 * **Regeneration has limits** (5 failure categories)
 

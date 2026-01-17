@@ -31,30 +31,30 @@ This document incorporates all current locked canon for Orrovae, including:
 
 **‚ÄúMagic‚Äù**
 
-* ‚ÄúMagic‚Äù = **Keelkin** symbiote partner enabling accelerated regeneration via **Covenant** settings; healing is effective, body-horror, leaves receipts (seamwork, shedding, drift).
+* ‚ÄúMagic‚Äù = **S‰idesolu** symbiote partner enabling accelerated regeneration via **Covenant** settings; healing is effective, body-horror, leaves receipts (seamwork, shedding, drift).
 
 **Acquisition**
 
-* Keelkin is **not innate** at birth for most; typically acquired later through regulated or illicit **seeding** requiring consent, supplies, inspection.
+* S‰idesolu is **not innate** at birth for most; typically acquired later through regulated or illicit **seeding** requiring consent, supplies, inspection.
 * Rare congenital **wild-seeded** cases exist; medically and politically volatile.
 
 **Subsistence**
 
 * Survival is supported by industrial biosphere farming: **Spore Houses** run vats, trays, filter beds, bleach beds; bin-raised crawlstock; trough-raised shellstock/gelstock; large ‚Äúmeat‚Äù rare luxury.
-* Keelkin can synthesize some vitamins/cofactors (C/K/B complex) and improves recycling efficiency; it cannot create elements; minerals/electrolytes and essential fats remain scarce inputs.
+* S‰idesolu can synthesize some vitamins/cofactors (C/K/B complex) and improves recycling efficiency; it cannot create elements; minerals/electrolytes and essential fats remain scarce inputs.
 
 **Surface paradox**
 
-* **Actinic** surface exposure suppresses/destabilizes Keelkin regeneration.
+* **Actinic** surface exposure suppresses/destabilizes S‰idesolu regeneration.
 * **Actinic goods** (sun-cured salts/resins/membranes/sterile ash) are economically necessary underground.
 
 **Identity**
 
-* Cities use Keelkin-based **Seal-Check** (Keelseal/Knotprint) as living verification readable by Seal Houses; includes liveness constraints; dark implication: coercion/forced verification and class signaling via ‚Äúclean‚Äù vs ‚Äúrough‚Äù readings.
+* Cities use S‰idesolu-based **Seal-Check** (S‰ideseal/Knotprint) as living verification readable by Seal Houses; includes liveness constraints; dark implication: coercion/forced verification and class signaling via ‚Äúclean‚Äù vs ‚Äúrough‚Äù readings.
 
 **Modification**
 
-* Keelkin regeneration can be guided by Covenant + clinic-grade patterning:
+* S‰idesolu regeneration can be guided by Covenant + clinic-grade patterning:
   * cosmetic variance
   * adaptive functional mods (with tradeoffs)
   * rare high-risk architectural changes (extra limbs) requiring major resources/time and carrying long-term costs
@@ -64,15 +64,15 @@ This document incorporates all current locked canon for Orrovae, including:
 
 * Symbiote-bearing biota exists underground; rare actinic-tolerant feral strains make surface procurement predatory.
 * A meaningful unseeded minority exists (not inherently criminal) trading regeneration for privacy/bodily sovereignty/surface resilience.
-* Caste system primarily based on Keelkin strain-classes readable via Seal-Check (clean/workhorse/feral/specialty).
-* Keelkin-housed constructs ( **Keelframes** ) exist: living scaffold + bounded Covenant task-oaths enabling constrained autonomy; high cost/risk; heavily regulated and illicitly traded.
+* Caste system primarily based on S‰idesolu strain-classes readable via Seal-Check (clean/workhorse/feral/specialty).
+* S‰idesolu-housed constructs ( **S‰ideframes** ) exist: living scaffold + bounded Covenant task-oaths enabling constrained autonomy; high cost/risk; heavily regulated and illicitly traded.
 
 **Arena + saga lock**
 
-* A sanctioned arena institution evolved from civic proving yards into a complex, spectator ‚Äúgame‚Äù where **Keelframes** are the on-field combatants and the celebrities are the **coaches/architects/engineers** who design and train them.
+* A sanctioned arena institution evolved from civic proving yards into a complex, spectator ‚Äúgame‚Äù where **S‰ideframes** are the on-field combatants and the celebrities are the **coaches/architects/engineers** who design and train them.
 * The arena‚Äôs selection pressure and the symbiote caste economy seed a saga-scale conflict: **The Construct Rebellion** ‚Äî not primarily ‚Äúpeople were mean,‚Äù but a systemic break driven by strain exploitation, input throttling, and adaptive autonomy.
-* Humans originally participated; later replaced by Keelframes as ‚Äúmodernization.‚Äù Human participation persists in punitive/illegal ‚Äúfreedom brackets.‚Äù
-* Keelframes can regenerate their living scaffold with the right nutrients; rigid skeletal/hardware components are repaired/replaced, not regrown, at scale.
+* Humans originally participated; later replaced by S‰ideframes as ‚Äúmodernization.‚Äù Human participation persists in punitive/illegal ‚Äúfreedom brackets.‚Äù
+* S‰ideframes can regenerate their living scaffold with the right nutrients; rigid skeletal/hardware components are repaired/replaced, not regrown, at scale.
 
 ---
 
@@ -127,7 +127,7 @@ Power concentrates where:
 
 **Core hazards (operational)**
 
-* **Actinic exposure:** suppresses/destabilizes Keelkin behavior; increases misbuild and fever susceptibility; pushes Keelkin toward shutdown/triage states.
+* **Actinic exposure:** suppresses/destabilizes S‰idesolu behavior; increases misbuild and fever susceptibility; pushes S‰idesolu toward shutdown/triage states.
 * **Exposure-based contamination:** persistent hazards embed/bind; exposure accumulates. Healing closes damage but does not erase exposure.
 * **Structural collapse:** ruins fail unpredictably; settlement demands bracing on a scale rivaling underground maintenance.
 * **Water wrongness:** surface runoff is chemically aggressive; it ruins containers, tools, membranes, and culture goods.
@@ -345,7 +345,7 @@ Membranes/canisters guarded; cistern rights enforced; contamination discipline c
 
 ### 8.5 Cannibalism non-viability (biological rule)
 
-Self-consumption fails as strategy due to element scarcity, losses, overhead, contamination risk, and Keelkin austerity behavior.
+Self-consumption fails as strategy due to element scarcity, losses, overhead, contamination risk, and S‰idesolu austerity behavior.
 
 ---
 
@@ -357,7 +357,7 @@ Orrovae biota is not Earth-derived. It is categorized by civic function and haza
 
 ### 9.2 Symbiote-bearing biota (new, locked)
 
-Keelkin-like symbiotes exist beyond humans.
+S‰idesolu-like symbiotes exist beyond humans.
 
 **Underground**
 
@@ -373,11 +373,11 @@ Keelkin-like symbiotes exist beyond humans.
 
 ---
 
-## 10) The Keelkin Symbiote (Regeneration ‚ÄúMagic‚Äù)
+## 10) The S‰idesolu Symbiote (Regeneration ‚ÄúMagic‚Äù)
 
 ### 10.1 Definition
 
-Keelkin is a colonial symbiote living in fascia and around organs, accelerating repair and adapting the body under Covenant rule-sets. It communicates through somatic signaling and behavioral drives.
+S‰idesolu is a colonial symbiote living in fascia and around organs, accelerating repair and adapting the body under Covenant rule-sets. It communicates through somatic signaling and behavioral drives.
 
 ### 10.2 Acquisition model (locked)
 
@@ -402,7 +402,7 @@ Soft: quality depends on inputs; sealing can trap contamination; drift accumulat
 
 ### 10.7 Nutrition support (locked)
 
-Keelkin can synthesize C/K/B complex and improve recycling. It cannot create elements; minerals/electrolytes remain scarce; essential fats not guaranteed.
+S‰idesolu can synthesize C/K/B complex and improve recycling. It cannot create elements; minerals/electrolytes remain scarce; essential fats not guaranteed.
 
 ### 10.8 Systemic stress behavior
 
@@ -414,7 +414,7 @@ Dehydration triggers clamp/seal austerity; hypothermia pushes core-favor and def
 
 ### 11.1 Actinic suppression of regeneration (locked)
 
-Actinic exposure destabilizes/suppresses Keelkin; time-limits surface survival for bearers.
+Actinic exposure destabilizes/suppresses S‰idesolu; time-limits surface survival for bearers.
 
 ### 11.2 Actinic goods (economically necessary)
 
@@ -422,11 +422,11 @@ Sun-cured salts/resins/membranes/sterile ash underpin filters, sealing, antiseps
 
 ---
 
-## 12) Identity and Access: Keelseal / Knotprint (Locked)
+## 12) Identity and Access: S‰ideseal / Knotprint (Locked)
 
 ### 12.1 What it is
 
-A unique Keelkin signature readable by Seal House assay.
+A unique S‰idesolu signature readable by Seal House assay.
 
 ### 12.2 How it works
 
@@ -442,7 +442,7 @@ Coercion, class signaling, access control, detention by ‚Äúsuspect readings.‚Äù
 
 ### 13.1 Core rule
 
-Keelkin can be guided via Covenant + clinic patterning:
+S‰idesolu can be guided via Covenant + clinic patterning:
 
 * cosmetic variance
 * adaptive mods (tradeoffs)
@@ -458,7 +458,7 @@ Mods are projects with receipts; black architecture marks desperation/militariza
 
 ---
 
-## 14) Keelkin Strain-Classes and Caste (Updated)
+## 14) S‰idesolu Strain-Classes and Caste (Updated)
 
 ### 14.1 Caste axis (locked)
 
@@ -492,7 +492,7 @@ A meaningful population remains unseeded by choice or circumstance, and they are
 
 * reduced governability via Seal-Check (privacy)
 * no drift risk
-* fewer Keelkin-targeted fever vectors
+* fewer S‰idesolu-targeted fever vectors
 * comparatively better actinic tolerance (no symbiote destabilization cascade)
 * fewer recurring inspection/patterning costs
 
@@ -500,7 +500,7 @@ A meaningful population remains unseeded by choice or circumstance, and they are
 
 * fragility, higher mortality under lane accidents/violence
 * exclusion from certain gated services and jobs
-* reduced bargaining power in institutions built around Keelkin certification
+* reduced bargaining power in institutions built around S‰idesolu certification
 
 ### 15.4 Social truth
 
@@ -508,15 +508,15 @@ Unseeded communities become essential labor and logistics nodes in the very soci
 
 ---
 
-## 16) Keelframes (Constructs With Living Scaffold ‚Äî Updated)
+## 16) S‰ideframes (Constructs With Living Scaffold ‚Äî Updated)
 
 ### 16.1 Definition (locked)
 
-A **Keelframe** is a construct built from:
+A **S‰ideframe** is a construct built from:
 
 * rigid chassis (boneglass/wood/iron, treated)
 * living scaffold (grown tissue/membranes/tendon bundles)
-* seeded Keelkin strain
+* seeded S‰idesolu strain
 * bounded Covenant task-oaths enabling constrained autonomy
 
 It is not a robot; it is a living instrument.
@@ -531,7 +531,7 @@ Autonomy is procedural, not person-brain:
 
 ### 16.3 Regeneration (locked)
 
-Keelframes can regenerate **living scaffold** when supplied:
+S‰ideframes can regenerate **living scaffold** when supplied:
 
 * protein mass, minerals/electrolytes, essential fats (where required), water, warmth, oxygen
 
@@ -542,7 +542,7 @@ They do not freely regenerate:
 
 ### 16.4 Regulation and illicit trade (locked)
 
-Keelframes are expensive, risky, and heavily regulated; black markets steal and rebind them.
+S‰ideframes are expensive, risky, and heavily regulated; black markets steal and rebind them.
 
 ### 16.5 Failure modes
 
@@ -555,7 +555,7 @@ Keelframes are expensive, risky, and heavily regulated; black markets steal and 
 
 ## 17) Violence, Bullets, and Underground Gunfights
 
-1880s firearms produce crush tracks + foreign-body contamination. Keelkin changes survival rates but not physics. Tactics shift toward disabling and environment denial (lamp-kill, air-foul, water-cut, cold-drive). Black powder smoke is a weapon in tunnels.
+1880s firearms produce crush tracks + foreign-body contamination. S‰idesolu changes survival rates but not physics. Tactics shift toward disabling and environment denial (lamp-kill, air-foul, water-cut, cold-drive). Black powder smoke is a weapon in tunnels.
 
 ---
 
@@ -583,7 +583,7 @@ The arena began as civic training and procurement proof:
 
 1. **Human proving yards** for civic readiness
 2. **Penal participation** to reduce citizen casualties (convicts, debtors, quarantine violators; ‚Äútime off‚Äù bargains)
-3. **Keelframe modernization** framed as safety and standardization; constructs replace humans in the prime leagues
+3. **S‰ideframe modernization** framed as safety and standardization; constructs replace humans in the prime leagues
 4. **Human persistence** in illegal pits and punitive ‚Äúfreedom brackets‚Äù (people can still be forced to play or gamble their sentence)
 
 ### 19.3 The ‚Äúgame‚Äù structure (diegetic complexity)
@@ -600,7 +600,7 @@ Objectives can include:
 * culture caches (fuel supply advantage)
 * cradle assaults (disable the opponent‚Äôs rebuild capability)
 
-### 19.4 Roles (Keelframe ‚Äúheroes‚Äù)
+### 19.4 Roles (S‰ideframe ‚Äúheroes‚Äù)
 
 Frames are built with distinct kits:
 
@@ -696,11 +696,11 @@ Rebellion is fought over:
 When writing any Orrovae scene, enforce:
 
 * measurements read as **device ‚Üí physical change ‚Üí plain read ‚Üí next action**
-* Keelkin follows Stabilize/Seal/Build priorities based on conditions + Covenant
-* actinic exposure suppresses/destabilizes Keelkin; actinic goods remain necessary
+* S‰idesolu follows Stabilize/Seal/Build priorities based on conditions + Covenant
+* actinic exposure suppresses/destabilizes S‰idesolu; actinic goods remain necessary
 * mods are projects with costs, inputs, time, and maintenance
 * Seal-Check is living verification with liveness constraints
-* Keelframes are living scaffold constructs with bounded autonomy and resource-tethered regeneration
+* S‰ideframes are living scaffold constructs with bounded autonomy and resource-tethered regeneration
 * arena complexity is infrastructure warfare as sport, not a bolted-on videogame
 
 
@@ -737,7 +737,7 @@ These doctrines do not personify belief into a deity. They personify it into **p
 
 * Unreceipted risk: taking actions that create hazards without leaving traceable accountability.
 * Hidden drift: changes that increase danger to others while escaping inspection.
-* Panic Build: forcing Keelkin into closure that seals in contamination or misroutes load.
+* Panic Build: forcing S‰idesolu into closure that seals in contamination or misroutes load.
 
 **Ritual behaviors**
 
@@ -968,7 +968,7 @@ These doctrines do not personify belief into a deity. They personify it into **p
 
 **Sins**
 
-* Panic override: forcing Keelkin beyond agreed terms.
+* Panic override: forcing S‰idesolu beyond agreed terms.
 * Hidden amendments: altering settings without lawful witness.
 * Consent fraud: coercing or faking triggers.
 
