@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Covenant (also called Writ, Bond, or Pact depending on cultural tradition) is a negotiated agreement between host and Keelkin that governs regeneration behavior. It functions as medical directive, legal contract, and partnership charter simultaneously. This document provides complete details on Covenant structure, drafting, enforcement, and manipulation.
+The Covenant (also called Writ, Bond, or Pact depending on cultural tradition) is a negotiated agreement between host and Säidesolu that governs regeneration behavior. It functions as medical directive, legal contract, and partnership charter simultaneously. This document provides complete details on Covenant structure, drafting, enforcement, and manipulation.
 
 ---
 
@@ -19,15 +19,15 @@ The Covenant (also called Writ, Bond, or Pact depending on cultural tradition) i
 **IS**:
 - A practical set of instructions and boundaries
 - A legally recognized contract
-- A communication tool between host and Keelkin
+- A communication tool between host and Säidesolu
 - Essential for partnership stability
 - Continuously active (governs every regeneration event)
 
 ### Why Covenants Exist
 
 **The Problem**: 
-- Keelkin has its own intelligence and goals
-- Without guidance, Keelkin optimizes for survival (its priorities, not host's)
+- Säidesolu has its own intelligence and goals
+- Without guidance, Säidesolu optimizes for survival (its priorities, not host's)
 - This leads to unwanted drift, forbidden changes, Hollowing
 
 **The Solution**:
